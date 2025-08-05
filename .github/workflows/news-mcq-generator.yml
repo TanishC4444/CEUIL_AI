@@ -35,7 +35,13 @@ jobs:
     - name: Install Python dependencies
       run: |
         pip3 install --upgrade pip
-        pip3 install feedparser newspaper3k llama-cpp-python
+        pip3 install feedparser
+        pip3 install newspaper3k
+        pip3 install "lxml[html_clean]"
+        pip3 install lxml_html_clean
+        # Install compatible versions if needed
+        pip3 install "lxml>=4.6.0,<5.0.0" --force-reinstall
+        pip3 install llama-cpp-python
         pip3 install huggingface-hub
 
     - name: Create directories
