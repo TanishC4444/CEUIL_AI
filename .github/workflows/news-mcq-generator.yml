@@ -45,7 +45,7 @@ jobs:
 
     - name: Check for cached model
       id: cache-model
-      uses: actions/cache@v3
+      uses: actions/cache@v4
       with:
         path: models/mistral-7b-instruct-v0.1.Q4_K_M.gguf
         key: mistral-model-${{ hashFiles('**/requirements.txt') }}
@@ -102,7 +102,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Upload artifacts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       if: always()
       with:
         name: generated-files-${{ github.run_number }}
