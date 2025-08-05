@@ -48,7 +48,7 @@ jobs:
       uses: actions/cache@v4
       with:
         path: models/mistral-7b-instruct-v0.1.Q4_K_M.gguf
-        key: mistral-model-${{ hashFiles('**/requirements.txt') }}
+        key: mistral-model-v1
         restore-keys: |
           mistral-model-
 
