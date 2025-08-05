@@ -48,7 +48,7 @@ jobs:
       uses: actions/cache@v4
       with:
         path: models/mistral-7b-instruct-v0.1.Q4_K_M.gguf
-        key: mistral-model-${{ hashFiles('**/requirements.txt') }}
+        key: mistral-model-v1
         restore-keys: |
           mistral-model-
 
@@ -68,9 +68,16 @@ jobs:
           exit 1
         fi
 
+    - name: List repository contents
+      run: |
+        echo "Repository root contents:"
+        ls -la
+        echo "Looking for Python files:"
+        find . -name "*.py" -type f
+
     - name: Run news scraper and MCQ generator
       run: |
-        python3 CEUIL_AI.py
+        python3 test.py
       timeout-minutes: 20
       env:
         MODEL_PATH: ./models/mistral-7b-instruct-v0.1.Q4_K_M.gguf
