@@ -1,18 +1,18 @@
-name: News MCQ Generator
+name: MCQ Generator
 
 on:
   schedule:
-    # Run every 30 minutes
-    - cron: '*/30 * * * *'
+    # Run every 2 hours to process accumulated articles
+    - cron: '0 */2 * * *'
   workflow_dispatch: # Allow manual triggering
   push:
     branches: [ main ]
-    paths: [ 'CEUIL_AI.py' ] # Only run when the main script changes
+    paths: [ 'mcq_generator.py' ] # Only run when the MCQ script changes
 
 jobs:
   generate-mcqs:
     runs-on: ubuntu-latest
-    timeout-minutes: 25 # Set timeout slightly less than 30 min interval
+    timeout-minutes: 115 # Allow more time for AI processing (just under 2 hours)
     
     steps:
     - name: Checkout repository
@@ -35,18 +35,11 @@ jobs:
     - name: Install Python dependencies
       run: |
         pip3 install --upgrade pip
-        pip3 install feedparser
-        pip3 install newspaper3k
-        pip3 install "lxml[html_clean]"
-        pip3 install lxml_html_clean
-        # Install compatible versions if needed
-        pip3 install "lxml>=4.6.0,<5.0.0" --force-reinstall
         pip3 install llama-cpp-python
         pip3 install huggingface-hub
 
     - name: Create directories
       run: |
-        mkdir -p articles
         mkdir -p models
 
     - name: Check for cached model
@@ -74,30 +67,35 @@ jobs:
           exit 1
         fi
 
-    - name: List repository contents
+    - name: Check for articles to process
       run: |
-        echo "Repository root contents:"
-        ls -la
-        echo "Looking for Python files:"
-        find . -name "*.py" -type f
+        if [ ! -f "articles/news_articles.txt" ]; then
+          echo "No articles file found. Nothing to process."
+          exit 0
+        fi
+        echo "Articles file found. Checking content..."
+        wc -l articles/news_articles.txt || echo "File is empty"
 
-    - name: Run news scraper and MCQ generator
+    - name: Run MCQ generator
       run: |
-        python3 test.py
-      timeout-minutes: 20
+        python3 mcq_generator.py
+      timeout-minutes: 100
       env:
         MODEL_PATH: ./models/mistral-7b-instruct-v0.1.Q4_K_M.gguf
         INPUT_FILE: ./articles/news_articles.txt
 
-    - name: Check if files were generated
+    - name: Check generated output
       run: |
-        ls -la articles/ || echo "Articles directory not found"
-        ls -la quiz.txt || echo "Quiz file not found"
-        if [ -f "articles/news_articles.txt" ]; then
-          echo "Articles file size: $(wc -l < articles/news_articles.txt) lines"
-        fi
         if [ -f "quiz.txt" ]; then
           echo "Quiz file size: $(wc -l < quiz.txt) lines"
+          echo "Last few lines of quiz file:"
+          tail -10 quiz.txt
+        else
+          echo "No quiz file generated"
+        fi
+        
+        if [ -f "articles/news_articles.txt" ]; then
+          echo "Remaining articles: $(wc -l < articles/news_articles.txt) lines"
         fi
 
     - name: Commit and push changes
@@ -108,7 +106,7 @@ jobs:
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "Update news articles and MCQs - $(date '+%Y-%m-%d %H:%M:%S')"
+          git commit -m "Generate MCQs and update article queue - $(date '+%Y-%m-%d %H:%M:%S')"
           git push
         fi
       env:
@@ -118,7 +116,7 @@ jobs:
       uses: actions/upload-artifact@v4
       if: always()
       with:
-        name: generated-files-${{ github.run_number }}
+        name: generated-mcqs-${{ github.run_number }}
         path: |
           articles/
           quiz.txt

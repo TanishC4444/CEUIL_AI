@@ -1,0 +1,88 @@
+name: News Article Scraper
+
+on:
+  schedule:
+    # Run every 5 minutes to collect new articles
+    - cron: '*/5 * * * *'
+  workflow_dispatch: # Allow manual triggering
+  push:
+    branches: [ main ]
+    paths: [ 'news_scraper.py' ] # Only run when the scraper script changes
+
+jobs:
+  scrape-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25 # Set timeout slightly less than 30 min interval
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+
+    - name: Install system dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y build-essential
+
+    - name: Install Python dependencies
+      run: |
+        pip3 install --upgrade pip
+        pip3 install feedparser
+        pip3 install newspaper3k
+        pip3 install "lxml[html_clean]"
+        pip3 install lxml_html_clean
+        # Install compatible versions if needed
+        pip3 install "lxml>=4.6.0,<5.0.0" --force-reinstall
+
+    - name: Create directories
+      run: |
+        mkdir -p articles
+
+    - name: List repository contents
+      run: |
+        echo "Repository root contents:"
+        ls -la
+        echo "Looking for Python files:"
+        find . -name "*.py" -type f
+
+    - name: Run news scraper
+      run: |
+        python3 news_scraper.py
+      timeout-minutes: 20
+
+    - name: Check if files were generated
+      run: |
+        ls -la articles/ || echo "Articles directory not found"
+        if [ -f "articles/news_articles.txt" ]; then
+          echo "Articles file size: $(wc -l < articles/news_articles.txt) lines"
+        fi
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add articles/
+        if git diff --staged --quiet; then
+          echo "No new articles to commit"
+        else
+          git commit -m "Add new news articles - $(date '+%Y-%m-%d %H:%M:%S')"
+          git push
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: scraped-articles-${{ github.run_number }}
+        path: articles/
+        retention-days: 7
