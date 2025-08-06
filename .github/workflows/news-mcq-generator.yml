@@ -1,9 +1,8 @@
 name: MCQ Generator
-
 on:
   schedule:
-    # Run every 2 hours to process accumulated articles
-    - cron: '0 */2 * * *'
+    # Run every 5 minutes to process articles quickly
+    - cron: '*/5 * * * *'
   workflow_dispatch: # Allow manual triggering
   push:
     branches: [ main ]
@@ -12,7 +11,7 @@ on:
 jobs:
   generate-mcqs:
     runs-on: ubuntu-latest
-    timeout-minutes: 115 # Allow more time for AI processing (just under 2 hours)
+    timeout-minutes: 90 # Reduced to 90 minutes with safety margin
     
     steps:
     - name: Checkout repository
@@ -20,28 +19,28 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         fetch-depth: 0
-
+        
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.10'
         cache: 'pip'
-
+        
     - name: Install system dependencies
       run: |
         sudo apt-get update
         sudo apt-get install -y build-essential cmake
-
+        
     - name: Install Python dependencies
       run: |
         pip3 install --upgrade pip
         pip3 install llama-cpp-python
         pip3 install huggingface-hub
-
+        
     - name: Create directories
       run: |
         mkdir -p models
-
+        
     - name: Check for cached model
       id: cache-model
       uses: actions/cache@v4
@@ -50,7 +49,7 @@ jobs:
         key: mistral-model-v1
         restore-keys: |
           mistral-model-
-
+          
     - name: Download Mistral model
       if: steps.cache-model.outputs.cache-hit != 'true'
       run: |
@@ -58,7 +57,7 @@ jobs:
         huggingface-cli download TheBloke/Mistral-7B-Instruct-v0.1-GGUF mistral-7b-instruct-v0.1.Q4_K_M.gguf --local-dir . --local-dir-use-symlinks False
       env:
         HF_HUB_DISABLE_PROGRESS_BARS: 1
-
+        
     - name: Verify model download
       run: |
         ls -la models/
@@ -66,62 +65,133 @@ jobs:
           echo "Model file not found!"
           exit 1
         fi
-
+        echo "Model size: $(ls -lh models/mistral-7b-instruct-v0.1.Q4_K_M.gguf | awk '{print $5}')"
+        
     - name: Check for articles to process
+      id: check-articles
       run: |
         if [ ! -f "articles/news_articles.txt" ]; then
           echo "No articles file found. Nothing to process."
+          echo "has_articles=false" >> $GITHUB_OUTPUT
           exit 0
         fi
-        echo "Articles file found. Checking content..."
-        wc -l articles/news_articles.txt || echo "File is empty"
-
+        
+        article_count=$(grep -c "^Link: " articles/news_articles.txt || echo "0")
+        echo "Found $article_count articles to process"
+        echo "has_articles=true" >> $GITHUB_OUTPUT
+        echo "article_count=$article_count" >> $GITHUB_OUTPUT
+        
+        if [ "$article_count" -eq "0" ]; then
+          echo "No articles to process."
+          echo "has_articles=false" >> $GITHUB_OUTPUT
+        fi
+        
     - name: Run MCQ generator
+      if: steps.check-articles.outputs.has_articles == 'true'
       run: |
-        python3 mcq_generator.py
-      timeout-minutes: 100
+        echo "Starting MCQ generation at $(date)"
+        timeout 80m python3 mcq_generator.py || {
+          echo "MCQ generation timed out or failed, but continuing to save progress..."
+          exit_code=$?
+          if [ $exit_code -eq 124 ]; then
+            echo "Process timed out (80 minutes), but partial progress may have been made"
+          fi
+        }
+        echo "MCQ generation completed at $(date)"
       env:
         MODEL_PATH: ./models/mistral-7b-instruct-v0.1.Q4_K_M.gguf
         INPUT_FILE: ./articles/news_articles.txt
-
+        
     - name: Check generated output
+      if: steps.check-articles.outputs.has_articles == 'true'
       run: |
+        echo "=== OUTPUT SUMMARY ==="
+        
         if [ -f "quiz.txt" ]; then
-          echo "Quiz file size: $(wc -l < quiz.txt) lines"
-          echo "Last few lines of quiz file:"
+          quiz_lines=$(wc -l < quiz.txt)
+          quiz_size=$(ls -lh quiz.txt | awk '{print $5}')
+          echo "📝 Quiz file: $quiz_lines lines, $quiz_size"
+          
+          # Count generated questions
+          question_count=$(grep -c "^Q[0-9]\." quiz.txt || echo "0")
+          echo "❓ Total questions generated: $question_count"
+          
+          echo "📋 Last few lines of quiz file:"
           tail -10 quiz.txt
         else
-          echo "No quiz file generated"
+          echo "❌ No quiz file generated"
         fi
         
+        echo ""
         if [ -f "articles/news_articles.txt" ]; then
-          echo "Remaining articles: $(wc -l < articles/news_articles.txt) lines"
+          remaining_articles=$(grep -c "^Link: " articles/news_articles.txt || echo "0")
+          echo "📰 Remaining articles: $remaining_articles"
+        else
+          echo "📰 No articles file remaining"
         fi
-
+        
     - name: Commit and push changes
+      if: steps.check-articles.outputs.has_articles == 'true'
       run: |
         git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add articles/ quiz.txt
+        git config --local user.name "GitHub Action Bot"
+        
+        # Add files that may have changed
+        git add articles/ quiz.txt 2>/dev/null || true
+        
         if git diff --staged --quiet; then
-          echo "No changes to commit"
+          echo "📝 No changes to commit"
         else
-          git commit -m "Generate MCQs and update article queue - $(date '+%Y-%m-%d %H:%M:%S')"
+          # Create a descriptive commit message
+          if [ -f "quiz.txt" ]; then
+            question_count=$(grep -c "^Q[0-9]\." quiz.txt || echo "0")
+          else
+            question_count="0"
+          fi
+          
+          remaining_articles=$(grep -c "^Link: " articles/news_articles.txt 2>/dev/null || echo "0")
+          
+          git commit -m "🤖 Generate MCQs: +$question_count questions, $remaining_articles articles remaining [$(date '+%Y-%m-%d %H:%M UTC')]"
           git push
+          echo "✅ Changes committed and pushed"
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+        
     - name: Upload artifacts
       uses: actions/upload-artifact@v4
       if: always()
       with:
-        name: generated-mcqs-${{ github.run_number }}
+        name: mcq-generation-${{ github.run_number }}
         path: |
           articles/
           quiz.txt
         retention-days: 7
-
+        
+    - name: Run summary
+      if: always()
+      run: |
+        echo "=== RUN SUMMARY ==="
+        echo "🚀 Workflow: ${{ github.workflow }}"
+        echo "📅 Run: ${{ github.run_number }}"
+        echo "⏰ Completed: $(date)"
+        
+        if [ -f "quiz.txt" ]; then
+          total_questions=$(grep -c "^Q[0-9]\." quiz.txt || echo "0")
+          echo "✅ Total questions in quiz file: $total_questions"
+        fi
+        
+        if [ -f "articles/news_articles.txt" ]; then
+          remaining=$(grep -c "^Link: " articles/news_articles.txt || echo "0")
+          echo "📰 Articles remaining: $remaining"
+          
+          if [ "$remaining" -gt "0" ]; then
+            echo "💡 Next run will process up to 20 more articles"
+          else
+            echo "🎉 All articles have been processed!"
+          fi
+        fi
+        
     - name: Clean up large files
       run: |
         # Clean up the model file to save space (it will be cached)
