@@ -29,6 +29,7 @@ STRICT REQUIREMENTS:
 - Focus on specific names, numbers, locations, dates mentioned in the article
 - No trick questions or "all of the above" type answers
 - Generate questions that test factual recall, not inference or opinion
+- Add a bit of context to each question to make it clear what it's asking and what event or fact it relates to
 FORMAT (follow exactly):
 Q1. [Specific factual question about the article]
 A. [Option A]
@@ -205,7 +206,7 @@ def generate_mcqs_optimized(article_text):
         
         response = llm(
             prompt,
-            max_tokens=400,  # Reduced further for speed
+            max_tokens=500,  # Reduced further for speed
             temperature=0.1,  # Even lower for faster generation
             top_p=0.9,
             stop=["Article:", "\n\nHere", "Instructions:"],
