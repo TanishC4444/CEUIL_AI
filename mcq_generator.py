@@ -19,15 +19,16 @@ llm = Llama(
 )
 
 # Improved prompt template with stricter formatting
-PROMPT_TEMPLATE = """Create exactly 3 multiple choice questions from this news article for UIL Current Events competition.
+PROMPT_TEMPLATE = """Create exactly 5 multiple choice questions from this news article for UIL Current Events competition.
 
 STRICT REQUIREMENTS:
 - Base questions ONLY on facts explicitly stated in the article
+- Each question must be clear and unambiguous
 - Each question must have exactly 4 options (A, B, C, D)
 - Each question must have exactly 1 correct answer (A, B, C, or D - just the letter)
 - Focus on specific names, numbers, locations, dates mentioned in the article
 - No trick questions or "all of the above" type answers
-
+- Generate questions that test factual recall, not inference or opinion
 FORMAT (follow exactly):
 Q1. [Specific factual question about the article]
 A. [Option A]
