@@ -12,7 +12,26 @@ FEEDS = {
     "CNN": "http://rss.cnn.com/rss/cnn_topstories.rss",
     "PBS NewsHour": "https://www.pbs.org/newshour/feeds/rss/headlines",
     "Washington Post": "https://feeds.washingtonpost.com/rss/national",
-    "NY Times": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    "NY Times": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+    "Texas Tribune": "https://feeds.texastribune.org/feeds/main/",
+    "ABC Top Stories": "https://feeds.abcnews.com/abcnews/topstories",
+    "ABC US Headlines": "https://feeds.abcnews.com/abcnews/usheadlines",
+    "ABC Intl Headlines": "https://feeds.abcnews.com/abcnews/internationalheadlines",
+    "ABC Politics": "https://feeds.abcnews.com/abcnews/politicsheadlines",
+    "ABC Business": "https://feeds.abcnews.com/abcnews/businessheadlines",
+    "ABC Tech": "https://feeds.abcnews.com/abcnews/technologyheadlines",
+    "ABC Health": "https://feeds.abcnews.com/abcnews/healthheadlines",
+    "ABC Entertainment": "https://feeds.abcnews.com/abcnews/entertainmentheadlines",    
+    "CNBC Top News": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", 
+    "CNBC World News": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362", 
+    "CNBC US News": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15837362", 
+    "CNBC Asia News": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19832390", 
+    "CNBC EU News": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19794221", 
+    "CNBC Politics": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000113",
+    "CNBC Business": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147",
+    "CNBC Tech": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
+    "CNBC Health": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000108",
+    "CNBC Economy": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258"
 }
 
 OUTPUT_DIR = "articles"

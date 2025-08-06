@@ -251,8 +251,8 @@ def main():
         print("No articles found in the input file!")
         return
     
-    # REDUCED BATCH SIZE for GitHub Actions timeout limits
-    batch_size = min(20, len(articles))  # Process only 20 at a time
+    # PROCESS ALL ARTICLES (or large batches) - let GitHub Actions 6-hour limit handle it
+    batch_size = min(500, len(articles))  # Process up to 500 articles per run
     articles_to_process = articles[:batch_size]
     
     print(f"Processing {len(articles_to_process)} articles in this batch...")
@@ -271,7 +271,7 @@ def main():
             
             print(f"Link: {link}")
             print(f"Article length: {len(article.split())} words")
-            print(f"Elapsed: {elapsed/60:.1f}min, Est. remaining: {est_remaining/60:.1f}min")
+            print(f"Elapsed: {elapsed/60:.1f}min, Avg: {avg_time:.1f}s/article")
             
             # Skip articles that are too short
             if len(article.split()) < 100:
@@ -302,11 +302,6 @@ def main():
             
             # Mark as processed regardless of success/failure
             processed_links.append(link)
-            
-            # Safety check - if we're taking too long, stop early
-            if elapsed > 5400:  # 90 minutes
-                print(f"⚠️ Time limit approaching, stopping after {i+1} articles")
-                break
     
     total_time = time.time() - start_time
     print(f"\n✅ Batch complete: {successful_count}/{len(processed_links)} articles processed in {total_time/60:.1f} minutes")
