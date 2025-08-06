@@ -1,8 +1,8 @@
 name: MCQ Generator
 on:
   schedule:
-    # Run every 30 minutes to process large batches efficiently
-    - cron: '*/30 * * * *'
+    # Run every 6 hours to maximize processing time per run
+    - cron: '0 */6 * * *'
   workflow_dispatch: # Allow manual triggering
   push:
     branches: [ main ]
@@ -132,6 +132,14 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action Bot"
         
+        # Pull latest changes first to avoid conflicts
+        git pull origin main --rebase || {
+          echo "⚠️ Rebase failed, trying merge strategy..."
+          git pull origin main --no-rebase || {
+            echo "❌ Pull failed, but continuing to try push..."
+          }
+        }
+        
         # Add files that may have changed
         git add articles/ quiz.txt 2>/dev/null || true
         
@@ -148,8 +156,22 @@ jobs:
           remaining_articles=$(grep -c "^Link: " articles/news_articles.txt 2>/dev/null || echo "0")
           
           git commit -m "🤖 Generate MCQs: +$question_count questions, $remaining_articles articles remaining [$(date '+%Y-%m-%d %H:%M UTC')]"
-          git push
-          echo "✅ Changes committed and pushed"
+          
+          # Try to push, with retry logic
+          for i in {1..3}; do
+            if git push; then
+              echo "✅ Changes committed and pushed successfully"
+              break
+            else
+              echo "⚠️ Push attempt $i failed, pulling latest changes and retrying..."
+              git pull origin main --rebase || git pull origin main --no-rebase
+              if [ $i -eq 3 ]; then
+                echo "❌ Failed to push after 3 attempts"
+                exit 1
+              fi
+              sleep 5
+            fi
+          done
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
