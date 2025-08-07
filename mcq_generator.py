@@ -231,7 +231,7 @@ def main():
         return
     
     # PROCESS ARTICLES IN BATCHES - let GitHub Actions 6-hour limit handle it
-    batch_size = min(1, len(all_articles))  # Process up to 500 articles per run
+    batch_size = min(450, len(all_articles))  # Process up to 500 articles per run
     articles_to_process = all_articles[:batch_size]
     remaining_articles = all_articles[batch_size:]  # Articles to keep for next run
     
