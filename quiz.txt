@@ -2167,33 +2167,6 @@ Correct Answer: C. Ongoing
 
 ================================================================================
 
-
-Link: https://www.npr.org/2025/08/05/g-s1-81121/drones-uavs-trump-administration-faa-duffy
-Info: News Article
-================================================================================
-Q1. What is the proposed rule for drones used by businesses under the Trump administration's plan?
-A. Drones used by businesses would have to be built to certain industry standards and have collision avoidance technology to ensure they maintain a safe separation from other aircraft, including commercial airplanes.
-B. Drones used by businesses would have to be built to certain industry standards and have collision avoidance technology to ensure they maintain a safe separation from other aircraft, including commercial airplanes.
-C. Drones used by businesses would have to be built to certain industry standards and have collision avoidance technology to ensure they maintain a safe separation from other aircraft, including commercial airplanes.
-D. Drones used by businesses would have to be built to certain industry standards and have collision avoidance technology to ensure they maintain a safe separation from other aircraft, including commercial airplanes.
-Correct Answer: A
-
-Q2. What is the purpose of the Trump administration's plan for drones?
-A. To make it easier for companies to use drones for business — from delivering coffee to inspecting power lines to working on farms.
-B. To make it easier for companies to use drones for business — from delivering coffee to inspecting power lines to working on farms.
-C. To make it easier for companies to use drones for business — from delivering coffee to inspecting power lines to working on farms.
-D. To make it easier for companies to use drones for business — from delivering coffee to inspecting power lines to working on farms.
-Correct Answer: A
-
-Q3. What is the Air Line Pilots Association's stance on the proposed rule for drones used by businesses?
-A. The Air Line Pilots Association is committed to working with the Department of Transportation to ensure that emerging technologies and drone operations do not compromise aviation safety.
-B. The Air Line Pilots Association is committed to working with the Department of Transportation to ensure that emerging technologies and drone operations do not compromise aviation safety.
-C. The Air Line Pilots Association is committed to working with the Department of Transportation to ensure that emerging technologies and drone operations do not compromise aviation safety.
-D. The Air Line Pilots Association is committed to working with the Department of Transportation to ensure that emerging technologies and drone operations do not compromise aviation
-
-================================================================================
-
-
 Link: https://www.nytimes.com/2025/08/05/opinion/gaza-war-israel-netanyahu.html
 Info: News Article
 ================================================================================
@@ -3024,32 +2997,6 @@ B. Election Commission of Pakistan
 C. Pakistan Election Commission
 D. Pakistan Election Oversight Board
 Correct Answer: B
-
-================================================================================
-
-
-Link: https://abcnews.go.com/International/wireStory/russia-longer-abide-imposed-moratorium-intermediate-range-missiles-124369076
-Info: News Article
-================================================================================
-Q1. What is Russia's reason for no longer considering itself bound by the self-imposed moratorium on intermediate range missiles?
-A. Russia believes it has the right to take respective steps if necessary.
-B. Russia is planning to deploy its new Oreshnik missiles on the territory of its neighbor and ally Belarus later this year.
-C. Russia is responding to Trump's deadline for Russia to accept a peace deal in Ukraine or face sanctions.
-D. Russia is seeking to curry favor with its mentor Putin by making provocative statements and frequently lobbing nuclear threats.
-Correct Answer: A. Russia believes it has the right to take respective steps if necessary.
-
-Q2. What is the potential consequence of Russia's decision to no longer abide by the self-imposed moratorium on intermediate range missiles?
-A. It creates a "direct threat to the security of our country" and carries "significant harmful consequences for regional and global stability, including a dangerous escalation of tensions between nuclear powers."
-B. It sets the stage for a new arms race as tensions between Moscow and Washington rise again over Ukraine.
-C. It allows NATO countries to develop their own intermediate range missiles.
-D. It allows Russia to deploy its new Oreshnik missiles on the territory of its neighbor and ally Belarus later this year.
-Correct Answer: A. It creates a "direct threat to the security of our country" and carries "significant harmful consequences for regional and global stability, including a dangerous escalation of tensions between nuclear powers."
-
-Q3. What is the current status of Russia's plans to deploy its new Oreshnik missiles on the territory of its neighbor and ally Belarus?
-A. Russia has announced that it is planning to deploy its new Oreshnik missiles on the territory of its neighbor and ally Belarus later this year.
-B. Russia has not announced any plans to deploy its new Oreshnik missiles on the territory of its neighbor and ally Belarus.
-C. Russia has not yet decided whether to deploy its new Oreshnik missiles on the territory of its neighbor and ally Belarus.
-D. Russia has already deployed its new Oreshnik missiles on the territory of its neighbor
 
 ================================================================================
 
@@ -5921,10 +5868,6 @@ C. 388
 D. 388
 Correct Answer: B
 
-Q3. Which countries have a suspected overstay rate of over 40% in 2023?
-A. Chad, Laos, Haiti, Republic of Congo, Sudan, Djibouti, Myanmar, Eritrea, Yemen, Equatorial Guinea, Burundi, Sierra Leone, Democratic Republic of Congo, Turkmenistan
-B. Chad, Laos, Haiti, Republic of Congo, Sudan, Djibouti, Myanmar, Eritrea, Yemen, Equatorial Gu
-
 ================================================================================
 
 
@@ -6473,9 +6416,4 @@ C. "Watashi ga Mita"
 D. "Mirai"
 Correct Answer: A
 
-================================================================================
-
-
-Link: https://www.cnbc.com/2025/07/31/why-an-india-uk-trade-deal-does-not-make-us-india-agreement-any-easier.html
-Info: News Article
 ================================================================================
