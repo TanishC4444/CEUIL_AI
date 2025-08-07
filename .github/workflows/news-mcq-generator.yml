@@ -156,18 +156,59 @@ jobs:
           echo "📰 No articles file remaining"
         fi
         
+    - name: Create conflict resolution script
+      run: |
+        cat > resolve_conflicts.py << 'SCRIPT_END'
+        #!/usr/bin/env python3
+        import os
+        import sys
+        
+        def read_articles(filename):
+            if not os.path.exists(filename):
+                return []
+            with open(filename, 'r', encoding='utf-8') as f:
+                content = f.read()
+            if not content.strip():
+                return []
+            articles = []
+            article_blocks = content.split('\n\n')
+            for block in article_blocks:
+                if not block.strip():
+                    continue
+                lines = block.strip().split('\n')
+                current_link = None
+                current_article = None
+                for line in lines:
+                    if line.startswith("Link: "):
+                        current_link = line.strip()
+                    elif line.startswith("Article: "):
+                        current_article = line[len("Article: "):].strip()
+                if current_link and current_article:
+                    articles.append((current_link, current_article))
+            return articles
+        
+        def write_remaining_articles(filename, remaining_articles):
+            with open(filename, 'w', encoding='utf-8') as f:
+                for i, (link, article) in enumerate(remaining_articles):
+                    f.write(f"{link}\n")
+                    f.write(f"Article: {article}\n")
+                    if i < len(remaining_articles) - 1:
+                        f.write("\n")
+        
+        input_file = sys.argv[1] if len(sys.argv) > 1 else 'articles/news_articles.txt'
+        batch_size = int(sys.argv[2]) if len(sys.argv) > 2 else 500
+        
+        all_articles = read_articles(input_file)
+        remaining_articles = all_articles[batch_size:]
+        write_remaining_articles(input_file, remaining_articles)
+        print(f"Kept {len(remaining_articles)} articles, removed first {batch_size}")
+        SCRIPT_END
+        chmod +x resolve_conflicts.py
+
     - name: Commit and push changes
       if: steps.check-articles.outputs.has_articles == 'true'
       run: |
         echo "Checking for changes to commit..."
-        
-        # Pull latest changes first to avoid conflicts
-        git pull origin main --rebase || {
-          echo "⚠️ Rebase failed, trying merge strategy..."
-          git pull origin main --no-rebase || {
-            echo "❌ Pull failed, but continuing to try push..."
-          }
-        }
         
         # Add files that may have changed
         git add articles/news_articles.txt quiz.txt 2>/dev/null || true
@@ -183,23 +224,37 @@ jobs:
           fi
           
           remaining_articles=$(grep -c "^Link: " articles/news_articles.txt 2>/dev/null || echo "0")
-          processed_articles=$((${GITHUB_RUN_NUMBER:-0} * 20)) # Rough estimate
           
           git commit -m "🤖 MCQ Generation Run #${GITHUB_RUN_NUMBER:-0} - $question_count questions, $remaining_articles articles remaining [$(date '+%Y-%m-%d %H:%M UTC')]"
           
-          # Try to push, with retry logic
-          for i in {1..3}; do
+          # Try to push with conflict resolution
+          for i in {1..5}; do
             if git push; then
               echo "✅ Changes committed and pushed successfully"
               break
             else
-              echo "⚠️ Push attempt $i failed, pulling latest changes and retrying..."
-              git pull origin main --rebase || git pull origin main --no-rebase
-              if [ $i -eq 3 ]; then
-                echo "❌ Failed to push after 3 attempts"
+              echo "⚠️ Push attempt $i failed, handling conflicts..."
+              
+              # Reset to avoid conflicts
+              git reset --soft HEAD~1
+              
+              # Fetch and merge latest changes
+              git fetch origin main
+              git checkout origin/main -- articles/news_articles.txt || echo "No conflicts in articles file"
+              
+              # Re-apply our processing logic to the updated file
+              echo "Re-applying article removals to updated file..."
+              python3 resolve_conflicts.py articles/news_articles.txt 500
+              
+              # Re-add and commit
+              git add articles/news_articles.txt quiz.txt
+              git commit -m "🤖 MCQ Generation Run #${GITHUB_RUN_NUMBER:-0} - $question_count questions, $(grep -c '^Link: ' articles/news_articles.txt || echo '0') articles remaining [$(date '+%Y-%m-%d %H:%M UTC')]"
+              
+              if [ $i -eq 5 ]; then
+                echo "❌ Failed to push after 5 attempts"
                 exit 1
               fi
-              sleep 5
+              sleep 3
             fi
           done
         fi
