@@ -19,7 +19,7 @@ llm = Llama(
 )
 
 # Improved prompt template with stricter formatting
-PROMPT_TEMPLATE = """Create exactly 5 multiple choice questions from this news article for UIL Current Events competition.
+PROMPT_TEMPLATE = """Create exactly 3 multiple choice questions from this news article for UIL Current Events competition.
 
 STRICT REQUIREMENTS:
 - Base questions ONLY on facts explicitly stated in the article
@@ -60,78 +60,54 @@ Generate exactly 3 questions now:
 def read_articles(filename):
     """Read articles from file and return list of (link, article) tuples"""
     if not os.path.exists(filename):
+        print(f"Input file {filename} does not exist!")
         return []
         
     with open(filename, 'r', encoding='utf-8') as f:
         content = f.read()
 
+    if not content.strip():
+        print(f"Input file {filename} is empty!")
+        return []
+
     articles = []
     # Split by double newline to separate articles
     article_blocks = content.split('\n\n')
-    
-    current_link = None
-    current_article = None
     
     for block in article_blocks:
         if not block.strip():
             continue
             
         lines = block.strip().split('\n')
+        current_link = None
+        current_article = None
         
         for line in lines:
             if line.startswith("Link: "):
                 current_link = line.strip()
             elif line.startswith("Article: "):
                 current_article = line[len("Article: "):].strip()
-                
-                # If we have both link and article, add to list
-                if current_link and current_article:
-                    articles.append((current_link, current_article))
-                    current_link = None
-                    current_article = None
+        
+        # If we have both link and article, add to list
+        if current_link and current_article:
+            articles.append((current_link, current_article))
     
+    print(f"Successfully parsed {len(articles)} articles from {filename}")
     return articles
 
-def remove_processed_articles(filename, processed_links):
-    """Remove processed articles from the input file - FIXED VERSION"""
-    if not os.path.exists(filename) or not processed_links:
-        return
-    
-    print(f"Removing {len(processed_links)} processed articles from {filename}...")
-    
-    with open(filename, 'r', encoding='utf-8') as f:
-        content = f.read()
-    
-    if not content.strip():
-        return
-    
-    # Split into article blocks
-    article_blocks = content.split('\n\n')
-    remaining_blocks = []
-    
-    for block in article_blocks:
-        if not block.strip():
-            continue
-            
-        # Check if this block contains a processed link
-        block_should_be_kept = True
+def write_remaining_articles(filename, remaining_articles):
+    """Write remaining articles back to the input file"""
+    try:
+        with open(filename, 'w', encoding='utf-8') as f:
+            for i, (link, article) in enumerate(remaining_articles):
+                f.write(f"{link}\n")
+                f.write(f"Article: {article}\n")
+                if i < len(remaining_articles) - 1:  # Don't add extra newlines after last article
+                    f.write("\n")
         
-        for processed_link in processed_links:
-            if processed_link in block:
-                block_should_be_kept = False
-                break
-        
-        if block_should_be_kept:
-            remaining_blocks.append(block)
-    
-    # Write remaining articles back to file
-    with open(filename, 'w', encoding='utf-8') as f:
-        if remaining_blocks:
-            f.write('\n\n'.join(remaining_blocks))
-            f.write('\n\n')  # Add final newlines
-        # If no remaining blocks, file will be empty (which is correct)
-    
-    print(f"✅ Kept {len(remaining_blocks)} articles, removed {len(processed_links)} articles")
+        print(f"✅ Updated input file with {len(remaining_articles)} remaining articles")
+    except Exception as e:
+        print(f"❌ Error writing to input file: {e}")
 
 def chunk_text(text, max_words=600):
     """Chunk text by words, ensuring we don't split sentences"""
@@ -176,7 +152,7 @@ def extract_headline_from_url(url):
     
     # Fallback to domain name
     try:
-        domain = urlparse(url).netlnet
+        domain = urlparse(url).netloc
         return f"News Article from {domain}"
     except:
         return "News Article"
@@ -246,20 +222,22 @@ def main():
     """Main function to process articles and generate MCQs - OPTIMIZED FOR GITHUB ACTIONS"""
     input_file = os.getenv('INPUT_FILE', '/Users/tanishchauhan/Desktop/CEUIL_AI/articles/news_articles.txt')
     
-    articles = read_articles(input_file)
-    print(f"Found {len(articles)} articles to process")
+    # Read all articles at start
+    all_articles = read_articles(input_file)
+    print(f"Found {len(all_articles)} articles to process")
     
-    if not articles:
+    if not all_articles:
         print("No articles found in the input file!")
         return
     
-    # PROCESS ALL ARTICLES (or large batches) - let GitHub Actions 6-hour limit handle it
-    batch_size = min(500, len(articles))  # Process up to 500 articles per run
-    articles_to_process = articles[:batch_size]
+    # PROCESS ARTICLES IN BATCHES - let GitHub Actions 6-hour limit handle it
+    batch_size = min(1, len(all_articles))  # Process up to 500 articles per run
+    articles_to_process = all_articles[:batch_size]
+    remaining_articles = all_articles[batch_size:]  # Articles to keep for next run
     
     print(f"Processing {len(articles_to_process)} articles in this batch...")
+    print(f"Will keep {len(remaining_articles)} articles for next run...")
     
-    processed_links = []
     successful_count = 0
     start_time = time.time()
     
@@ -274,11 +252,11 @@ def main():
             print(f"Link: {link}")
             print(f"Article length: {len(article.split())} words")
             print(f"Elapsed: {elapsed/60:.1f}min, Avg: {avg_time:.1f}s/article")
-            
+            print(f"Est. remaining: {est_remaining/60:.1f}min")
+
             # Skip articles that are too short
             if len(article.split()) < 100:
                 print("Article too short after cleaning, skipping...")
-                processed_links.append(link)
                 continue
 
             # Extract headline from URL
@@ -301,22 +279,22 @@ def main():
                 print("❌ Failed to generate valid MCQs")
                 
             out.write("="*80 + "\n\n")
-            
-            # Mark as processed regardless of success/failure
-            processed_links.append(link)
     
     total_time = time.time() - start_time
-    print(f"\n✅ Batch complete: {successful_count}/{len(processed_links)} articles processed in {total_time/60:.1f} minutes")
+    print(f"\n✅ Batch complete: {successful_count}/{len(articles_to_process)} articles processed in {total_time/60:.1f} minutes")
     
-    # Remove processed articles from input file - THIS WAS THE BUG
-    if processed_links:
-        print(f"Removing {len(processed_links)} processed articles from input file...")
-        remove_processed_articles(input_file, processed_links)
-        print("✅ Input file updated")
+    # Write remaining articles back to input file (this removes processed ones)
+    print(f"Updating input file: removing {len(articles_to_process)} processed articles...")
+    write_remaining_articles(input_file, remaining_articles)
     
-    # Show remaining work
-    remaining_articles = read_articles(input_file)
-    print(f"📊 Remaining articles to process: {len(remaining_articles)}")
+    # Show final status
+    print(f"📊 Articles processed this run: {len(articles_to_process)}")
+    print(f"📊 Remaining articles for next run: {len(remaining_articles)}")
+    
+    if len(remaining_articles) > 0:
+        print("💡 Next run will process more articles")
+    else:
+        print("🎉 All articles have been processed!")
 
 if __name__ == "__main__":
     main()
