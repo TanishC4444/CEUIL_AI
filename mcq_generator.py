@@ -71,8 +71,9 @@ def read_articles(filename):
         return []
 
     articles = []
-    # Split by double newline to separate articles
-    article_blocks = content.split('\n\n')
+    # Split by double newline to separate articles, but handle various newline patterns
+    content = content.replace('\r\n', '\n').replace('\r', '\n')  # Normalize line endings
+    article_blocks = re.split(r'\n\s*\n', content)
     
     for block in article_blocks:
         if not block.strip():
@@ -81,16 +82,25 @@ def read_articles(filename):
         lines = block.strip().split('\n')
         current_link = None
         current_article = None
+        article_lines = []
         
         for line in lines:
+            line = line.strip()
             if line.startswith("Link: "):
-                current_link = line.strip()
+                current_link = line
             elif line.startswith("Article: "):
-                current_article = line[len("Article: "):].strip()
+                # Start collecting article text
+                article_lines = [line[len("Article: "):].strip()]
+            elif current_link and article_lines is not None:
+                # Continue collecting article text (multi-line articles)
+                if line:  # Skip empty lines within article
+                    article_lines.append(line)
         
-        # If we have both link and article, add to list
-        if current_link and current_article:
-            articles.append((current_link, current_article))
+        # Join all article lines
+        if current_link and article_lines:
+            current_article = ' '.join(article_lines).strip()
+            if current_article:  # Only add if we have actual content
+                articles.append((current_link, current_article))
     
     print(f"Successfully parsed {len(articles)} articles from {filename}")
     return articles
@@ -98,11 +108,18 @@ def read_articles(filename):
 def write_remaining_articles(filename, remaining_articles):
     """Write remaining articles back to the input file"""
     try:
+        if not remaining_articles:
+            # If no articles remaining, write empty file
+            with open(filename, 'w', encoding='utf-8') as f:
+                f.write("")
+            print(f"✅ Cleared input file - no articles remaining")
+            return
+            
         with open(filename, 'w', encoding='utf-8') as f:
             for i, (link, article) in enumerate(remaining_articles):
                 f.write(f"{link}\n")
                 f.write(f"Article: {article}\n")
-                if i < len(remaining_articles) - 1:  # Don't add extra newlines after last article
+                if i < len(remaining_articles) - 1:  # Add separator between articles
                     f.write("\n")
         
         print(f"✅ Updated input file with {len(remaining_articles)} remaining articles")
@@ -219,24 +236,29 @@ def generate_mcqs_optimized(article_text):
         return ""
 
 def main():
-    """Main function to process articles and generate MCQs - OPTIMIZED FOR GITHUB ACTIONS"""
+    """Main function to process articles and generate MCQs - FIXED VERSION"""
     input_file = os.getenv('INPUT_FILE', '/Users/tanishchauhan/Desktop/CEUIL_AI/articles/news_articles.txt')
     
     # Read all articles at start
     all_articles = read_articles(input_file)
-    print(f"Found {len(all_articles)} articles to process")
+    print(f"Found {len(all_articles)} total articles to process")
     
     if not all_articles:
         print("No articles found in the input file!")
         return
     
-    # PROCESS ARTICLES IN BATCHES - let GitHub Actions 6-hour limit handle it
-    batch_size = min(450, len(all_articles))  # Process up to 500 articles per run
+    # PROCESS ARTICLES IN BATCHES
+    batch_size = min(4, len(all_articles))  # Process up to 450 articles per run
     articles_to_process = all_articles[:batch_size]
     remaining_articles = all_articles[batch_size:]  # Articles to keep for next run
     
-    print(f"Processing {len(articles_to_process)} articles in this batch...")
-    print(f"Will keep {len(remaining_articles)} articles for next run...")
+    print(f"📋 Processing {len(articles_to_process)} articles in this batch...")
+    print(f"📋 Will keep {len(remaining_articles)} articles for next run...")
+    
+    # Show first few links being processed for debugging
+    print("\n🔍 First few articles being processed:")
+    for i, (link, _) in enumerate(articles_to_process[:3]):
+        print(f"  {i+1}. {link}")
     
     successful_count = 0
     start_time = time.time()
@@ -283,12 +305,27 @@ def main():
     total_time = time.time() - start_time
     print(f"\n✅ Batch complete: {successful_count}/{len(articles_to_process)} articles processed in {total_time/60:.1f} minutes")
     
-    # Write remaining articles back to input file (this removes processed ones)
-    print(f"Updating input file: removing {len(articles_to_process)} processed articles...")
+    # CRITICAL FIX: Always write remaining articles back, even if empty
+    print(f"\n📝 Updating input file:")
+    print(f"   - Removing {len(articles_to_process)} processed articles")
+    print(f"   - Keeping {len(remaining_articles)} unprocessed articles")
+    
+    # Show first few remaining articles for debugging
+    if remaining_articles:
+        print("\n🔍 First few articles remaining for next run:")
+        for i, (link, _) in enumerate(remaining_articles[:3]):
+            print(f"  {i+1}. {link}")
+    
     write_remaining_articles(input_file, remaining_articles)
     
+    # Verify the write operation worked
+    verification_articles = read_articles(input_file)
+    print(f"\n✅ Verification: Input file now contains {len(verification_articles)} articles")
+    
     # Show final status
+    print(f"\n📊 FINAL STATUS:")
     print(f"📊 Articles processed this run: {len(articles_to_process)}")
+    print(f"📊 Articles successfully generated MCQs: {successful_count}")
     print(f"📊 Remaining articles for next run: {len(remaining_articles)}")
     
     if len(remaining_articles) > 0:
