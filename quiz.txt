@@ -13611,3 +13611,84 @@ Correct Answer: B. Joe Biden
 Link: https://www.npr.org/2025/08/06/nx-s1-5493480/texas-democrats-quorum-oliverson
 Info: News Article from 
 ================================================================================
+
+Link: https://www.npr.org/2025/08/06/nx-s1-5493480/texas-democrats-quorum-oliverson
+Info: News Article from 
+================================================================================
+Q1. What court case rejected the idea of the coalition on districts as being consistent with the Voting Rights Act?
+A. Texas Governor Greg Abbott
+B. President Trump
+C. Federal appeals court
+D. Illinois Governor J.B. Pritzker
+Correct Answer: C. Federal appeals court
+
+Q2. What is President Trump's position on the number of seats Republicans are entitled to in Texas?
+A. They are not entitled to any additional seats.
+B. They are entitled to one additional seat.
+C. They are entitled to five additional seats.
+D. They are entitled to ten additional seats.
+Correct Answer: C. They are entitled to five additional seats.
+
+Q3. What is the consequence of the lack of quorum in the Texas legislature regarding relief and new warning systems after the devastating floods in Texas last month?
+A. There cannot be votes on relief measures.
+B. There cannot be votes on new warning systems.
+C. There cannot be votes on both relief measures and new warning systems.
+D. There cannot be votes on anything related to the floods in Texas last month.
+Correct Answer: A. There cannot be votes on relief measures.
+
+================================================================================
+
+
+Link: https://www.pbs.org/newshour/politics/watch-trump-announces-apple-investment-of-additional-100b-in-u-s-manufacturing
+Info: News Article from 
+================================================================================
+Q1. What is the name of the tech company that announced a commitment to increase its investment in the United States?
+A. Microsoft
+B. Google
+C. Amazon
+D. Apple
+Correct Answer: D. Apple
+
+Q2. What is the name of the initiative that Apple announced as part of its commitment to increase its investment in the United States?
+A. The American Manufacturing Program
+B. Project Phoenix
+C. The Tech Boost Initiative
+D. The U.S. Investment Initiative
+Correct Answer: A. The American Manufacturing Program
+
+Q3. What is the specific goal of the American Manufacturing Program announced by Apple?
+A. To ensure that iPhones sold in the United States are made in America
+B. To shift iPhone production to India to avoid tariffs
+C. To increase investment in the United States
+D. To produce components for Apple products sold all over the world
+Correct Answer: A. To ensure that iPhones sold in the United States are made in America
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/06/stock-market-today-live-updates.html
+Info: News Article from 
+================================================================================
+Q1. What is the name of the company that announced a plan to spend an additional $100 billion on U.S. "building"?
+A. Apple
+B. Microsoft
+C. Google
+D. Amazon
+Correct Answer: A
+
+Q2. What is the reason behind the 100% tariff on imported chips?
+A. India continues to buy Russian oil
+B. Russia's trade partners are not following through on a Ukraine peace deal
+C. The S&P 500 had notched five losing sessions over the past six trading days
+D. The Dow had had six negative days in the past seven
+Correct Answer: A
+
+Q3. What is the name of the index that has fallen to levels not seen since June of last year?
+A. S&P 500
+B. Dow
+C. Nasdaq
+D. Russell 2000
+Correct Answer: A
+
+================================================================================
+
