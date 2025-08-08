@@ -227,28 +227,52 @@ jobs:
           
           git commit -m "🤖 MCQ Generation Run #${GITHUB_RUN_NUMBER:-0} - $question_count questions, $remaining_articles articles remaining [$(date '+%Y-%m-%d %H:%M UTC')]"
           
-          # Try to push with conflict resolution
+          # Try to push with proper merge handling
           for i in {1..5}; do
             if git push; then
               echo "✅ Changes committed and pushed successfully"
               break
             else
-              echo "⚠️ Push attempt $i failed, handling conflicts..."
+              echo "⚠️ Push attempt $i failed, merging remote changes..."
               
-              # Reset to avoid conflicts
-              git reset --soft HEAD~1
-              
-              # Fetch and merge latest changes
+              # Pull and merge remote changes
               git fetch origin main
-              git checkout origin/main -- articles/news_articles.txt || echo "No conflicts in articles file"
               
-              # Re-apply our processing logic to the updated file
-              echo "Re-applying article removals to updated file..."
-              python3 resolve_conflicts.py articles/news_articles.txt 500
+              # Check if there are actual conflicts or just need to merge
+              if git merge origin/main --no-edit; then
+                echo "✅ Successfully merged remote changes"
+              else
+                echo "🔧 Merge conflicts detected, resolving..."
+                
+                # Check if conflict is in articles file
+                if git status --porcelain | grep -q "articles/news_articles.txt"; then
+                  echo "📰 Resolving conflict in news_articles.txt"
+                  
+                  # Use the version from origin (has new articles) and re-apply our logic
+                  git checkout origin/main -- articles/news_articles.txt
+                  
+                  # Re-apply our processing logic to remove processed articles
+                  echo "Re-applying article removals..."
+                  python3 resolve_conflicts.py articles/news_articles.txt 500
+                  
+                  # Mark as resolved
+                  git add articles/news_articles.txt
+                else
+                  echo "📄 Resolving other conflicts automatically"
+                  # For quiz.txt conflicts, prefer our version (has new questions)
+                  if git status --porcelain | grep -q "quiz.txt"; then
+                    git add quiz.txt
+                  fi
+                fi
+                
+                # Complete the merge
+                git commit --no-edit || git commit -m "Merge remote changes with MCQ generation updates"
+              fi
               
-              # Re-add and commit
-              git add articles/news_articles.txt quiz.txt
-              git commit -m "🤖 MCQ Generation Run #${GITHUB_RUN_NUMBER:-0} - $question_count questions, $(grep -c '^Link: ' articles/news_articles.txt || echo '0') articles remaining [$(date '+%Y-%m-%d %H:%M UTC')]"
+              # Update commit message with current counts
+              current_questions=$(grep -c "^Q[0-9]\." quiz.txt || echo "0")
+              current_remaining=$(grep -c "^Link: " articles/news_articles.txt || echo "0")
+              git commit --amend -m "🤖 MCQ Generation Run #${GITHUB_RUN_NUMBER:-0} - $current_questions questions, $current_remaining articles remaining [$(date '+%Y-%m-%d %H:%M UTC')]" || true
               
               if [ $i -eq 5 ]; then
                 echo "❌ Failed to push after 5 attempts"
