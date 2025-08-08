@@ -6442,3 +6442,111 @@ Correct Answer: A. Carbon tax
 
 ================================================================================
 
+
+Link: https://www.cnbc.com/2025/07/31/china-probes-nvidia-h20-chips-for-tracking-risks.html
+Info: News Article from 
+================================================================================
+Q1. Which company was summoned by Chinese regulators to explain risks associated with its H20 chip?
+A. Nvidia
+B. Intel
+C. AMD
+D. Qualcomm
+Correct Answer: A
+
+Q2. What is the name of the AI chip that has attracted increased scrutiny from Beijing?
+A. H20
+B. Titan
+C. Vega
+D. GTX
+Correct Answer: A
+
+Q3. When was the effective ban on Nvidia's H20 chip lifted?
+A. April
+B. May
+C. June
+D. July
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/07/31/hanwha-ocean-shares-surge-over-16percent-after-us-korea-trade-deal.html
+Info: News Article from 
+================================================================================
+Q1. Which company was part of the delegation of business leaders in Washington lobbying for a trade deal?
+A. Hyundai Motor Group
+B. Samsung Electronics
+C. Hanwha Group
+D. LG Chem
+Correct Answer: C
+
+Q2. What was the percentage increase in revenue for Hanwha Group in the preceding quarter compared to the same period a year ago?
+A. 25%
+B. 30%
+C. 43.6%
+D. 50%
+Correct Answer: C
+
+Q3. Where was the Hanwha Ocean Global Engineering Center India inaugurated?
+A. Seoul, South Korea
+B. Noida, India
+C. Shanghai, China
+D. Tokyo, Japan
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/07/31/trumps-aug-1-tariff-deadline-those-who-have-and-havent-signed-deal.html
+Info: News Article from 
+================================================================================
+Q1. What is the new tariff rate for Vietnam?
+A. 20%
+B. 46%
+C. 25%
+D. 15%
+Correct Answer: B
+
+Q2. What is the new tariff rate for the Philippines?
+A. 19%
+B. 20%
+C. 25%
+D. 46%
+Correct Answer: A
+
+Q3. What is the new tariff rate for South Korea?
+A. 15%
+B. 34%
+C. 145%
+D. 26%
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/07/31/samsung-second-quarter-profit-halves-missing-expectations.html
+Info: News Article from 
+================================================================================
+Q1. What was Samsung's second-quarter operating profit in 2019?
+A. 4.6 trillion won
+B. 10.44 trillion won
+C. 74.6 trillion won
+D. 74.07 trillion won
+Correct Answer: B
+
+Q2. What was Samsung's quarterly revenue in 2019?
+A. 74.6 trillion won
+B. 74.07 trillion won
+C. 74 trillion won
+D. 10.44 trillion won
+Correct Answer: A
+
+Q3. What was the reason for Samsung's steep drop in second-quarter operating profit in 2019?
+A. Increasing momentum in AI and robotics
+B. Inventory value adjustments in memory
+C. One-off costs related to the impacts of export restrictions related to China
+D. Ongoing global economic concerns driven by uncertain trade policies and geopolitical tensions
+Correct Answer: C
+
+================================================================================
+
