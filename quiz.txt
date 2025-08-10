@@ -53544,3 +53544,60 @@ Correct Answer: A. To address staffing shortages and congested New York City-are
 
 ================================================================================
 
+<<<<<<< HEAD
+=======
+
+Link: https://www.cnbc.com/2025/08/09/nagasaki-mayor-warns-of-nuclear-war-as-city-marks-80-years-since-a-bomb.html
+Info: News Article
+================================================================================
+Q1. What year was the Nagasaki Peace Memorial Park established?
+A. 1945
+B. 1955
+C. 1965
+D. 1975
+Correct Answer: D. 1975
+
+Q2. What was the name of the plutonium-239 bomb dropped on Nagasaki?
+A. "Little Boy"
+B. "Fat Man"
+C. "Atomic Annie"
+D. "Nuclear Nellie"
+Correct Answer: B. "Fat Man"
+
+Q3. What was the main message of the speech given by Suzuki at the Nagasaki Peace Memorial Park?
+A. The world needs more nuclear weapons to achieve peace.
+B. The global citizen perspective is the key to stitching back together our fragmented world.
+C. The United States should drop more atomic bombs on Japan to show their power.
+D. The solution to global conflicts is based on mutual understanding and solidarity.
+Correct Answer: D. The solution to global conflicts is based on mutual understanding and solidarity.
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/08/trade-desk-tanks-cfo-departure-q2-results-amazon-competition.html
+Info: News Article
+================================================================================
+Q1. What is the name of the company that announced the departure of its CFO?
+A. The Trade Desk
+B. Amazon
+C. Lightspeed Ventures
+D. Disney
+Correct Answer: A
+
+Q2. What is the reason for the concern among analysts about the sudden change in the top finance role at The Trade Desk?
+A. The new CFO is not qualified enough to handle the job
+B. The new CFO has a history of making poor financial decisions
+C. The new CFO is leaving the job
+D. The new CFO is replacing someone else
+Correct Answer: C
+
+Q3. What is the concern among analysts about Amazon's growing role in the online ad market?
+A. Amazon is not investing enough in ad technology
+B. Amazon is not targeting the right audience with its ads
+C. Amazon is not charging enough for its ad services
+D. Amazon is unlocking access to traditionally exclusive 'premium' ad inventory across the open internet, which could erode The Trade Desk's value proposition over time.
+Correct Answer: D
+
+================================================================================
+
+>>>>>>> origin/main
