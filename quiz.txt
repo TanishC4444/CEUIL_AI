@@ -46758,3 +46758,30 @@ Correct Answer: B
 
 ================================================================================
 
+
+Link: https://www.bbc.com/news/articles/c207p49wrypo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c207p49wrypo)
+================================================================================
+Q1. What is the name of the five-point plan approved by the Israeli security cabinet to end the war in Gaza?
+A. Disarming Hamas
+B. Returning all hostages
+C. Demilitarising the Gaza Strip
+D. Taking security control of the territory
+Correct Answer: D
+
+Q2. Which countries have condemned Israel's decision to expand its war in Gaza?
+A. Germany
+B. UK
+C. France
+D. Canada
+Correct Answer: A, B, C, D
+
+Q3. What is the goal of the five-point plan approved by the Israeli security cabinet?
+A. Defeating Hamas
+B. Concluding the war
+C. Establishing an alternative civil administration
+D. None of the above
+Correct Answer: A, B, C
+
+================================================================================
+
