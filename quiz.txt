@@ -53544,8 +53544,6 @@ Correct Answer: A. To address staffing shortages and congested New York City-are
 
 ================================================================================
 
-<<<<<<< HEAD
-=======
 
 Link: https://www.cnbc.com/2025/08/09/nagasaki-mayor-warns-of-nuclear-war-as-city-marks-80-years-since-a-bomb.html
 Info: News Article
@@ -53600,4 +53598,3 @@ Correct Answer: D
 
 ================================================================================
 
->>>>>>> origin/main

@@ -302,7 +302,7 @@ def main():
         return
     
     # PROCESS ARTICLES IN BATCHES - FIXED BATCH PROCESSING
-    batch_size = min(450, len(all_articles))  # Process up to 450 articles per run
+    batch_size = min(250, len(all_articles))  # Process up to 450 articles per run
     articles_to_process = all_articles[:batch_size]
     remaining_articles = all_articles[batch_size:]  # Articles to keep for next run
     
