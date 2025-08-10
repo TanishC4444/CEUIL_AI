@@ -58,73 +58,122 @@ Generate exactly 3 questions now:
 """
 
 def read_articles(filename):
-    """Read articles from file and return list of (link, article) tuples"""
+    """Read articles from file and return list of (link, article) tuples with improved parsing"""
     if not os.path.exists(filename):
         print(f"Input file {filename} does not exist!")
         return []
         
-    with open(filename, 'r', encoding='utf-8') as f:
-        content = f.read()
+    try:
+        with open(filename, 'r', encoding='utf-8') as f:
+            content = f.read()
+    except Exception as e:
+        print(f"Error reading file {filename}: {e}")
+        return []
 
     if not content.strip():
         print(f"Input file {filename} is empty!")
         return []
 
     articles = []
-    # Split by double newline to separate articles, but handle various newline patterns
-    content = content.replace('\r\n', '\n').replace('\r', '\n')  # Normalize line endings
-    article_blocks = re.split(r'\n\s*\n', content)
+    # Normalize line endings first
+    content = content.replace('\r\n', '\n').replace('\r', '\n')
+    
+    # Split by double newline, but be more flexible
+    article_blocks = re.split(r'\n\s*\n+', content.strip())
     
     for block in article_blocks:
-        if not block.strip():
+        block = block.strip()
+        if not block:
             continue
             
-        lines = block.strip().split('\n')
+        lines = [line.strip() for line in block.split('\n') if line.strip()]
+        
         current_link = None
-        current_article = None
         article_lines = []
+        in_article = False
         
         for line in lines:
-            line = line.strip()
             if line.startswith("Link: "):
                 current_link = line
+                in_article = False
+                article_lines = []
             elif line.startswith("Article: "):
                 # Start collecting article text
-                article_lines = [line[len("Article: "):].strip()]
-            elif current_link and article_lines is not None:
-                # Continue collecting article text (multi-line articles)
-                if line:  # Skip empty lines within article
-                    article_lines.append(line)
+                article_content = line[len("Article: "):].strip()
+                if article_content:  # If there's content on the same line
+                    article_lines = [article_content]
+                else:
+                    article_lines = []
+                in_article = True
+            elif in_article and current_link:
+                # Continue collecting article text
+                article_lines.append(line)
         
-        # Join all article lines
+        # Join all article lines and add to articles list
         if current_link and article_lines:
             current_article = ' '.join(article_lines).strip()
-            if current_article:  # Only add if we have actual content
+            if current_article and len(current_article) > 50:  # Only add substantial articles
                 articles.append((current_link, current_article))
+                print(f"✓ Parsed article: {current_link[:60]}...")
     
     print(f"Successfully parsed {len(articles)} articles from {filename}")
     return articles
 
 def write_remaining_articles(filename, remaining_articles):
-    """Write remaining articles back to the input file"""
+    """Write remaining articles back to the input file with better error handling"""
     try:
-        if not remaining_articles:
-            # If no articles remaining, write empty file
-            with open(filename, 'w', encoding='utf-8') as f:
-                f.write("")
-            print(f"✅ Cleared input file - no articles remaining")
-            return
-            
-        with open(filename, 'w', encoding='utf-8') as f:
-            for i, (link, article) in enumerate(remaining_articles):
-                f.write(f"{link}\n")
-                f.write(f"Article: {article}\n")
-                if i < len(remaining_articles) - 1:  # Add separator between articles
-                    f.write("\n")
+        # Create backup first
+        backup_filename = filename + '.backup'
+        if os.path.exists(filename):
+            import shutil
+            shutil.copy2(filename, backup_filename)
+            print(f"✓ Created backup: {backup_filename}")
         
-        print(f"✅ Updated input file with {len(remaining_articles)} remaining articles")
+        # Write the remaining articles
+        with open(filename, 'w', encoding='utf-8') as f:
+            if remaining_articles:
+                for i, (link, article) in enumerate(remaining_articles):
+                    f.write(f"{link}\n")
+                    f.write(f"Article: {article}\n")
+                    if i < len(remaining_articles) - 1:  # Add separator between articles
+                        f.write("\n")
+                f.flush()  # Ensure data is written to disk
+                os.fsync(f.fileno())  # Force write to disk
+        
+        # Verify the write was successful
+        if remaining_articles:
+            verification = read_articles(filename)
+            if len(verification) != len(remaining_articles):
+                print(f"⚠️ Warning: Expected {len(remaining_articles)} articles but found {len(verification)} after write")
+                # Restore from backup if verification fails
+                if os.path.exists(backup_filename):
+                    import shutil
+                    shutil.copy2(backup_filename, filename)
+                    print(f"❌ Write verification failed, restored from backup")
+                    return False
+            else:
+                print(f"✅ Write verification successful: {len(remaining_articles)} articles")
+        else:
+            print(f"✅ Successfully cleared input file - no articles remaining")
+        
+        # Clean up backup after successful write
+        if os.path.exists(backup_filename):
+            os.remove(backup_filename)
+        
+        return True
+        
     except Exception as e:
         print(f"❌ Error writing to input file: {e}")
+        # Try to restore from backup
+        backup_filename = filename + '.backup'
+        if os.path.exists(backup_filename):
+            try:
+                import shutil
+                shutil.copy2(backup_filename, filename)
+                print(f"✅ Restored from backup after write error")
+            except:
+                print(f"❌ Failed to restore from backup")
+        return False
 
 def chunk_text(text, max_words=600):
     """Chunk text by words, ensuring we don't split sentences"""
@@ -169,7 +218,7 @@ def extract_headline_from_url(url):
     
     # Fallback to domain name
     try:
-        domain = urlparse(url).netloc
+        domain = urlparse(url).netlnet
         return f"News Article from {domain}"
     except:
         return "News Article"
@@ -239,6 +288,11 @@ def main():
     """Main function to process articles and generate MCQs - FIXED VERSION"""
     input_file = os.getenv('INPUT_FILE', '/Users/tanishchauhan/Desktop/CEUIL_AI/articles/news_articles.txt')
     
+    print(f"🔍 Reading articles from: {input_file}")
+    print(f"📁 Input file exists: {os.path.exists(input_file)}")
+    if os.path.exists(input_file):
+        print(f"📄 Input file size: {os.path.getsize(input_file)} bytes")
+    
     # Read all articles at start
     all_articles = read_articles(input_file)
     print(f"Found {len(all_articles)} total articles to process")
@@ -247,8 +301,8 @@ def main():
         print("No articles found in the input file!")
         return
     
-    # PROCESS ARTICLES IN BATCHES
-    batch_size = min(450, len(all_articles))  # Process up to 450 articles per run
+    # PROCESS ARTICLES IN BATCHES - FIXED BATCH PROCESSING
+    batch_size = min(1, len(all_articles))  # Process up to 450 articles per run
     articles_to_process = all_articles[:batch_size]
     remaining_articles = all_articles[batch_size:]  # Articles to keep for next run
     
@@ -259,6 +313,11 @@ def main():
     print("\n🔍 First few articles being processed:")
     for i, (link, _) in enumerate(articles_to_process[:3]):
         print(f"  {i+1}. {link}")
+    
+    if remaining_articles:
+        print("\n🔍 First few articles remaining for next run:")
+        for i, (link, _) in enumerate(remaining_articles[:3]):
+            print(f"  {i+1}. {link}")
     
     successful_count = 0
     start_time = time.time()
@@ -301,34 +360,58 @@ def main():
                 print("❌ Failed to generate valid MCQs")
                 
             out.write("="*80 + "\n\n")
+            out.flush()  # Ensure quiz content is written immediately
     
     total_time = time.time() - start_time
     print(f"\n✅ Batch complete: {successful_count}/{len(articles_to_process)} articles processed in {total_time/60:.1f} minutes")
     
-    # CRITICAL FIX: Always write remaining articles back, even if empty
+    # CRITICAL FIX: Write remaining articles back with verification
     print(f"\n📝 Updating input file:")
-    print(f"   - Removing {len(articles_to_process)} processed articles")
-    print(f"   - Keeping {len(remaining_articles)} unprocessed articles")
+    print(f"   - Original articles: {len(all_articles)}")
+    print(f"   - Processed articles: {len(articles_to_process)}")
+    print(f"   - Remaining articles: {len(remaining_articles)}")
     
-    # Show first few remaining articles for debugging
-    if remaining_articles:
-        print("\n🔍 First few articles remaining for next run:")
-        for i, (link, _) in enumerate(remaining_articles[:3]):
-            print(f"  {i+1}. {link}")
-    
-    write_remaining_articles(input_file, remaining_articles)
+    # Attempt to write remaining articles with retry logic
+    max_retries = 3
+    for attempt in range(max_retries):
+        print(f"\n📝 Write attempt {attempt + 1}/{max_retries}")
+        
+        if write_remaining_articles(input_file, remaining_articles):
+            print("✅ Successfully updated input file")
+            break
+        else:
+            if attempt < max_retries - 1:
+                print("⚠️ Write failed, retrying in 2 seconds...")
+                time.sleep(2)
+            else:
+                print("❌ Failed to update input file after all attempts")
+                # Create a fallback file
+                fallback_file = input_file + '.remaining'
+                try:
+                    write_remaining_articles(fallback_file, remaining_articles)
+                    print(f"💾 Created fallback file: {fallback_file}")
+                except:
+                    print("❌ Even fallback write failed!")
+                return
     
     # Verify the write operation worked
+    print(f"\n🔍 Verifying file update...")
     verification_articles = read_articles(input_file)
-    print(f"\n✅ Verification: Input file now contains {len(verification_articles)} articles")
+    expected_count = len(remaining_articles)
+    actual_count = len(verification_articles)
+    
+    print(f"✅ Verification complete:")
+    print(f"   - Expected articles: {expected_count}")
+    print(f"   - Actual articles: {actual_count}")
+    print(f"   - Match: {'✅ YES' if expected_count == actual_count else '❌ NO'}")
     
     # Show final status
     print(f"\n📊 FINAL STATUS:")
     print(f"📊 Articles processed this run: {len(articles_to_process)}")
     print(f"📊 Articles successfully generated MCQs: {successful_count}")
-    print(f"📊 Remaining articles for next run: {len(remaining_articles)}")
+    print(f"📊 Remaining articles for next run: {actual_count}")
     
-    if len(remaining_articles) > 0:
+    if actual_count > 0:
         print("💡 Next run will process more articles")
     else:
         print("🎉 All articles have been processed!")
