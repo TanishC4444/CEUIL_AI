@@ -67583,3 +67583,3989 @@ Correct Answer: A
 
 ================================================================================
 
+
+Link: https://www.nytimes.com/2025/08/06/us/politics/stanford-lawsuit-student-activist-deportations.html
+Info: News Article
+================================================================================
+Q1. What is the name of the free speech watchdog that filed the lawsuit?
+A. Foundation for Individual Rights and Expression
+B. American Civil Liberties Union
+C. Southern Poverty Law Center
+D. National Association for the Advancement of Colored People
+Correct Answer: A
+
+Q2. What is the name of the student newspaper at Stanford University that is the subject of the lawsuit?
+A. The Stanford Daily
+B. The Stanford Review
+C. The Stanford Spectator
+D. The Stanford Sentinel
+Correct Answer: A
+
+Q3. What is the main concern of the noncitizen staff members at The Stanford Daily?
+A. That the government will retaliate against the newspaper for what it publishes
+B. That the newspaper will be shut down
+C. That the newspaper will be forced to change its editorial policy
+D. That the newspaper will be forced to hire only American citizens
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/06/us/politics/trump-universities-title-ix-vi-obama.html
+Info: News Article
+================================================================================
+Q1. Which universities have recently added the job of overseeing and ensuring compliance with Title VI of the Civil Rights Act to their administrative rosters?
+A. Columbia University, University of Pennsylvania, New York University, and Harvard University
+B. Columbia University, University of Pennsylvania, New York University, and Harvard University
+C. Columbia University, University of Pennsylvania, New York University, and Harvard University
+D. Columbia University, University of Pennsylvania, New York University, and Harvard University
+Correct Answer: A
+
+Q2. What is the purpose of Title VI of the Civil Rights Act?
+A. To prohibit discrimination in federally funded programs based on race, color, or national origin
+B. To prohibit discrimination in federally funded programs based on sex
+C. To prohibit discrimination in federally funded programs based on religion
+D. To prohibit discrimination in federally funded programs based on sexual orientation
+Correct Answer: A
+
+Q3. Which administration is accused by the Trump administration of failing to protect Jewish students from harassment?
+A. Obama administration
+B. Trump administration
+C. Clinton administration
+D. Bush administration
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/06/nyregion/suny-downstate-hospital-official-theft.html
+Info: News Article
+================================================================================
+Q1. Who was the former chairman of emergency medicine at SUNY Downstate Medical Center in Brooklyn?
+A. Michael Lucchesi
+B. Danny Chun
+C. Greenleaf Pet Resort & Hotel
+D. None of the above
+Correct Answer: A
+
+Q2. What was the amount of public money stolen by Michael Lucchesi from SUNY Downstate Medical Center?
+A. $1.4 million
+B. $348,000
+C. $176,000
+D. $120,000
+Correct Answer: A
+
+Q3. Where was some of the stolen money spent by Michael Lucchesi?
+A. Personal travel
+B. Pet care
+C. Greenleaf Pet Resort & Hotel
+D. None of the above
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/05/nyregion/columbia-brown-admissions-trump.html
+Info: News Article
+================================================================================
+Q1. What two Ivy League universities struck settlements with the Trump administration?
+A. Columbia and Brown
+B. Harvard and Yale
+C. Princeton and Dartmouth
+D. Stanford and MIT
+Correct Answer: A
+
+Q2. What aspect of the agreements with Columbia and Brown was largely overlooked amid splashier news?
+A. The universities promised to pay tens of millions of dollars to settle claims of violations of federal anti-discrimination laws.
+B. The release of standardized test scores and grade point averages of all applicants, including information about their race.
+C. The universities were accused of tolerating antisemitism.
+D. The Trump administration will gain access to the data.
+Correct Answer: B
+
+Q3. What measure could profoundly alter competitive college admissions?
+A. The release of standardized test scores and grade point averages of all applicants, including information about their race.
+B. The Trump administration will gain access to the data.
+C. The 2023 Supreme Court decision barring the consideration of race in college admissions.
+D. The universities had tolerated antisemitism.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/05/arts/national-endowment-for-the-humanities-trump-grants.html
+Info: News Article
+================================================================================
+Q1. Who was the previous chair of the National Endowment for the Humanities (NEH) that was forced out?
+A. A Biden appointee
+B. A Trump appointee
+C. A member of the Authors Guild
+D. None of the above
+Correct Answer: A
+
+Q2. What did the federal judge in New York rule against the administration in a case brought by the Authors Guild?
+A. The cancellation of already approved funding for 1,400 research projects violated the First Amendment
+B. The administration had the right to "edit history" to exclude perspectives it disliked
+C. The NEH should focus its grant making on its own priorities
+D. None of the above
+Correct Answer: A
+
+Q3. What is the purpose of the state and territorial humanities councils that were terminated by the NEH?
+A. To support local projects, including many in rural areas
+B. To exclude perspectives the NEH dislikes
+C. To focus the agency's grant making on its own priorities
+D. None of the above
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/04/us/politics/university-virginia-appoints-interim-president.html
+Info: News Article
+================================================================================
+Q1. Who is the new interim president of the University of Virginia?
+A. John Mahoney
+B. Teresa Ryan
+C. William Barr
+D. Jeff Sessions
+Correct Answer: A
+
+Q2. What led to the resignation of Teresa Ryan as president of the University of Virginia?
+A. Intense pressure from the Trump administration
+B. A campaign waged against him by the Department of Justice
+C. A conservative Virginia alumni group
+D. All of the above
+Correct Answer: D
+
+Q3. Which of the following individuals was not involved in the resignation of Teresa Ryan as president of the University of Virginia?
+A. William Barr
+B. Jeff Sessions
+C. John Mahoney
+D. Teresa Ryan
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/07/31/nyregion/specialized-high-schools-black-students-stuyvesant.html
+Info: News Article
+================================================================================
+Q1. What percentage of acceptance letters did Black students receive to the eight elite schools in New York City?
+A. 10%
+B. 20%
+C. 3%
+D. 5%
+Correct Answer: C. 3%
+
+Q2. What percentage of all spots did Hispanic students receive at the eight elite schools in New York City?
+A. 10%
+B. 20%
+C. 7%
+D. 5%
+Correct Answer: C. 7%
+
+Q3. How many offers did Stuyvesant High School in Manhattan make to Black students this spring?
+A. 10
+B. 20
+C. 8
+D. 5
+Correct Answer: C. 8
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/07/30/us/brown-trump-deal-university-funding.html
+Info: News Article
+================================================================================
+Q1. Which Ivy League university reached an agreement with the Trump administration on Wednesday?
+A. Harvard University
+B. Yale University
+C. Brown University
+D. Princeton University
+Correct Answer: C. Brown University
+
+Q2. What is the requirement for Brown University under the agreement with the Trump administration?
+A. Brown must make $50 million in payments to state work force development programs over a decade.
+B. Brown must comply with the Trump administration’s vision on matters like transgender athletes and “merit-based” admissions policies.
+C. Brown must not use the deal to dictate its curriculum or academic speech.
+D. All of the above.
+Correct Answer: D. All of the above.
+
+Q3. What is the Trump administration required to restore millions of dollars in federal research funding that it had blocked in recent months?
+A. Millions of dollars in federal research funding for Brown University.
+B. Millions of dollars in federal research funding for all Ivy League universities.
+C. Millions of dollars in federal research funding for state work force development programs.
+D. None of the above.
+Correct Answer: A. Millions of dollars in federal research funding for Brown University.
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/07/29/us/politics/trump-duke-university-frozen-funding-discrimination.html
+Info: News Article
+================================================================================
+Q1. Which high-profile school has the Trump administration targeted and stripped of federal funding?
+A. Columbia University
+B. Harvard University
+C. Duke University
+D. Stanford University
+Correct Answer: C
+
+Q2. What did the Trump administration accuse Duke University of?
+A. Abetting antisemitism
+B. Supporting diversity, equity and inclusion programs
+C. Systemic racial discrimination
+D. None of the above
+Correct Answer: C
+
+Q3. What did McMahon call on Duke Health to do?
+A. Review all policies for the illegal use of race preferences
+B. Create a "Merit and Civil Rights Committee" that would work with the federal government
+C. Both A and B
+D. Neither A nor B
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/07/29/us/politics/harvard-employee-forms-trump-administration.html
+Info: News Article
+================================================================================
+Q1. What is the purpose of the Homeland Security Investigations' notice to Harvard?
+A. To assess Harvard's compliance with federal laws and regulations related to employment eligibility verification.
+B. To assess Harvard's compliance with federal laws and regulations related to immigration.
+C. To assess Harvard's compliance with federal laws and regulations related to student employment.
+D. To assess Harvard's compliance with federal laws and regulations related to academic records.
+Correct Answer: A.
+
+Q2. What are the potential consequences of violations related to I-9 forms?
+A. Civil or criminal matters.
+B. Only civil matters.
+C. Only criminal matters.
+D. No consequences.
+Correct Answer: A.
+
+Q3. What is Harvard's current stance on providing the government access to its employees' Form I-9 records?
+A. The university is not providing the government access to the records at this time.
+B. The university is providing the government access to the records at this time.
+C. The university is not providing the government access to the records, but it intends to comply with federal law.
+D. The university is providing the government access to the records, but it is not sure if it is required to do so.
+Correct Answer: A.
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/08/opinion/smithsonian-trump-censorship.html
+Info: News Article
+================================================================================
+Q1. What is the location of the Smithsonian Institution?
+A. Liberty Bell
+B. Giant redwoods of Muir Woods
+C. Halls of the Smithsonian Institution
+D. None of the above
+Correct Answer: C
+
+Q2. What is the Trump administration's effort to rewrite history?
+A. Allowing Trumpian history to supersede the accuracy of scholarship
+B. Redacting an important part of modern political history
+C. Both A and B
+D. None of the above
+Correct Answer: C
+
+Q3. What is the Smithsonian American Art Museum exhibit that the Trump administration criticized?
+A. An exhibit that included an unimpeachable statement that race has been used “to establish and maintain systems of power, privilege and disenfranchisement”
+B. An exhibit that included an unimpeachable statement that race has been used “to establish and maintain systems of oppression and inequality”
+C. An exhibit that included an unimpeachable statement that race has been used “to establish and maintain systems of equality and justice”
+D. None of the above
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/08/business/economy/fed-miran-rates-powell-trump.html
+Info: News Article
+================================================================================
+Q1. Who wrote a book looking at central bank independence?
+A. Mark Spindel
+B. Miran
+C. Federal Reserve
+D. None of the above
+Correct Answer: A
+
+Q2. What is the Federal Open Market Committee?
+A. A group of 12 people who make policy decisions for the Federal Reserve
+B. A group of 12 people who make policy decisions for the government
+C. A group of 12 people who make policy decisions for the stock market
+D. None of the above
+Correct Answer: A
+
+Q3. What is Miran likely to do as a member of the Federal Reserve?
+A. Serve as a vocal source of internal opposition against whatever the Fed is doing
+B. Keep the seat warm and trumpet the president’s message as a loyalist inside the building
+C. Serve as a silent observer of the Fed’s policy decisions
+D. None of the above
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/07/business/media/disney-gina-carano-mandalorian-suit.html
+Info: News Article
+================================================================================
+Q1. Who was the actress that sued Disney and Lucasfilm for wrongful termination?
+A. Gina Carano
+B. Scarlett Johansson
+C. Emma Watson
+D. Angelina Jolie
+Correct Answer: A
+
+Q2. What was the reason behind Gina Carano's termination from "The Mandalorian"?
+A. Poor performance
+B. Disrespectful behavior towards colleagues
+C. Refusal to wear a mask on set
+D. None of the above
+Correct Answer: B
+
+Q3. What did Gina Carano say in her post on X about the outcome of the dispute?
+A. She was excited to flip the page and move onto the next chapter.
+B. She was disappointed in the outcome and plans to appeal.
+C. She was angry with Disney and Lucasfilm for the wrongful termination.
+D. She was grateful for the opportunity to work on "The Mandalorian" and plans to continue acting.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/live/2025/08/06/business/tariffs-trump-trade/some-safe-haven-assets-have-soared-against-the-us-dollar
+Info: News Article
+================================================================================
+Q1. What is the tariff rate imposed by the United States on goods from Switzerland?
+A. 15%
+B. 31%
+C. 39%
+D. 45%
+Correct Answer: C
+
+Q2. What is the purpose of the meeting between President Karin Keller-Sutter of Switzerland and Secretary of State Marco Rubio?
+A. To discuss a potential trade agreement
+B. To discuss a potential military alliance
+C. To discuss a potential diplomatic crisis
+D. To discuss a potential economic crisis
+Correct Answer: A
+
+Q3. What is the impact of the high tariff rate on the Swiss economy?
+A. It will have no impact
+B. It will have a minor impact
+C. It will have a major impact
+D. It will have a devastating impact
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/07/business/energy-environment/california-supreme-court-rooftop-solar.html
+Info: News Article
+================================================================================
+Q1. What did the California Supreme Court order a lower court to do?
+A. Uphold the state policy that reduced how much utilities have to pay homeowners with rooftop solar panels for the energy they send to the electric grid.
+B. Strike down the state policy that reduced how much utilities have to pay homeowners with rooftop solar panels for the energy they send to the electric grid.
+C. Affirm the state policy that reduced how much utilities have to pay homeowners with rooftop solar panels for the energy they send to the electric grid.
+D. Reconsider the state policy that reduced how much utilities have to pay homeowners with rooftop solar panels for the energy they send to the electric grid.
+Correct Answer: D
+
+Q2. What did the California Supreme Court say about the state policy that reduced how much utilities have to pay homeowners with rooftop solar panels for the energy they send to the electric grid?
+A. The policy is illegal.
+B. The policy is legal but the State Court of Appeal erred in affirming it without fully reviewing it and by being too deferential to state regulators.
+C. The policy is legal and the State Court of Appeal did not err in affirming it.
+D. The policy is illegal and the State Court of Appeal did not err in affirming it.
+Correct Answer: B
+
+Q3. What did the rooftop solar industry and its allies say about the California Supreme Court's decision?
+A. They are disappointed in the decision and it will not open the door to reversing the policy that has sharply reduced the installation of solar panels on California homes over the last two years.
+B. They are disappointed in the decision and it will not open the door to reversing the policy that has sharply reduced the installation of solar panels on California homes over the last two years.
+C. They are happy with the decision and it could open the door to reversing the policy that has sharply reduced the installation of solar panels on California homes over the last two years.
+D. They are happy with the decision and it will not open the door to reversing the policy that has sharply reduced the installation of solar panels on California homes over the last two years.
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/07/travel/ride-shares-safety-tips.html
+Info: News Article
+================================================================================
+Q1. What was the frequency of Uber receiving reports of sexual misconduct or sexual assault between 2017 and 2022?
+A. Once every 8 minutes
+B. Once every 15 minutes
+C. Once every 30 minutes
+D. Once every hour
+Correct Answer: A
+
+Q2. What is the name of the Chicago-based law firm that co-founder Bryant Greening works for?
+A. Legalrideshare.com
+B. Greening Law Firm
+C. Greening & Associates
+D. Greening Law Group
+Correct Answer: A
+
+Q3. What is the feature on the Uber app that allows riders to share their trip details and real-time location with up to 5 people from their contact list?
+A. Share My Trip
+B. Trip Tracker
+C. Real-Time Location
+D. Ride History
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/07/business/economy/tariffs-bank-of-england-interest-rates.html
+Info: News Article
+================================================================================
+Q1. Which country was the first to reach a trade agreement with President Trump to avoid higher tariffs?
+A. China
+B. Japan
+C. Britain
+D. Germany
+Correct Answer: C
+
+Q2. What was the effect on British companies of the trade agreement with President Trump?
+A. Higher tariffs
+B. Milder than feared effects
+C. No effect
+D. Uncertainty
+Correct Answer: B
+
+Q3. What did the Bank of England say about the importance of global trade tensions to the British economy?
+A. They are more important than domestic factors
+B. They are less important than domestic factors
+C. They have no effect on the British economy
+D. They are neutral
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/07/business/media/skydance-paramount-merger.html
+Info: News Article
+================================================================================
+Q1. What is the name of the media company that Paramount has merged with?
+A. Skydance
+B. Netflix
+C. YouTube
+D. Amazon
+Correct Answer: A
+
+Q2. Who is the founder of Skydance and what is his relationship to Larry Ellison?
+A. David Ellison is the son of Larry Ellison
+B. David Ellison is the brother of Larry Ellison
+C. David Ellison is the father of Larry Ellison
+D. David Ellison is the nephew of Larry Ellison
+Correct Answer: A
+
+Q3. What is the result of the merger between Paramount and Skydance?
+A. A new competitor in the streaming wars
+B. A merger between Paramount and Netflix
+C. A merger between Paramount and YouTube
+D. A merger between Paramount and Amazon
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/07/business/economy/tariffs-southeast-asia-transshipments.html
+Info: News Article
+================================================================================
+Q1. What percentage of locally made products does the United States currently require for products to qualify as "made in America"?
+A. 50%
+B. 60%
+C. 70%
+D. 80%
+Correct Answer: C
+
+Q2. What is the goal of Cambodia's deputy prime minister and lead trade negotiator, Sun Chanthol, regarding the United States' proposed "rules of origin"?
+A. To improve and diversify supply chains
+B. To reduce reliance on Chinese manufacturing
+C. To qualify for "made in America" status
+D. To face difficulty
+Correct Answer: A
+
+Q3. What is the proposed "rules of origin" percentage for locally made products in Thailand according to a senior Thai official involved in trade talks with the United States?
+A. 50%
+B. 60%
+C. 70%
+D. 80%
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/07/climate/trump-wind-solar-power-projects.html
+Info: News Article
+================================================================================
+Q1. What percentage of the nation's electricity did wind and solar power provide last year?
+A. 10%
+B. 15%
+C. 20%
+D. 25%
+Correct Answer: D. 25%
+
+Q2. What is the Federal Aviation Administration's role in the wind farm industry?
+A. To approve height clearance for wind farms
+B. To regulate the construction of wind farms
+C. To investigate the safety of wind farms
+D. To oversee the operation of wind farms
+Correct Answer: A. To approve height clearance for wind farms
+
+Q3. What is the American Clean Power Association's position on the policies related to wind and solar power?
+A. They support the policies
+B. They oppose the policies
+C. They are neutral on the policies
+D. They are unsure about the policies
+Correct Answer: B. They oppose the policies
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/06/climate/charleston-climate-lawsuit-oil-companies.html
+Info: News Article
+================================================================================
+Q1. Which city dismissed the lawsuit against oil and gas companies?
+A. Charleston, S.C.
+B. New York City
+C. Los Angeles, CA
+D. Houston, TX
+Correct Answer: A
+
+Q2. Which judge dismissed the lawsuit against oil and gas companies?
+A. Judge Young
+B. Judge Smith
+C. Judge Johnson
+D. Judge Brown
+Correct Answer: A
+
+Q3. What were the main arguments made by the city's lawyers in the lawsuit?
+A. The companies had covered up what they knew about the dangers of greenhouse gas emissions.
+B. The companies were not responsible for the effects of greenhouse gas emissions.
+C. The claims were about deception.
+D. The issues fall under federal and not state law.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/04/climate/new-jersey-pfas-settlement.html
+Info: News Article
+================================================================================
+Q1. Which chemical giants agreed to pay New Jersey $875 million to settle claims linked to pollution from so-called “forever chemicals”?
+A. Chemours
+B. DuPont
+C. Corteva
+D. All of the above
+Correct Answer: B
+
+Q2. Under the settlement, the companies are required to fund the cleanup of how many former industrial sites?
+A. 1
+B. 2
+C. 3
+D. 4
+Correct Answer: D
+
+Q3. The remediation fund of up to $1.2 billion is intended to be used for what purpose?
+A. To pay the settlement
+B. To fund the cleanup of the four former industrial sites
+C. To set aside a reserve to ensure the cleanup will be completed if any of the companies go bankrupt or default
+D. All of the above
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/02/world/asia/india-russia-oil-trump-threats.html
+Info: News Article
+================================================================================
+Q1. Which country is the article discussing?
+A. Russia
+B. India
+C. United States
+D. China
+Correct Answer: B
+
+Q2. What is the main topic of the article?
+A. The impact of tariffs on India's economy
+B. India's decision to continue purchasing cheap oil from Russia
+C. The growing tension between India and the United States
+D. The latest round of tariffs imposed by President Trump
+Correct Answer: B
+
+Q3. What is the penalty that President Trump has threatened to impose on India?
+A. A tariff rate of 25 percent
+B. An unspecified penalty on top of the tariff rate
+C. A ban on imports of Russian crude oil
+D. None of the above
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/07/31/climate/trump-climate-skeptics-science-report.html
+Info: News Article
+================================================================================
+Q1. What is the name of the report that supports the Trump administration's efforts to roll back climate regulations?
+A. Climate Change Report
+B. Climate Science Report
+C. Climate Research Report
+D. Climate Regulations Report
+Correct Answer: A
+
+Q2. What is the main argument of the report that supports the Trump administration's efforts to roll back climate regulations?
+A. The mainstream scientific view on climate change is too dire and overlooks the positive effects of a warming planet.
+B. The mainstream scientific view on climate change is too optimistic and overlooks the negative effects of a warming planet.
+C. The mainstream scientific view on climate change is accurate and should be followed.
+D. The mainstream scientific view on climate change is not supported by enough evidence.
+Correct Answer: A
+
+Q3. Who is the author of the report that calls the Trump administration's report a "scattershot collection of oft-debunked skeptic claims"?
+A. Zeke Hausfather
+B. Stripe
+C. Berkeley Earth
+D. President Trump
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/07/31/climate/arizona-border-wall-wildlife-migration-jaguars.html
+Info: News Article
+================================================================================
+Q1. Which conservation group released a report about the impact of the Trump administration's plan to build a wall on wildlife in Arizona?
+A. National Geographic
+B. Sierra Club
+C. Center for Biological Diversity
+D. Environmental Defense Fund
+Correct Answer: C. Center for Biological Diversity
+
+Q2. How many species of wildlife have been photographed moving freely across the border in the area where the Trump administration plans to build a wall?
+A. 5
+B. 10
+C. 20
+D. 30
+Correct Answer: C. 20
+
+Q3. Which of the following animals is NOT among the 20 species of wildlife that have been photographed moving freely across the border in the area where the Trump administration plans to build a wall?
+A. Black bears
+B. Mountain lions
+C. Mule deer
+D. Jaguars
+Correct Answer: D. Jaguars
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/07/14/technology/cognition-ai-windsurf.html
+Info: News Article
+================================================================================
+Q1. What is Cognition AI's software coding assistant called?
+A. Bricklayer
+B. Architect
+C. Windsurf
+D. None of the above
+Correct Answer: B. Architect
+
+Q2. What is the focus of engineers according to Cognition AI?
+A. Manual labor of putting systems together
+B. Creativity of designing systems
+C. Bricklaying
+D. None of the above
+Correct Answer: B. Creativity of designing systems
+
+Q3. What is the name of the rival company that Cognition AI bought?
+A. Meta
+B. Google
+C. OpenAI
+D. Windsurf
+Correct Answer: C. OpenAI
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/06/24/business/yemeni-cafe-haraz-coffee-house.html
+Info: News Article
+================================================================================
+Q1. What is the name of the brand that Nasser has had little trouble courting franchisees to open new locations for?
+A. Chick-fil-A
+B. Buffalo Wild Wings
+C. Nasser's Cafe
+D. Starbucks
+Correct Answer: C. Nasser's Cafe
+
+Q2. What is the franchise fee for opening a new location of Nasser's Cafe?
+A. $50,000
+B. $100,000
+C. $200,000
+D. $300,000
+Correct Answer: A. $50,000
+
+Q3. What is the typical investment for opening a new location of Nasser's Cafe?
+A. $250,000
+B. $350,000
+C. $500,000
+D. $600,000
+Correct Answer: C. $500,000
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/05/23/books/tolkien-musk-thiel-silicon-valley.html
+Info: News Article
+================================================================================
+Q1. What is the name of the main character in "The Lord of the Rings" trilogy?
+A. Frodo Baggins
+B. Aragorn
+C. Gandalf
+D. Legolas
+Correct Answer: A
+
+Q2. What is the purpose of the Ring of Power in "The Lord of the Rings"?
+A. To help the group of friends on their journey
+B. To corrupt all who use it
+C. To rule all of Middle-earth through "force and fear"
+D. To be destroyed
+Correct Answer: B
+
+Q3. What is the main allegory of "The Lord of the Rings"?
+A. The corrupting effects of greed and pride
+B. The rejection of consumer culture
+C. The denunciation of militarism and power politics
+D. The love of nature
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/05/20/fashion/jewelry-designers-covid-impact.html
+Info: News Article
+================================================================================
+Q1. What is the name of the collection of early Welsh prose that Ms. discovered in her parents' home?
+A. The Mabinogion
+B. The Iliad
+C. The Odyssey
+D. The Mahabharata
+Correct Answer: A
+
+Q2. What is the name of the fine jewelry brand that uses motifs drawn from Ms.'s native Afghanistan?
+A. Mazahri
+B. Zulaikha Aziz
+C. Angharad
+D. The Mabinogion
+Correct Answer: A
+
+Q3. What is Ms.'s profession?
+A. Lawyer
+B. Jewelry designer
+C. Writer
+D. Historian
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/05/19/books/review/empire-of-ai-karen-hao-the-optimist-keach-hagey.html
+Info: News Article
+================================================================================
+Q1. What is the "paper clip problem" in the world of artificial intelligence?
+A. It is a thought experiment about the dangers of pursuing objectives too literally.
+B. It is a warning about the dangers of creating an artificial superintelligence.
+C. It is a cautionary tale about the dangers of common-sense limits.
+D. It is a story about the dangers of pursuing an artificial superintelligence.
+Correct Answer: A.
+
+Q2. What is the "modern-day colonial world order" in the context of the article?
+A. It refers to the European powers of the 18th and 19th centuries.
+B. It refers to the tech companies of Silicon Valley.
+C. It refers to the countries of Kenya, Colombia, and Chile.
+D. It refers to the pursuit of an artificial superintelligence.
+Correct Answer: A.
+
+Q3. What is the main argument of "Empire of AI"?
+A. The pursuit of an artificial superintelligence is a dangerous and unethical pursuit.
+B. The pursuit of an artificial superintelligence is a necessary and ethical pursuit.
+C. The pursuit of an artificial superintelligence is a dangerous and unethical pursuit, but the paper clip problem is a cautionary tale about the dangers of common-sense limits.
+D. The pursuit of an artificial superintelligence is a necessary and ethical pursuit, and the paper clip problem is a cautionary tale about the dangers of pursuing objectives too literally.
+Correct Answer: A.
+
+================================================================================
+
+
+Link: https://www.nytimes.com/live/2025/08/06/business/tariffs-trump-trade/overturning-the-global-trade-system-trump-puts-his-ideas-to-the-test
+Info: News Article
+================================================================================
+Q1. What is the tariff rate imposed on Switzerland's goods in the United States?
+A. 15%
+B. 39%
+C. 25%
+D. 45%
+Correct Answer: B
+
+Q2. What is the purpose of the meeting between President Keller-Sutter and Secretary of State Rubio?
+A. To discuss the tariff rate on Switzerland's goods in the United States
+B. To discuss the possibility of Switzerland leaving the European Union
+C. To discuss the possibility of a trade agreement between Switzerland and the United States
+D. To discuss the possibility of a trade agreement between Switzerland and the European Union
+Correct Answer: C
+
+Q3. What is the impact of the tariff rate on Swiss businesses?
+A. It will have no impact on Swiss businesses
+B. It will have a minor impact on Swiss businesses
+C. It will have a major impact on Swiss businesses
+D. It will have a devastating impact on Swiss businesses
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/07/business/economy/trump-tariffs-trade-war.html
+Info: News Article
+================================================================================
+Q1. Which countries were affected by President Trump's new tariffs?
+A. 90 countries
+B. 100 countries
+C. 80 countries
+D. 70 countries
+Correct Answer: A
+
+Q2. What did President Trump sign on Thursday?
+A. A set of executive orders that raised rates
+B. A set of executive orders that lowered rates
+C. A set of executive orders that put into force preliminary trade agreements
+D. A set of executive orders that put into force final trade agreements
+Correct Answer: C
+
+Q3. How did President Trump describe the new tariffs?
+A. As a failure
+B. As a success
+C. As a disaster
+D. As a joke
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nytimes.com/live/2025/08/06/business/tariffs-trump-trade/heres-the-latest
+Info: News Article
+================================================================================
+Q1. What is the tariff rate imposed by the United States on Switzerland's goods?
+A. 15%
+B. 31%
+C. 39%
+D. 50%
+Correct Answer: C
+
+Q2. What is the purpose of the meeting between President Keller-Sutter and Secretary of State Rubio?
+A. To discuss the tariff rate imposed by the United States on Switzerland's goods
+B. To discuss the possibility of Switzerland leaving the European Union
+C. To discuss the possibility of a trade agreement between Switzerland and the United States
+D. To discuss the possibility of a trade agreement between Switzerland and the European Union
+Correct Answer: C
+
+Q3. What is the impact of the tariff rate imposed by the United States on Swiss businesses?
+A. It will have no impact on Swiss businesses
+B. It will have a minor impact on Swiss businesses
+C. It will have a major impact on Swiss businesses
+D. It will have a devastating impact on Swiss businesses
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/05/business/economy/imports-data-trump-tariffs.html
+Info: News Article
+================================================================================
+Q1. Which country has suspended, altered, and delayed many of its tariffs?
+A. Japan
+B. European Union
+C. United States
+D. China
+Correct Answer: B. European Union
+
+Q2. What is the prediction of many forecasters regarding the months ahead?
+A. A deterioration in the economy
+B. An improvement in the economy
+C. No change in the economy
+D. A change in the Trump administration's policies
+Correct Answer: A. A deterioration in the economy
+
+Q3. Which research firm provided an economic forecast on Tuesday?
+A. Goldman Sachs
+B. JPMorgan Chase
+C. Oxford Economics
+D. Bank of America
+Correct Answer: C. Oxford Economics
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/08/podcasts/hardfork-gpt5-alexa.html
+Info: News Article
+================================================================================
+Q1. What is the name of the AI model that Kevin Roose vomited and had to be brought back with smelling salts?
+A. GPT-5
+B. GPT-4
+C. Claude
+D. Anthropic
+Correct Answer: B
+
+Q2. What is the purpose of the router that OpenAI has built?
+A. To analyze a user's request and determine how much computation is needed to answer it
+B. To determine if a user's request is a simple query or something more involved
+C. To determine if a user's request is a PhD level intelligence and reasoning request
+D. To determine if a user's request is a pre-training phase model request
+Correct Answer: A
+
+Q3. What is the name of the AI model that Kevin Roose thinks is the next big step forward?
+A. GPT-5
+B. GPT-4
+C. Claude
+D. Anthropic
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/07/business/sydney-sweeney-ad-right-wing-media.html
+Info: News Article
+================================================================================
+Q1. Which American Eagle ad campaign featured Sydney Sweeney?
+A. "Sydney Sweeney has great jeans."
+B. "Sydney Sweeney has great genes."
+C. "Sydney Sweeney has great hair."
+D. "Sydney Sweeney has great teeth."
+Correct Answer: A
+
+Q2. What was the slogan of the American Eagle ad campaign featuring Sydney Sweeney?
+A. "Sydney Sweeney has great jeans."
+B. "Sydney Sweeney has great genes."
+C. "Sydney Sweeney has great hair."
+D. "Sydney Sweeney has great teeth."
+Correct Answer: A
+
+Q3. Which group of people were most critical of the American Eagle ad campaign featuring Sydney Sweeney?
+A. Progressives
+B. Conservatives
+C. Neutrals
+D. Liberals
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/06/science/nasa-nuclear-reactor-moon.html
+Info: News Article
+================================================================================
+Q1. What year were the Voyager 1 and Voyager 2 space probes launched?
+A. 1977
+B. 1987
+C. 1997
+D. 2007
+Correct Answer: A
+
+Q2. What is the power source for the Voyager 1 and Voyager 2 space probes?
+A. Solar panels
+B. Nuclear reactors
+C. Wind turbines
+D. Hydroelectric generators
+Correct Answer: B
+
+Q3. According to a senior NASA official, how much energy can a kilogram of uranium produce?
+A. As much energy as a freight train full of coal
+B. As much energy as a car battery
+C. As much energy as a solar panel
+D. As much energy as a wind turbine
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/04/business/joby-blade-electric-air-taxi.html
+Info: News Article
+================================================================================
+Q1. Which company is planning to buy the passenger business of Blade Air Mobility?
+A. Joby Aviation
+B. Blade Air Mobility
+C. United Airlines
+D. Airbus
+Correct Answer: A
+
+Q2. What is the value of the deal between Joby Aviation and Blade Air Mobility?
+A. $50 million
+B. $100 million
+C. $125 million
+D. $200 million
+Correct Answer: C
+
+Q3. When does Joby Aviation expect to begin flight tests for Federal Aviation Administration certification?
+A. 2025
+B. 2026
+C. 2027
+D. 2028
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/04/technology/ai-boom-san-francisco.html
+Info: News Article
+================================================================================
+Q1. Which company created the ChatGPT chatbot?
+A. Microsoft
+B. Google
+C. Apple
+D. OpenAI
+Correct Answer: D
+
+Q2. What is the name of the new mayor of San Francisco?
+A. Nancy Pelosi
+B. Kamala Harris
+C. Daniel Lurie
+D. Elon Musk
+Correct Answer: C
+
+Q3. What is the main reason that the tech industry's ground zero for big ideas has moved north from Silicon Valley to San Francisco?
+A. More affordable housing
+B. Better public transportation
+C. OpenAI creating the ChatGPT chatbot
+D. San Francisco officials stung by offices that emptied during the pandemic.
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/08/science/space/james-a-lovell-jr-dead.html
+Info: News Article
+================================================================================
+Q1. Who was the commander of the Apollo 13 spacecraft?
+A. Lovell Jr.
+B. Armstrong
+C. Aldrin
+D. Eagle
+Correct Answer: A
+
+Q2. How many hours did Captain Lovell fly in space?
+A. 715 hours
+B. 710 hours
+C. 705 hours
+D. 700 hours
+Correct Answer: A
+
+Q3. In which year did the Apollo 13 spacecraft land safely on Earth?
+A. 1970
+B. 1969
+C. 1968
+D. 1967
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/07/nyregion/sept-11-victims-remains-identified.html
+Info: News Article
+================================================================================
+Q1. What was the prediction of forensic experts 20 years ago regarding DNA recovery from the World Trade Center attacks?
+A. They expected no DNA recovery due to the physical act of the explosion.
+B. They expected DNA recovery due to the physical act of the explosion.
+C. They expected no DNA recovery due to the heat.
+D. They expected DNA recovery due to the heat.
+Correct Answer: A
+
+Q2. When did the New York City medical examiner's office contact the Keating family?
+A. Three years ago.
+B. Twenty years ago.
+C. Five years ago.
+D. Seven years ago.
+Correct Answer: A
+
+Q3. What was the purpose of the contact from the New York City medical examiner's office to the Keating family?
+A. To inform them that their forensic scientists had identified a hairbrush belonging to Ms. Keating among the remains of the World Trade Center attacks.
+B. To inform them that their forensic scientists had identified a hairbrush belonging to someone else among the remains of the World Trade Center attacks.
+C. To inform them that their forensic scientists had identified no remains among the World Trade Center attacks.
+D. To inform them that their forensic scientists were still working on identifying the remains of the World Trade Center attacks.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/06/world/new-zealand-us-antarctic-base-rescue.html
+Info: News Article
+================================================================================
+Q1. Which of the following is true about McMurdo Station?
+A. It is located in the Arctic, not Antarctica.
+B. It typically hosts around 200 people during the summer months.
+C. It has a large medical staff on site, similar to a hospital.
+D. It is the United States' main outpost in the South Pole.
+Correct Answer: D
+
+Q2. Why was the evacuation at McMurdo Station requested?
+A. A staff member required urgent medical care and was unable to be treated there.
+B. The station was experiencing a power outage.
+C. The station was experiencing a snowstorm.
+D. The station was experiencing a heatwave.
+Correct Answer: A
+
+Q3. What is the purpose of the medical staff at McMurdo Station?
+A. To provide emergency medical care to staff members.
+B. To provide routine medical care to staff members.
+C. To provide medical care to research animals.
+D. To provide medical care to tourists.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/04/science/nasa-moon-nuclear-reactor.html
+Info: News Article
+================================================================================
+Q1. Who was appointed as the temporary leader of NASA?
+A. Elon Musk
+B. Jeff Bezos
+C. Sean Duffy
+D. Bill Gates
+Correct Answer: C. Sean Duffy
+
+Q2. What is the deadline for the request seeking proposals from commercial companies?
+A. 30 days
+B. 60 days
+C. 90 days
+D. 120 days
+Correct Answer: B. 60 days
+
+Q3. What is the minimum amount of electrical power that the reactor must generate?
+A. 50 kilowatts
+B. 75 kilowatts
+C. 100 kilowatts
+D. 125 kilowatts
+Correct Answer: C. 100 kilowatts
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/05/business/norway-cabon-capture-northern-lights.html
+Info: News Article
+================================================================================
+Q1. What is the name of the massive structure in Norway?
+A. Carbon Dioxide Tank
+B. Offshore Well
+C. North Sea
+D. Spongy Rock
+Correct Answer: A
+
+Q2. What will be done with the carbon dioxide once it is piped offshore and down the well?
+A. Sold for profit
+B. Used as fuel
+C. Locked away in the spongy rock
+D. Used for garbage disposal
+Correct Answer: C
+
+Q3. What is the goal of Oslo's project?
+A. To increase profits from petroleum industry
+B. To reduce carbon emissions
+C. To create a new kind of garbage disposal service
+D. To sell carbon dioxide for profit
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/01/weather/san-francisco-summer-temperatures-cold-california.html
+Info: News Article
+================================================================================
+Q1. What is the name of the paint superintendent for the Golden Gate Bridge?
+A. Fred Mixon
+B. John Smith
+C. Jane Doe
+D. Sarah Johnson
+Correct Answer: A
+
+Q2. How many days in a summer season does the paint superintendent use heaters on average?
+A. 1 day
+B. 2 days
+C. 3 days
+D. 4 days
+Correct Answer: D
+
+Q3. What is the temperature considered a hot summer day in San Francisco?
+A. 70 degrees
+B. 80 degrees
+C. 90 degrees
+D. 100 degrees
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/01/science/radioactive-wasps-nuclear-savannah-river.html
+Info: News Article
+================================================================================
+Q1. Which radioactive contamination was found in the wasp nests at the Savannah River Site?
+A. High levels of radioactive contamination
+B. Very low levels of radioactive contamination
+C. No radioactive contamination
+D. Moderate levels of radioactive contamination
+Correct Answer: B. Very low levels of radioactive contamination
+
+Q2. What is the purpose of the Department of Energy's management of the discovery of the wasp nests at the Savannah River Site?
+A. To protect SRS workers from health risks
+B. To protect the community and environment from health risks
+C. To study the extent of the environmental contamination at the site
+D. To study the organisms and ecosystems in radioactive regions of the world
+Correct Answer: C. To study the extent of the environmental contamination at the site
+
+Q3. What is the significance of the discovery of the wasp nests with very low levels of radioactive contamination at the Savannah River Site?
+A. It raises questions about the extent of the environmental contamination at the site
+B. It poses a health risk to SRS workers, the community, or the environment
+C. It is not significant because it does not affect the health or safety of anyone
+D. It is significant because it shows the effectiveness of the Department of Energy's management of the site
+Correct Answer: A. It raises questions about the extent of the environmental contamination at the site
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/07/31/podcasts/the-daily/epa-trump-climate-change.html
+Info: News Article
+================================================================================
+Q1. What is the legal and scientific basis for regulating greenhouse gases in the United States?
+A. The Supreme Court ruled in a case called Massachusetts versus EPA that greenhouse gases are not pollutants and the EPA cannot regulate them.
+B. The IPCC established the most comprehensive set of information to date on establishing that climate change is caused by human activities and the dangers that it poses.
+C. The Obama administration determined that climate change and the emissions that are furthering climate change do not cause a danger to human health and welfare.
+D. The EPA is making a series of arguments and alternative arguments, what one legal scholar described as throwing a bunch of spaghetti to see what sticks with a court.
+Correct Answer: B
+
+Q2. What is the Obama administration's decision on regulating emissions from power plants in the United States?
+A. The Obama administration made the decision that it was not a legal fight that it could win and it wasn't a science fight that they felt they could win.
+B. The Obama administration determined that climate change and the emissions that are furthering climate change cause a danger to human health and welfare.
+C. The Obama administration decided to repeal the endangerment finding.
+D. The Obama administration made the decision to reduce methane from leaks from oil and gas wells.
+Correct Answer: A
+
+Q3. What is the business community's attitude towards the endangerment finding in 2016?
+A. The business community was so worried about the endangerment finding that they lobbied heavily against it.
+B. The business community had lost an appetite for fighting the endangerment finding by 2016.
+C. The business community was in favor of the endangerment finding and supported it.
+D. The business community was neutral on the endangerment finding and did not take a position on it.
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/07/30/climate/trump-campaign-funding-oil-industry-tax-breaks.html
+Info: News Article
+================================================================================
+Q1. What is the estimated value of the reduction in federal payments to energy companies for the oil and gas they extract on public lands and waters?
+A. $1.5 billion
+B. $3 billion
+C. $6 billion
+D. $9 billion
+Correct Answer: C. $6 billion
+
+Q2. What is the estimated value of the benefits for the oil industry from the delay of penalties for methane emissions?
+A. $1.5 billion
+B. $3 billion
+C. $6 billion
+D. $9 billion
+Correct Answer: B. $3 billion
+
+Q3. When was the bill signed into law?
+A. January 1, 2021
+B. January 20, 2021
+C. February 17, 2021
+D. March 17, 2021
+Correct Answer: C. February 17, 2021
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/07/11/science/earth-speeding-up-summer-days-shorter.html
+Info: News Article
+================================================================================
+Q1. What is the main reason for the shortening of the average day?
+A. Energy lost from the tides
+B. Human activity
+C. Global warming
+D. Solar radiation
+Correct Answer: A
+
+Q2. How much has the rate of retreat increased in the past decade?
+A. 1 centimeter per year
+B. 2 centimeters per year
+C. 4 centimeters per year
+D. 6 centimeters per year
+Correct Answer: C
+
+Q3. According to the article, what is the total angular momentum of the moon and Earth system?
+A. Increasing
+B. Decreasing
+C. Constant
+D. Unknown
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/06/25/science/space/fred-espenak-dead.html
+Info: News Article
+================================================================================
+Q1. What is Fred Espenak's occupation?
+A. Astronaut
+B. Scientist
+C. Engineer
+D. Doctor
+Correct Answer: B
+
+Q2. Where did Fred Espenak go to grad school?
+A. University of Toledo
+B. Kitt Peak National Observatory
+C. Harvard University
+D. Massachusetts Institute of Technology
+Correct Answer: A
+
+Q3. What is Fred Espenak's favorite type of music?
+A. Jazz
+B. Rock
+C. Country
+D. Pop
+Correct Answer: Not mentioned in the article
+
+================================================================================
+
+
+Link: https://www.nytimes.com/explain/2025/science/astronomy-space-calendar-events
+Info: News Article
+================================================================================
+Q1. What is the main purpose of the trove of data mentioned in the article?
+A. To reveal the story of our galaxy's birth
+B. To catalog asteroids and comets in our solar system
+C. To help develop a rocket for the Artemis II moon mission
+D. To study the moon
+
+Q2. What is the name of the rocket that will be used for the Artemis II moon mission?
+A. Space Launch System
+B. Odysseus lander
+C. Starship vehicle
+D. Axiom Space
+
+Q3. What is the main objective of India's orbital objective?
+A. To study the moon
+B. To develop a rocket for the Artemis II moon mission
+C. To catch the upper-stage Starship vehicle after it completes an orbit of Earth
+D. To spend up to 14 days aboard the International Space Station during a commercial mission with the company Axiom Space
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/06/25/science/spacex-launch-axiom-mission-4-watch.html
+Info: News Article
+================================================================================
+Q1. Which country is the pilot of the Falcon 9 rocket?
+A. Hungary
+B. India
+C. Poland
+D. United States
+Correct Answer: B
+
+Q2. What is the goal of Shubhanshu Shukla, the Indian astronaut on the mission?
+A. To help India become the fourth country to independently launch people into space
+B. To study the effects of microgravity on the human body
+C. To conduct experiments on the International Space Station
+D. To learn how to pilot a Falcon 9 rocket
+Correct Answer: A
+
+Q3. Which country is the mechanical engineer on the mission from?
+A. Hungary
+B. India
+C. Poland
+D. United States
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/03/health/maid-medical-assistance-dying-colombia.html
+Info: News Article
+================================================================================
+Q1. What is the name of the person who was diagnosed with terminal lung cancer?
+A. Andia
+B. A terminally ill patient seeking a hastened death
+C. A liberal high court
+D. A former official in Colombia's health ministry
+Correct Answer: A
+
+Q2. What country was the first in Latin America to allow assisted death?
+A. Argentina
+B. Colombia
+C. France
+D. Brazil
+Correct Answer: B
+
+Q3. What was the motivation behind the liberal high court petitioning for assisted death?
+A. To challenge the law
+B. To promote a better way of dying
+C. To protect the rights of terminally ill patients
+D. To expand access to assisted death
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/07/magazine/suboxone-buprenorphine-opioid-addiction-drugs.html
+Info: News Article
+================================================================================
+Q1. Who was the first scientist to document the potential of buprenorphine as an effective treatment for addiction?
+A. Charles O'Keeffe
+B. A scientist in the late 1970s
+C. A doctor in the early 20th century
+D. Reckitt
+
+Q2. What was the stigma surrounding buprenorphine in the early 20th century?
+A. It was legal for doctors to prescribe to addicted patients
+B. It was illegal for doctors to prescribe to addicted patients, even for withdrawal symptoms or physical dependence
+C. It was legal for doctors to prescribe to addicted patients, but only for pain relief
+D. It was illegal for doctors to prescribe to addicted patients, but only for pain relief
+
+Q3. What was Reckitt's goal in hiring Charles O'Keeffe?
+A. To help set up distribution of buprenorphine in the United States
+B. To help set up distribution of a different drug in the United States
+C. To help set up distribution of a drug in another country
+D. To help set up distribution of a different drug in another country
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/sports/2025/8/9/who-are-premier-league-title-favourites-liverpool-arsenal-man-city-utd?traffic_source=rss
+Info: News Article
+================================================================================
+Q1. Which player has joined Real Madrid from Liverpool?
+A. Trent Alexander-Arnold
+B. Mohamed Salah
+C. Diogo Jota
+D. Virgil van Dijk
+Correct Answer: A
+
+Q2. Which team won the treble in 2023?
+A. Arsenal
+B. Chelsea
+C. Manchester City
+D. Paris Saint-Germain
+Correct Answer: C
+
+Q3. Which team has signed Omar Marmoush?
+A. Manchester United
+B. Manchester City
+C. Liverpool
+D. Arsenal
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/9/iran-rejects-planned-transit-corridor-outlined-in-armenia-azerbaijan-pact?traffic_source=rss
+Info: News Article: Iran Rejects Planned Transit Corridor Outlined In Armenia Azerbaijan Pact?Traffic_Source=Rss
+================================================================================
+Q1. What is the name of the strategic alliance between Iran and Armenia?
+A. NATO
+B. SCO
+C. CSTO
+D. Russia
+Correct Answer: D. Russia
+
+Q2. What is the purpose of the transport corridor included in the peace deal between Armenia and Azerbaijan?
+A. To link Azerbaijan to Nakhchivan
+B. To link Armenia to Azerbaijan
+C. To link Azerbaijan to Turkey
+D. To link Armenia to Russia
+Correct Answer: A. To link Azerbaijan to Nakhchivan
+
+Q3. What is the opinion of the Russian Ministry of Foreign Affairs on the involvement of non-regional players in the peace process between Armenia and Azerbaijan?
+A. It supports it
+B. It opposes it
+C. It is neutral on the matter
+D. It has not made a statement on the matter
+Correct Answer: B. It opposes it
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/9/palestinian-foreign-minister-demands-action-to-end-israels-gaza-genocide?traffic_source=rss
+Info: News Article: Palestinian Foreign Minister Demands Action To End Israels Gaza Genocide?Traffic_Source=Rss
+================================================================================
+Q1. What is the Palestinian foreign affairs minister's name?
+A. Varsen Aghabekian Shahin
+B. Mahmoud Abbas
+C. Benjamin Netanyahu
+D. Yasser Arafat
+Correct Answer: A
+
+Q2. What is the Israeli security cabinet's plan for Gaza City?
+A. To seize Gaza City and forcibly displace nearly one million Palestinians to concentration zones in the south of the bombarded coastal enclave.
+B. To establish a peaceful civilian administration in Gaza City, one that is not the Palestinian Authority, not Hamas, and not any other terrorist organization.
+C. To establish a Palestinian state in Gaza City.
+D. To withdraw from Gaza City and allow Palestinians to govern themselves.
+Correct Answer: A
+
+Q3. What is the Palestinian foreign affairs minister's message to the international community regarding the situation in Gaza?
+A. The international community should take action against Israel's genocide in Gaza.
+B. The international community should provide unwavering diplomatic and military support to Israel.
+C. The international community should ignore the situation in Gaza and allow Israel to continue its expansionist ideology.
+D. The international community should establish a peaceful civilian administration in Gaza City, one that is not the Palestinian Authority, not Hamas, and not any other terrorist organization.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/9/uk-police-arrest-at-least-200-in-palestine-action-protest-in-london?traffic_source=rss
+Info: News Article: Uk Police Arrest At Least 200 In Palestine Action Protest In London?Traffic_Source=Rss
+================================================================================
+Q1. What is the name of the group that was classified as a "terror organization" by the British government?
+A. Palestine Action
+B. Defend Our Juries
+C. Amnesty International UK
+D. John McDonnell
+Correct Answer: A
+
+Q2. What is the reason why the British government classified Palestine Action as a "terror organization"?
+A. The group is accused of Israeli war crimes in Gaza
+B. The group opposes the genocide in Gaza
+C. The group is banned from protesting in the UK
+D. The group is accused of committing terrorist acts
+Correct Answer: A
+
+Q3. What is the name of the advocacy group that organized the protest in support of Palestine Action?
+A. Defend Our Juries
+B. Amnesty International UK
+C. John McDonnell
+D. Palestine Action
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/9/syria-backs-out-of-paris-talks-with-kurdish-led-fighters-state-tv?traffic_source=rss
+Info: News Article: Syria Backs Out Of Paris Talks With Kurdish Led Fighters State Tv?Traffic_Source=Rss
+================================================================================
+Q1. What is the name of the Syrian government agency that reported on Saturday?
+A. SANA
+B. SDF
+C. Syria
+D. Interim Government
+Correct Answer: A
+
+Q2. What is the purpose of the integration deal signed this year?
+A. To stitch back together a country fractured by 14 years of war
+B. To allow Kurdish-led forces to integrate with Damascus
+C. To hold negotiations in Paris
+D. To cast doubt over the integration deal
+Correct Answer: A
+
+Q3. What is the location of the planned meetings according to SANA’s report?
+A. Paris
+B. Damascus
+C. Syria
+D. Kurdish-led Syrian Democratic Forces (SDF)
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/9/israeli-forces-kill-aid-seekers-as-gaza-starvation-death-toll-rises?traffic_source=rss
+Info: News Article: Israeli Forces Kill Aid Seekers As Gaza Starvation Death Toll Rises?Traffic_Source=Rss
+================================================================================
+Q1. What is the total number of malnutrition deaths in Gaza since October 2023?
+A. 212
+B. 108
+C. 154
+D. 246
+Correct Answer: A
+
+Q2. How many aid trucks per day is the World Food Programme calling for to meet the basic needs of Gaza residents?
+A. 100
+B. 600
+C. 300
+D. 400
+Correct Answer: B
+
+Q3. What is the UN agency for Palestinian refugees, UNRWA, calling on Israel to do to allow humanitarian aid into Gaza?
+A. Lift its siege on Gaza
+B. Increase the number of aid trucks per day
+C. Allow only 100 aid trucks per day
+D. Increase the number of aid trucks per day to 600
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/9/six-lebanese-soldiers-killed-in-explosion-in-southern-lebanon?traffic_source=rss
+Info: News Article: Six Lebanese Soldiers Killed In Explosion In Southern Lebanon?Traffic_Source=Rss
+================================================================================
+Q1. What was the Lebanese army doing at the time of the explosion?
+A. Dismantling Hezbollah military infrastructure
+B. Conducting a military exercise
+C. Attacking an Israeli military base
+D. None of the above
+Correct Answer: A
+
+Q2. What was the purpose of the ceasefire deal with Israel?
+A. To disarm Hezbollah
+B. To establish a new border between Lebanon and Israel
+C. To increase military cooperation between Lebanon and Israel
+D. None of the above
+Correct Answer: A
+
+Q3. What was the reaction of the Lebanese government to the deadly explosion?
+A. Condemnation of the explosion
+B. Celebration of the explosion
+C. Acceptance of responsibility for the explosion
+D. None of the above
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/9/india-says-six-pakistani-aircraft-shot-down-during-kashmir-conflict?traffic_source=rss
+Info: News Article: India Says Six Pakistani Aircraft Shot Down During Kashmir Conflict?Traffic_Source=Rss
+================================================================================
+Q1. Which country shot down the Pakistani fighter jets and military aircraft?
+A. India
+B. Pakistan
+C. China
+D. United States
+Correct Answer: A
+
+Q2. How many Pakistani fighter jets and military aircraft were shot down by India?
+A. 2
+B. 5
+C. 7
+D. 10
+Correct Answer: B
+
+Q3. What type of aircraft was shot down at a distance of 300km (186 miles)?
+A. Fighter jet
+B. Surveillance plane
+C. Bomber
+D. Helicopter
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/9/thai-soldiers-injured-by-landmine-near-cambodia-amid-fragile-truce?traffic_source=rss
+Info: News Article: Thai Soldiers Injured By Landmine Near Cambodia Amid Fragile Truce?Traffic_Source=Rss
+================================================================================
+Q1. Which country did the three injured Thai soldiers patrol the border with?
+A. Cambodia
+B. Laos
+C. Vietnam
+D. Myanmar
+Correct Answer: A
+
+Q2. What happened to one of the injured Thai soldiers?
+A. He lost a foot
+B. He was injured in the leg
+C. He was injured in the arm
+D. He was injured in the head
+Correct Answer: A
+
+Q3. What is the Thai foreign ministry planning to do after the incident?
+A. Lodge a complaint against Cambodia for violating a treaty that bans the use of landmines
+B. Lodge a complaint against Cambodia for infringing Thai sovereignty
+C. Lodge a complaint against the United States for not concluding trade deals with them
+D. None of the above
+Correct Answer: A and B
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/9/how-rfk-jrs-vaccine-funding-cuts-fit-with-trumps-vision?traffic_source=rss
+Info: News Article: How Rfk Jrs Vaccine Funding Cuts Fit With Trumps Vision?Traffic_Source=Rss
+================================================================================
+Q1. What is the name of the US Health and Human Services Secretary who made the announcement about cutting funding for mRNA vaccine development?
+A. David Elliman
+B. Robert F Kennedy Jr
+C. Donald Trump
+D. David Sastry
+Correct Answer: B. Robert F Kennedy Jr
+
+Q2. According to the article, why did the US Health and Human Services Secretary Robert F Kennedy Jr cut funding for mRNA vaccine development?
+A. The technology has great promise for vaccines and therapeutics
+B. The Biomedical Advanced Research and Development Authority (BARDA) in the Department of Health and Human Services (HHS) found mRNA vaccines to be ineffective in fighting mutating viruses
+C. The move is part of an increasingly ideological rather than evidence-based approach to healthcare and vaccination
+D. The US government is no longer recommending COVID-19 vaccines for healthy children and pregnant women
+Correct Answer: C. The move is part of an increasingly ideological rather than evidence-based approach to healthcare and vaccination
+
+Q3. What is the name of the organization that was formed in 2002 to support vaccine distribution to low and middle-income countries?
+A. World Health Organization
+B. Global Vaccine Alliance
+C. Centers for Disease Control and Prevention
+D. National Institute of Health
+Correct Answer: B. Global Vaccine Alliance
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/sports/2025/8/9/manchester-united-complete-benjamin-sesko-signing-from-rp-leipzig?traffic_source=rss
+Info: News Article
+================================================================================
+Q1. What is the name of the manager at Manchester United?
+A. Ruben Amorim
+B. Erik Ten Hag
+C. Ole Solskjaer
+D. Jose Mourinho
+Correct Answer: A
+
+Q2. How many goals did Manchester United's current strikers score in all competitions last term?
+A. 10 goals
+B. 15 goals
+C. 18 goals
+D. 20 goals
+Correct Answer: C
+
+Q3. What is the height of Manchester United's new signing, Sesko?
+A. 1.75 meters (5 feet, 9 inches)
+B. 1.8 meters (5 feet, 11 inches)
+C. 1.9 meters (6 feet)
+D. 2 meters (6 feet, 7 inches)
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/gallery/2025/8/9/elvis-inspired-teacher-fights-roma-prejudice-with-music-and-heart?traffic_source=rss
+Info: News Article
+================================================================================
+Q1. Who is the speaker in the article?
+A. Elvis Presley
+B. Lakatos
+C. A person from Romania
+D. A person from Mississippi
+Correct Answer: B
+
+Q2. What is the message of the song "Don't Step on My Bare Feet" in Lakatos' version?
+A. It is a message that Elvis would have understood
+B. It is a message to educate the next generation
+C. It is a message to stop being called a Gypsy
+D. It is a message to make friends with Romanians
+Correct Answer: A
+
+Q3. What is Lakatos' profession?
+A. A person from Romania
+B. A person from Mississippi
+C. A teacher
+D. A performer
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/9/before-trump-putin-talks-ukraine-rules-out-gifting-land-to-occupier?traffic_source=rss
+Info: News Article: Before Trump Putin Talks Ukraine Rules Out Gifting Land To Occupier?Traffic_Source=Rss
+================================================================================
+Q1. What did Ukrainian President Volodymyr Zelenskyy rule out in his comments about the war between Russia and Ukraine?
+A. Ceding land to Russia
+B. Negotiations aimed at ending the war
+C. Violation of the constitution on territorial issues
+D. Dignified peace
+Correct Answer: C
+
+Q2. What did US President Donald Trump say a peace deal would involve in his comments about the war between Russia and Ukraine?
+A. Some swapping of territories
+B. No violation of the constitution on territorial issues
+C. Real decisions that could bring a dignified peace
+D. Europeans will also necessarily be part of the solution
+Correct Answer: A
+
+Q3. What did Russian President Vladimir Putin repeatedly say any deal must require Ukraine to relinquish in his comments about the war between Russia and Ukraine?
+A. Some swapping of territories
+B. No violation of the constitution on territorial issues
+C. Real decisions that could bring a dignified peace
+D. Occupied territory
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/sports/2025/8/9/ballon-dor-holder-rodri-suffers-latest-man-city-injury-set-back?traffic_source=rss
+Info: News Article
+================================================================================
+Q1. What is the name of the player who is recovering from a big injury?
+A. Rodri
+B. Pep Guardiola
+C. Al Hilal
+D. Wolverhampton Wanderers
+Correct Answer: A
+
+Q2. What is the injury that Rodri sustained?
+A. A fracture
+B. A sprain
+C. A concussion
+D. A dislocation
+Correct Answer: B
+
+Q3. When does Manchester City begin their Premier League campaign?
+A. August 15
+B. August 16
+C. August 17
+D. August 18
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/9/at-least-one-killed-as-firefighters-battle-greece-blaze-for-second-day?traffic_source=rss
+Info: News Article: At Least One Killed As Firefighters Battle Greece Blaze For Second Day?Traffic_Source=Rss
+================================================================================
+Q1. What was the status of the Keratea blaze reported by Reuters on Saturday morning?
+A. Out of control
+B. Under control
+C. Not mentioned
+D. Unknown
+Correct Answer: B
+
+Q2. How many firefighters and what types of aircraft were deployed to battle the Keratea blaze?
+A. 200 firefighters, 11 water bombers, 7 helicopters
+B. 100 firefighters, 5 water bombers, 3 helicopters
+C. 50 firefighters, 7 water bombers, 5 helicopters
+D. 150 firefighters, 9 water bombers, 4 helicopters
+Correct Answer: A
+
+Q3. What was the forecasted wind speed for Saturday in the Attica region, according to the national weather service EMY?
+A. Up to 50 km/h
+B. Up to 74 km/h
+C. Up to 100 km/h
+D. Up to 120 km/h
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/9/uganda-court-denies-bail-to-opposition-leader-kizza-besigye-in-treason-case?traffic_source=rss
+Info: News Article: Uganda Court Denies Bail To Opposition Leader Kizza Besigye In Treason Case?Traffic_Source=Rss
+================================================================================
+Q1. When did Judge Emmanuel Baguma begin his 180-day maximum period before mandatory bail was granted?
+A. February 21
+B. November last year
+C. January 1
+D. March 1
+Correct Answer: A
+
+Q2. What is the name of the opposition leader who has raised concerns about the crackdown ahead of Uganda's national election?
+A. Bobi Wine
+B. Yoweri Museveni
+C. Besigye
+D. Emmanuel Baguma
+Correct Answer: A
+
+Q3. What was the initial charge of Besigye, who was forcefully returned to Uganda from neighbouring Kenya in November last year?
+A. Treason
+B. Murder
+C. Assault
+D. Fraud
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/features/2025/8/9/how-a-drowning-victim-became-a-lifesaving-icon?traffic_source=rss
+Info: News Article
+================================================================================
+Q1. Who developed the basics of CPR?
+A. Peter Safar
+B. Norwegian toymaker
+C. Albert Camus
+D. Rainer Maria Rilke
+Correct Answer: A
+
+Q2. What was the name of the woman whose face was used for the first CPR doll?
+A. Annie
+B. Mona Lisa
+C. Pal Oftedal
+D. Resusci Anne
+Correct Answer: D
+
+Q3. What is the name of the song that repeats the phrase “Annie, are you OK?”?
+A. Smooth Criminal
+B. Heartbeat
+C. Urgency
+D. Rhythm
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/9/brazils-president-lula-vetoes-parts-of-environmental-devastation-bill?traffic_source=rss
+Info: News Article: Brazils President Lula Vetoes Parts Of Environmental Devastation Bill?Traffic_Source=Rss
+================================================================================
+Q1. Which Brazilian president signed the bill easing environmental licensing rules?
+A. Jair Bolsonaro
+B. Luiz Inacio Lula da Silva
+C. Dilma Rousseff
+D. Michel Temer
+Correct Answer: B
+
+Q2. How many provisions of the "devastation bill" were vetoed by Brazilian President Luiz Inacio Lula da Silva?
+A. 26
+B. 37
+C. 63
+D. 70
+Correct Answer: C
+
+Q3. What is the goal of Brazil's licensing framework according to Environment Minister Marina Silva?
+A. To eliminate deforestation by 2030
+B. To increase deforestation by 2030
+C. To maintain the current rate of deforestation
+D. To decrease deforestation by 2030
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/features/2025/8/9/attack-on-peoples-memory-kashmirs-book-ban-sparks-new-censorship-fears?traffic_source=rss
+Info: News Article
+================================================================================
+Q1. What is the name of the book banned by the Indian government that offers a detailed overview of the events surrounding the Partition of India and the reasons why Kashmir became such an intransigent territorial dispute to begin with?
+A. Azadi
+B. Human Rights Violations in Kashmir
+C. Kashmiris’ Fight for Freedom
+D. Do You Remember Kunan Poshpora?
+Correct Answer: A
+
+Q2. What is the reason given by the Indian government for banning the books on the blacklist?
+A. They would deeply impact the psyche of youth by promoting a culture of grievance, victimhood, and terrorist heroism.
+B. They would promote a culture of grievance, victimhood, and terrorist heroism.
+C. They would promote a culture of grievance, victimhood, and terrorist heroism.
+D. They would promote a culture of grievance, victimhood, and terrorist heroism.
+Correct Answer: A
+
+Q3. What is the name of the book banned by the Indian government that dissects the region’s political journey over the decades?
+A. Kanjwal’s
+B. Anuradha Bhasin’s A Dismantled State
+C. AG Noorani’s The Kashmir Dispute 1947-2012
+D. Mohd Yusaf Saraf’s Kashmir Politics and Plebiscite
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/9/adidas-accused-of-cultural-appropriation-by-mexico-over-new-footwear-design?traffic_source=rss
+Info: News Article: Adidas Accused Of Cultural Appropriation By Mexico Over New Footwear Design?Traffic_Source=Rss
+================================================================================
+Q1. What is the name of the village where the original design of the Adidas shoes was created?
+A. Villa de Hidalgo Yalalag
+B. Villa de Hidalgo Yalalag
+C. Villa de Hidalgo Yalalag
+D. Villa de Hidalgo Yalalag
+Correct Answer: A
+
+Q2. What is the criticism of the Adidas design by the governor of Oaxaca state?
+A. The design is not authorised by the Indigenous community.
+B. The design is not authorised by the Indigenous community.
+C. The design is not authorised by the Indigenous community.
+D. The design is not authorised by the Indigenous community.
+Correct Answer: A
+
+Q3. What is the legal challenge that the National Institute of Indigenous Peoples will launch over the Adidas design?
+A. The legal challenge will be against the use of cultural expressions that provide identity to communities.
+B. The legal challenge will be against the use of cultural expressions that provide identity to communities.
+C. The legal challenge will be against the use of cultural expressions that provide identity to communities.
+D. The legal challenge will be against the use of cultural expressions that provide identity to communities.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/9/singapore-celebrates-success-on-60th-anniversary-but-challenges-loom-ahead?traffic_source=rss
+Info: News Article: Singapore Celebrates Success On 60Th Anniversary But Challenges Loom Ahead?Traffic_Source=Rss
+================================================================================
+Q1. In what year did Singapore's fertility rate fall below 1.0 for the first time?
+A. 2023
+B. 2022
+C. 2021
+D. 2020
+Correct Answer: A
+
+Q2. What is the name of the new fourth tower of hotel rooms that will be built at Marina Bay Sands?
+A. Tower 1
+B. Tower 2
+C. Tower 3
+D. Tower 4
+Correct Answer: D
+
+Q3. According to the article, what is the expected impact of a flood on Singapore's infrastructure?
+A. The flood would not affect the infrastructure significantly
+B. The flood would cause some damage to the infrastructure
+C. The flood would completely destroy the infrastructure
+D. The flood would cause a minor inconvenience to the infrastructure
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/9/nagasaki-bells-to-ring-together-for-the-first-time-since-us-atomic-bomb?traffic_source=rss
+Info: News Article: Nagasaki Bells To Ring Together For The First Time Since Us Atomic Bomb?Traffic_Source=Rss
+================================================================================
+Q1. What was the name of the church in Nagasaki that was almost completely destroyed by the atomic bomb?
+A. Urakami Cathedral
+B. Hiroshima Cathedral
+C. Nagasaki Church
+D. Tokyo Cathedral
+Correct Answer: A
+
+Q2. Who was the sociology professor at Williams College in Massachusetts who spearheaded the fundraising campaign for the new church bell?
+A. James Nolan
+B. John Smith
+C. Michael Brown
+D. David Jones
+Correct Answer: A
+
+Q3. When was the atomic bomb dropped on Nagasaki?
+A. August 7, 1945
+B. August 9, 1945
+C. August 14, 1945
+D. August 15, 1945
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://nbcnews.com/specials/israel-buffer-zones-borders-gaza-post-oct-7-military-doctrine/
+Info: News Article
+================================================================================
+Q1. What is the name of the Israeli military?
+A. Israel Defense Forces
+B. Israeli Army
+C. Israeli Navy
+D. Israeli Air Force
+Correct Answer: A
+
+Q2. What is the purpose of the Israeli military's presence in the security zones?
+A. To protect the communities in Gaza
+B. To evacuate areas that have been cleared and seized
+C. To remain in the security zones as a buffer between the enemy and the communities in any temporary or permanent situation in Gaza
+D. To protect the established borders with Lebanon, Syria and Gaza
+Correct Answer: C
+
+Q3. What is the Israeli military's network of fortifications called?
+A. The Wall
+B. The Barrier
+C. The Fence
+D. The Line
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/politics/donald-trump/trumps-meeting-putin-high-stakes-ukraine-war-legacy-rcna223904
+Info: News Article
+================================================================================
+Q1. What is the purpose of the meeting between Trump and Putin?
+A. To establish a ceasefire in the war
+B. To discuss the interference of Russia in the 2016 presidential election
+C. To discuss the annexation of Crimea by Russia
+D. To discuss the role of third parties in the conflict
+
+Q2. What does McFaul caution Trump about when sitting in a room with Putin?
+A. That Putin will try to stall the president further
+B. That Putin will try to carve up Ukraine
+C. That Putin will try to divert the president from the war
+D. That Putin will try to end the war
+
+Q3. What is the potential outcome of the meeting between Trump and Putin?
+A. A ceasefire in the war
+B. A carving up of Ukraine
+C. A diversion from the war
+D. A symbolic victory for Putin
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/news/us-news/ghislaine-maxwell-puts-uncomfortable-spotlight-prison-camp-town-texas-rcna223669
+Info: News Article: Ghislaine Maxwell Puts Uncomfortable Spotlight Prison Camp Town Texas Rcna223669
+================================================================================
+Q1. Who is Marina Boland?
+A. A resident of Bryan, Texas
+B. A former employee of the federal Bureau of Prisons
+C. A wealthy financier who had cultivated friendships and relationships with powerful people
+D. A woman who lives across a highway from the prison
+Correct Answer: D
+
+Q2. What is the politically charged debate about?
+A. The release of files related to Epstein
+B. The federal government's investigation into Epstein
+C. The fact that Maxwell returned to the spotlight
+D. The fact that Deputy Attorney General Todd Blanche met with Maxwell
+Correct Answer: A
+
+Q3. What is the controversy surrounding Maxwell's move to a prison camp?
+A. The fact that she isn't slated for release until July 2037
+B. The fact that she would be placed there given her sex offense charges
+C. The fact that she requires a higher level of security
+D. The fact that security has traditionally been lax at the prison camp
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/news/us-news/dale-earnhardt-widow-son-battle-data-center-mooresville-north-carolina-rcna223895
+Info: News Article: Dale Earnhardt Widow Son Battle Data Center Mooresville North Carolina Rcna223895
+================================================================================
+Q1. What is the estimated global spending on data centers in the next five years according to McKinsey?
+A. $1.3 trillion
+B. $3.5 trillion
+C. $7 trillion
+D. $10 trillion
+Correct Answer: C. $7 trillion
+
+Q2. What happened in Oldham County, Kentucky regarding a data center project?
+A. The project was completed successfully.
+B. The project was abandoned due to community opposition.
+C. The project was delayed due to environmental concerns.
+D. The project was moved to a different location.
+Correct Answer: B. The project was abandoned due to community opposition.
+
+Q3. What is the main concern of the community in Mooresville regarding the data center project?
+A. The project will overtax the electric grid.
+B. The project will pollute the water and air.
+C. The project will disrupt the rural peace with hulking structures emitting a high-tech hum.
+D. The project will not provide enough jobs for the local community.
+Correct Answer: C. The project will disrupt the rural peace with hulking structures emitting a high-tech hum.
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/world/middle-east/gaza-aid-drops-starvation-israel-hamas-war-invasion-rcna224029
+Info: News Article
+================================================================================
+Q1. What is the name of the nonprofit organization that arranges volunteer medical missions to Gaza?
+A. MedGlobal
+B. Doctors Without Borders
+C. International Committee of the Red Cross
+D. World Health Organization
+Correct Answer: A
+
+Q2. What is the name of the Israeli military plane that dropped food, medicine, and other supplies into Gaza?
+A. F-16
+B. C-130
+C. B-52
+D. A-10
+Correct Answer: B
+
+Q3. What is the name of the United Nations Secretary-General who condemned the Israeli plan to take control of Gaza City?
+A. Ban Ki-moon
+B. Xi Jinping
+C. Angela Merkel
+D. António Guterres
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/news/us-news/emilie-kisers-husband-nba-bet-son-drowning-rcna224057
+Info: News Article: Emilie Kisers Husband Nba Bet Son Drowning Rcna224057
+================================================================================
+Q1. What was the name of the influencer who was out with friends on May 12 when her 3-year-old son drowned in the family's backyard pool?
+A. Emilie Kiser
+B. Brady Kiser
+C. Trigger
+D. None of the above
+Correct Answer: A
+
+Q2. What was the reason why Brady Kiser was not charged with child abuse after his 3-year-old son drowned in the family's backyard pool?
+A. There was no reasonable likelihood of conviction.
+B. Brady Kiser placed a $25 bet on an NBA playoff game before the tragic incident.
+C. Trigger was unsupervised for at least nine minutes and had been in the water for at least seven before Brady Kiser found him.
+D. None of the above
+Correct Answer: A
+
+Q3. What was the result of the incident that led to the death of Brady Kiser's 3-year-old son?
+A. Trigger was able to swim out of the pool.
+B. Trigger was supervised by Brady Kiser while playing around the unsecured pool.
+C. Trigger was unsupervised while playing around the unsecured pool and unable to swim.
+D. None of the above
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/science/science-news/storms-threaten-parts-midwest-southeast-rcna224048
+Info: News Article
+================================================================================
+Q1. Which states are expected to be affected by heavy rainfall and flash flooding this weekend?
+A. Missouri, Iowa, and Wisconsin
+B. Georgia, Florida, and Arizona
+C. California, Texas, and New Mexico
+D. Nevada, Utah, and Colorado
+Correct Answer: A
+
+Q2. What is the forecast for continued daily rounds of heavy rainfall on saturated ground in the coastal southeast region of the United States?
+A. A localized flood risk is not expected through the weekend.
+B. The forecast calls for very heavy rainfall along a corridor stretching from northern Missouri through southern Iowa and into southern Wisconsin.
+C. The forecast calls for very heavy rainfall along a corridor stretching from northern California through southern Texas and into New Mexico.
+D. The forecast calls for very heavy rainfall along a corridor stretching from northern Arizona through southern Utah and into Colorado.
+Correct Answer: B
+
+Q3. What is the forecast for high temperatures in Arizona and other parts of the Southwest this weekend?
+A. High temperatures approaching or exceeding 110 degrees are not possible.
+B. High temperatures approaching or exceeding 100 degrees are possible.
+C. High temperatures approaching or exceeding 90 degrees are possible.
+D. High temperatures approaching or exceeding 80 degrees are possible.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/science/science-news/evacuation-orders-lifted-californias-canyon-fire-rcna223950
+Info: News Article
+================================================================================
+Q1. What is the name of the wildfire currently burning in California?
+A. Tunnel Fire
+B. Thomas Fire
+C. Woolsey Fire
+D. Saddle Ridge Fire
+Correct Answer: C. Woolsey Fire
+
+Q2. What is the current status of the Woolsey Fire?
+A. Active Threat
+B. Controlled
+C. Extinguished
+D. None of the above
+Correct Answer: A. Active Threat
+
+Q3. How many firefighters were injured while battling the Woolsey Fire?
+A. 1
+B. 2
+C. 3
+D. 4
+Correct Answer: C. 3
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/sports/nfl/nfl-preseason-stars-joe-burrow-aaron-rodgers-rcna223941
+Info: News Article
+================================================================================
+Q1. What is the trend in the NFL regarding preseason workloads for starters?
+A. Teams are starting to increase the amount of preseason work for starters.
+B. Teams are starting to decrease the amount of preseason work for starters.
+C. Teams are starting to eliminate preseason work for starters entirely.
+D. Teams are starting to hold out their best players entirely during the preseason.
+Correct Answer: C. Teams are starting to eliminate preseason work for starters entirely.
+
+Q2. What is the trend in the NFL regarding joint practices?
+A. Teams are starting to decrease the amount of joint practices.
+B. Teams are starting to eliminate joint practices entirely.
+C. Teams are starting to increase the amount of joint practices.
+D. Teams are starting to hold out their best players entirely during joint practices.
+Correct Answer: A. Teams are starting to decrease the amount of joint practices.
+
+Q3. What is the trend in the NFL regarding starters playing in preseason games?
+A. Teams are starting to increase the amount of starters playing in preseason games.
+B. Teams are starting to decrease the amount of starters playing in preseason games.
+C. Teams are starting to eliminate starters playing in preseason games entirely.
+D. Teams are starting to hold out their best players entirely during preseason games.
+Correct Answer: B. Teams are starting to decrease the amount of starters playing in preseason games.
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/news/nbcblk/octavia-e-butler-internet-biography-positive-obsession-susanna-miller-rcna223730
+Info: News Article: Octavia E Butler Internet Biography Positive Obsession Susanna Miller Rcna223730
+================================================================================
+Q1. What was Octavia E. Butler's primary occupation before becoming a writer?
+A. Factory worker
+B. Warehouse worker
+C. Telemarketer
+D. None of the above
+Correct Answer: A
+
+Q2. What is the title of Octavia E. Butler's 1987 short story that Morris uses to talk to students about the marginalization of people with disabilities?
+A. "The Evening and the Morning and the Night"
+B. "Parable of the Talents"
+C. "Positive Obsession"
+D. "Kindred"
+Correct Answer: A
+
+Q3. What genre does Morris classify Octavia E. Butler's work as?
+A. Science fiction
+B. Speculative fiction
+C. Fantasy
+D. Mystery
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/sports/soccer/sheffield-wednesday-soccer-crisis-rcna223344
+Info: News Article
+================================================================================
+Q1. What is the name of the soccer team that is facing financial problems and has not been sold?
+A. Liverpool
+B. Manchester City
+C. Sheffield Wednesday FC
+D. Arsenal
+Correct Answer: C
+
+Q2. What is the new law that will launch a football regulator to police the buying and selling of teams?
+A. The Football Association (FA)
+B. The British government
+C. UEFA
+D. FIFA
+Correct Answer: B
+
+Q3. What is the value of Sheffield Wednesday FC according to Kieran Maguire?
+A. 40 million pounds ($53 million)
+B. 50 million pounds ($69 million)
+C. 60 million pounds ($75 million)
+D. 80 million pounds ($105 million)
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/business/consumer/street-performers-rely-apps-venmo-cash-fades-rcna223138
+Info: News Article
+================================================================================
+Q1. What is the name of the performer who was interviewed in the article?
+A. Paruz
+B. Deitz
+C. Steele
+D. Tangelo
+Correct Answer: A
+
+Q2. What is the Federal Reserve's indication on how people in the United States pay street performers?
+A. They are most likely to use cash for payments under $25.
+B. They are most likely to use digital payments for payments under $25.
+C. There is no large-scale data on how people in the United States pay street performers.
+D. They are most likely to use cash for payments over $25.
+Correct Answer: A
+
+Q3. According to the article, what is the effect of digital tipping on audiences' tipping habits?
+A. They tip more than before.
+B. They tip less than before.
+C. They tip the same as before.
+D. It has no effect on their tipping habits.
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/news/latino/girl-brain-tumor-deported-mexico-brother-pays-treatment-medication-rcna223387
+Info: News Article: Girl Brain Tumor Deported Mexico Brother Pays Treatment Medication Rcna223387
+================================================================================
+Q1. What is the name of the church community that is helping the teen maintain the house after his parents were deported?
+A. First Baptist Church
+B. St. John's Catholic Church
+C. Grace Community Church
+D. First United Methodist Church
+Correct Answer: C. Grace Community Church
+
+Q2. What is the reason why the family's situation is being reported as "inaccurate" by the Department of Homeland Security?
+A. The family has not been given expedited removal orders.
+B. The family has not disregarded expedited removal orders.
+C. The family's situation is being reported as "inaccurate" because the Department of Homeland Security is protecting their privacy.
+D. The family's situation is being reported as "inaccurate" because the Department of Homeland Security is not aware of the family's situation.
+Correct Answer: C. The family's situation is being reported as "inaccurate" because the Department of Homeland Security is protecting their privacy.
+
+Q3. What is the name of the boy whose family is being helped by the church community?
+A. Marco Polo Coronado Jr.
+B. Marco Polo Coronado Sr.
+C. Marco Polo Coronado III
+D. Marco Polo Coronado IV
+Correct Answer: A. Marco Polo Coronado Jr.
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/select/shopping/how-to-keep-dogs-cool-rcna223254
+Info: News Article
+================================================================================
+Q1. What is the best cooling product for dogs to use when walking on hot pavement?
+A. Booties or paw balm
+B. Water bottles
+C. Cooling dog bed
+D. Cooling mats
+Correct Answer: A
+
+Q2. What is the best hydrating product for dogs?
+A. Ensuring your dog has access to fresh water at all times is important regardless of the weather, but it becomes even more crucial when it's hot out — dogs tend to drink more during high temperatures to stay hydrated, so be sure to refill their bowl often, says Kaplan.
+B. Petlibro's water fountain has a 2.1-gallon capacity, and between Mabel and my two cats drinking out of it, I refill it every few days by pouring water directly into the serving tray.
+C. PupFlask's dishwasher-safe dog water bottle comes in two sizes (27 and 40 ounces) and it's composed of two parts: a stainless steel bottle that stores water and a silicone lid that folds into a drinking bowl.
+D. PupFlask's dishwasher-safe dog water bottle comes in two sizes (27 and 40 ounces) and it's composed of two parts: a stainless steel bottle that stores water and a silicone lid that folds into a drinking bowl.
+Correct Answer: C
+
+Q3. What is the best sun protection product for dogs?
+A. Ruffwear Grip Trex Dog Boots
+B. Musher's Secret Dog Paw Wax
+C. DogZStuff Dog Cooling Vest with UV Protection
+D. Sunscreen can help protect your pup from UV rays, so long as you use an option that's specifically made for dogs — some ingredients in sunscreen for humans are toxic to dogs if ingested, like zinc oxide, which is often in mineral sunscreen, according to the American Kennel Club.
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/select/shopping/college-dorm-room-essentials-rcna223445
+Info: News Article
+================================================================================
+Q1. What is the price of a six-month trial for Amazon Prime Student account?
+A. $7.49 per month
+B. $69 per year
+C. $34.99
+D. $55.00
+Correct Answer: A
+
+Q2. What is the purpose of using a mattress protector?
+A. To keep allergens like dust mites, mold and bacteria from collecting in your mattress
+B. To adjust to body temperature
+C. To be quiet
+D. To be waterproof
+Correct Answer: A
+
+Q3. What is the name of the service that turns your favorite images into framed wall art?
+A. Mixtiles
+B. Command Hooks
+C. U Brands
+D. Threshold
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/select/shopping/best-running-shoes-for-men-rcna223620
+Info: News Article
+================================================================================
+Q1. What is the name of the best overall running shoes according to the article?
+A. New Balance Fresh Foam X 1080v14
+B. Asics
+C. Brooks
+D. Saucony
+Correct Answer: A
+
+Q2. What is the best feature of the best supportive running shoes according to the article?
+A. Wide toe box
+B. Cushion
+C. Responsiveness
+D. All of the above
+Correct Answer: A
+
+Q3. What is the recommended way to determine when it's time to replace running shoes according to the article?
+A. Wait until they look new
+B. Go to a local running shoe store for the best fit possible
+C. Keep track of the date you buy a new pair and the six-month interval
+D. None of the above
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/select/shopping/best-first-aid-emergency-preparedness-supplies-rcna222944
+Info: News Article
+================================================================================
+Q1. Which organization suggests an emergency kit that includes a first aid kit, water, non-perishable food, hygiene supplies, light, shelter, communication tools, and protection?
+A. Federal Emergency Management Agency (FEMA)
+B. Centers for Diseases Control and Prevention (CDC)
+C. American Red Cross
+D. All of the above
+Correct Answer: D
+
+Q2. What is the best overall emergency kit according to the article?
+A. A one-person emergency kit
+B. A three-day emergency kit
+C. A seven-day emergency kit
+D. A two-week emergency kit
+Correct Answer: B
+
+Q3. What is the best option for individuals or as a small backup option to keep in places like cars, boats, or your place of work?
+A. A three-day emergency kit
+B. A one-person emergency kit
+C. A seven-day emergency kit
+D. A two-week emergency kit
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-09/canyon-fire-southern-california-heat-wave
+Info: News Article
+================================================================================
+Q1. What is the current containment status of the Canyon fire?
+A. 28%
+B. 50%
+C. 75%
+D. 100%
+Correct Answer: A
+
+Q2. Who was injured in the rollover accident involving a pickup truck in the Romero Canyon area in Castaic?
+A. James Agee
+B. Andrew Freeborn
+C. Aaron Duncan
+D. None of the above
+Correct Answer: A
+
+Q3. What is the current temperature forecast for Lancaster and Northridge?
+A. 90°F
+B. 100°F
+C. 103°F
+D. 106°F
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-09/farmworkers-extreme-heat-california-protections
+Info: News Article
+================================================================================
+Q1. What is the name of the man who died from heat illness in 20 years ago?
+A. Cruz
+B. Arvin
+C. Fresno County
+D. Kern County
+Correct Answer: A
+
+Q2. What is the name of the law that requires bosses to provide outdoor workers with fresh water, access to shade when the temperatures climb, and breaks to cool off whenever workers request them?
+A. American Civil Liberties Union
+B. United Farm Workers union
+C. Cal/OSHA
+D. Public Counsel
+Correct Answer: C
+
+Q3. What is the name of the proposed law that Assemblywoman Dawn Addis introduced this year?
+A. Newson vetoed last year
+B. Assemblywoman Dawn Addis (D-Morro Bay)
+C. Dave Cortese (D-San Jose)
+D. Cruz was the fourth farmworker to die in that brutal summer 20 years ago
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-09/l-a-county-fire-captain-accused-of-faking-work-injury-to-collect-insurance
+Info: News Article
+================================================================================
+Q1. Who is facing felony charges in Los Angeles County?
+A. Thomas Merryman
+B. A Westminster police officer
+C. A California cop
+D. A fire captain
+Correct Answer: D
+
+Q2. What did Thomas Merryman allegedly receive more than $25,000 in insurance payments for?
+A. A work injury that could not have taken place because he was not at work
+B. A work injury that could not have taken place because he was at work
+C. A work injury that could not have taken place because he was not working
+D. A work injury that could not have taken place because he was not working at the time
+Correct Answer: A
+
+Q3. What is the former Westminster police officer accused of faking an injury and fraudulently claiming?
+A. $600,000 in workers’ compensation while she was partying at Stagecoach
+B. $600,000 in workers’ compensation while she was visiting Disneyland
+C. $600,000 in workers’ compensation while she was skiing at Mammoth Mountain
+D. $600,000 in workers’ compensation while she was partying at Stagecoach and visiting Disneyland and skiing at Mammoth Mountain
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-09/teachers-retirees-first-time-activists-standing-up-to-immigrationraids-because-silence-is-violence
+Info: News Article
+================================================================================
+Q1. What is the name of the woman who carried a large sign that read “Break His Dark Spell” and included a sinister image of President Trump at the protest?
+A. Cynthia Lunine
+B. Dayena Campbell
+C. Sharon Nicholls
+D. Mary Rose O'Leary
+Correct Answer: A
+
+Q2. What is the cause that continues to draw people into the streets according to the article?
+A. A focus on violent offenders
+B. The blather about a focus on violent offenders led to huge demonstrations in greater Los Angeles beginning in June
+C. The administration’s blather about a focus on violent offenders
+D. The cause continues to draw people into the streets
+Correct Answer: B
+
+Q3. What is the purpose of the weekly rally organized by Nicholls?
+A. To present a letter asking Home Depot management to “say no to ICE in their parking lot and in their store”
+B. To hand out literature
+C. To patrol the parking lot and check in on day laborers
+D. To march through the parking lot and into the store
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-09/spacex-hopes-to-nearly-double-the-rocket-launches-off-the-california-coast-a-state-panel-likely-to-object
+Info: News Article
+================================================================================
+Q1. What is the current number of rocket launches per year at Vandenberg Space Force in Santa Barbara County?
+A. 50
+B. 100
+C. 75
+D. 25
+Correct Answer: A
+
+Q2. What is the proposed number of rocket launches per year at Vandenberg Space Force in Santa Barbara County?
+A. 50
+B. 100
+C. 75
+D. 25
+Correct Answer: B
+
+Q3. What is the proposed number of rocket launches per year at Vandenberg Space Force in Santa Barbara County after the fast uptick in rocket launches off the California coast?
+A. 50
+B. 100
+C. 75
+D. 25
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-08/federal-agents-target-day-laborers-in-raids-at-van-nuys-home-depot
+Info: News Article
+================================================================================
+Q1. What were the actions of federal agents during the two raids at Home Depot in Van Nuys?
+A. They arrested 7 undocumented immigrants from Guatemala, Honduras, and Mexico.
+B. They used racial profiling to carry out indiscriminate immigration arrests.
+C. They targeted day laborers and the organization that runs a resource center for them.
+D. They conducted "targeted immigration raids" that resulted in the arrests of 10 people.
+Correct Answer: D
+
+Q2. What was the purpose of the temporary restraining order issued by a district judge in Southern California?
+A. To ban federal agents from targeting people based on their race, language, vocation, or location without reasonable suspicion that they are in the U.S.
+B. To allow federal agents to use racial profiling to carry out indiscriminate immigration arrests.
+C. To allow federal agents to target day laborers and the organization that runs a resource center for them.
+D. To allow federal agents to conduct "targeted immigration raids" that resulted in the arrests of 10 people.
+Correct Answer: A
+
+Q3. What was the outcome of the appeal to the Supreme Court by the Trump administration?
+A. The court upheld the temporary restraining order issued by the district judge in Southern California.
+B. The court overturned the temporary restraining order issued by the district judge in Southern California.
+C. The court ruled that the Trump administration could use racial profiling to carry out indiscriminate immigration arrests.
+D. The court ruled that the Trump administration could not use racial profiling to carry out indiscriminate immigration arrests.
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-08/rats-more-than-100-000-acres-of-almond-orchards-across-central-california-are-infested
+Info: News Article
+================================================================================
+Q1. Which agricultural area in California reported an increase in rodent populations?
+A. Fresno
+B. Merced
+C. Kings
+D. Kern
+Correct Answer: D
+
+Q2. What was the number of people reporting to work in the private sector in California that decreased by 3.1%?
+A. 3.1%
+B. 32
+C. $20,000
+D. 1
+Correct Answer: A
+
+Q3. What did the California Department of Food and Agriculture survey reveal about the rodent population in almond orchards?
+A. Up to 32 rats were captured per night
+B. The numbers could be underestimating the actual financial burden
+C. The rats had caused fires by chewing through the irrigation wiring
+D. The blue meat is a sign that the animal may have consumed poison meant for rats
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-08/walmart-to-pay-5-6-million-to-settle-lawsuit-alleging-they-overcharged-customers
+Info: News Article
+================================================================================
+Q1. What was the amount of money Walmart agreed to pay in the settlement?
+A. $2.1 million
+B. $5.5 million
+C. $5.6 million
+D. $10 million
+Correct Answer: C
+
+Q2. What did Walmart agree to do as part of the settlement?
+A. Pay $5.5 million in civil penalties
+B. Ensure employees will be responsible for accurately weighing and pricing products in California stores
+C. Both A and B
+D. None of the above
+Correct Answer: C
+
+Q3. In what year did Walmart agree to pay $2.1 million for allegedly overcharging customers in California?
+A. 2008
+B. 2012
+C. 2015
+D. 2018
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-08/bay-area-man-used-aliases-and-dummy-books-steal-rare-chinese-manuscripts-from-ucla-feds-says
+Info: News Article
+================================================================================
+Q1. Which of the following individuals was arrested for allegedly stealing rare manuscripts from UCLA?
+A. Jeffrey Ying
+B. Erich Gruenberg
+C. Alan Fujimori
+D. Jason Wang
+Correct Answer: A
+
+Q2. What was the value of the rare Stradivarius violin that was stolen from Erich Gruenberg at Los Angeles International Airport?
+A. $550,000
+B. $132,386
+C. $386,315
+D. $132,386
+Correct Answer: A
+
+Q3. How many rare Chinese books were missing from UCLA after being last checked out by someone named "Alan Fujimori"?
+A. 1
+B. 2
+C. 3
+D. 6
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-08/newsom-update-on-redistricting-and-texas
+Info: News Article
+================================================================================
+Q1. What is California's plan to respond to the gerrymandering districts in Texas?
+A. Create a new map that favors Democrats
+B. Create a new map that favors Republicans
+C. Create a new map that is neutral
+D. Create a new map that is not mentioned in the article
+Correct Answer: A
+
+Q2. What is the proposed map expected to become public next week?
+A. A map that favors Democrats
+B. A map that favors Republicans
+C. A map that is neutral
+D. A map that is not mentioned in the article
+Correct Answer: A
+
+Q3. What is the goal of California's redrawn congressional districts?
+A. To add as many as five congressional districts favorable to Democrats
+B. To add as many as five congressional districts favorable to Republicans
+C. To have an equal number of congressional districts for both parties
+D. To have an equal number of congressional districts for one party
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-08/former-lapd-officer-burglaries
+Info: News Article
+================================================================================
+Q1. What is the name of the former Los Angeles police officer who was arrested on suspicion of kidnapping for ransom?
+A. Eric Halem
+B. Emmett
+C. Robin Kaye
+D. Tom DeLuca
+Correct Answer: A
+
+Q2. What is the name of the LAPD reserve program that Halem was part of?
+A. The LAPD reserve program that Halem was part of dates to World War II, and today reserves number in the 300s, and its membership over the years has included not only one time cops, but also ER doctors and a former City Council member.
+B. The West Valley includes Encino, an affluent area that has been on edge following a series of home break-ins, including one that caused the deaths of “American Idol” music supervisor Robin Kaye and her rock musician husband, Tom DeLuca.
+C. The LAPD confirmed Halem’s arrest but said it was “not related to the Departments investigation into residential burglaries in the west valley.”
+D. The Times investigation and subsequent Hulu documentary that surfaced allegations of abuse against women and assistants as well as mistreatment of assistants and business partners.
+Correct Answer: A
+
+Q3. What is the name of the car rental company owned by Eric Halem?
+A. Kaypr
+B. Drive LA
+C. The Times investigation and subsequent Hulu documentary that surfaced allegations of abuse against women and assistants as well as mistreatment of assistants and business partners.
+D. The LAPD reserve program that Halem was part of dates to World War II, and today reserves number in the 300s, and its membership over the years has included not only one time cops, but also ER doctors and a former City Council member.
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-08/target-gunman
+Info: News Article
+================================================================================
+Q1. Who was the victim of the shooting at Target?
+A. William Davis
+B. Hoque
+C. Molly Zavidow
+D. None of the above
+Correct Answer: A
+
+Q2. What did Metoyer say he was doing when he ran from the scene after the shooting?
+A. Going to shoot "the entity"
+B. Running home to Jerusalem
+C. Getting supplies for the war
+D. None of the above
+Correct Answer: B
+
+Q3. What was Metoyer's defense attorney's name?
+A. Molly Zavidow
+B. William Davis
+C. Hoque
+D. None of the above
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/entertainment-arts/story/2025-08-08/sydney-sweeney-proud-boys-socal-billboard
+Info: News Article
+================================================================================
+Q1. Which actor is featured in the American Eagle advertisement?
+A. Sydney Sweeney
+B. Sidney Sweeney
+C. Sweeney
+D. Sweeney
+Correct Answer: A
+
+Q2. What is the slogan of the American Eagle advertisement?
+A. Sydney Sweeney has great genes
+B. Sydney Sweeney has great jeans
+C. Sydney Sweeney has great genes
+D. Sydney Sweeney has great jeans
+Correct Answer: B
+
+Q3. What is the black-and-yellow banner on the 91 Freeway in Corona?
+A. Proud Boys Love Sydney Sweeney
+B. Proud Boys Love Sweeney
+C. Proud Boys Love Sweeney
+D. Proud Boys Love Sweeney
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-08/trump-seeking-1-billion-fine-from-ucla-over-antisemitism-allegations
+Info: News Article
+================================================================================
+Q1. What is the federal government's demand for UCLA to pay in order to settle the accusations of antisemitism?
+A. $100 million
+B. $500 million
+C. $1 billion
+D. $2 billion
+Correct Answer: C
+
+Q2. What is the Trump administration's proposal for changes to UCLA's campus?
+A. Protests
+B. Admissions
+C. Gender identity in sports and housing
+D. Abolition of scholarships for racial or ethnic groups
+Correct Answer: C
+
+Q3. What is the UC Regents Chair's stance on the Trump administration's demand for a $1 billion payment from UCLA?
+A. Acceptable
+B. Unacceptable
+C. Negotiable
+D. Not mentioned
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-08/how-many-citizens-have-been-arrested-in-immigration-crackdown
+Info: News Article
+================================================================================
+Q1. What is the name of the 4-year old boy with cancer who was deported to Honduras?
+A. Romero
+B. Garcia
+C. Whitlock
+D. Ibañez
+Correct Answer: A
+
+Q2. What is the name of the doctoral student who was detained for 25 hours after filming a raid in Hollywood?
+A. Casas
+B. Whitlock
+C. Ibañez
+D. Romero
+Correct Answer: A
+
+Q3. What is the name of the Illinois man who was held for 10 hours in detention?
+A. Cuffari
+B. Fleischaker
+C. Whitlock
+D. Ibañez
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/politics/story/2025-08-08/lt-gov-eleni-kounalakis-drops-out-of-governors-race-pivots-to-run-for-treasurer
+Info: News Article
+================================================================================
+Q1. Who is Eleni Kounalakis?
+A. A major Democratic donor and the first well-known candidate to formally launch a campaign for governor in April 2023
+B. A former Assembly speaker and Senate president pro tem
+C. A former California attorney general and Biden Cabinet secretary
+D. A philanthropist and businessman
+Correct Answer: A
+
+Q2. What is Eleni Kounalakis dropping out of?
+A. The governor’s race
+B. The state treasurer race
+C. The state controller race
+D. The Assembly race
+Correct Answer: A
+
+Q3. What is Eleni Kounalakis' new role?
+A. Governor of California
+B. State treasurer of California
+C. State controller of California
+D. Mayor of Los Angeles
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-08/la-me-canyon-fire
+Info: News Article
+================================================================================
+Q1. What is the current containment percentage of the Canyon fire?
+A. 28%
+B. 50%
+C. 75%
+D. 100%
+Correct Answer: A
+
+Q2. What is the current status of evacuation orders in the area affected by the Canyon fire?
+A. All evacuation orders have been lifted
+B. Evacuation orders have been downgraded to warnings
+C. Evacuation orders have been upgraded to mandatory
+D. Evacuation orders are still in effect
+Correct Answer: B
+
+Q3. What is the current temperature forecast for the Canyon fire area?
+A. 98 degrees
+B. 104 degrees
+C. 110 degrees
+D. 115 degrees
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-08/another-historic-la-eatery-closes-its-doors-heres-are-the-most-memorable-restaurants-weve-lost
+Info: News Article
+================================================================================
+Q1. What is the name of the iconic landmark restaurant that is closing?
+A. Bella Union Hotel
+B. Clifton's
+C. Cole's French Dip
+D. Saddle and Sirloin
+Correct Answer: C
+
+Q2. What is the name of the restaurant that is famous for having the "longest lunch counter in the world"?
+A. Bella Union Hotel
+B. Clifton's
+C. Cole's French Dip
+D. Saddle and Sirloin
+Correct Answer: C
+
+Q3. What is the name of the restaurant that is known for its "authentic" Italian food?
+A. Bella Union Hotel
+B. Clifton's
+C. Cole's French Dip
+D. Ptomaine Tommy's
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.latimes.com/environment/story/2025-08-08/mono-lake-tour
+Info: News Article
+================================================================================
+Q1. What is the name of the lake that is the focus of the article?
+A. Lake Tahoe
+B. Mono Lake
+C. Lake Michigan
+D. Lake Superior
+Correct Answer: B
+
+Q2. What is the main reason why the Mono Lake is affected by water use in Southern California?
+A. It is located in Southern California
+B. It is a popular tourist destination
+C. It is a major source of water for Southern California
+D. It is a popular destination for bird watching
+Correct Answer: C
+
+Q3. What is the purpose of the backstop included in the 1994 decision?
+A. To ensure that the lake level rises enough
+B. To determine if the rules need to change
+C. To protect the lake from further development
+D. To increase the use of water from the lake
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-08/law-firm-hired-by-the-city-in-homelessness-case-bills-1-8-million
+Info: News Article
+================================================================================
+Q1. What law firm was hired by the city of Los Angeles to fight a nonprofit's attempt to take control of homelessness away from Mayor Karen Bass?
+A. Gibson Dunn
+B. City Attorney's Office
+C. Alliance
+D. Evangelis
+Correct Answer: A
+
+Q2. How much did Gibson Dunn charge the city of Los Angeles for two weeks of work in May?
+A. $1.8 million
+B. $140,000 per day
+C. $1,300 per hour
+D. $800,000
+Correct Answer: A
+
+Q3. What is the purpose of the federal judge's deliberation on a request from a group of business owners, property owners and residents to place the city of Los Angeles' billion-dollar homelessness programs under a receivership?
+A. To determine whether control over the city's homelessness programs should be taken away from Mayor Karen Bass and the City Council and turned over to a third-party receiver
+B. To determine whether the city's homelessness programs are in violation of a settlement agreement
+C. To determine whether the city's homelessness programs are in violation of a federal law
+D. To determine whether the city's homelessness programs are in violation of a state law
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-08/mystery-plane-thief
+Info: News Article
+================================================================================
+Q1. Who is Jason Hong?
+A. A 75-year-old man from Yorba Linda, California
+B. A 75-year-old man from El Monte, California
+C. A 75-year-old man from La Verne, California
+D. A 75-year-old man from Riverside County, California
+Correct Answer: A
+
+Q2. What is the color of Jason Hong's stolen plane?
+A. White and red with colorful stripes
+B. White and red without colorful stripes
+C. White and blue with colorful stripes
+D. White and blue without colorful stripes
+Correct Answer: A
+
+Q3. How long has Jason Hong's stolen plane been missing?
+A. Less than a month
+B. 1-2 months
+C. 2-3 months
+D. More than 3 months
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-08/they-run-we-chase-agents-employ-aggressive-and-some-say-illegal-tactics-on-l-a-streets
+Info: News Article
+================================================================================
+Q1. What is the name of the federal judge who issued a temporary restraining order in July?
+A. Maame Ewusi-Mensah Frimpong
+B. Judge Karen Bass
+C. District Judge Maame Ewusi-Mensah Frimpong
+D. Mayor Karen Bass
+Correct Answer: C. District Judge Maame Ewusi-Mensah Frimpong
+
+Q2. What is the name of the man who was thrown on the ground by Border Patrol agents?
+A. Adrian Martinez
+B. Vivaldo Montes Herrera
+C. Myra Villarreal
+D. None of the above
+Correct Answer: B. Vivaldo Montes Herrera
+
+Q3. What is the name of the operation that targeted a Home Depot in Westlake?
+A. Operation Trojan Horse
+B. Operation Bluebird
+C. Operation Red Wings
+D. Operation Golden Eagle
+Correct Answer: A. Operation Trojan Horse
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-08/woodland-hills-kidnapping
+Info: News Article
+================================================================================
+Q1. What was the intruder's name?
+A. Starr
+B. Gil
+C. Advertisement
+D. None of the above
+Correct Answer: B
+
+Q2. What was the intruder's occupation?
+A. Self-employed
+B. Unemployed
+C. Employed
+D. None of the above
+Correct Answer: A
+
+Q3. What was the intruder's accent?
+A. Eastern European
+B. American
+C. British
+D. Australian
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-08/california-ev-drivers-losing-carpool-lane-privileges
+Info: News Article
+================================================================================
+Q1. What is the purpose of the Clean Air Vehicle Decal program?
+A. To incentivize people to carpool
+B. To incentivize people to purchase electric vehicles
+C. To incentivize people to purchase gasoline-only cars
+D. To incentivize people to purchase heavy-duty trucks
+Correct Answer: B
+
+Q2. What is the deadline for the Clean Air Vehicle Decal program in California?
+A. January 1, 2025
+B. October 1, 2025
+C. January 1, 2026
+D. October 1, 2026
+Correct Answer: B
+
+Q3. What is the percentage of electric vehicles on the road in California?
+A. 10%
+B. 20%
+C. 30%
+D. 40%
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-07/newsom-ucla-trump-grant-freeze-negotiations-antisemitism
+Info: News Article
+================================================================================
+Q1. What is the governor's name?
+A. Gavin Newsom
+B. Jerry Brown
+C. Arnold Schwarzenegger
+D. Kamala Harris
+Correct Answer: A
+
+Q2. What is the name of the university system that is negotiating with the Trump administration?
+A. UC Berkeley
+B. UCLA
+C. UC San Diego
+D. UC Santa Barbara
+Correct Answer: B
+
+Q3. What is the goal of the negotiations between the university system and the Trump administration?
+A. To restore more than half a billion dollars in frozen UCLA grants
+B. To share admissions data with federal authorities
+C. To bend "on their knees" to the president
+D. To investigate allegations of antisemitism at UCLA
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/environment/story/2025-08-08/fire-season-is-coming-to-california-earlier-climate-change
+Info: News Article
+================================================================================
+Q1. What is the average number of acres burned in California as of mid-July in the last five years?
+A. 100,000 acres
+B. 220,000 acres
+C. 2,800 acres
+D. 96,000 acres
+Correct Answer: B
+
+Q2. What is the increase in the number of acres burned in California as of mid-July compared to the average over the last five years?
+A. 100,000 acres
+B. 220,000 acres
+C. 2,800 acres
+D. 96,000 acres
+Correct Answer: B
+
+Q3. What is the total number of acres burned in California as of mid-July in 2018?
+A. 100,000 acres
+B. 220,000 acres
+C. 2,800 acres
+D. 96,000 acres
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.latimes.com/environment/story/2025-08-07/epa-eliminates-7-billion-rooftop-solar-grant-program
+Info: News Article
+================================================================================
+Q1. What is the name of the program that was awarded $27 billion under the Biden administration's Greenhouse Gas Reduction Fund?
+A. Solar for All
+B. One Big Beautiful Bill
+C. Community Power Coalition
+D. GRID Alternatives
+Correct Answer: A
+
+Q2. What is the estimated cost savings for low-income households from the Solar for All program?
+A. $200 a year
+B. $400 a year
+C. $600 a year
+D. $800 a year
+Correct Answer: B
+
+Q3. What is the estimated number of jobs that would be created by the Solar for All program?
+A. 100,000 jobs
+B. 200,000 jobs
+C. 300,000 jobs
+D. 400,000 jobs
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-07/boil-order-continues-in-malibu-after-delays-from-bridge-construction
+Info: News Article
+================================================================================
+Q1. Which California department issued the order for residents of Malibu to boil water before drinking or using?
+A. Los Angeles County Waterworks
+B. California Department of Transportation
+C. State Water Resources Control Board
+D. Los Angeles Department of Water and Power
+Correct Answer: B. California Department of Transportation
+
+Q2. What is the recommended time to boil water for residents of Malibu to avoid potential illness?
+A. 30 seconds
+B. 1 minute
+C. 5 minutes
+D. 10 minutes
+Correct Answer: B. 1 minute
+
+Q3. Which Los Angeles department experienced a water service outage on Tuesday?
+A. Los Angeles County Waterworks
+B. Los Angeles Department of Water and Power
+C. California Department of Transportation
+D. State Water Resources Control Board
+Correct Answer: B. Los Angeles Department of Water and Power
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-07/300-million-russian-superyacht-seized-by-us-government-to-be-auctioned
+Info: News Article
+================================================================================
+Q1. Which yacht is being auctioned?
+A. Amadea
+B. Kerimov
+C. Rosneft
+D. Putin
+Correct Answer: A
+
+Q2. What is the purpose of the auction?
+A. To sell the yacht to the highest bidder
+B. To seize the yacht from the Russian oligarch
+C. To pressure the Russian oligarch to stop the war
+D. To determine if the yacht is a direct beneficiary of Russian President Vladimir Putin
+Correct Answer: A
+
+Q3. Who is the owner of the yacht being auctioned?
+A. Eduard Khudainatov
+B. Kerimov
+C. Putin
+D. Rosneft
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-07/man-and-woman-found-in-car-along-pacific-coast-highway-were-dead-for-several-days-police-say
+Info: News Article
+================================================================================
+Q1. What was the location of the sedan found in the article?
+A. Point Mugu State Park
+B. West of the state park's boundary
+C. Near Naval Base Ventura County
+D. In an area east of the state park's boundary
+Correct Answer: B. West of the state park's boundary
+
+Q2. Which agency dispatched a fire engine to determine whether the two people in the car were dead?
+A. Ventura County Sheriff's Office
+B. Ventura County Fire Department
+C. Naval Base Ventura County
+D. California State Parks
+Correct Answer: B. Ventura County Fire Department
+
+Q3. Who is leading the investigation into the deaths of the man and woman found fatally shot in the car?
+A. Ventura County Sheriff's Office
+B. Ventura County Fire Department
+C. Naval Base Ventura County
+D. California State Parks
+Correct Answer: A. Ventura County Sheriff's Office
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-07/trump-supreme-court-ice-patrols
+Info: News Article
+================================================================================
+Q1. What is the Trump administration's request to the Supreme Court?
+A. To lift the ban on "roving patrols" in Southern California
+B. To establish reasonable suspicion before snatching people off the streets
+C. To allow masked and heavily armed agents to patrol the streets
+D. To uphold the 4th Amendment in immigration enforcement
+Correct Answer: A
+
+Q2. What is the Trump administration's argument in their appeal to the Supreme Court?
+A. That the court's order threatens to upend immigration officials' ability to enforce the immigration laws
+B. That the court's order violates the 4th Amendment
+C. That the court's order causes "manifest irreparable harm" to the government
+D. That the court's order is necessary to protect the rights of immigrants
+Correct Answer: A
+
+Q3. What is the Department of Justice's position on the temporary restraining order?
+A. That it causes "manifest irreparable harm" to the government
+B. That it violates the 4th Amendment
+C. That it is necessary to protect the rights of immigrants
+D. That it is a policy or quota for mass deportations
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-07/california-redistricting-texas-redrawn-congressional-districts-bad-news-republicans
+Info: News Article
+================================================================================
+Q1. What is the proposed goal of the new congressional district boundaries in California?
+A. To increase the Democratic Party's dominance in the Golden State
+B. To decrease the Democratic Party's dominance in the Golden State
+C. To have no effect on the political balance in California
+D. To have no effect on the proposed boundaries
+Correct Answer: A
+
+Q2. What is Kevin Kiley's (R-Rocklin) concern about the new congressional district boundaries?
+A. That they will increase the Democratic Party's dominance in the Golden State
+B. That they will decrease the Democratic Party's dominance in the Golden State
+C. That they will have no effect on the political balance in California
+D. That they will lead to a redistricting war across the country
+Correct Answer: D
+
+Q3. What is the proposed shift in Rep. LaMalfa's district according to one map reviewed?
+A. To include parts of Sonoma County wine country
+B. To shift some conservative rural areas in the north to another district
+C. To include parts of Death Valley
+D. To shift some blue voters in the north to another district
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-07/stanford-daily-sues-trump-over-threats-to-free-speech
+Info: News Article
+================================================================================
+Q1. What is the name of the Stanford University student newspaper suing the Trump administration?
+A. The Stanford Daily
+B. The Stanford Gazette
+C. The Stanford Spectator
+D. The Stanford Review
+Correct Answer: A
+
+Q2. What is the main allegation made by the Stanford Daily in their lawsuit against the Trump administration?
+A. The Trump administration is placing their statutory authority to deport a foreign visa holder ahead of the constitutional right to free speech.
+B. The Trump administration is threatening to withhold billions of dollars in federal research grants from institutions that refuse to adopt policies on issues such as diversity, transgender rights, and Israel.
+C. The Trump administration is using the Immigration and Nationality Act of 1952 to revoke noncitizen’s legal status if their actions or statements compromise a compelling United States foreign policy interest.
+D. The Trump administration is attacking academic freedom by threatening to withhold federal research grants from universities.
+Correct Answer: A
+
+Q3. What is the name of the pro-Israel website that the Department of Homeland Security officials consult for information on people worthy of investigation?
+A. The Canary Mission
+B. The Anti-Defamation League
+C. The Southern Poverty Law Center
+D. The American Civil Liberties Union
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-07/brush-fire-ventura-heat-wave
+Info: News Article
+================================================================================
+Q1. What is the name of the wildfire that triggered evacuations in and around Piru and Castaic?
+A. California Canyon fire
+B. Palisades fire
+C. Eaton fire
+D. Mountain fire
+Correct Answer: C. Eaton fire
+
+Q2. How many residents and structures remained under evacuation orders as midnight approached?
+A. 2,500 residents and 700 structures
+B. 14,000 residents and more than 4,700 structures
+C. 5,000 residents and 2,000 structures
+D. 10,000 residents and 5,000 structures
+Correct Answer: A. 2,500 residents and 700 structures
+
+Q3. What is the current status of the evacuation orders in the area of the fire that's in Ventura County?
+A. All residents and structures have been evacuated
+B. Evacuation orders have been downgraded to evacuation warnings
+C. Evacuation orders have been upgraded to mandatory evacuations
+D. Evacuation orders have been lifted
+Correct Answer: B. Evacuation orders have been downgraded to evacuation warnings
+
+================================================================================
+
+
+Link: https://www.latimes.com/environment/story/2025-08-07/trumps-energy-secretary-says-administration-may-tamper-with-past-national-climate-reports
+Info: News Article
+================================================================================
+Q1. What is the reason why the National Climate Assessments have been removed from government websites?
+A. They are being reviewed for updates.
+B. They are being discontinued.
+C. They are being replaced with outright lies.
+D. They are being subjected to extensive peer review.
+Correct Answer: A
+
+Q2. What is the purpose of the National Climate Assessments?
+A. To provide the latest scientific forecasts on how climate change is affecting each region of the United States.
+B. To detail how climate change is affecting each region of the United States so far.
+C. To hype up a real issue but an issue that's just nowhere near the world's greatest challenge.
+D. To bury the scientific evidence.
+Correct Answer: B
+
+Q3. What is the significance of the previous climate change assessments?
+A. They are not fair assessments of the data.
+B. They are politically biased.
+C. They are leading domain experts in their fields.
+D. They are being replaced with outright lies.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/environment/story/2025-08-07/california-supreme-court-sides-with-environmental-groups-in-rooftop-solar-case
+Info: News Article
+================================================================================
+Q1. What year did the California Supreme Court rule on the rooftop solar incentives case?
+A. 2022
+B. 1998
+C. 2015
+D. 2010
+Correct Answer: B
+
+Q2. What was the decision of the California Supreme Court in the rooftop solar incentives case?
+A. The utilities commission did not violate state law in 2022 when it cut the value of the credits that panel owners receive for sending their unused power to the electric grid.
+B. The appeals court ignored a 1998 law that said the commission’s decisions should be held to the same standard of court review as those by other state agencies.
+C. The CPUC’s decision to slash rooftop solar incentives could not be challenged.
+D. The environmental groups argued the utilities commission violated state law in 2022 when it cut the value of the credits that panel owners receive for sending their unused power to the electric grid by as much as 80%.
+Correct Answer: D
+
+Q3. What was the result of the California Supreme Court ruling in the rooftop solar incentives case?
+A. The CPUC’s decision to slash rooftop solar incentives will be overturned.
+B. The appeals court ignored a 1998 law that said the commission’s decisions should be held to the same standard of court review as those by other state agencies.
+C. The environmental groups argued the utilities commission violated state law in 2022 when it cut the value of the credits that panel owners receive for sending their unused power to the electric grid by as much as 80%.
+D. The state Supreme Court ruling could lead to more lawsuits against the commission.
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-07/powerful-labor-coalition-backs-changing-california-congressional-lines-to-fight-texas
+Info: News Article
+================================================================================
+Q1. What is the name of the organization that endorsed redrawing California's congressional maps?
+A. California Federation of Labor
+B. Independent Redistricting Commission
+C. Gavin Newsom
+D. Voters First Coalition
+Correct Answer: A
+
+Q2. What is the goal of the ballot measure being pushed by Gavin Newsom and others?
+A. To increase the number of Republican-held congressional seats in Texas
+B. To allow state lawmakers to help determine district boundaries for the next three election cycles in California
+C. To create an independent commission to redraw California's congressional districts
+D. To change the state's allocation of congressional seats based on population shifts
+Correct Answer: B
+
+Q3. What is the name of the person who bankrolled the ballot measure to create the independent commission?
+A. Charles Munger Jr.
+B. Gavin Newsom
+C. Amy Thoma
+D. Lorena Gonzalez
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-07/california-man-animal-cruelty-sentenced
+Info: News Article
+================================================================================
+Q1. What is the name of the man who was sentenced to prison for animal cruelty?
+A. David Genovese
+B. David Ginovese
+C. David Genovese
+D. David Genovese
+Correct Answer: A
+
+Q2. How many counts of animal cruelty did David Genovese plead guilty to?
+A. 5
+B. 10
+C. 15
+D. 20
+Correct Answer: A
+
+Q3. What is the special allegation that David Genovese admitted to?
+A. Using a deadly weapon to kill cats
+B. Adopting and torturing cats
+C. Not providing adequate food and shelter for cats
+D. None of the above
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/business/story/2025-08-07/fair-plan-smoke-damage-legal-action-california-department-of-insurance-lara
+Info: News Article
+================================================================================
+Q1. What is the name of the California FAIR Plan's smoke-damage policy that is illegal according to the Los Angeles County Superior Court judge?
+A. Permanent Physical Changes Policy
+B. Toxic Substances and Cleaning Services Policy
+C. Soot, Ash, and Fire Debris Policy
+D. Industrial Hygienic Testing Policy
+Correct Answer: A
+
+Q2. What is the reason why the Department of Insurance ordered the state’s home insurer of last resort to answer allegations that it has handled smoke damage claims illegally?
+A. To investigate allegations
+B. To address policyholder complaints and multiple lawsuits
+C. To update and clarify its policy language around smoke damage
+D. To halt the alleged illegal claim denials
+Correct Answer: B
+
+Q3. What is the name of the community group formed after the Jan. Harvey Rosenfield, an attorney and founder of Los Angeles advocacy group Consumer Watchdog and a critic of Lara who has accused him of being too chummy with the insurance industry, said the commissioner could have sought an injunction in civil court to halt the alleged illegal claim denials years ago?
+A. Eaton Fire Survivors Network
+B. Palisades Fire Survivors Network
+C. Joy Chen
+D. Harvey Rosenfield
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/opinion/story/2025-08-07/california-texas-gavin-newsom-greg-abbott-redistricting
+Info: News Article
+================================================================================
+Q1. What is the proposed plan in California to redraw the state's legislative and congressional district lines?
+A. The plan is to have the California Citizens Redistricting Commission draw the lines.
+B. The plan is to have the Democratic majority in the state Legislature draw the lines.
+C. The plan is to have the state's independent redistricting system draw the lines.
+D. The plan is to have the California Citizens Redistricting Commission and the state's independent redistricting system draw the lines together.
+Correct Answer: B.
+
+Q2. What is the purpose of the special election in California to ratify the redistricting plan?
+A. To get voter approval for the plan.
+B. To get voter approval for the plan and increase the number of Republicans elected to Congress from that state.
+C. To get voter approval for the plan and enhance the party's chances to retain control of the U.S.
+D. To get voter approval for the plan and increase the number of Democrats elected to Congress from that state.
+Correct Answer: A.
+
+Q3. What is the estimated cost of the special election to ratify the redistricting plan in California?
+A. $60 million in Los Angeles County alone.
+B. $60 million in the entire state.
+C. $200 million in the entire state.
+D. $200 million in Los Angeles County alone.
+Correct Answer: A.
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-07/l-a-county-wont-fight-a-g-rob-bonta-over-probation-takeover-as-long-as-he-fights-the-unions
+Info: News Article
+================================================================================
+Q1. What is the name of the federal court that appointed a receiver to take over a Mississippi jail?
+A. Hinds County supervisors
+B. Los Padrinos Juvenile Hall
+C. Probation Chief Guillermo Viera Rosa
+D. Cook County
+Correct Answer: A
+
+Q2. What is the reason why the Hinds County supervisors decried the move of appointing a receiver to take over a Mississippi jail?
+A. The move was “utterly unaccountable” to voters
+B. The move was “help” to the jail
+C. The move was “reckless, union-busting rhetoric”
+D. The move was “a critical mistake”
+Correct Answer: A
+
+Q3. What is the power of the receiver appointed to take over a Mississippi jail?
+A. The power to hire and fire staffers
+B. The power to negotiate or renegotiate contracts
+C. The power to petition the court to waive a contractual obligation in certain circumstances
+D. The power to suspend contracts
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-07/los-angeles-county-deputy-adrian-abelar-shooting
+Info: News Article
+================================================================================
+Q1. What is the name of the Los Angeles County sheriff's deputy who shot a man in the back in 2021?
+A. Yen Liu
+B. Adrian Abelar
+C. Ed Obayashi
+D. Nicole Nishida
+Correct Answer: A
+
+Q2. What was the reason why Los Angeles County prosecutors found there was "insufficient evidence" to prove Deputy Yen Liu was not acting in lawful self-defense when he shot Adrian Abelar?
+A. Liu did not have a weapon in his hand
+B. Abelar was not fleeing from the cops
+C. Abelar did not have a forged driver's license
+D. Liu did not fire a round that fractured several vertebrae and nearly paralyzed Abelar
+Correct Answer: D
+
+Q3. What is the name of the lawyer who advises police departments throughout California about use-of-force incidents and was quoted in the article?
+A. Doktor
+B. Ed Obayashi
+C. Nicole Nishida
+D. Adrian Abelar
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-07/l-a-never-needed-the-olympics-with-trump-wanting-in-its-time-to-pull-out
+Info: News Article
+================================================================================
+Q1. Who was hailed by Trump during the presser as an “MVP candidate”?
+A. Stephen Miller
+B. Sheldon Adelson
+C. Eli Broad
+D. Arnold Schwarzenegger
+Correct Answer: A
+
+Q2. What did Wasserman do in front of people who want to rain holy hell on his hometown?
+A. Threw some cash at Republican committees
+B. Kissed Trump’s ass
+C. Joked about not using an autopen to sign the executive order creating the task force
+D. Claimed to have brought in about $30 million
+Correct Answer: B
+
+Q3. What is the nearly billion-dollar budget deficit that the city of L.A. faces?
+A. 3%
+B. 10%
+C. 20%
+D. 30%
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-07/medi-cal-work-requirements
+Info: News Article
+================================================================================
+Q1. What is the name of the program that will require millions of healthy adults to prove every six months that they meet the work requirement in order to qualify for Medicaid after the 2026 midterm elections?
+A. Medi-Cal
+B. Medicaid
+C. Affordable Care Act
+D. None of the above
+Correct Answer: A
+
+Q2. What is the percentage of American adults who support tying Medicaid eligibility to work requirements according to a poll by the health research group KFF?
+A. 62%
+B. 50%
+C. 38%
+D. 25%
+Correct Answer: A
+
+Q3. What is the estimated number of people in the Inland Empire who could lose their Medi-Cal coverage as a result of work requirements?
+A. 100,000
+B. 150,000
+C. 200,000
+D. 250,000
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.latimes.com/world-nation/story/2025-08-07/federal-arrests-of-undocumented-immigrants-in-l-a-drop-in-july-dhs-says
+Info: News Article
+================================================================================
+Q1. What is the total number of arrests made by ICE and CBP in the Los Angeles area since June 6, 2025?
+A. 4,163
+B. 3,000
+C. 2,500
+D. 1,000
+Correct Answer: A
+
+Q2. What is the goal of the Trump administration's mass deportation operation?
+A. 3,000 undocumented migrants per day
+B. 4,163 arrests in the Los Angeles area
+C. 2,500 arrests in the Los Angeles area
+D. 1,000 arrests in the Los Angeles area
+Correct Answer: A
+
+Q3. What is the name of the federal judge who issued a temporary restraining order that blocks federal agents in southern and central California from targeting people based on their race, language, vocation or location without reasonable suspicion?
+A. Maame Ewusi-Mensah Frimpong
+B. Stephen Miller
+C. Tom Homan
+D. Karen Bass
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/08/08/ai-is-helping-to-keep-the-economy-afloat?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. What is the estimated percentage of GDP that AI spending currently makes up?
+A. 10%
+B. 20%
+C. 30%
+D. 40%
+Correct Answer: D
+
+Q2. What is the recent rise in AI services and cloud revenues?
+A. 5%
+B. 10%
+C. 15%
+D. 20%
+Correct Answer: D
+
+Q3. What is the potential outcome if AI doesn't deliver the productivity gains its biggest boosters are hoping for?
+A. A repeat of the early 20th-century railroad boom
+B. A repeat of the dot-com bubble
+C. A sustained period of economic growth
+D. A sustained period of economic decline
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/executive-order-alternative-assets-to-401ks?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. What is the name of the executive order signed by President Trump?
+A. The Retirement Account Dashboard Update Order
+B. The Alternative Asset Inclusion Order
+C. The Fiduciary Protection Order
+D. The Investment Option Expansion Order
+Correct Answer: B. The Alternative Asset Inclusion Order
+
+Q2. What is the purpose of the executive order signed by President Trump?
+A. To update the retirement account dashboard directly
+B. To urge the Labor Department and other government agencies to make it easier for retirement funds to include alternative assets
+C. To prohibit employers and plan sponsors from offering alternative assets
+D. To require employers and plan sponsors to act as fiduciaries and protect investors
+Correct Answer: B. To urge the Labor Department and other government agencies to make it easier for retirement funds to include alternative assets
+
+Q3. What is the current legal and ethical duty of plan sponsors when it comes to deciding what investment options are available through a 401(k)?
+A. To protect investors from risky investments
+B. To include only conservative investment options
+C. To act as fiduciaries and protect investors
+D. To include only investments that would benefit from gaining access to retirement funds
+Correct Answer: C. To act as fiduciaries and protect investors
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/08/08/openai-gpt-5-skyrocketing-valuation?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. What is GPT-5?
+A. A new type of computer virus
+B. A new type of smartphone
+C. A new type of artificial intelligence
+D. A new type of social media platform
+Correct Answer: C
+
+Q2. What is GPT-5 used for?
+A. Playing video games
+B. Learning new languages
+C. Managing schedules
+D. All of the above
+Correct Answer: D
+
+Q3. What is GPT-5's potential value?
+A. $100 million
+B. $1 billion
+C. $5 billion
+D. $50 billion
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/08/07/trump-urges-intel-ceo-to-resign-over-china-ties?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. What is the name of the CEO of Intel?
+A. Lip-Bu Tan
+B. Satya Nadella
+C. Tim Cook
+D. Jack Ma
+Correct Answer: A
+
+Q2. What is the reason why President Trump is calling on Intel CEO Lip-Bu Tan to step down?
+A. His connections to China
+B. His role in the Chips Act
+C. His position as a key Pentagon supplier
+D. His decision to scale back Intel's US manufacturing plans
+Correct Answer: A
+
+Q3. What is the name of the company that Intel supplied a Chinese military university with semiconductor tech in violation of US export controls?
+A. Cadence Design Systems
+B. Intel
+C. AMD
+D. NVIDIA
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/08/07/apple-pledges-us-spending-trump-tariffs?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. What is the tech giant committing to invest in?
+A. Domestic manufacturing and research
+B. Shifting its supply chain to the US
+C. India
+D. China
+Correct Answer: A
+
+Q2. What is the research firm Canalys reporting last week?
+A. India has overtaken China as the top smartphone exporter to the US
+B. Apple has shifted its manufacturing operations from China to India
+C. The US has imposed an additional tariff against India
+D. The venture has struggled to close a single data center deal
+Correct Answer: A
+
+Q3. What is the additional tariff announced against India?
+A. 25%
+B. 50%
+C. 100%
+D. 75%
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/08/06/trump-alleges-banks-have-discriminated-against-him?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. What is the name of the two biggest banks in the US according to President Trump?
+A. JPMorgan Chase
+B. Bank of America
+C. Citigroup
+D. Wells Fargo
+Correct Answer: B
+
+Q2. What is the reason why JPMorgan Chase and Bank of America allegedly refused to handle more than $1 billion of President Trump's money?
+A. They were punishing him for his political views
+B. They were discriminating against him based on his political affiliation
+C. They were discriminating against him based on his financial status
+D. They were discriminating against him based on his business practices
+Correct Answer: B
+
+Q3. What is the name of the regulatory body that asked banks why they were providing services to President Trump during the Biden administration?
+A. Federal Reserve
+B. Securities and Exchange Commission
+C. Financial Conduct Authority
+D. Office of the Comptroller of the Currency
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/08/06/rivian-sues-ohio-over-right-to-deal-its-own-cars?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. Which company is suing the Ohio Motor Vehicle Registrar?
+A. Rivian
+B. Tesla
+C. Ford
+D. General Motors
+Correct Answer: A
+
+Q2. How many states explicitly banned automakers from selling their own vehicles as of 2021?
+A. 17
+B. 16
+C. 15
+D. 14
+Correct Answer: A
+
+Q3. What is the main concern about automotive giants like Ford and GM gaining too much power through vertical monopolies?
+A. They are driving up costs for consumers.
+B. They are inconveniencing Ohioans by forcing them to order cars from out-of-state dealerships.
+C. They are gaining too much power in the automotive industry.
+D. They are not allowed to sell their own vehicles in certain states.
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/08/05/going-coastal-the-ny-post-is-coming-to-california?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. What is the name of the newspaper that is launching in Los Angeles in early 2026?
+A. The New York Times
+B. The Los Angeles Times
+C. The California Post
+D. The Washington Post
+Correct Answer: C. The California Post
+
+Q2. What is the parent company of The California Post?
+A. The New York Times
+B. The Los Angeles Times
+C. News Corp
+D. The Washington Post
+Correct Answer: C. News Corp
+
+Q3. According to the article, what is the current profitability status of The California Post?
+A. Losses
+B. Break-even
+C. Profitable
+D. Unknown
+Correct Answer: C. Profitable
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/08/05/outdoor-voices-founder-tries-again?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. What is the name of the woman who brought you exercise dresses?
+A. Ty Haney
+B. Outdoor Voices
+C. Private equity firm
+D. Legions of millennial fans
+Correct Answer: A
+
+Q2. When did Ty Haney start working with Outdoor Voices again?
+A. Late last year
+B. Five years after its founding
+C. June 2020
+D. After the acquisition offer
+Correct Answer: A
+
+Q3. What happened to Outdoor Voices after the acquisition offer?
+A. It reported its first profitable month
+B. It shuttered all of its stores
+C. It avoided bankruptcy
+D. It peaked in 2018
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/08/05/switzerland-scrambles-to-shed-sky-high-tariff?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. What is the land of bougie chocolate and watches' annual trade surplus with the US?
+A. $10 billion
+B. $20 billion
+C. $38 billion
+D. $50 billion
+Correct Answer: C
+
+Q2. What is the country that is a major transit point for Swiss gold exports called?
+A. France
+B. Germany
+C. Switzerland
+D. Italy
+Correct Answer: A
+
+Q3. What is the country that is trying to win Trump over by offering to buy more American liquefied natural gas or ramping up investments in the US economy called?
+A. Switzerland
+B. Germany
+C. Italy
+D. France
+Correct Answer: A
+
+================================================================================
+
