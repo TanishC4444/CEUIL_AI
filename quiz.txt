@@ -71569,3 +71569,2976 @@ Correct Answer: A
 
 ================================================================================
 
+
+Link: https://www.morningbrew.com/stories/2025/08/03/grandma-is-playing-video-games?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. What is TacticalGramma's age?
+A. 50
+B. 60
+C. 70
+D. 80
+Correct Answer: B
+
+Q2. What is TacticalGramma's platform on which she has 2 million followers?
+A. TikTok
+B. Twitch
+C. YouTube
+D. Instagram
+Correct Answer: A
+
+Q3. What is the name of the kit released by The Sims in May that focused on elderly styles and accessories?
+A. Elderly Fashion Kit
+B. Senior Style Kit
+C. Aging Accessories Kit
+D. Geriatric Gaming Kit
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/08/02/the-us-labor-market-is-worse-than-we-thought?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. Which industry accounted for almost all of the job growth in July?
+A. Healthcare and social assistance
+B. Finance
+C. Manufacturing
+D. Construction
+Correct Answer: A
+
+Q2. What action did President Trump take after the revised job growth data was released?
+A. He fired BLS Commissioner Erika McEntarfer
+B. He appointed a new BLS Commissioner
+C. He called for an independent audit of the BLS
+D. He called for a new round of stimulus spending
+Correct Answer: A
+
+Q3. What did President Trump say about Jerome Powell, the Chairman of the Federal Reserve?
+A. He called him a “stubborn MORON” who should be put “out to pasture”
+B. He called him a “great leader” who should be given more power
+C. He called him a “terrible person” who should be removed from office
+D. He called him a “great communicator” who should be given more time to implement policies
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/08/01/the-big-tariff-deadline-is-finally-here?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. What countries were affected by the new tariffs imposed by President Trump?
+A. Japan, Britain, the EU, Indonesia, and South Korea
+B. Canada
+C. All countries that haven't reached a new trade deal with the US
+D. None of the above
+Correct Answer: A
+
+Q2. What are the three groups of countries affected by the new tariffs?
+A. Countries with a large trade deficit
+B. Countries with a small trade deficit
+C. Countries with a trade surplus
+D. None of the above
+Correct Answer: C
+
+Q3. What is the additional tariff imposed on goods deemed "transhipped"?
+A. 10%
+B. 15%
+C. 40%
+D. 35%
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/fed-holds-rates-steady-faces-double-dissent?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. What is the current GDP growth rate?
+A. 2.3%
+B. 3%
+C. 1.5%
+D. 4.5%
+Correct Answer: B
+
+Q2. What is the expected GDP growth rate for the next quarter?
+A. 2.3%
+B. 3%
+C. 1.5%
+D. 4.5%
+Correct Answer: A
+
+Q3. What is the current Federal Reserve Chairman's name?
+A. Jerome Powell
+B. John Taylor
+C. Jay Powell
+D. Janet Yellen
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/07/31/zuck-woos-wall-street-with-ai?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. Who is Mark Zuckerberg?
+A. The CEO of Meta
+B. The CEO of Google
+C. The CEO of Apple
+D. The CEO of Microsoft
+Correct Answer: A
+
+Q2. What is Meta?
+A. A social media platform
+B. A search engine
+C. An e-commerce website
+D. A technology company
+Correct Answer: D
+
+Q3. What is Meta's Q2 revenue?
+A. $10 billion
+B. $20 billion
+C. $30 billion
+D. $40 billion
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/07/29/the-pain-in-your-electric-bill-could-be-ais-fault?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. What is the primary reason for the rise in energy costs this summer?
+A. The prevalence of AI data centers
+B. The heat dome caused by human-caused climate change
+C. Inflation
+D. Supply and demand imbalance
+Correct Answer: B
+
+Q2. What is the name of the nonpartisan think tank that forecasts energy prices to rise due to the One Big Beautiful Bill Act?
+A. Climate Impact Nonprofit
+B. PJM Interconnection
+C. Nonpartisan Think Tank
+D. President Trump
+Correct Answer: C
+
+Q3. What was President Trump's promise to the American people during his first 12 months of administration?
+A. To cut energy costs in half
+B. To increase energy costs in half
+C. To have no effect on energy costs
+D. To have no effect on the environment
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/07/30/boeing-embraces-comeback-kid-arc?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. In what year did Boeing last make a profit?
+A. 2018
+B. 2025
+C. 2019
+D. 2020
+Correct Answer: A
+
+Q2. How many commercial airplanes did Boeing ship in the first six months of 2025?
+A. 280
+B. 270
+C. 260
+D. 250
+Correct Answer: A
+
+Q3. What is the target for getting the new Boeing 737 Max 7 and Max 10 certified?
+A. 2025
+B. 2026
+C. 2027
+D. 2028
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/07/29/uk-online-age-checks-vpns?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. Which app became the most-downloaded in the UK after the Online Safety Act took effect?
+A. Reddit
+B. PornHub
+C. TikTok
+D. VPNs
+Correct Answer: D
+
+Q2. What is the main purpose of the Online Safety Act?
+A. To protect minors from pornography and anything that promotes eating disorders or self-harm
+B. To regulate social media platforms
+C. To ensure privacy and security of personal information
+D. To prevent data breaches
+Correct Answer: A
+
+Q3. Which website introduced age-verification checks to keep out anyone under 18 in the UK?
+A. TikTok
+B. Uber
+C. Reddit
+D. PornHub
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/07/28/china-will-pay-people-to-have-kids?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. What is the current fertility rate in China?
+A. 2.51 children per woman
+B. 1.01 children per woman
+C. 2.1 children per woman
+D. 1.5 children per woman
+Correct Answer: B. 1.01 children per woman
+
+Q2. What is the government's goal for the fertility rate in China?
+A. 2.51 children per woman
+B. 1.01 children per woman
+C. 2.1 children per woman
+D. 1.5 children per woman
+Correct Answer: C. 2.1 children per woman
+
+Q3. What is the maximum amount of money offered by the Inner Mongolia region for a child?
+A. $500 per year
+B. $1,000 per year
+C. $14,000 per year
+D. $2,000 per year
+Correct Answer: C. $14,000 per year
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/07/28/the-us-and-eu-struck-a-deal-on-tariffs?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. What was the final agreed upon tariff rate between the United States and the European Union?
+A. 0%
+B. 10%
+C. 15%
+D. 20%
+Correct Answer: C
+
+Q2. What was the original tariff rate announced by President Trump in April?
+A. 15%
+B. 20%
+C. 30%
+D. 50%
+Correct Answer: C
+
+Q3. What was the final agreed upon tariff rate on steel from Europe?
+A. 0%
+B. 10%
+C. 15%
+D. 50%
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/07/28/star-power-helps-astronomer-change-the-subject?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. What is the name of the company that was involved in the scandal?
+A. Astronomer
+B. Coldplay
+C. Apple
+D. Google
+Correct Answer: A
+
+Q2. What is the term used to describe the relationship between the CEO and the HR chief in the article?
+A. Conscious uncoupling
+B. Conscious coupling
+C. Married
+D. Single
+Correct Answer: B
+
+Q3. Who is the "temporary spokesperson" in the video?
+A. Paltrow
+B. Greenway
+C. Jordan
+D. The CEO
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/07/27/whos-responsible-for-driverless-vehicle-crashes?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. What was the age of Naibel Benavides at the time of her death?
+A. 20
+B. 22
+C. 25
+D. 30
+Correct Answer: B
+
+Q2. What was the name of the technology that failed to warn the driver of an imminent crash in the Tesla case?
+A. Autopilot
+B. Autonomous driving
+C. Human driver
+D. Automatic brakes
+Correct Answer: A
+
+Q3. What was the legal standard being used in the Tesla case?
+A. Negligence
+B. Manslaughter
+C. Reckless disregard for human life
+D. Product liability
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/local/texas/uvalde-schools-ai-gun-detection-system-security-cameras/273-5a89c5f0-5afc-4522-a913-c2376cf2bbbd
+Info: News Article: 273 5A89C5F0 5Afc 4522 A913 C2376Cf2Bbbd
+================================================================================
+Q1. What type of technology will be installed on all 550 of Uvalde schools' security cameras?
+A. Facial recognition software
+B. Biometric tracking system
+C. Artificial intelligence system
+D. None of the above
+Correct Answer: C
+
+Q2. What is the purpose of the AI software installed on the security cameras?
+A. To detect a gun in seconds and automatically trigger lockdown protocols
+B. To track biometrics of students and staff
+C. To monitor the playground for rabid raccoons
+D. To detect and respond to emergencies quickly
+Correct Answer: A
+
+Q3. What is the main concern of Omnilert and district officials regarding the AI system?
+A. That it uses facial recognition or tracks biometrics
+B. That it may get tired or go on a lunch break
+C. That it may not be effective in detecting a gun in seconds
+D. That it may not be integrated with other security systems nationwide
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/sports/soccer/world-cup/2026-fifa-world-cup-dallas-volunteer/287-758b485a-eb0f-4eea-90d7-fcb585679994
+Info: News Article
+================================================================================
+Q1. What is the name of the event that will bring the world to the city?
+A. FIFA World Cup
+B. Olympics
+C. Super Bowl
+D. NBA Finals
+Correct Answer: A
+
+Q2. What is the minimum age requirement to be eligible for a volunteer position?
+A. 16
+B. 18
+C. 21
+D. 25
+Correct Answer: B
+
+Q3. What is one of the perks of being a FIFA World Cup volunteer?
+A. A chance to meet the players
+B. A free trip to another country
+C. A paid job
+D. A volunteer certificate
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/local/tarrant-county/fort-worth-apartment-the-cooper-lawsuit/287-d45f035d-879a-416c-a225-8825c53d6f25
+Info: News Article: 287 D45F035D 879A 416C A225 8825C53D6F25
+================================================================================
+Q1. What is the name of the apartment complex that caught fire in Fort Worth, Texas?
+A. The Cooper Apartments
+B. The Parkview Apartments
+C. The Lakeside Apartments
+D. The Summit Apartments
+Correct Answer: A
+
+Q2. What is the name of the law firm representing the tenants in the lawsuit against the apartment complex?
+A. Varghese Summersett
+B. Steele Law Firm
+C. Johnson Law Firm
+D. Smith Law Firm
+Correct Answer: A
+
+Q3. What is the name of the resident who shared a lease termination notice dated July 31, 2025?
+A. Zaire Harris
+B. John Smith
+C. Sarah Johnson
+D. Emily Davis
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/nation-world/nagasaki-japan-80-anniversary-atomic-bomb/507-c30d2449-81bd-4863-8c9c-1611231c2c9d
+Info: News Article: 507 C30D2449 81Bd 4863 8C9C 1611231C2C9D
+================================================================================
+Q1. What is the name of the city where the atomic attack occurred?
+A. Hiroshima
+B. Nagasaki
+C. Tokyo
+D. Osaka
+Correct Answer: B
+
+Q2. What is the name of the survivor who spoke at the memorial event?
+A. Hiroshi Nishioka
+B. Teruko Yokoyama
+C. Takeshita
+D. Shiro Suzuki
+Correct Answer: A
+
+Q3. What is the name of the treaty that Japan is refusing to sign?
+A. Treaty on the Prohibition of Nuclear Weapons
+B. Treaty on the Non-Proliferation of Nuclear Weapons
+C. Nuclear Weapons Ban Treaty
+D. Comprehensive Nuclear-Test-Ban Treaty
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/local/apparent-active-shooter-situation-reported-emory-atlanta-campus/85-b394afed-a525-4715-9909-91e3ca3d9035
+Info: News Article: 85 B394Afed A525 4715 9909 91E3Ca3D9035
+================================================================================
+Q1. Which police officer died confronting a gunman near the Emory Atlanta campus?
+A. Greg Padrick
+B. Officer John Dickens
+C. Officer Mike Smith
+D. Officer Sarah Johnson
+Correct Answer: B
+
+Q2. In which block of Clifton Road did the confrontation between the police officer and the gunman occur?
+A. 1600 block
+B. 1500 block
+C. 1400 block
+D. 1300 block
+Correct Answer: A
+
+Q3. Which agency is located right in front of the Centers for Disease Control and Prevention?
+A. DeKalb County Police Department
+B. Georgia State University
+C. Emory University
+D. Centers for Disease Control and Prevention
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/nation-world/lions-morice-norris-hurt-atlanta-falcons/507-183aced9-927d-4bf4-9126-98858b1c50e3
+Info: News Article: 507 183Aced9 927D 4Bf4 9126 98858B1C50E3
+================================================================================
+Q1. What was the condition of Morice Norris after he was attended to for about 20 minutes and taken off the field in an ambulance during the Lions’ preseason game Friday night against Atlanta?
+A. Critical
+B. Stable
+C. Serious
+D. Life-threatening
+Correct Answer: B
+
+Q2. What happened to Morice Norris during the Lions’ preseason game Friday night against Atlanta?
+A. He hit Carter with his facemask facing the running back’s midsection and his head snapped back after making the hit.
+B. He suffered a cardiac arrest and had to be resuscitated on the field.
+C. He was injured in a fight with a fan.
+D. He was injured in a car accident.
+Correct Answer: A
+
+Q3. What was the decision of the Lions coach Dan Campbell regarding the game after Morice Norris was attended to for about 20 minutes and taken off the field in an ambulance during the Lions’ preseason game Friday night against Atlanta?
+A. He asked for prayers for Morice Norris.
+B. He ordered the game to resume.
+C. He decided not to finish the game.
+D. He ordered the game to be postponed.
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/local/double-oak-denies-helistop-request-amid-heated-debate/287-df70ddf7-3994-44f4-bd7f-bfc124686d81
+Info: News Article: 287 Df70Ddf7 3994 44F4 Bd7F Bfc124686D81
+================================================================================
+Q1. What is the name of the town where the helistop was proposed?
+A. Double Oak
+B. Dallas
+C. Fort Worth
+D. Arlington
+Correct Answer: A
+
+Q2. What is the reason the homeowner behind the helistop proposal did not attend the meeting?
+A. The family was not in town
+B. The homeowner was not able to attend due to personal attacks and accusations of receiving "special treatment"
+C. The homeowner did not agree with the decision of the Planning and Zoning Commission
+D. The homeowner did not want to attend the meeting
+Correct Answer: B
+
+Q3. What is the name of the representative of the homeowner behind the helistop proposal?
+A. Ken Frisby
+B. James Hering
+C. Frisby Enterprises & Fine Homes
+D. None of the above
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/local/dallas-county/dallas-proposes-budget-with-focus-on-public-safety-tax-rate-reduction/287-f9b5b819-dce7-4b4e-b4dc-ba53e586d657
+Info: News Article: 287 F9B5B819 Dce7 4B4E B4Dc Ba53E586D657
+================================================================================
+Q1. What is the expected sales tax revenue report in Dallas?
+A. $153,400
+B. $175,000
+C. $200,000
+D. $225,000
+Correct Answer: B
+
+Q2. What is the voter-approved mandate for hiring police officers in Dallas?
+A. 250 officers
+B. 350 officers
+C. 400 officers
+D. 450 officers
+Correct Answer: B
+
+Q3. What is the property tax exemption for seniors and residents with disabilities in Dallas?
+A. $100,000
+B. $153,400
+C. $175,000
+D. $200,000
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/local/real-estate-firm-files-restraining-order-to-close-controversial-deep-ellum-bar/287-6d96b54e-71f2-4b56-8b83-27925c7c1e9d
+Info: News Article: 287 6D96B54E 71F2 4B56 8B83 27925C7C1E9D
+================================================================================
+Q1. What is the name of the real estate investment firm that owns several properties in Deep Ellum?
+A. Asana Partners
+B. Westdale
+C. Rodeo Ranch Texas LLC
+D. The City of Dallas
+Correct Answer: A
+
+Q2. What is the reason why Asana Partners filed a temporary restraining order against Rodeo Dallas?
+A. The bar was found to be operating as a restaurant rather than a bar.
+B. The bar lacked a dance-hall license.
+C. The bar ran a mechanical bull without a permit.
+D. The bar was "the epicenter of the spike in violence in Deep Ellum."
+Correct Answer: D
+
+Q3. What is the name of the attorney who spoke on behalf of Asana Partners in court?
+A. Ben Riemer
+B. Dave Wishnew
+C. Chris Dalton
+D. Veretta Frazier
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/nation-world/former-fbi-cia-director-william-h-webster-dies/507-a554cd05-4463-4338-a073-91362eda408b
+Info: News Article: 507 A554Cd05 4463 4338 A073 91362Eda408B
+================================================================================
+Q1. Who led the FBI from 1978 to 1987 and the CIA from 1987 to 1991?
+A. William Webster
+B. John O'Neill
+C. Louis Freeh
+D. Robert Mueller
+Correct Answer: A
+
+Q2. What was William Webster's profession before he became FBI and CIA director?
+A. Lawyer
+B. Federal prosecutor
+C. Judge
+D. Accountant
+Correct Answer: A
+
+Q3. In what year did President Jimmy Carter select William Webster as FBI chief?
+A. 1978
+B. 1987
+C. 1991
+D. 1994
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/nation-world/montana-bar-mass-shooting-suspect-arrested/507-88d5ee6a-2b32-453c-881f-2bb95f56cd73
+Info: News Article: 507 88D5Ee6A 2B32 453C 881F 2Bb95F56Cd73
+================================================================================
+Q1. Who was the suspect in the shooting at a Montana bar that left four people dead?
+A. Eric Hempstead
+B. Lee Johnson
+C. Greg Gianforte
+D. Jacob Brown
+Correct Answer: D
+
+Q2. What did Montana Attorney General Austin Knudsen say during a news conference about the suspect in the shooting at a Montana bar?
+A. The suspect was not identified
+B. The suspect was captured
+C. The suspect was not found
+D. The suspect was not involved in the shooting
+Correct Answer: B
+
+Q3. Where was the suspect in the shooting at a Montana bar captured?
+A. Near The Owl Bar
+B. Near The Ranch Bar
+C. Near a structure near The Ranch Bar
+D. Near a mountainous area
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/local/dallas-county/jerry-jones-sexual-assault-lawsuit-trial-delay/287-516e9059-cf44-4e66-9452-c61adcd9055c
+Info: News Article: 287 516E9059 Cf44 4E66 9452 C61Adcd9055C
+================================================================================
+Q1. In what year was the lawsuit filed against Jerry Jones and the Dallas Cowboys?
+A. 2018
+B. 2019
+C. 2020
+D. 2021
+Correct Answer: C. 2020
+
+Q2. Where did the alleged incident happen according to the refiled version of the lawsuit?
+A. The Tom Landry room at AT&T Stadium
+B. A hotel room
+C. A bar
+D. A park
+Correct Answer: A. The Tom Landry room at AT&T Stadium
+
+Q3. Who is Thomas Bowers III representing in the lawsuit against Jerry Jones and the Dallas Cowboys?
+A. The plaintiff
+B. The defendant
+C. A witness
+D. A journalist
+Correct Answer: A. The plaintiff
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/local/five-best-friends-killed-in-crash-on-way-to-lake-trip-their-families-are-now-demanding-answers/287-13fa5b42-4f03-4644-9458-86fbb459950f
+Info: News Article: 287 13Fa5B42 4F03 4644 9458 86Fbb459950F
+================================================================================
+Q1. What was the age of Thalia Salinas at the time of her death?
+A. 23
+B. 25
+C. 37
+D. 45
+Correct Answer: A
+
+Q2. What was the relationship between Thalia Salinas and Ruby Cruz?
+A. Sisters
+B. Mother and daughter
+C. Best friends
+D. Grandmother and granddaughter
+Correct Answer: C
+
+Q3. What was the occupation of Kody Talley at the time of the crash?
+A. Lawyer
+B. Doctor
+C. Commercial driver
+D. Teacher
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/education/schools/how-north-texas-schools-enforcing-new-no-cell-phone-rules/287-cb8a6ab3-a197-4e9e-81a6-543c8a482580
+Info: News Article: 287 Cb8A6Ab3 A197 4E9E 81A6 543C8A482580
+================================================================================
+Q1. What is the name of the school district that is implementing the new state law?
+A. Wylie ISD
+B. Dallas ISD
+C. Fort Worth ISD
+D. Houston ISD
+Correct Answer: A
+
+Q2. What is the purpose of the new state law?
+A. To allow students to use personal communication devices during the school day
+B. To require students to use personal communication devices during the school day
+C. To prohibit students from using personal communication devices during the school day
+D. To regulate the use of personal communication devices during the school day
+Correct Answer: C
+
+Q3. What is the name of the official at Wylie High School who is responsible for enforcing the new policy?
+A. Principal
+B. Assistant Principal
+C. Student Services Secretary
+D. Superintendent
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/education/texas-cell-phone-ban-schools-dfw-law-policy/287-5ef5a54d-76ad-464a-88c9-c568b23da984
+Info: News Article: 287 5Ef5A54D 76Ad 464A 88C9 C568B23Da984
+================================================================================
+Q1. What is the new policy in Dallas ISD regarding cell phone use?
+A. Students are allowed to use their phones all day
+B. Students are not allowed to use their phones during class time
+C. Students are allowed to use their phones during transition periods between classes
+D. Students are not allowed to use their phones at all
+Correct Answer: D
+
+Q2. What is the punishment for a 1st violation of the cell phone policy in Arlington ISD?
+A. The student's phone is confiscated and returned to the parent/guardian with a $5 fee
+B. The student's phone is confiscated and returned to the parent/guardian with a $10 fee
+C. The student's phone is confiscated and returned to the parent/guardian with a $15 fee
+D. The student's phone is not confiscated, but the student is suspended from school
+Correct Answer: A
+
+Q3. In which district do students have to power off their devices all day, but each individual campus decides how the devices will be stored?
+A. Dallas ISD
+B. Arlington ISD
+C. Duncanville ISD
+D. Allen ISD
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/politics/inside-politics/texas-politics/california-republican-trying-prevent-nationwide-redistricting-war/287-97331914-77f5-4d8d-bc07-d35d5a896dec
+Info: News Article: 287 97331914 77F5 4D8D Bc07 D35D5A896Dec
+================================================================================
+Q1. Which California Congressman is quoted in the article?
+A. Kevin Kiley
+B. Gavin Newsom
+C. Nancy Pelosi
+D. Elizabeth Warren
+Correct Answer: A
+
+Q2. What is the main concern of California Congressman Kevin Kiley regarding the redistricting process?
+A. The process is fair and representative of the will of voters
+B. The process will ice out the GOP in California
+C. The process will make it difficult for members of the Texas Congressional delegation to represent their districts
+D. The process is not allowed by the Constitution
+Correct Answer: B
+
+Q3. According to the article, which state is threatening to redraw its congressional lines to ice out the GOP?
+A. Texas
+B. California
+C. Illinois
+D. New York
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/nation-world/packers-star-billy-howton-oldest-living-nfl-player-dies/507-ff9ce8eb-770d-4046-8ac5-71e5d7135d6c
+Info: News Article: 507 Ff9Ce8Eb 770D 4046 8Ac5 71E5D7135D6C
+================================================================================
+Q1. In what year did Billy Howton retire from football?
+A. 1956
+B. 1957
+C. 1963
+D. 1964
+Correct Answer: C. 1963
+
+Q2. Which NFL team did Billy Howton represent at the first NFLPA meeting in 1956?
+A. Green Bay Packers
+B. Cleveland Browns
+C. Dallas Cowboys
+D. Los Angeles Rams
+Correct Answer: A. Green Bay Packers
+
+Q3. What was one of Billy Howton's grievances at the first NFLPA meeting in 1956?
+A. A need for clean towels, shirts and jock straps for second practices
+B. A desire to increase the minimum wage for players
+C. A request for more time off during the season
+D. A demand for a larger share of revenue from ticket sales
+Correct Answer: A. A need for clean towels, shirts and jock straps for second practices
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/local/texas/california-gov-gavin-newsom-former-house-speaker-nancy-pelosi-texas-democrats-california/287-8b419bf3-8469-4f6e-8ce0-8ed49dc3bbb0
+Info: News Article: 287 8B419Bf3 8469 4F6E 8Ce0 8Ed49Dc3Bbb0
+================================================================================
+Q1. What is the name of the California Governor who spoke about the Texas Democratic lawmakers' efforts and California's potential redistricting efforts?
+A. Nancy Pelosi
+B. Gavin Newsom
+C. Robert Rivas
+D. Isaac Bryan
+Correct Answer: B
+
+Q2. What is the name of the Texas Attorney General who filed a lawsuit against 13 Democratic state representatives who left the state?
+A. Ken Paxton
+B. Dustin Burrows
+C. Kelly Hancock
+D. Isaac Bryan
+Correct Answer: A
+
+Q3. What is the name of the California Assembly Member who said "This is not just about lines on the map, this is about lives on the line"?
+A. Nancy Pelosi
+B. Gavin Newsom
+C. Robert Rivas
+D. Isaac Bryan
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/nation-world/apollo-13-moon-mission-leader-james-lovell-dies-at-97/507-96c1d905-23e4-441d-95f1-9c28c361482d
+Info: News Article: 507 96C1D905 23E4 441D 95F1 9C28C361482D
+================================================================================
+Q1. Who was the first human to fly to the moon?
+A. Neil Armstrong
+B. Buzz Aldrin
+C. Jim Lovell
+D. Michael Collins
+Correct Answer: C. Jim Lovell
+
+Q2. What was the name of the Apollo mission that Lovell flew with Frank Borman and William Anders?
+A. Apollo 8
+B. Apollo 12
+C. Apollo 13
+D. Apollo 14
+Correct Answer: A. Apollo 8
+
+Q3. What was the significance of the Apollo 13 mission for Jim Lovell?
+A. It was his first mission to the moon
+B. It was his last mission
+C. It was the most successful mission of the Apollo program
+D. It was the most significant mission of the Apollo program
+Correct Answer: D. It was the most significant mission of the Apollo program
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/state/texas-news/texas-flood/kerrville-texas-flood-victims-names-camp-mystic-family-searching/273-2c178f1a-6eb5-45bb-a5e1-6fabc8399969
+Info: News Article: 273 2C178F1A 6Eb5 45Bb A5E1 6Fabc8399969
+================================================================================
+No valid questions could be generated for this article.
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/nation-world/trump-removes-billy-long-irs-commissioner/507-072b04ef-c29b-4067-a817-9d5270ca1be1
+Info: News Article: 507 072B04Ef C29B 4067 A817 9D5270Ca1Be1
+================================================================================
+Q1. Who was confirmed as the Director of the Internal Revenue Service (IRS) by the Senate?
+A. Elon Musk
+B. Bessent
+C. Steven Long
+D. None of the above
+Correct Answer: C
+
+Q2. What was the reason for the resignation of the acting leader of the IRS?
+A. Over a deal between the IRS and the Department of Homeland Security to share immigrants’ tax data with Immigration and Customs Enforcement
+B. Over a fight between former Trump adviser Elon Musk and Bessent
+C. Over concerns about Steven Long's past work for a firm that pitched a fraud-ridden coronavirus pandemic-era tax break and about campaign contributions he received after Trump nominated him
+D. None of the above
+Correct Answer: A
+
+Q3. What was the Trump administration's effort to shrink the size of the federal bureaucracy called?
+A. Workforce reductions
+B. Shrinking the IRS
+C. Eliminating the IRS
+D. None of the above
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/nation-world/trump-administration-policy-protections-immigrant-children-custody/507-a3c55aa0-b67d-40f7-95e1-f197fc00930a
+Info: News Article: 507 A3C55Aa0 B67D 40F7 95E1 F197Fc00930A
+================================================================================
+Q1. What is the name of the judge considering the Trump administration's request to end the decades-old policy on protections for immigrant children in federal custody?
+A. Dolly Gee
+B. Joshua McCroskey
+C. Tiberius Davis
+D. Barack Obama
+Correct Answer: A
+
+Q2. In May, how many children were held over a week by CBP, including how many were held for over two weeks and how many were held 19 days?
+A. 46 children
+B. 6 children
+C. 4 children
+D. 19 children
+Correct Answer: A
+
+Q3. What is the name of the immigration detention center in Florida dubbed "Alligator Alcatraz," where a lawsuit alleges detainees' constitutional rights are being violated?
+A. Alligator Alcatraz
+B. Alligator Island
+C. Alligator Prison
+D. Alligator Penitentiary
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abc7.com/post/lions-morice-norris-shares-good-news-he-was-taken-off-field-ambulance/17483730/
+Info: News Article
+================================================================================
+Q1. What was the reason for the suspension of the Lions-Falcons preseason game?
+A. The game ended with 6:31 to go after the players let the clock run.
+B. Morice Norris was taken off the field in an ambulance during the game.
+C. The game was suspended due to a player's injury.
+D. The game was suspended due to a player's cardiac arrest.
+Correct Answer: C.
+
+Q2. What was Morice Norris's position on the Lions team?
+A. Quarterback
+B. Running back
+C. Safety
+D. Wide receiver
+Correct Answer: C.
+
+Q3. What was the outcome of the Lions-Falcons preseason game?
+A. Lions won 17-10
+B. Falcons won 17-10
+C. The game ended in a tie
+D. The game was suspended
+Correct Answer: D.
+
+================================================================================
+
+
+Link: https://abc7.com/post/disney-descendants-zombies-visit-set-go-backstage-kylie-cantrall-meg-donnelly-milo-manheim/17455325/
+Info: News Article
+================================================================================
+Q1. Who is performing in the "Descendants/Zombies: Worlds Collide Tour"?
+A. Dove Cameron and Sophia Carson
+B. Milo Manheim and Meg Donnelly
+C. Freya Skye and Malachi Barton
+D. Brandy and Rita Ora
+Correct Answer: C. Freya Skye and Malachi Barton
+
+Q2. What is the title of the new "Descendants" movie featuring Brandy?
+A. "Descendants 3"
+B. "Wicked Wonderland"
+C. "Zombies 4: Dawn of the Vampires"
+D. "Cinderella"
+Correct Answer: B. "Wicked Wonderland"
+
+Q3. Which "Descendants" star sang a "Wizards of Waverly Place" classic in the "Descendants/Zombies: Worlds Collide Tour"?
+A. Dove Cameron
+B. Milo Manheim
+C. Kylie Cantrall
+D. Freya Skye
+Correct Answer: C. Kylie Cantrall
+
+================================================================================
+
+
+Link: https://abc13.com/post/2025-hurricane-season-tropical-weather-forecast-storms-prediction-texas--gulf-coast/16593541/
+Info: News Article
+================================================================================
+Q1. What is the name of the tropical wave expected to move off the coast of Africa in the next day or two?
+A. Tropical Storm Barry
+B. Tropical Storm Erick
+C. Tropical Storm Humberto
+D. Tropical Storm Isaias
+Correct Answer: B
+
+Q2. What is the potential development chance of the tropical wave moving off the coast of Africa?
+A. 10%
+B. 20%
+C. 30%
+D. 40%
+Correct Answer: A
+
+Q3. What is the expected time frame for the tropical wave to impact the U.S.?
+A. 10 to 12 days
+B. 7 days
+C. 5 days
+D. 3 days
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abc13.com/post/man-acquitted-allegedly-shooting-dad-daughters-graduation-party-video-shows/17477214/
+Info: News Article
+================================================================================
+Q1. Who was the man seen on video shooting a father outside his daughter's graduation party?
+A. Arning
+B. Adam
+C. Mary
+D. None of the above
+Correct Answer: A
+
+Q2. What did Adam say to Arning before Arning shot him?
+A. "You think I'm scared?"
+B. "I'm not scared of you"
+C. "I'm going to call 911"
+D. "I'm not going to call 911"
+Correct Answer: A
+
+Q3. What did Mary say about the shooting?
+A. "He could have called 911"
+B. "I'm not scared of him"
+C. "I'm going to call 911"
+D. "I'm not going to call 911"
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abc7news.com/post/jim-lovell-death-apollo-13-moon-mission-leader-astronaut-james-dies-97-illinois/17474489/
+Info: News Article
+================================================================================
+Q1. Who was the first human to fly to and circle the moon?
+A. Neil Armstrong
+B. Buzz Aldrin
+C. Jim Lovell
+D. John Glenn
+Correct Answer: C. Jim Lovell
+
+Q2. What was the name of the Apollo mission that Lovell flew in 1968?
+A. Gemini 7
+B. Apollo 8
+C. Apollo 13
+D. Skylab
+Correct Answer: B. Apollo 8
+
+Q3. What was the most frightening moment in the Apollo 13 mission?
+A. The explosion of the oxygen tank
+B. The loss of the opportunity to walk on the moon
+C. The Christmas Eve reading from Genesis
+D. The stunning pale blue dot photo of Earth from the moon
+Correct Answer: A. The explosion of the oxygen tank
+
+================================================================================
+
+
+Link: https://abc13.com/post/school-supplies-abc13s-2025-share-drive-collecting-donations-now-houston-texas/17035479/
+Info: News Article
+================================================================================
+Q1. Which school supply collection sites featured Eyewitness News anchors and reporters going live during the 2025 Share Your School Supplies Drive?
+A. Houston Food Bank
+B. Amazon
+C. Terry Bryant
+D. Kids in Need Foundation
+Correct Answer: C. Terry Bryant
+
+Q2. According to the Kids in Need Foundation's 2023-2024 Impact Report, what percentage of students arrive without the necessary supplies on their first day?
+A. 50%
+B. 62%
+C. 70%
+D. 80%
+Correct Answer: B. 62%
+
+Q3. Which school programs are eligible for help from the Houston Food Bank's School Programs through the 2025 Share Your School Supplies Drive?
+A. Urban schools in which 90% of students are on free or reduced-price lunch
+B. Rural schools in which 70% of students are on free or reduced-price lunch
+C. Both A and B
+D. Neither A nor B
+Correct Answer: A. Urban schools in which 90% of students are on free or reduced-price lunch
+
+================================================================================
+
+
+Link: https://abc7.com/post/sorry-baby-feels-like-hug-eva-victor-naomi-ackie-lucas-hedges-kelly-mccormack-share-fans-should-watch/17476934/
+Info: News Article
+================================================================================
+Q1. Who is the director of "Sorry, Baby"?
+A. Eva Victor
+B. Kelly McCormack
+C. Lucas Hedges
+D. Natasha
+Correct Answer: A
+
+Q2. What does Eva Victor say about keeping a close circle of friends?
+A. It's not important
+B. It's not possible
+C. It's important to have the right people around
+D. It's not necessary
+Correct Answer: C
+
+Q3. What does Lucas Hedges hope for "Sorry, Baby" to feel like?
+A. A hug
+B. A storytelling experience
+C. A sensitive story
+D. A universal story
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abc7.com/post/judge-weighs-trump-administrations-request-end-protections-immigrant-children/17476324/
+Info: News Article
+================================================================================
+Q1. What is the name of the judge who is considering the Trump administration's request to end protections for immigrant children?
+A. Dolly Gee
+B. Joshua McCroskey
+C. Tiberius Davis
+D. Barack Obama
+Correct Answer: A
+
+Q2. In May, how many children were held by CBP over a week, including how many were held for over two weeks and how many were held 19 days?
+A. 46 children, including 6 over two weeks and 4 for 19 days
+B. 72 children, all held for 72 hours or less
+C. 100 children, all held for over 72 hours
+D. 50 children, all held for less than 72 hours
+Correct Answer: A
+
+Q3. What is the name of the immigration detention center in Florida that the Trump administration is looking to expand?
+A. Alligator Alcatraz
+B. Texas Family Detention Center
+C. Florida Family Detention Center
+D. New York Family Detention Center
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abc13.com/post/harris-county-commissioner-ramsey-questions-removing-hidalgo-office-following-chaotic-commissioners-court-meeting/17475556/
+Info: News Article
+================================================================================
+Q1. Which Texas state law allows for the removal of a county judge?
+A. Incompetency
+B. Misconduct
+C. Corruption
+D. Malfeasance
+Correct Answer: B. Misconduct
+
+Q2. What was the reason given by Commissioner Ramsey for considering the removal of Judge Lina Hidalgo from office?
+A. Incompetency
+B. Misconduct
+C. Corruption
+D. Malfeasance
+Correct Answer: B. Misconduct
+
+Q3. According to Texas state law, what is the process for removing a county judge?
+A. Impeachment
+B. Recall
+C. Election
+D. Removal by the commissioners court
+Correct Answer: D. Removal by the commissioners court
+
+================================================================================
+
+
+Link: https://www.bbc.com/sport/rugby-union/articles/c70xr92xdj4o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c70xr92xdj4o)
+================================================================================
+Q1. What was the score of the last meeting between England and France?
+A. 43-8
+B. 43-42
+C. 24-20
+D. 24-18
+Correct Answer: A
+
+Q2. What was the margin of victory for England in their latest win over France?
+A. 1 point
+B. 2 points
+C. 10 points
+D. 15 points
+Correct Answer: D
+
+Q3. When was the last time England won over France by a margin of 15 points or more?
+A. 2009
+B. 2015
+C. 2017
+D. 2019
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.msnbc.com/opinion/analysis/cdc-headquarters-shooting-dead-rfk-jr-employee-audio-rcna224073
+Info: News Article
+================================================================================
+Q1. Who was the shooter identified as?
+A. Patrick Joseph White
+B. John F. Kennedy Jr.
+C. Susan Monarez
+D. None of the above
+Correct Answer: A
+
+Q2. What was the shooter's motivation for the shooting?
+A. To protest the Covid vaccine
+B. To protest the CDC's policies on vaccines
+C. To protest the CDC's policies on masks
+D. To protest the CDC's policies on social distancing
+Correct Answer: A
+
+Q3. What did Susan Monarez say to the CDC employees during the all-hands meeting?
+A. She blamed the shooter for the attack
+B. She thanked the employees for their service
+C. She acknowledged the animosity towards the CDC and its work
+D. She denied any connection between the shooter and the CDC
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-07/socal-heat-wave-peaks-thursday-but-temperatures-will-remain-high
+Info: News Article
+================================================================================
+Q1. What is the expected temperature in the San Fernando and Antelope valleys on Thursday?
+A. 90 degrees
+B. 100 degrees
+C. 110 degrees
+D. 120 degrees
+Correct Answer: C
+
+Q2. Which of the following is NOT a location affected by the heat wave and wildfire concerns in California?
+A. Los Angeles County
+B. Santa Clarita
+C. San Diego County
+D. San Francisco
+Correct Answer: D
+
+Q3. What is the current containment status of the Gifford fire in Santa Barbara and San Luis Obispo counties?
+A. 50%
+B. 75%
+C. 100%
+D. 15%
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.pbs.org/newshour/world/israel-faces-growing-international-condemnation-over-plan-to-take-over-gaza-city
+Info: News Article
+================================================================================
+Q1. What is the name of the city where the military takeover is planned to take place?
+A. Tel Aviv
+B. Jerusalem
+C. Gaza City
+D. Haifa
+Correct Answer: C
+
+Q2. What is the name of the international mediator who is expected to meet with Qatar's prime minister to discuss a new proposal to end the war?
+A. Steve Witkoff
+B. John Kerry
+C. Donald Trump
+D. Angela Merkel
+Correct Answer: A
+
+Q3. What is the name of the country where the ceasefire framework is being prepared?
+A. Israel
+B. Egypt
+C. Qatar
+D. Saudi Arabia
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/09/trump-considering-inviting-zelenskyy-to-alaska-summit-with-putin.html
+Info: News Article
+================================================================================
+Q1. What is the name of the Ukrainian President mentioned in the article?
+A. Volodymyr Zelenskyy
+B. Vladimir Putin
+C. Donald Trump
+D. Joe Biden
+Correct Answer: A
+
+Q2. What is the purpose of the meeting between President Donald Trump and Russian President Vladimir Putin in Alaska?
+A. To discuss the conflict in Ukraine
+B. To discuss trade agreements
+C. To discuss climate change
+D. To discuss the COVID-19 pandemic
+Correct Answer: A
+
+Q3. What is the stance of Ukrainian President Volodymyr Zelenskyy on the meeting between President Donald Trump and Russian President Vladimir Putin in Alaska?
+A. He supports it
+B. He opposes it
+C. He is neutral on it
+D. He has not commented on it
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/politics/trump-administration/white-house-considering-inviting-zelenskyy-alaska-rcna224070
+Info: News Article
+================================================================================
+Q1. What is the name of the Ukrainian President that the White House is considering inviting to Alaska?
+A. Volodymyr Zelenskyy
+B. Vladimir Putin
+C. Steve Witkoff
+D. Donald Trump
+Correct Answer: A
+
+Q2. What is the purpose of the diplomatic efforts aimed at ending the war in Ukraine?
+A. To gain support for a potential ceasefire from the Ukrainian government and European leaders
+B. To meet with Russian President Vladimir Putin in Alaska
+C. To make a Putin meeting with Zelenskyy a condition for a meeting between Trump and the Russian president to take place
+D. To impose new sanctions on Russia if they do not agree to a ceasefire
+Correct Answer: A
+
+Q3. What did President Trump say about the territories that would be swapped between Russia and Ukraine in a potential ceasefire?
+A. There would be no swapping of territories
+B. The swapping of territories would be to the betterment of both Russia and Ukraine
+C. The swapping of territories would only be to the betterment of Russia
+D. The swapping of territories would only be to the betterment of Ukraine
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.bbc.com/sport/football/articles/ckgl6re9922o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (ckgl6re9922o)
+================================================================================
+Q1. What is the name of the Palestinian footballer that Uefa posted a tribute to on social media?
+A. Suleiman al-Obeid
+B. Mohamed Salah
+C. Suleiman al-Obeid
+D. Mohamed Salah
+Correct Answer: A
+
+Q2. When did Israel begin its military offensive in Gaza?
+A. 7 October 2023
+B. 2023
+C. 2023
+D. 2023
+Correct Answer: A
+
+Q3. How many people were killed and taken hostage in the Hamas-led attacks on Israel on 7 October 2023?
+A. 1,200
+B. 1,200
+C. 1,200
+D. 1,200
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Business/wireStory/commercial-fishing-vast-pacific-nature-area-halted-after-124513767
+Info: News Article
+================================================================================
+Q1. What is the name of the monument that is the subject of the lawsuit?
+A. Pacific Islands Heritage Marine National Monument
+B. Johnston Atoll
+C. Jarvis Island
+D. Wake Island
+Correct Answer: A
+
+Q2. What is the purpose of the lawsuit?
+A. To challenge the Trump administration's rollback of federal ocean protections
+B. To allow commercial fishing in the monument expansion
+C. To harm the cultural, spiritual, religious, subsistence, educational, recreational, and aesthetic interests of Native Hawaiian plaintiffs
+D. To destroy the area
+Correct Answer: A
+
+Q3. What is the result of the judge's ruling?
+A. Boats catching fish for sale will need to immediately cease fishing in the monument's waters
+B. The government must go through a process to determine what kind of fishing, and under what conditions, can happen in monument waters
+C. The National Marine Fisheries Service sent a letter to fishing permit holders giving them the green light to fish commercially in the monument's boundaries
+D. The Trump administration's rollback of federal ocean protections is upheld
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/world/ukraine/zelenskyy-rejects-trumps-proposal-ukraine-swap-territories-russia-rcna224022
+Info: News Article
+================================================================================
+Q1. What is the name of the Ukrainian President who made the statement about not giving their land to occupiers?
+A. Volodymyr Zelenskyy
+B. Donald Trump
+C. Vladimir Putin
+D. Joe Biden
+Correct Answer: A
+
+Q2. What is the purpose of the meeting between President Donald Trump and Russian President Vladimir Putin in Alaska?
+A. To discuss a route to peace in the conflict between Russia and Ukraine
+B. To discuss a ceasefire for the war in Ukraine
+C. To discuss a swap of territories with Russia
+D. To discuss a way to end the war
+Correct Answer: A
+
+Q3. What is the name of the White House official who said the conversation between the U.S. and Russia about a ceasefire for the war in Ukraine was productive?
+A. Keith Kellogg
+B. Peter Watkins
+C. Vance
+D. Joe Biden
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/9/haiti-declares-three-month-state-of-emergency-as-gang-violence-spikes?traffic_source=rss
+Info: News Article: Haiti Declares Three Month State Of Emergency As Gang Violence Spikes?Traffic_Source=Rss
+================================================================================
+Q1. What is the name of the department in Haiti known as the "rice basket"?
+A. West
+B. Centre
+C. Artibonite
+D. Ouest
+Correct Answer: C. Artibonite
+
+Q2. How many people have been displaced across Haiti according to the International Organization for Migration (IOM)?
+A. 1.3 million
+B. 2.3 million
+C. 3.3 million
+D. 4.3 million
+Correct Answer: A. 1.3 million
+
+Q3. What is the name of the person who has been appointed as interim director of Haiti's National Police?
+A. Andre Jonas Vladimir Paraison
+B. Normil Rameau
+C. Alix Didier Fils-Aime
+D. Laurent Saint-Cyr
+Correct Answer: A. Andre Jonas Vladimir Paraison
+
+================================================================================
+
+
+Link: https://www.pbs.org/newshour/science/new-study-shows-how-climate-change-is-driving-wildfire-season-to-start-earlier-in-california
+Info: News Article
+================================================================================
+Q1. What is the name of the study that explains how climate warming has been driving the trend of earlier fire seasons?
+A. "When It All Burns"
+B. "Climate Change and Fire"
+C. "The Great Drought"
+D. "The California Wildfires"
+Correct Answer: A
+
+Q2. In what region of California has the typical onset of summer fire season shifted earliest by at least one month since the 1990s?
+A. The northern mountains
+B. The southern deserts
+C. The coastal regions
+D. The inland valleys
+Correct Answer: A
+
+Q3. What is the approximate time shift in the onset of summer fire season in some regions of California since the 1990s?
+A. 1 month
+B. 2 months
+C. 3 months
+D. 4 months
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/vance-uk-high-stakes-diplomacy-day-after-trump/story?id=124514600
+Info: News Article
+================================================================================
+Q1. Who met with European allies and Ukrainian officials in high-stakes diplomatic talks on Saturday?
+A. President Donald Trump
+B. Vice President JD Vance
+C. Ukrainian President Volodymyr Zelensky
+D. French President Emmanuel Macron
+Correct Answer: B
+
+Q2. What was the outcome of the talks Vice President JD Vance took part in on Saturday?
+A. No progress was made towards ending the war in Ukraine.
+B. Significant progress was made towards ending the war in Ukraine.
+C. The talks were cancelled due to lack of participation from Ukrainian President Volodymyr Zelensky.
+D. The talks were postponed due to scheduling conflicts.
+Correct Answer: B
+
+Q3. What did French President Emmanuel Macron say about the upcoming Trump-Putin summit?
+A. He expressed support for the summit without Ukrainian President Volodymyr Zelensky at the table.
+B. He expressed concern about the summit without Ukrainian President Volodymyr Zelensky at the table.
+C. He said he had spoken with both Zelenskyy and other European leaders and that, "The future of Ukraine cannot be decided without the Ukrainians who have been fighting for their freedom and security for over three years now."
+D. He said he had spoken with both Zelenskyy and other European leaders and that, "The future of Ukraine cannot be decided without the Ukrainians who have been fighting for their freedom and security for over three years now."
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/politics/beto-orourke-texas-democrats-ken-paxton-fundraising-quorum-break/269-c3470ef3-8da5-42fc-84f0-960c08b1b2b7
+Info: News Article: 269 C3470Ef3 8Da5 42Fc 84F0 960C08B1B2B7
+================================================================================
+Q1. What is the name of the group that AG Ken Paxton accused of going on a "fishing expedition, constitutional rights be damned"?
+A. Powered by People
+B. Texas Democrats
+C. Illinois
+D. New York
+Correct Answer: A
+
+Q2. What did Tarrant County District Judge Megan Fahey rule in her temporary injunction against Powered by People and Beto O'Rourke?
+A. Powered by People engaged in false, misleading or deceptive fundraising practices.
+B. Powered by People did not engage in false, misleading or deceptive fundraising practices.
+C. Powered by People did not violate state law or House procedures.
+D. Powered by People did not cause Texas Democratic Legislators to violate state law or House procedures.
+Correct Answer: A
+
+Q3. What is the name of the lawsuit that Beto O'Rourke filed against AG Ken Paxton?
+A. A lawsuit against Powered by People
+B. A lawsuit against Illinois
+C. A lawsuit against New York
+D. A lawsuit against Tarrant County District Judge Megan Fahey
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.bbc.com/sport/articles/cr5rv1ee384o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cr5rv1ee384o)
+================================================================================
+Q1. What is the current point difference between Rangers and Celtic in the Scottish Premiership?
+A. 15
+B. 14
+C. 13
+D. 12
+Correct Answer: A
+
+Q2. What is the result of the Euro tie between Rangers and Plzen after the second leg?
+A. 1-1
+B. 2-2
+C. 3-3
+D. 4-4
+Correct Answer: A
+
+Q3. What is the date of the league match between Rangers and St Mirren that will be postponed if Rangers win their Euro tie against Plzen?
+A. 24 August
+B. 25 August
+C. 26 August
+D. 27 August
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.pbs.org/newshour/world/nagasaki-marks-80-years-since-u-s-atomic-bombing-as-survivors-place-hopes-of-nuclear-ban-in-hands-of-youth
+Info: News Article
+================================================================================
+Q1. What is the name of the city where the atomic attack occurred?
+A. Hiroshima
+B. Nagasaki
+C. Tokyo
+D. Osaka
+Correct Answer: B
+
+Q2. What is the name of the organization that supports survivors in Nagasaki?
+A. The Nagasaki Peace Park
+B. The Nagasaki Atomic Bomb Memorial Foundation
+C. The Nagasaki Survivors Association
+D. The Nagasaki Nuclear Weapons Ban Treaty
+Correct Answer: C
+
+Q3. What is the name of the treaty that Japan is refusing to sign?
+A. The Treaty on the Prohibition of Nuclear Weapons
+B. The Treaty on the Non-Proliferation of Nuclear Weapons
+C. The Treaty on the Disarmament of Nuclear Weapons
+D. The Treaty on the Elimination of Nuclear Weapons
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/09/europe-and-ukraine-press-the-us-ahead-of-trump-putin-talks-in-alaska.html
+Info: News Article
+================================================================================
+Q1. Which European officials presented a counterproposal to the United States on Saturday regarding the Ukraine conflict?
+A. French President Emmanuel Macron
+B. British Prime Minister Keir Starmer
+C. German Chancellor Friedrich Merz
+D. European Commission President Ursula von der Leyen
+Correct Answer: B. British Prime Minister Keir Starmer
+
+Q2. What was the main demand of the European counterproposal regarding the Ukraine conflict?
+A. A ceasefire must take place before any other steps are taken
+B. Any territory exchange must be reciprocal, with firm security guarantees
+C. Ukraine must cede land to Russia
+D. Russia must withdraw its troops from Ukraine
+Correct Answer: A. A ceasefire must take place before any other steps are taken
+
+Q3. What did President Trump write on Twitter after speaking with Zelenskyy, Merz, and Starmer about the Ukraine conflict?
+A. Ukraine should cede land to Russia
+B. The United States will not provide any further aid to Ukraine
+C. The path to peace for Ukraine should be determined together and only together with Ukraine
+D. The United States will impose economic sanctions on Russia
+Correct Answer: C. The path to peace for Ukraine should be determined together and only together with Ukraine
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/sports/2025/8/9/salah-criticises-uefa-tribute-to-palestinian-pele?traffic_source=rss
+Info: News Article
+================================================================================
+Q1. Who is Mohamed Salah?
+A. A football player from Egypt
+B. A football player from Spain
+C. A football player from Brazil
+D. A football player from Argentina
+Correct Answer: A
+
+Q2. What is the GHF?
+A. A football tournament in Europe
+B. A football tournament in South America
+C. A football tournament in Asia
+D. A football tournament in Africa
+Correct Answer: D
+
+Q3. What is the United Nations saying about the situation in Gaza?
+A. They are praising the situation
+B. They are condemning the situation
+C. They are neutral on the situation
+D. They are not commenting on the situation
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/sports/2025/8/9/al-hilal-sign-darwin-nunez-from-liverpool?traffic_source=rss
+Info: News Article
+================================================================================
+Q1. Which team has signed Hugo Ekitike and Florian Wirtz?
+A. Liverpool
+B. Newcastle
+C. Al Hilal
+D. Manchester City
+Correct Answer: A
+
+Q2. Which team has expressed interest in Alexander Isak?
+A. Liverpool
+B. Newcastle
+C. Al Hilal
+D. Manchester City
+Correct Answer: B
+
+Q3. Which team has signed Kalidou Koulibaly, Sergej Milinkovic-Savic, Joao Cancelo and Aleksandar Mitrovic?
+A. Liverpool
+B. Newcastle
+C. Al Hilal
+D. Manchester City
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://abc13.com/post/houston-texans-lose-2025-nfl-preseason-opener-minnesota-vikings-abc13/17484417/
+Info: News Article
+================================================================================
+Q1. Who scored the touchdown for the Vikings in the second quarter?
+A. Sam Howell
+B. Max Brosmer
+C. Myles Price
+D. None of the above
+Correct Answer: A
+
+Q2. Who scored the touchdown for the Vikings in the fourth quarter?
+A. Sam Howell
+B. Max Brosmer
+C. Myles Price
+D. None of the above
+Correct Answer: B
+
+Q3. What was the final score of the preseason game between the Houston Texans and the Minnesota Vikings?
+A. 20-10
+B. 10-20
+C. 20-20
+D. 10-10
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cly3q635n4no?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cly3q635n4no)
+================================================================================
+Q1. What is the name of the Martian meteorite found in Niger?
+A. NWA 16788
+B. NWA 16789
+C. NWA 16787
+D. NWA 16786
+Correct Answer: A
+
+Q2. Where was the Martian meteorite found in Niger?
+A. Agadez region
+B. Sahara Desert
+C. Chirfa Oasis
+D. Niger's capital city
+Correct Answer: B
+
+Q3. Who sold the Martian meteorite?
+A. Local community
+B. International dealer
+C. Sotheby's
+D. University of Chicago
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cgln9y13x3yo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cgln9y13x3yo)
+================================================================================
+Q1. What is Ed Sheeran's birthplace?
+A. Framlingham, Suffolk
+B. Dublin, Ireland
+C. Manchester, England
+D. London, England
+Correct Answer: A
+
+Q2. What is the name of the song that inspired Ed Sheeran's hit single, Castle on the Hill?
+A. Ireland's Call
+B. Nothing But the Same Old Story
+C. The Pogues' "Where his brown eyes were waiting"
+D. Castle on the Hill
+Correct Answer: D
+
+Q3. What is the name of the song that prompted John Lennon to tell a concert in Dublin that "We're all Irish"?
+A. Ireland's Call
+B. Nothing But the Same Old Story
+C. The Beatles' "Twist and Shout"
+D. "I Will Always Love You"
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c4gdw0y4q7wo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c4gdw0y4q7wo)
+================================================================================
+Q1. What is the name of the drink that Serena Williams and Lucy find useful?
+A. Trip
+B. Rheal
+C. Goodrays
+D. Grass&Co
+Correct Answer: A
+
+Q2. What is the name of the supplement that is commonly found in many health and wellbeing products and is associated with enhancing mood, boosting energy, supporting cognition, and helping with stress?
+A. Lion's Mane extract
+B. L-theanine
+C. Ashwagandha
+D. Magnesium
+Correct Answer: B
+
+Q3. What is the name of the company that makes the drink that Serena Williams and Lucy find useful?
+A. Trip
+B. Rheal
+C. Goodrays
+D. Grass&Co
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cy40e08k1p0o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cy40e08k1p0o)
+================================================================================
+Q1. What is the name of the new version of War of the Worlds?
+A. War of the Worlds
+B. Ice Cube's War of the Worlds
+C. The New War of the Worlds
+D. War of the Worlds: The New Version
+Correct Answer: C. The New War of the Worlds
+
+Q2. What is the Tomatometer score of War of the Worlds after its initial battering?
+A. 0%
+B. 4%
+C. 5%
+D. 90%
+Correct Answer: B. 4%
+
+Q3. What is the title of the film described as "a trash masterpiece" in the Daily Beast?
+A. The Room
+B. Samurai Cop
+C. One Missed Call
+D. Transformers: The Last Knight
+Correct Answer: A. The Room
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c4ge1gw5zd8o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c4ge1gw5zd8o)
+================================================================================
+Q1. What is the name of the town in southern Peru where residents rely on flashlights to make their way through the darkness each morning?
+A. Pampa Clemesí
+B. Pampa Clemesí
+C. Pampa Clemesí
+D. Pampa Clemesí
+Correct Answer: A
+
+Q2. What is the name of the solar plant that produces electricity for around 350,000 homes in Peru?
+A. Rubí solar plant
+B. Rubí solar plant
+C. Rubí solar plant
+D. Rubí solar plant
+Correct Answer: A
+
+Q3. What is the name of the executive director in Peru for Orygen, the company that completed the first phase of the electrification project in Pampa Clemesí?
+A. Marco Fragale
+B. Marco Fragale
+C. Marco Fragale
+D. Marco Fragale
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c4gez754mn6o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c4gez754mn6o)
+================================================================================
+Q1. What is the name of the Chinese AI app that caused a selloff in US tech stocks?
+A. DeepSeek-R1
+B. DeepSeek
+C. Nvidia
+D. Sputnik
+Correct Answer: B
+
+Q2. What is the reference made by Marc Andreessen to the arrival of DeepSeek-R1?
+A. AI's Sputnik moment
+B. AI's moon landing
+C. AI's Mars landing
+D. AI's Saturn landing
+Correct Answer: A
+
+Q3. What is the concern of users about DeepSeek-R1?
+A. It may be a direct provision of your Personal Data to us or a transfer that we or a third-party make.
+B. It may be a direct provision of your Personal Data to China.
+C. It may be a direct provision of your Personal Data to the US.
+D. It may be a direct provision of your Personal Data to the UK.
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cdxy5p9xwx1o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cdxy5p9xwx1o)
+================================================================================
+Q1. Who is the Home Secretary of the UK?
+A. Priti Patel
+B. Boris Johnson
+C. Sajid Javid
+D. Dominic Raab
+Correct Answer: A
+
+Q2. What is the estimated cost of placing migrants and asylum seekers in hotels?
+A. Millions of pounds
+B. Thousands of pounds
+C. Hundreds of pounds
+D. Tens of pounds
+Correct Answer: A
+
+Q3. What is the Labour MP's plan to deport foreign criminals?
+A. Free bed and board in our jails
+B. Place them in hotels at the cost of millions to taxpayers
+C. Deport them to their home countries
+D. Offer them citizenship
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cj9w0e13zkyo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cj9w0e13zkyo)
+================================================================================
+Q1. What was the date when Richard Lynn paid to park in Rushton's Yard car park?
+A. March 18, 2024
+B. March 25, 2024
+C. July 2024
+D. December 2022
+Correct Answer: A
+
+Q2. What was the amount that Richard Lynn paid to park in Rushton's Yard car park?
+A. £1.70
+B. £85
+C. £165
+D. £51
+Correct Answer: A
+
+Q3. What was the result of the mix-up between Richard Lynn's car and another vehicle with a nearly identical number plate?
+A. Richard Lynn was issued a parking charge of £165.
+B. Richard Lynn was issued a parking charge of £85.
+C. Richard Lynn was issued a parking charge of £1.70.
+D. Richard Lynn was not issued a parking charge.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cdx0vvpeq9wo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cdx0vvpeq9wo)
+================================================================================
+Q1. Who is France's last newspaper hawker?
+A. Ali Akbar
+B. Emmanuel Macron
+C. Hugh Schofield
+D. Paris correspondent
+Correct Answer: A
+
+Q2. What is the name of the newspaper that Ali Akbar sells?
+A. Le Monde
+B. The Guardian
+C. The New York Times
+D. The Daily Telegraph
+Correct Answer: A
+
+Q3. How many copies of Le Monde does Ali Akbar sell on his rounds now?
+A. 50
+B. 30
+C. 10
+D. 5
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.npr.org/2025/08/09/nx-s1-5497226/women-pastor-pete-hegseth-vote
+Info: News Article
+================================================================================
+Q1. Which church does Defense Secretary Pete Hegseth belong to?
+A. Christ Church in Idaho
+B. Congregation of Reformed Evangelical Churches
+C. The Church of Jesus Christ of Latter-day Saints
+D. The Catholic Church
+Correct Answer: B. Congregation of Reformed Evangelical Churches
+
+Q2. What does Doug Wilson, senior pastor of Christ Church in Idaho, believe about women's role in society?
+A. Women should be allowed to vote and serve in combat roles
+B. Women are the chief executives of the home and entrusted with eternal souls
+C. Women should not be allowed to vote and serve in combat roles
+D. Women should be equal to men in all aspects of society
+Correct Answer: B. Women are the chief executives of the home and entrusted with eternal souls
+
+Q3. What is the goal of the followers of Doug Wilson and his church?
+A. To spread the idea that women should be allowed to vote and serve in combat roles
+B. To spread the idea that women are the chief executives of the home and entrusted with eternal souls
+C. To make the idea that women should not be allowed to vote and serve in combat roles enforceable
+D. To make the idea that slavery really isn't all that bad enforceable
+Correct Answer: C. To make the idea that women should not be allowed to vote and serve in combat roles enforceable
+
+================================================================================
+
+
+Link: https://abcnews.go.com/US/wireStory/officials-plan-seek-death-penalty-tennessee-man-charged-124447995
+Info: News Article
+================================================================================
+Q1. What is the name of the Tennessee man charged with killing the parents, grandmother and uncle of an infant found abandoned in a home's front yard?
+A. Austin Robert Drummond
+B. Robert Drummond
+C. Drummond
+D. Austin Drummond
+Correct Answer: A
+
+Q2. What is the location where the infant was found abandoned in a home's front yard?
+A. Tiptonville, Tenn.
+B. Dyer County, Tenn.
+C. Lake County, Tenn.
+D. Jackson, Tenn.
+Correct Answer: A
+
+Q3. What is the reason why prosecutors plan to seek the death penalty for the Tennessee man charged with killing the parents, grandmother and uncle of an infant found abandoned in a home's front yard?
+A. To protect the infant from further harm
+B. To bring justice to the victims and their families
+C. To punish the man for his crimes
+D. To prevent similar crimes from happening in the future
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/US/wireStory/senior-fbi-official-resisted-trump-administration-demands-pushed-124452689
+Info: News Article
+================================================================================
+Q1. Who is the senior FBI official who served as acting director in the first weeks of the Trump administration?
+A. Brian Driscoll
+B. Emil Bove
+C. Peter Strzok
+D. Lisa Page
+Correct Answer: A
+
+Q2. What is the reason for Brian Driscoll’s ouster from the FBI?
+A. Insubordination
+B. Refusal to turn over the names of agents who participated in the Jan. 6 investigations
+C. Demands from the Trump administration
+D. None of the above
+Correct Answer: A
+
+Q3. What is the name of the FBI’s top leaders who were accused of insubordination by Emil Bove?
+A. Brian Driscoll
+B. Peter Strzok
+C. Lisa Page
+D. Kash Patel and Dan Bongino
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://abcnews.go.com/US/wireStory/trumps-broad-tariffs-effect-economic-pain-surfacing-124436172
+Info: News Article
+================================================================================
+Q1. What month did President Trump begin levying higher import taxes on dozens of countries?
+A. April
+B. July
+C. August
+D. September
+Correct Answer: A
+
+Q2. What was the initial rollout of tariffs that led to market drama and a negotiating period?
+A. 39% U.S. tariffs on key goods
+B. 10% U.S. tariffs on Chinese goods
+C. 25% U.S. tariffs on European goods
+D. 15% U.S. tariffs on Mexican goods
+Correct Answer: A
+
+Q3. What is the Swiss executive branch expected to do after President Karin Keller-Sutter and other top Swiss officials returned from a hastily arranged trip to Washington?
+A. Hold an extraordinary meeting to discuss the tariffs
+B. Announce a new round of tariffs on U.S. goods
+C. Sign a trade agreement with the U.S.
+D. Impose economic sanctions on the U.S.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/US/wireStory/ailing-bull-moose-adirondack-mountain-hiking-trail-new-124449932
+Info: News Article
+================================================================================
+Q1. What was the name of the bull moose that forced the closure of an Adirondack hiking trail this summer?
+A. Goodman
+B. Bloodgood
+C. Lendrum
+D. None of the above
+Correct Answer: A
+
+Q2. What was the reason for the closure of the Goodman Mountain trail in the Horseshoe Lake Wild Forest?
+A. The trail was damaged by a storm
+B. The trail was closed due to a wildfire
+C. The trail was closed because of the presence of a bull moose
+D. The trail was closed for maintenance
+Correct Answer: C
+
+Q3. What was the outcome of the bull moose that was lingering around an Adirondack mountain trail this summer?
+A. The moose was relocated to a different area
+B. The moose was euthanized due to severe health issues
+C. The moose was captured and released back into the wild
+D. The moose was hunted and killed by wildlife officials
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/london-police-arrest-200-people-pro-palestinian-protesters-124508026
+Info: News Article
+================================================================================
+Q1. What was the purpose of the protest organized by Defend Our Juries?
+A. To force the government to reconsider the ban on Palestine Action
+B. To protest against Britain's support for Israel's offensive against Hamas in the Gaza Strip
+C. To vandalize two tanker planes at a Royal Air Force base
+D. To hold a peaceful demonstration in support of Palestine
+
+Q2. How many people were arrested by British police during the protest?
+A. More than 200 people
+B. Less than 200 people
+C. None of the people arrested were charged with a crime
+D. All of the people arrested were charged with a crime
+
+Q3. What was the response of the Metropolitan Police Service to the protest?
+A. They arrested all of the people who gathered in the square
+B. They arrested only those who held placards supporting Palestine Action
+C. They arrested a fraction of those supposedly committing "terrorism" offenses
+D. They did not respond to the protest
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/thailand-accuses-cambodia-planting-land-mines-3-soldiers-124507697
+Info: News Article
+================================================================================
+Q1. Which country is accused of planting land mines along the border with Thailand?
+A. Thailand
+B. Cambodia
+C. Laos
+D. Vietnam
+Correct Answer: B
+
+Q2. How many soldiers were wounded in the incident?
+A. 1
+B. 2
+C. 3
+D. 4
+Correct Answer: C
+
+Q3. Which international agreement does Thailand and Cambodia both belong to that bans the use of land mines?
+A. Paris Agreement
+B. United Nations Convention on the Law of the Sea
+C. Ottawa Convention
+D. Geneva Conventions
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/haiti-declares-3-month-state-emergency-gangs-ravage-124512832
+Info: News Article
+================================================================================
+Q1. What is the name of the newly-appointed police chief in Haiti?
+A. André Jonas Vladimir Paraison
+B. Normil Rameau
+C. Jovenel Moïse
+D. Kenyan police officers
+Correct Answer: A
+
+Q2. What is the reason for the state of emergency in Haiti's central region?
+A. Natural disasters
+B. Political unrest
+C. Gang violence
+D. Economic crisis
+Correct Answer: C
+
+Q3. How many people have been killed in the Artibonite and Central departments and nearby areas from October 2024 to the end of June 2025?
+A. 1,000
+B. 2,000
+C. 3,000
+D. 4,000
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/firefighters-battle-prevent-reignition-frances-largest-wildfire-residents-124505362
+Info: News Article
+================================================================================
+Q1. What was the name of the wildfire in France?
+A. Notre Dame
+B. Aude
+C. Mont Blanc
+D. Seine
+Correct Answer: B
+
+Q2. How many square kilometers did the wildfire burn in France?
+A. 160
+B. 80
+C. 240
+D. 120
+Correct Answer: A
+
+Q3. What was the temperature forecast for the Aude region on Saturday?
+A. 35 degrees Celsius
+B. 37 degrees Celsius
+C. 39 degrees Celsius
+D. 41 degrees Celsius
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/bank-england-cuts-main-interest-rate-4-lowest-124440364
+Info: News Article
+================================================================================
+Q1. What is the main interest rate cut by the Bank of England?
+A. 0.25%
+B. 1%
+C. 2%
+D. 4%
+Correct Answer: D
+
+Q2. What is the reason for the Bank of England to cut the main interest rate?
+A. To boost consumer and business confidence
+B. To reach the 2% target for consumer prices
+C. To reduce unemployment rate
+D. To increase taxes
+Correct Answer: A
+
+Q3. What is the current unemployment rate in Britain?
+A. 3.6%
+B. 4.7%
+C. 5.3%
+D. 6.1%
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/great-barrier-reef-records-largest-annual-coral-loss-124435799
+Info: News Article
+================================================================================
+Q1. What was the greatest annual loss of live coral in the Great Barrier Reef in four decades?
+A. 20%
+B. 30%
+C. 40%
+D. 50%
+Correct Answer: D. 50%
+
+Q2. What percentage of the world's coral reef area was affected by heat stress during the 2023 and 2024 mass coral bleaching event?
+A. 60%
+B. 70%
+C. 80%
+D. 90%
+Correct Answer: C. 80%
+
+Q3. What is the long-term average of the area of living coral in the Great Barrier Reef?
+A. 10%
+B. 20%
+C. 30%
+D. 40%
+Correct Answer: D. 40%
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/frances-largest-wildfire-decades-leaves-trail-devastation-124438905
+Info: News Article
+================================================================================
+Q1. What is the name of the region where the wildfire is burning?
+A. Corbières
+B. Aude
+C. Provence
+D. Languedoc
+Correct Answer: A
+
+Q2. How many square miles has the wildfire burned?
+A. 60
+B. 160
+C. 240
+D. 320
+Correct Answer: B
+
+Q3. What is the cause of the wildfire according to the authorities?
+A. Lightning strike
+B. Human activity
+C. Climate change and drought
+D. Volcanic eruption
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/indian-authorities-kashmir-ban-books-eminent-writers-scholars-124438635
+Info: News Article
+================================================================================
+Q1. What is the reason behind the ban of 25 books in Kashmir?
+A. They promote a "false narrative" and "secessionism."
+B. They are critical of the Indian government.
+C. They are critical of the Indian nationalist vision.
+D. They are critical of the Hindu nationalist vision.
+Correct Answer: A
+
+Q2. What is the role of the national government's representative in Kashmir?
+A. They run a largely powerless government that came to power last year after the first local election since India stripped the disputed region of its special status in 2019.
+B. They wield substantial power in the region.
+C. They are responsible for promoting the Hindu nationalist vision.
+D. They are responsible for promoting the Indian nationalist vision.
+Correct Answer: B
+
+Q3. What is the reaction of the Indian authorities to the banning of books?
+A. They are proud of hosting the ongoing Book Festival.
+B. They are concerned about the insecurities and limited understanding of those behind such authoritarian actions.
+C. They are not concerned about the insecurities and limited understanding of those behind such authoritarian actions.
+D. They are not concerned about the reaction of the Indian authorities to the banning of books.
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Politics/wireStory/justice-departments-scrutiny-trump-russia-probe-origins-124389618
+Info: News Article
+================================================================================
+Q1. What is the latest Justice Department revelation regarding the Trump-Russia probe origins?
+A. The investigation is being led by former FBI Director James Comey
+B. The investigation is being led by Attorney General Pam Bondi
+C. The investigation is being led by former CIA Director James Brennan
+D. The investigation is being led by a grand jury
+Correct Answer: B
+
+Q2. What is the objective of the Attorney General Pam Bondi's criminal investigation into the Obama-era origins of the Trump-Russia investigation?
+A. To exonerate President Donald Trump
+B. To investigate former FBI Director James Comey and former CIA Director James Brennan
+C. To investigate the intelligence community's assessment of Russian interference in the 2016 election
+D. To investigate the Obama administration for framing President Trump
+Correct Answer: A
+
+Q3. What is the significance of the Trump administration's effort to reopen the long-accepted conclusion of Russian interference in the 2016 election?
+A. It is an attempt to discredit the intelligence community's assessment of Russian interference
+B. It is an attempt to exonerate President Donald Trump
+C. It is an attempt to investigate the Obama administration for framing President Trump
+D. It is an attempt to investigate the origins of the Trump-Russia probe
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Politics/wireStory/texas-governor-threatens-remove-democrats-left-state-trump-124335908
+Info: News Article
+================================================================================
+Q1. What is the name of the Texas Democrat who said "Texans don't run from a fight"?
+A. Abbott
+B. Hochul
+C. Wu
+D. None of the above
+Correct Answer: B
+
+Q2. What is the name of the Texas Democrat who said "We're not going to tolerate our democracy being stolen in a modern-day stagecoach heist by a bunch of law breaking cowboys"?
+A. Abbott
+B. Hochul
+C. Wu
+D. None of the above
+Correct Answer: B
+
+Q3. What is the name of the Texas Democrat who said "members will do whatever it takes"?
+A. Abbott
+B. Hochul
+C. Wu
+D. None of the above
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Politics/wireStory/texas-california-joust-political-advantage-trump-power-us-124366412
+Info: News Article
+================================================================================
+Q1. What is the name of the state that Democrats in Texas are trying to prevent from moving forward with a redrawn congressional map sought by President Donald Trump?
+A. California
+B. Texas
+C. New York
+D. Florida
+Correct Answer: B
+
+Q2. What is the name of the source familiar with the plan who was not authorized to discuss it publicly?
+A. Ken Calvert
+B. Darrell Issa
+C. Kevin Kiley
+D. David Valadao
+Correct Answer: A
+
+Q3. What is the name of the state where Democrats are pitching redrawing their district maps in retaliation?
+A. California
+B. Texas
+C. New York
+D. Florida
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Politics/wireStory/texas-dispute-highlights-nations-long-history-partisan-gerrymandering-124352085
+Info: News Article
+================================================================================
+Q1. What event prompted the Democratic lawmakers to flee Texas?
+A. The Supreme Court ruled against gerrymandering.
+B. The Republican-led Legislature passed a law banning voting rights.
+C. The Democratic-led Legislature passed a law banning voting rights.
+D. The Republican-led Legislature proposed a new map for redrawing the state's congressional districts.
+Correct Answer: D
+
+Q2. What did Chief Justice John Roberts write about gerrymandering?
+A. It is illegal.
+B. It is unconstitutional.
+C. There is no objective measure for assessing whether a districting map treats a political party fairly.
+D. It is a violation of the Voting Rights Act.
+Correct Answer: C
+
+Q3. In what year did the Supreme Court rule that the congressional districts drawn by the Alabama Republican-led Legislature likely violated the Voting Rights Act?
+A. 2022
+B. 2023
+C. 2021
+D. 2020
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Politics/wireStory/marjorie-taylor-greene-calls-george-santos-7-year-124386287
+Info: News Article
+================================================================================
+Q1. Who is Marjorie Taylor Greene?
+A. A former congressman who was expelled from Congress
+B. A former congressman who was sentenced to seven years in prison
+C. A former congressman who was pardoned by President Trump
+D. A current congresswoman who came to the aid of the disgraced ex-congressman
+Correct Answer: D
+
+Q2. What is the reason behind Marjorie Taylor Greene's request to the Justice Department?
+A. To appeal the expulsion of the disgraced ex-congressman
+B. To appeal the seven-year prison sentence of the disgraced ex-congressman
+C. To appeal the pardon of the disgraced ex-congressman
+D. To appeal the commutation of the seven-year prison sentence of the disgraced ex-congressman
+Correct Answer: D
+
+Q3. What is the response of President Donald Trump to the request for commutation of the seven-year prison sentence of the disgraced ex-congressman?
+A. He has not talked to anyone about taking action in Santos’ case
+B. He has talked to someone about taking action in Santos’ case
+C. He has taken action in Santos’ case
+D. He has not yet decided whether to take action in Santos’ case
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Politics/wireStory/mitch-mcconnells-legacy-fire-kentucky-race-replace-senate-124352875
+Info: News Article
+================================================================================
+Q1. Who is Nate Morris?
+A. A candidate for United States Senate
+B. A Republican politician
+C. A tech entrepreneur
+D. All of the above
+Correct Answer: D
+
+Q2. What did Nate Morris say about Mitch McConnell at the Fancy Farm picnic?
+A. He praised him
+B. He criticized him
+C. He ignored him
+D. He didn't mention him
+Correct Answer: B
+
+Q3. What did Mitch McConnell say about Nate Morris at the pre-picnic breakfast in Mayfield?
+A. He endorsed him
+B. He criticized him
+C. He ignored him
+D. He praised him
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Business/wireStory/bill-clinton-plans-big-clinton-global-initiative-annual-124447575
+Info: News Article
+================================================================================
+Q1. What is the name of the organization founded by Bill Clinton?
+A. Clinton Foundation
+B. United Nations
+C. World Health Organization
+D. Global Development Initiative
+Correct Answer: A
+
+Q2. What is the goal of the Leaders Stage Sessions at this year's Clinton Global Initiative annual meeting?
+A. To expose the consequences of global issues
+B. To connect dots across issues
+C. To honor the common humanity of people
+D. To create new initiatives
+Correct Answer: B
+
+Q3. Which of the following leaders will be attending the Clinton Global Initiative annual meeting?
+A. Prince Harry
+B. Jill Biden
+C. Mia Mottley
+D. Vjosa Osmani
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Business/wireStory/chinas-exports-imports-picked-july-helped-pause-trumps-124439794
+Info: News Article
+================================================================================
+Q1. What was the percentage increase in China's exports in July compared to the same month the previous year?
+A. 5%
+B. 7%
+C. 10%
+D. 12%
+Correct Answer: B
+
+Q2. What was the percentage increase in China's imports in July compared to the same month the previous year?
+A. 5%
+B. 7%
+C. 10%
+D. 12%
+Correct Answer: B
+
+Q3. What was the reason for the surge in China's exports and imports in July?
+A. The pause in President Donald Trump's higher tariffs
+B. The rise in tariffs on shipments rerouted via other countries
+C. The temporary boost to demand from the U.S.-China trade truce
+D. All of the above
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Business/wireStory/world-shares-climb-after-rally-apple-leads-wall-124437295
+Info: News Article
+================================================================================
+Q1. Which company's earnings beat forecasts but its revenue fell short?
+A. Apple
+B. Microsoft
+C. Amazon
+D. Facebook
+Correct Answer: A
+
+Q2. What did President Donald Trump's tariffs on exports to the United States affect?
+A. The stock market
+B. The economy
+C. The currency exchange rate
+D. The price of Apple shares
+Correct Answer: B
+
+Q3. What is the parade of stronger-than-expected profit reports from U.S. companies called?
+A. The "Tariff Parade"
+B. The "Interest Rate Parade"
+C. The "Profit Parade"
+D. The "Earnings Parade"
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Business/wireStory/trump-opens-door-private-equity-crypto-401k-retirement-124460988
+Info: News Article
+================================================================================
+Q1. Which president signed the GENIUS Act?
+A. Barack Obama
+B. George W. Bush
+C. Donald Trump
+D. Bill Clinton
+Correct Answer: C
+
+Q2. What is the purpose of the GENIUS Act?
+A. To regulate stablecoins
+B. To allow private equity and cryptocurrency investments in 401(k) accounts
+C. To ban private equity and cryptocurrency investments in 401(k) accounts
+D. To regulate the stock and bond market mutual funds
+Correct Answer: A
+
+Q3. Which company is dedicated to educating retirement investors about the opportunities and risks of investing in private assets?
+A. Blackstone
+B. Vanguard
+C. Fidelity
+D. Goldman Sachs
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Politics/wireStory/former-tennessee-coach-derek-dooley-announces-2026-senate-124336667
+Info: News Article
+================================================================================
+Q1. Who is Derek Dooley?
+A. A former coach at the University of Georgia
+B. A former coach at Louisiana Tech
+C. A former coach at Tennessee
+D. A former coach at Auburn
+Correct Answer: C. A former coach at Tennessee
+
+Q2. What was Derek Dooley's record at Tennessee?
+A. 15-21
+B. 21-15
+C. 21-15
+D. 15-21
+Correct Answer: A. 15-21
+
+Q3. What is the name of the anonymous University of Tennessee-themed website that criticizes Derek Dooley?
+A. “Dooley’s Volunteers”
+B. “Tennessee Volunteers”
+C. “Volunteer Nation”
+D. “Tennessee Football”
+Correct Answer: A. “Dooley’s Volunteers”
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/10/loud-luxury-is-back-as-high-end-brands-look-to-rebound.html
+Info: News Article
+================================================================================
+Q1. What is the focus of the luxury sector in the current fashion season?
+A. Quiet luxury
+B. Statement styles
+C. Ultra-luxe brands
+D. None of the above
+Correct Answer: B
+
+Q2. Which fashion house is targeting a refit under its new artistic director Demna Gvasalia?
+A. Gucci
+B. Chanel
+C. Versace
+D. Bottega Veneta
+Correct Answer: A
+
+Q3. Which fashion house is positioning itself as a luxury brand with broad universal appeal?
+A. Brunello Cucinelli
+B. Hermes
+C. Loro Piano
+D. Burberry
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/select/shopping/do-face-wraps-work-rcna223727
+Info: News Article
+================================================================================
+Q1. What is the recommended way to work with a doctor to figure out what may work for you when it comes to face and neck treatments?
+A. Compressing these areas with a wrap may reduce swelling or puffiness for a short period of time.
+B. Working with a doctor to figure out what may work for you is best.
+C. SkinBetter Science InterFuse Treatment Cream is recommended by a dermatologist.
+D. SkinBetter Science InterFuse Treatment Cream is not recommended by a dermatologist.
+Correct Answer: B.
+
+Q2. What is the price of SkinBetter Science InterFuse Treatment Cream?
+A. $ 140.00
+B. $ 100.00
+C. $ 50.00
+D. $ 200.00
+Correct Answer: A.
+
+Q3. What is the recommended way to use SkinBetter Science InterFuse Treatment Cream?
+A. Apply it to the face and neck.
+B. Apply it to the arms and legs.
+C. Apply it to the back.
+D. Apply it to the stomach.
+Correct Answer: A.
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/sports/nfl/cowboys/cowboys-fall-to-rams-31-21-in-first-preseason-game/287-957a4148-e881-4158-917b-ac4e520e8fe4
+Info: News Article
+================================================================================
+Q1. Who is the starting quarterback for the Los Angeles Rams in their preseason game against the Cowboys?
+A. Stetson Bennett
+B. Blake Corum
+C. Joe Milton
+D. Matthew Stafford
+Correct Answer: A
+
+Q2. What is the name of the new head coach for the Dallas Cowboys?
+A. Brian Schottenheimer
+B. USC
+C. San Diego Chargers
+D. St. Louis Rams
+Correct Answer: A
+
+Q3. What is the position that Stetson Bennett is attempting to secure with the Los Angeles Rams?
+A. Third-string quarterback
+B. Wide receiver
+C. Running back
+D. Tight end
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/nation-world/morice-norris-shares-news-after-injury/507-579bc2ba-3f84-4ba5-b50b-d4565f58ed04
+Info: News Article: 507 579Bc2Ba 3F84 4Ba5 B50B D4565F58Ed04
+================================================================================
+Q1. Who is the Detroit Lions safety who was taken off the field in an ambulance during a preseason game against the Atlanta Falcons?
+A. Morice Norris
+B. Damar Hamlin
+C. John Wawrow
+D. Charles Odum
+Correct Answer: A
+
+Q2. What happened to cause the preseason game between the Detroit Lions and the Atlanta Falcons to be suspended?
+A. The game was too close to finish
+B. An official announced the game had been suspended "per New York"
+C. The Lions were leading the Falcons 17-10
+D. The Falcons were leading the Lions 17-10
+Correct Answer: B
+
+Q3. What is the name of the organization that announced the suspension of the preseason game between the Detroit Lions and the Atlanta Falcons?
+A. The NFL
+B. The Lions
+C. The Falcons
+D. The New York Giants
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/nation-world/nation-capital-trumps-federal-takeover-threat/507-cdd44aad-2cef-4680-b4bf-bef614c8ecfe
+Info: News Article: 507 Cdd44Aad 2Cef 4680 B4Bf Bef614C8Ecfe
+================================================================================
+Q1. What is the catalyst for Trump's latest round of takeover drama in Washington, D.C.?
+A. A spike in homicides and carjackings in 2023
+B. A group of teenagers attempting to carjack a high-profile member of the Department of Government Efficiency
+C. The city's limited "home rule" autonomy
+D. The city's failure to reduce the number of homicides and carjackings
+Correct Answer: B
+
+Q2. What is the number of carjackings in Washington, D.C. in 2024?
+A. 957
+B. 500
+C. 200
+D. 400
+Correct Answer: B
+
+Q3. What is the portion of juveniles arrested for carjacking in Washington, D.C.?
+A. 30%
+B. 40%
+C. 50%
+D. 60%
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cj9wv49xr0xo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cj9wv49xr0xo)
+================================================================================
+Q1. Who is the US President Donald Trump's nominee for the position of the US deputy representative to the United Nations?
+A. Tammy Bruce
+B. Mike Pompeo
+C. John Bolton
+D. Rex Tillerson
+Correct Answer: A
+
+Q2. What is Tammy Bruce's previous profession before joining the US government?
+A. Journalist
+B. Lawyer
+C. Fox News host
+D. Politician
+Correct Answer: C
+
+Q3. What is the name of the book authored by Tammy Bruce that is critical of liberals?
+A. "Fear Itself: Exposing the Left's Mind-Killing Agenda"
+B. "The Art of the Deal"
+C. "The God Delusion"
+D. "The Communist Manifesto"
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/news/us-news/what-we-know-atlanta-shooting-cdc-emory-university-rcna224009
+Info: News Article: What We Know Atlanta Shooting Cdc Emory University Rcna224009
+================================================================================
+Q1. Who was the police officer killed in the shooting?
+A. Officer Rose
+B. Susan Monarez
+C. Raphael Warnock
+D. Kash Patel
+Correct Answer: A
+
+Q2. How many buildings at the CDC were hit during the shooting?
+A. 1
+B. 2
+C. 3
+D. 4
+Correct Answer: D
+
+Q3. What is the motive behind the shooting?
+A. Anti-vaccine sentiments
+B. Gun violence
+C. Law enforcement
+D. None of the above
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/08/10/rebellion-against-manicured-lawn?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. Which environmental restoration project is causing a shortage of native seeds?
+A. Wildfire recovery
+B. Wildlife conservation
+C. Climate change mitigation
+D. Urban greening
+Correct Answer: A
+
+Q2. What is the anti-lawn movement advocating for?
+A. Grass-only lawns
+B. Native plant landscapes
+C. Artificial turf
+D. No landscaping at all
+Correct Answer: B
+
+Q3. How is the landscaping industry responding to the shortage of native seeds?
+A. By importing seeds from out of state
+B. By opening their own plant stores
+C. By delaying projects until seeds become available
+D. By substituting non-native plants in projects
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/08/10/hoa-lawn-rules-clash-with-water-limits?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. What is Irena Green's occupation?
+A. Lawyer
+B. Real estate agent
+C. Homeowner
+D. None of the above
+Correct Answer: C
+
+Q2. What is the purpose of the lawsuit against Irena Green?
+A. To force her to pay a fine for minor HOA violations
+B. To force her to pay a fine for water usage
+C. To force her to pay a fine for using native plants in her yard
+D. To force her to pay a fine for having a "hideous" yard
+Correct Answer: A
+
+Q3. What is the outcome of the lawsuit against Irena Green?
+A. She is fined for minor HOA violations
+B. She is fined for water usage
+C. She is arrested and spends a week in jail
+D. She is released without any penalties
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/08/10/the-war-on-gas-powered-leaf-blowers?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. What is the amount of smog-forming pollution created by using a commercial gas-powered leaf blower for one hour?
+A. 15 hours
+B. 1 hour
+C. 30 minutes
+D. 2 hours
+Correct Answer: B
+
+Q2. What is the state of California's policy on gas-powered leaf blowers?
+A. They are banned
+B. They are allowed
+C. They are only allowed for emergency use
+D. They are only allowed for commercial use
+Correct Answer: A
+
+Q3. What is the state of Texas and Florida's policy on gas-powered leaf blowers?
+A. They are banned
+B. They are allowed
+C. They are only allowed for emergency use
+D. They are only allowed for commercial use
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c0e9py7e28xo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c0e9py7e28xo)
+================================================================================
+Q1. Which leaders of European countries rallied behind Ukraine in a renewed surge of support?
+A. Macron, Zelensky, and Starmer
+B. Macron, Zelensky, and Merkel
+C. Macron, Putin, and Zelensky
+D. Macron, Putin, and Starmer
+Correct Answer: A
+
+Q2. What is the current status of trilateral meetings between Trump, Putin, and Zelensky?
+A. Trump has agreed to hold a trilateral meeting with both Putin and Zelensky
+B. Trump has agreed to hold a meeting with Putin only
+C. Trump has not agreed to hold any meetings with Putin or Zelensky
+D. Trump has not yet decided whether to hold a meeting with Putin or Zelensky
+Correct Answer: A
+
+Q3. What is Zelensky's reaction to the idea of exchanging Ukrainian territory for Ukrainian territory?
+A. He is in favor of the idea
+B. He is neutral on the idea
+C. He is strongly against the idea
+D. He has not yet responded to the idea
+
+================================================================================
+
+
+Link: https://www.npr.org/2025/08/09/nx-s1-5497178/cdc-atlanta-emory-shooter-covid-vaccine-suicidal
+Info: News Article
+================================================================================
+Q1. Who was the shooter at the Centers for Disease Control and Prevention headquarters?
+A. Patrick Joseph White
+B. David Rose
+C. Russell Vought
+D. Sarah Boim
+Correct Answer: A
+
+Q2. What was the shooter's motive for attacking the Centers for Disease Control and Prevention headquarters?
+A. To protest the COVID-19 vaccine
+B. To seek revenge on a former colleague
+C. To gain attention for himself
+D. To express dissatisfaction with the federal government
+Correct Answer: A
+
+Q3. What was the reaction of President Biden to the shooting at the Centers for Disease Control and Prevention headquarters?
+A. He condemned the violence and offered condolences to the victims
+B. He blamed the shooting on the COVID-19 vaccine and its side effects
+C. He called for a full security assessment of the CDC headquarters
+D. He resigned from office in protest of the shooting
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c04r5y5xv11o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c04r5y5xv11o)
+================================================================================
+Q1. What was the name of the undercover journalist who posed as a migrant to infiltrate a cross-Channel gang?
+A. Andrew Harding
+B. BBC News
+C. Migrant-smuggling gang
+D. None of the above
+Correct Answer: B
+
+Q2. What was the purpose of the undercover investigation into the migrant-smuggling gang?
+A. To expose the gangs and stop them
+B. To prove that the gangs are untouchable
+C. To infiltrate the gang and make calls
+D. To film the gang and send pins showing the location
+Correct Answer: A
+
+Q3. What was the result of the year-long undercover investigation into the migrant-smuggling gang?
+A. No arrests were made
+B. One person was arrested in Birmingham
+C. The gangs were proven to be untouchable
+D. The investigation was a failure
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/10/opinion/stagflation-trump-economy.html
+Info: News Article
+================================================================================
+Q1. What was the growth rate of real consumer spending in the first six months of the year?
+A. 3%
+B. 2%
+C. 1%
+D. 0%
+Correct Answer: D
+
+Q2. What was the average monthly job growth between May and July?
+A. 50,000
+B. 40,000
+C. 35,000
+D. 30,000
+Correct Answer: C
+
+Q3. What was the cause of stagflation in the 1970s?
+A. An unconstrained president
+B. Exogenous shocks
+C. The Federal Reserve
+D. None of the above
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Politics/wireStory/roll-democrats-call-party-weak-ineffective-ap-norc-124321031
+Info: News Article
+================================================================================
+Q1. According to the poll conducted by The Associated Press-NORC Center for Public Affairs Research, what percentage of Democrats described their party as "weak" or "ineffective"?
+A. 10%
+B. 15%
+C. 20%
+D. 25%
+Correct Answer: B. 15%
+
+Q2. What percentage of Republicans described their party as "greedy" or "bad"?
+A. 5%
+B. 10%
+C. 15%
+D. 20%
+Correct Answer: B. 10%
+
+Q3. What percentage of Democrats described their party positively?
+A. 10%
+B. 15%
+C. 20%
+D. 25%
+Correct Answer: A. 10%
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/10/thai-soldiers-injured-by-landmine-near-cambodia-amid-fragile-ceasefire.html
+Info: News Article
+================================================================================
+Q1. What happened to the three Thai soldiers near the Cambodian border?
+A. They were killed by a landmine.
+B. They were injured by a landmine.
+C. They were not injured by a landmine.
+D. They were not near the Cambodian border.
+Correct Answer: B
+
+Q2. What is the Ottawa Convention against landmines?
+A. It bans the use of landmines.
+B. It is a treaty between Thailand and Cambodia.
+C. It is a treaty between France and Cambodia.
+D. It is a treaty between Thailand and the Association of Southeast Asian Nations.
+Correct Answer: A
+
+Q3. What is the dispute between Thailand and Cambodia?
+A. Over the use of landmines.
+B. Over the mapping of their land border.
+C. Over the ownership of a specific piece of land.
+D. Over the treatment of refugees.
+Correct Answer: B
+
+================================================================================
+
