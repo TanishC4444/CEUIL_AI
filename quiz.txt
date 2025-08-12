@@ -79029,3 +79029,4261 @@ Correct Answer: B
 
 ================================================================================
 
+
+Link: https://www.bbc.com/news/articles/c05enyryqvmo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c05enyryqvmo)
+================================================================================
+Q1. What is the average surface temperature of UK waters in the seven months to the end of July 2022?
+A. 12.5°C
+B. 15.3°C
+C. 18.1°C
+D. 20.9°C
+Correct Answer: D. 20.9°C
+
+Q2. What is the main contributor to the marine heatwaves around the UK?
+A. The buildup of heat in the ocean
+B. Historical overfishing
+C. Extreme heat
+D. All of the above
+Correct Answer: A. The buildup of heat in the ocean
+
+Q3. What is the name of the species that looks a bit like a jellyfish and has been seen in large blooms off the coast of Cornwall?
+A. Salps
+B. Bluefin tuna
+C. Cod
+D. Wolf-fish
+Correct Answer: A. Salps
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cnv775mdp5jo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cnv775mdp5jo)
+================================================================================
+Q1. What was the image on the front page of The Guardian?
+A. A Palestinian man crying
+B. A food distribution site in Gaza
+C. A protest in London
+D. A Uefa post remembering Suleiman al-Obeid
+Correct Answer: A
+
+Q2. What did Scotland Yard say about the challenges they faced in quelling the protests in London?
+A. They were entirely unrealistic
+B. They were entirely realistic
+C. They were somewhat unrealistic
+D. They were somewhat realistic
+Correct Answer: A
+
+Q3. What is the estimated cost of Sir Keir Starmer's Chagos Islands deal?
+A. £10 million
+B. £100 million
+C. £1 billion
+D. £10 billion
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.npr.org/2025/08/10/nx-s1-5497869/colorado-wildfires-meeker-lee-fire-california
+Info: News Article
+================================================================================
+Q1. What are the names of the two wildfires in Colorado?
+A. Pine Gap Fire
+B. Gifford Fire
+C. Rocky Mountain Fire
+D. Meeker Fire
+Correct Answer: A
+
+Q2. What is the total area burned by the two wildfires in Colorado?
+A. 117,000 acres
+B. 120,000 acres
+C. 100,000 acres
+D. 80,000 acres
+Correct Answer: B
+
+Q3. What is the cause of the wildfires in Colorado?
+A. Drought
+B. Lightning
+C. Climate change
+D. Human activity
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/10/world/middleeast/israel-gaza-journalists-killed.html
+Info: News Article
+================================================================================
+Q1. Who was killed in the Israeli strike near a hospital in Gaza City on Sunday night?
+A. Al Jazeera journalists
+B. Hamas fighters
+C. Israeli military personnel
+D. None of the above
+Correct Answer: A
+
+Q2. How many people were killed in the Israeli strike near a hospital in Gaza City on Sunday night?
+A. 2
+B. 4
+C. 5
+D. 7
+Correct Answer: B
+
+Q3. What did the Israeli military say about the man killed in the Israeli strike near a hospital in Gaza City on Sunday night?
+A. He was a Hamas fighter
+B. He was a journalist
+C. He was a member of the Israeli military
+D. None of the above
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/10/world/europe/gaza-europe-peace-plan-trump-netanyahu.html
+Info: News Article
+================================================================================
+Q1. Who met to discuss the Gaza crisis?
+A. Chancellor Friedrich Merz and President Emmanuel Macron
+B. Chancellor Angela Merkel and President Emmanuel Macron
+C. Chancellor Friedrich Merz and Prime Minister Keir Starmer
+D. Chancellor Angela Merkel and Prime Minister Keir Starmer
+Correct Answer: A
+
+Q2. What did Chancellor Merz say he was under immense pressure at home to do?
+A. Recognize a Palestinian state at the United Nations in late September
+B. Not recognize a Palestinian state at the United Nations in late September
+C. Abstain from voting on a Palestinian state at the United Nations in late September
+D. Not comment on a Palestinian state at the United Nations in late September
+Correct Answer: A
+
+Q3. When did the surge of Middle East diplomacy among the European powers first accelerate?
+A. July 19
+B. July 23
+C. July 31
+D. August 6
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Business/wireStory/crucial-exemption-allows-majority-canadian-mexican-goods-shipped-124390271
+Info: News Article
+================================================================================
+Q1. What were the tariffs raised on Canadian goods to?
+A. 10%
+B. 20%
+C. 35%
+D. 50%
+Correct Answer: C
+
+Q2. What is the key exemption for Canada and Mexico that shields the vast majority of goods from the punishing duties?
+A. Agricultural goods
+B. Manufactured goods
+C. Services
+D. Energy goods
+Correct Answer: B
+
+Q3. What is the investment thesis for Canada according to Prime Minister Justin Trudeau?
+A. Canada is rich in natural resources, has a skilled labor force, is open to immigration and has unfettered access to the U.S.
+B. Canada is better off than any of the trading partners right now because the Americans appear to be relying as a default on USMCA.
+C. Canada is the best positioned nation because of the free trade agreement.
+D. Canada is the best positioned nation because of the punishing duties on Canadian goods.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Business/wireStory/asian-markets-mixed-after-wall-st-tumbles-poor-124334956
+Info: News Article
+================================================================================
+Q1. What is the current state of the labor market in Japan?
+A. It is looking more like a late-cycle casualty.
+B. It is looking more like a resilient pillar.
+C. It is looking more like a weak link.
+D. It is looking more like a stable economy.
+Correct Answer: A
+
+Q2. What is the current state of the labor market in the United States?
+A. It is looking more like a late-cycle casualty.
+B. It is looking more like a resilient pillar.
+C. It is looking more like a weak link.
+D. It is looking more like a stable economy.
+Correct Answer: A
+
+Q3. What is the current state of the labor market in the European Union?
+A. It is looking more like a late-cycle casualty.
+B. It is looking more like a resilient pillar.
+C. It is looking more like a weak link.
+D. It is looking more like a stable economy.
+Correct Answer: Not mentioned in the article, so no answer available.
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Business/wireStory/tesla-awards-ceo-musk-millions-shares-valued-29-124338284
+Info: News Article
+================================================================================
+Q1. What is the value of the 96 million shares of restricted stock that Tesla is awarding CEO Elon Musk?
+A. $29 billion
+B. $5 billion
+C. $23.34 per share
+D. $1 billion
+Correct Answer: A
+
+Q2. What is the purpose of the 2018 pay package that was awarded to Elon Musk?
+A. To revoke his massive pay package
+B. To pay Tesla $23.34 per share of restricted stock that vests
+C. To award him 96 million shares of restricted stock valued at approximately $29 billion
+D. To pay Tesla $5 billion in legal fees
+Correct Answer: C
+
+Q3. What is the reason for the trajection of Tesla shares this year?
+A. Blowback over Elon Musk's affiliation with President Donald Trump
+B. The company's CEO being awarded 96 million shares of restricted stock valued at approximately $29 billion
+C. The company's CEO being rejected an equally unprecedented and massive fee request by plaintiff attorneys
+D. The company's CEO being ordered to revoke his massive pay package by a judge
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Entertainment/wireStory/prosecutors-seek-substantial-prison-term-sean-diddy-combs-124269477
+Info: News Article
+================================================================================
+Q1. What is the name of the music mogul who was convicted of two counts of transportation to engage in prostitution?
+A. Diddy Combs
+B. Jay-Z
+C. Kanye West
+D. Eminem
+Correct Answer: A
+
+Q2. What is the expected prison sentence for music mogul Sean “Diddy” Combs?
+A. Four to five years
+B. Ten to fifteen years
+C. Twenty to thirty years
+D. Life imprisonment
+Correct Answer: A
+
+Q3. What is the name of the defense attorney who represented music mogul Sean “Diddy” Combs in court?
+A. Brian Steel
+B. Teny Garagos
+C. Robert Kraft
+D. O.J. Simpson
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/softbank-founder-son-makes-his-biggest-bet-by-staking-the-future-on-ai.html
+Info: News Article
+================================================================================
+Q1. What is Masayoshi Son's current position at SoftBank Group Corp.?
+A. Chairman and CEO
+B. Finance Chief
+C. President
+D. None of the above
+Correct Answer: A
+
+Q2. What is the name of the AI company that SoftBank recently invested in?
+A. OpenAI
+B. Nvidia
+C. Tesla
+D. None of the above
+Correct Answer: A
+
+Q3. What is the purpose of SoftBank's AI strategy?
+A. To position itself as a key player in AI infrastructure
+B. To make its products better and its customers happy
+C. To be more competitive and successful
+D. None of the above
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/11/al-jazeera-condemns-killing-of-its-journalists-by-israeli-forces-in-gaza?traffic_source=rss
+Info: News Article: Al Jazeera Condemns Killing Of Its Journalists By Israeli Forces In Gaza?Traffic_Source=Rss
+================================================================================
+Q1. Which Israeli occupation force admitted to the assassination of Al Jazeera journalists?
+A. Al-Shifa Medical Complex
+B. Israeli Occupation Force
+C. Gaza
+D. Al Jazeera Media Network
+Correct Answer: B. Israeli Occupation Force
+
+Q2. What was the Israeli occupation force's justification for assassinating Al Jazeera journalists?
+A. They were targeted by a directed assault towards the tent where they were stationed.
+B. They were accused of being spies for Israel.
+C. They were caught stealing equipment.
+D. They were accused of spreading false information.
+Correct Answer: A. They were targeted by a directed assault towards the tent where they were stationed.
+
+Q3. What is Al Jazeera Media Network's stance on the Israeli occupation forces' actions against their journalists?
+A. They condone the assassinations.
+B. They condemn the assassinations.
+C. They are indifferent to the assassinations.
+D. They are responsible for the assassinations.
+Correct Answer: B. They condemn the assassinations.
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/world/gaza/israel-says-killed-al-jazeera-journalist-claiming-was-hamas-leader-rcna224189
+Info: News Article
+================================================================================
+Q1. What news organization did Anas al-Sharif work for?
+A. Al Jazeera
+B. CNN
+C. BBC
+D. Fox News
+Correct Answer: A
+
+Q2. What did the Israel Defense Forces claim about Anas al-Sharif?
+A. He was a member of Hamas
+B. He was a journalist
+C. He was a terrorist
+D. He was a spy
+Correct Answer: A
+
+Q3. What did the CPJ say about Israel's pattern of labeling journalists as militants?
+A. It raises serious questions about its intent and respect for press freedom
+B. It is a necessary measure to protect national security
+C. It is a common practice in the Middle East
+D. It is a sign of a strong democracy
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/select/shopping/best-cryotherapy-devices-rcna222220
+Info: News Article
+================================================================================
+Q1. What is cryotherapy?
+A. A treatment that exposes the body to extreme cold for a short period of time
+B. A treatment that exposes the body to extreme heat for a short period of time
+C. A treatment that exposes the body to extreme light for a short period of time
+D. A treatment that exposes the body to extreme sound for a short period of time
+Correct Answer: A
+
+Q2. What is the purpose of cryotherapy?
+A. To increase inflammation and pain
+B. To decrease inflammation and pain
+C. To increase inflammation and pain in specific areas
+D. To decrease inflammation and pain in specific areas
+Correct Answer: B
+
+Q3. What is the iECO Cryosphere Cold Massage Roller Ball?
+A. A device that uses extreme cold to massage sore spots
+B. A device that uses extreme heat to massage sore spots
+C. A device that uses extreme light to massage sore spots
+D. A device that uses extreme sound to massage sore spots
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/nation-world/trump-judicial-picks/507-c6195acd-84c9-4ff9-8d62-3482e2d0f813
+Info: News Article: 507 C6195Acd 84C9 4Ff9 8D62 3482E2D0F813
+================================================================================
+Q1. What is the number of federal judicial nominees so far in Trump's second term?
+A. 15
+B. 17
+C. 23
+D. 29
+Correct Answer: B
+
+Q2. What is the percentage of federal judicial nominees in Trump's second term who have revealed anti-abortion views or been associated with anti-abortion groups?
+A. 25%
+B. 50%
+C. 75%
+D. 100%
+Correct Answer: B
+
+Q3. What is the number of federal judicial nominees in Trump's second term who have argued in favor of abortion restrictions or against expanded abortion access?
+A. 5
+B. 8
+C. 10
+D. 12
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/special-reports/uvalde-school-shooting/uvalde-records-release/285-f2dadb61-462b-4e78-89f4-567950bd5489
+Info: News Article: 285 F2Dadb61 462B 4E78 89F4 567950Bd5489
+================================================================================
+Q1. Which school district is expected to release police service and 911 call records; evidence logs related to the shooting; body-worn and security camera footage from Robb Elementary; student files for the shooter; internal communications among district officials; and results of school safety audits?
+A. TEGNA Texas
+B. Uvalde Independent School District
+C. Robb Elementary School
+D. Bexar County
+Correct Answer: B. Uvalde Independent School District
+
+Q2. What kind of records is the school district expected to release from the county?
+A. Incident and 911 reports concerning Robb Elementary and other locations
+B. Sheriff dispatch logs and radio traffic
+C. Video footage
+D. Ballistics and evidence logs
+Correct Answer: A. Incident and 911 reports concerning Robb Elementary and other locations
+
+Q3. Which law enforcement official was fired and indicted for his role in the police response?
+A. Pete Arredondo
+B. Uvalde County Sheriff Donnie Decker
+C. Texas Department of Public Safety Director Steve McCraw
+D. FBI Special Agent in Charge Christopher Combs
+Correct Answer: A. Pete Arredondo
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/nation-world/israel-hamas-conflict/israel-gaza-military-offensive-netanyahu/507-1b9986b7-76c6-4ebc-9066-a6631ac67227
+Info: News Article: 507 1B9986B7 76C6 4Ebc 9066 A6631Ac67227
+================================================================================
+Q1. What is the name of the Israeli Prime Minister?
+A. Benjamin Netanyahu
+B. Naftali Bennett
+C. Yair Lapid
+D. Reuven Rivlin
+Correct Answer: A
+
+Q2. What is the name of the organization that is concerned for the safety of the Israeli Prime Minister?
+A. The Committee to Protect Journalists
+B. The Anti-Defamation League
+C. The American Jewish Committee
+D. The Simon Wiesenthal Center
+Correct Answer: A
+
+Q3. What is the name of the Israeli military operation in Gaza?
+A. Operation Protective Edge
+B. Operation Iron Dome
+C. Operation Northern Shield
+D. Operation Defensive Edge
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/local/cdc-shooter-blamed-covid-vaccine-for-depression-union-demands-statement-against-misinformation/85-6b9f77e5-1c6c-4fde-aff8-06855715498a
+Info: News Article: 85 6B9F77E5 1C6C 4Fde Aff8 06855715498A
+================================================================================
+Q1. Who was identified as the shooter who opened fire on the U.S. Centers for Disease Control and Prevention (CDC) headquarters in Atlanta?
+A. Patrick Joseph White
+B. John Doe
+C. Jane Smith
+D. Michael Brown
+Correct Answer: A
+
+Q2. What was the Georgia Bureau of Investigations' assessment of the crime scene?
+A. Simple
+B. Easy
+C. Complex
+D. Difficult
+Correct Answer: C
+
+Q3. What was the American Federation of Government Employees, Local 2883's demand of federal officials?
+A. To condemn vaccine misinformation
+B. To provide a clear and unequivocal stance in condemning vaccine disinformation
+C. To provide a clear and unequivocal stance in condemning vaccine safety
+D. To provide a clear and unequivocal stance in condemning science
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c5yllgezjk3o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c5yllgezjk3o)
+================================================================================
+Q1. What was the reason for the new driving ban for over-70s?
+A. They failed the eye test
+B. They were caught speeding
+C. They were involved in a car accident
+D. They were driving under the influence of alcohol
+Correct Answer: A
+
+Q2. What was the coroner's recommendation after the inquest into the four deaths caused by drivers with failing eyesight?
+A. The UK's licensing system should be stricter
+B. The enforcement of visual legal standards for drivers should be improved
+C. The drink-drive limit should be increased
+D. The Road Safety Strategy should be updated
+Correct Answer: A
+
+Q3. What is the expected new drink-drive limit under the new plans?
+A. 35 micrograms of alcohol per 100 millilitres of breath
+B. 22 micrograms of alcohol per 100 millilitres of breath
+C. 40 micrograms of alcohol per 100 millilitres of breath
+D. 50 micrograms of alcohol per 100 millilitres of breath
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cvgvvnx8y19o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cvgvvnx8y19o)
+================================================================================
+Q1. What is the name of the technology that Nvidia will pay 15% of its revenues from H20 chip sales in China for?
+A. Artificial Intelligence
+B. Semiconductor
+C. H20
+D. MI308
+Correct Answer: A
+
+Q2. What is the name of the technology that AMD will pay 15% of its revenues from MI308 chip sales in China for?
+A. Artificial Intelligence
+B. Semiconductor
+C. MI308
+D. H20
+Correct Answer: A
+
+Q3. What is the deadline by which top trade officials from both sides must meet to confirm an agreement to extend the tariffs pause?
+A. 12 August
+B. 12 July
+C. 12 June
+D. 12 May
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124336385
+Info: News Article
+================================================================================
+Q1. Who met with President Trump at the White House yesterday?
+A. William Barr
+B. John Durham
+C. Michael Vance
+D. All of the above
+Correct Answer: C
+
+Q2. What did President Trump say about the Epstein issue?
+A. He wants us to be fully transparent and he wants the credible information out there.
+B. He wants us to investigate Epstein further.
+C. He wants us to cover up the investigation into Epstein.
+D. None of the above
+Correct Answer: A
+
+Q3. When did Vance and Trump meet at the White House?
+A. Yesterday
+B. Friday
+C. Saturday
+D. Sunday
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/cnbc-daily-open-chipping-away-at-semiconductor-revenues.html
+Info: News Article
+================================================================================
+Q1. Which company was accused by Chinese state media of posing a national security risk for China?
+A. Nvidia
+B. Microsoft
+C. Google
+D. Amazon
+Correct Answer: A
+
+Q2. What was the topic of the event that President Donald Trump attended?
+A. Climate change
+B. Healthcare
+C. Investing in America
+D. Immigration
+Correct Answer: C
+
+Q3. Which billionaire has been fueled by the AI wave?
+A. Elon Musk
+B. Jeff Bezos
+C. Mark Zuckerberg
+D. Bill Gates
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/local/dallas-isd-school-mourns-loss-of-state-champion-track-star/287-2c21b5f5-defa-45f0-8979-4580b62ff849
+Info: News Article: 287 2C21B5F5 Defa 45F0 8979 4580B62Ff849
+================================================================================
+Q1. Who was the young man who became a state champion through discipline, humility, and an unshakable commitment to his team and school?
+A. Roy Lee Hughes
+B. Lincoln HS
+C. WFAA
+D. Dallas police
+Correct Answer: A
+
+Q2. What did Dallas police find when they responded to the 1800 block of West Mockingbird Lane?
+A. A young man with a heart of gold
+B. A state champion
+C. A model who defied the odds
+D. A true legend
+Correct Answer: A
+
+Q3. What is the name of the school that Roy Lee Hughes attended?
+A. Lincoln HS
+B. WFAA
+C. Dallas police
+D. The Legendary LHS
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cyvnnj301l3o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cyvnnj301l3o)
+================================================================================
+Q1. Which countries were added to the scheme?
+A. Canada, India, Australia
+B. Angola, Botswana, Brunei, Bulgaria, Guyana, Indonesia, Kenya, Latvia, Lebanon, Malaysia, Uganda, Zambia
+C. None of the above
+D. All of the above
+Correct Answer: A
+
+Q2. What is the total number of countries in the scheme?
+A. 8
+B. 23
+C. 30
+D. 40
+Correct Answer: B
+
+Q3. What is the purpose of the scheme?
+A. To allow foreign nationals to remain in the UK indefinitely
+B. To expel foreign nationals who have had their human rights claim refused
+C. To allow foreign nationals to appeal their cases from their home countries via video link
+D. To deport foreign criminals immediately after they have received a custodial sentence
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.npr.org/2025/08/11/nx-s1-5497749/dc-trump-crackdown-crime
+Info: News Article
+================================================================================
+Q1. What is the name of the man who lives in the tent camp near the Lincoln Memorial and is quoted in the article?
+A. George Morgan
+B. Greg Evans
+C. Muriel Bowser
+D. Donald Trump
+Correct Answer: B
+
+Q2. What is the name of the federal agency that is reportedly gathering in Washington D.C. according to the article?
+A. National Park Service
+B. Department of Homeland Security
+C. Federal Emergency Management Agency
+D. U.S. Capitol Police
+Correct Answer: B
+
+Q3. What is the name of the man who is quoted in the article saying he is afraid of the federal officers gathering in Washington D.C.?
+A. George Morgan
+B. Greg Evans
+C. Muriel Bowser
+D. Donald Trump
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/11/business/china-electric-vehicles-red-sea.html
+Info: News Article
+================================================================================
+Q1. Which company owns the car-carrier ships that sailed through the Red Sea and Suez Canal in June and July 2023?
+A. China Ocean Shipping Company (Cosco)
+B. South Korean company
+C. Joint venture of businesses in Abu Dhabi and Turkey
+D. None of the above
+Correct Answer: B
+
+Q2. What is the total value of cars carried on each voyage of the car-carrier ships?
+A. $10 million
+B. $50 million
+C. $100 million
+D. $200 million
+Correct Answer: C
+
+Q3. When did the Houthi militia begin sinking or hijacking ships near Yemen?
+A. November 2022
+B. November 2023
+C. December 2023
+D. January 2024
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Entertainment/wireStory/sinners-music-buddy-guy-keeping-blues-alive-easy-124206561
+Info: News Article
+================================================================================
+Q1. Who is the main focus of the article?
+A. Buddy Guy
+B. Ryan Coogler
+C. Peter Frampton
+D. Joe Walsh
+Correct Answer: A
+
+Q2. What is the purpose of Buddy Guy's new album "Ain't Done with the Blues"?
+A. To introduce new listeners to the blues
+B. To connect with younger listeners
+C. To boost the popularity of the blues
+D. To showcase his super fans
+Correct Answer: C
+
+Q3. According to the article, what is the current state of the blues genre?
+A. It is very popular among younger listeners
+B. It is no longer played on radio stations
+C. It is experiencing a resurgence
+D. It is not relevant in today's music scene
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/nation-world/us-tourist-shot-puerto-rico-la-perla/507-43fa7837-eea3-40a1-b4b7-8ab684f88db4
+Info: News Article: 507 43Fa7837 Eea3 40A1 B4B7 8Ab684F88Db4
+================================================================================
+Q1. Who was the person who pulled out a gun and shot at least three people in the shooting that took place in Mares?
+A. Arnaldo Ruiz
+B. Miguel Romero
+C. A well-known community leader
+D. A 24-year-old tourist from Delaware
+Correct Answer: C
+
+Q2. When did the incident that led to the shooting in Mares occur?
+A. 2023
+B. 4:13 a.m.
+C. 2011
+D. April 2024
+Correct Answer: B
+
+Q3. What was the name of the municipal code approved in 2023 that states that authorized businesses in San Juan can only serve or sell alcohol from 6 a.m.?
+A. "Do not enter"
+B. "La Perla"
+C. "Mares"
+D. "San Juan"
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c3v3333rlp7o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c3v3333rlp7o)
+================================================================================
+Q1. Which company is planning to take on the big firms that dominate the UK energy market to provide electricity to households and businesses in England, Scotland and Wales?
+A. Tesla Electric
+B. Ofgem
+C. Big firms
+D. None of the above
+Correct Answer: A
+
+Q2. What is Tesla Electric's current operation in Texas?
+A. Tesla Electric operates a power supplier in Texas that allows owners of its EVs to charge their cars cheaply and pays them for feeding surplus electricity back to the grid.
+B. Tesla Electric does not operate a power supplier in Texas.
+C. Tesla Electric operates a power supplier in Texas but does not allow owners of its EVs to charge their cars cheaply and does not pay them for feeding surplus electricity back to the grid.
+D. None of the above
+Correct Answer: A
+
+Q3. How many EVs and home storage batteries has Tesla sold in the UK?
+A. More than a quarter of a million EVs and tens of thousands of home storage batteries in the UK.
+B. More than a quarter of a million EVs but less than tens of thousands of home storage batteries in the UK.
+C. Less than a quarter of a million EVs and tens of thousands of home storage batteries in the UK.
+D. None of the above
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Entertainment/wireStory/judge-dismisses-lawsuit-filed-alec-baldwin-malicious-prosecution-124225834
+Info: News Article
+================================================================================
+Q1. What is the name of the actor who was charged with malicious prosecution and civil rights violations in the 2021 fatal shooting of a cinematographer on the set of the Western movie “Rust”?
+A. Alec Baldwin
+B. Halyna Hutchins
+C. Kari Morrissey
+D. Mary Carmack-Altwies
+Correct Answer: A
+
+Q2. What is the name of the man who brought ammunition into the Santa Fe County sheriff’s office months earlier?
+A. Alec Baldwin
+B. Halyna Hutchins
+C. Kari Morrissey
+D. Mary Carmack-Altwies
+Correct Answer: Not mentioned in the article
+
+Q3. What is the name of the Western movie that was being filmed when the fatal shooting occurred?
+A. Rust
+B. The Revenant
+C. The Lone Ranger
+D. The Wild Bunch
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/world/middle-east/australia-says-will-recognize-palestinian-state-rcna224220
+Info: News Article
+================================================================================
+Q1. Which country announced its plan to recognize a Palestinian state on Monday?
+A. Israel
+B. Australia
+C. United Nations
+D. Palestine
+Correct Answer: B
+
+Q2. What is the primary reason Australia announced its plan to recognize a Palestinian state?
+A. To break the cycle of violence in the Middle East
+B. To bring an end to the conflict, suffering, and starvation in Gaza
+C. To support Israel's policies in Gaza
+D. To join a growing list of Western governments making the move
+Correct Answer: B
+
+Q3. According to Albanese, what condition must be met for any future Palestinian state?
+A. There must be no role for Hamas in the state
+B. There must be a two-state solution
+C. There must be an end to the humanitarian crisis in Gaza
+D. There must be a commitment from the Palestinian Authority to recognize Israel as a state
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cj0y9673rjno?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cj0y9673rjno)
+================================================================================
+Q1. What was the guilty verdict in the original trial of Lucy Letby?
+A. 15 counts of murder and attempted murder
+B. 3 counts of murder and attempted murder
+C. 5 counts of murder and attempted murder
+D. 10 counts of murder and attempted murder
+Correct Answer: A
+
+Q2. What was the conclusion of the paediatric pathologist who reviewed Baby O's post-mortem report?
+A. The liver injuries were caused by impact
+B. The location of the injuries and the condition of the liver tissue didn't fit with that explanation
+C. The liver injuries were caused by air embolism
+D. The liver injuries were caused by a needle
+Correct Answer: B
+
+Q3. What was the conclusion of Dr Richard Taylor about the doctor accused of causing Baby O's death?
+A. The needle theory was shaky
+B. The needle theory was not shaky
+C. The needle theory was not relevant
+D. The needle theory was not examined at length during Lucy Letby's trial
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cdx0ex5v437o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cdx0ex5v437o)
+================================================================================
+Q1. What is the name of the Ukrainian boy whose father told him he might never see him again?
+A. Dima
+B. Zahar
+C. Vanui Martirosyan
+D. None of the above
+Correct Answer: A
+
+Q2. What is the purpose of the camp for Ukrainian children?
+A. To provide them with a chance to escape the constant threat of missile strikes
+B. To offer them group therapy sessions
+C. To help them catch up on sleep uninterrupted by air-raid sirens
+D. To help them search for information about their family members on Russian social media channels
+Correct Answer: A
+
+Q3. What is the name of the Ukrainian psychologist who leads the therapy sessions at the camp?
+A. Dima
+B. Zahar
+C. Vanui Martirosyan
+D. None of the above
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c79llljy4qeo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c79llljy4qeo)
+================================================================================
+Q1. What is the current number of South Korea's military units?
+A. 59
+B. 42
+C. 32
+D. 22
+Correct Answer: B. 42
+
+Q2. What is the number of South Korea's military units that have been disbanded or merged since 2006?
+A. 17
+B. 19
+C. 21
+D. 23
+Correct Answer: B. 19
+
+Q3. What is the current birth rate in South Korea?
+A. 1.3
+B. 0.98
+C. 0.84
+D. 0.75
+Correct Answer: B. 0.98
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/11/opinion/spain-immigration-sanchez-amnesty.html
+Info: News Article
+================================================================================
+Q1. What is the name of the country that recently recognized Palestine as a state?
+A. France
+B. Germany
+C. Spain
+D. Italy
+Correct Answer: C. Spain
+
+Q2. What is the name of the bill that is currently being debated in the Spanish Parliament?
+A. Amnesty for Undocumented Immigrants
+B. Increase in Defense Spending
+C. Easing of Migrants’ Ability to Obtain Residency and Work Permits
+D. National Birthrate Regulations
+Correct Answer: A. Amnesty for Undocumented Immigrants
+
+Q3. What is the name of the popular petition that garnered 600,000 signatures and was endorsed by 900 nongovernmental organizations, business groups and even the Spanish Conference of Bishops?
+A. Increase in Defense Spending
+B. Easing of Migrants’ Ability to Obtain Residency and Work Permits
+C. Amnesty for Undocumented Immigrants
+D. National Birthrate Regulations
+Correct Answer: C. Amnesty for Undocumented Immigrants
+
+================================================================================
+
+
+Link: https://www.npr.org/2025/08/11/nx-s1-5498377/australia-palestinian-state
+Info: News Article
+================================================================================
+Q1. Which country's leader announced that Australia will recognize a Palestinian state?
+A. Mark Baker/AP
+B. Anthony Albanese
+C. Benjamin Netanyahu
+D. Winston Peters
+Correct Answer: B. Anthony Albanese
+
+Q2. What is the goal of a two-state solution according to Australian Prime Minister Anthony Albanese?
+A. To bring an end to the conflict, suffering, and starvation in Gaza
+B. To isolate Hamas and disarm it
+C. To deny sufficient aid, food, and water to desperate people, including children
+D. To create a state of Palestine alongside Israel in most or all of the occupied West Bank, the war-ravaged Gaza Strip, and annexed east Jerusalem
+Correct Answer: A. To bring an end to the conflict, suffering, and starvation in Gaza
+
+Q3. Which European countries have moved to recognize a Palestinian state?
+A. France, Britain, and Canada
+B. Australia, New Zealand, and the United States
+C. Germany, Italy, and Spain
+D. Japan, South Korea, and China
+Correct Answer: A. France, Britain, and Canada
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/leaders-indonesia-peru-hold-talks-trade-economic-ties-124534021
+Info: News Article
+================================================================================
+Q1. Which two countries met on Monday to strengthen economic ties?
+A. Peru and Indonesia
+B. Indonesia and Peru
+C. Bolivia and Peru
+D. Bolivia and Indonesia
+Correct Answer: A
+
+Q2. What is the name of the agreement that the two countries are expected to sign during the visit?
+A. Comprehensive Economic Partnership Agreement (CEPA)
+B. Free Trade Agreement (FTA)
+C. Bilateral Investment Treaty (BIT)
+D. Association of Southeast Asian Nations (ASEAN)
+Correct Answer: A
+
+Q3. What is the name of the Indonesian counterpart that Peruvian President Dina Boluarte met on Monday?
+A. Prabowo Subianto
+B. Joko Widodo
+C. Sultan Hassan
+D. Susilo Bambang Yudhoyono
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/british-tourist-pleads-guilty-killing-man-drunk-driving-124534116
+Info: News Article
+================================================================================
+Q1. What was the maximum speed of the rental e-scooter that the English tourist was driving when she crashed into Phan?
+A. 12 mph
+B. 16 mph
+C. 20 mph
+D. 25 mph
+Correct Answer: C. 20 mph
+
+Q2. What was the charge that the English tourist pleaded guilty to?
+A. Dangerous driving causing death while under the influence of drugs
+B. Dangerous driving causing death while under the influence of alcohol
+C. Dangerous driving causing death while under the influence of prescription medication
+D. Dangerous driving causing death while under the influence of illegal drugs
+Correct Answer: B. Dangerous driving causing death while under the influence of alcohol
+
+Q3. What was the name of the man that the English tourist killed while riding the e-scooter?
+A. Phan
+B. Smith
+C. Johnson
+D. Brown
+Correct Answer: A. Phan
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Business/wireStory/asian-shares-advance-ahead-trumps-deadline-imposing-higher-124534115
+Info: News Article
+================================================================================
+Q1. What is the deadline for President Donald Trump to impose higher tariffs on goods imported from China?
+A. August 1st
+B. August 15th
+C. September 1st
+D. September 15th
+Correct Answer: C. September 1st
+
+Q2. What is the next meeting of the Federal Reserve?
+A. August 21st
+B. September 1st
+C. September 15th
+D. October 1st
+Correct Answer: B. September 1st
+
+Q3. What is the expected outcome of the Federal Reserve's next meeting?
+A. No change in interest rates
+B. A quarter of a percentage point increase in interest rates
+C. A quarter of a percentage point decrease in interest rates
+D. A half of a percentage point decrease in interest rates
+Correct Answer: C. A quarter of a percentage point decrease in interest rates
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/australia-recognize-palestinian-state-prime-minister-albanese-124533388
+Info: News Article
+================================================================================
+Q1. What is the name of the Australian Prime Minister who made the announcement about recognizing a Palestinian state?
+A. Tony Blair
+B. Angela Merkel
+C. Anthony Albanese
+D. Boris Johnson
+Correct Answer: C. Anthony Albanese
+
+Q2. Which of the following countries has not announced its intention to recognize a Palestinian state?
+A. France
+B. Canada
+C. Australia
+D. Germany
+Correct Answer: D. Germany
+
+Q3. What is the goal of a two-state solution according to Australian Prime Minister Anthony Albanese?
+A. To create a state of Israel and a state of Palestine
+B. To create a state of Israel and a state of Palestine in most or all of the occupied West Bank, the war-ravaged Gaza Strip and annexed east Jerusalem
+C. To create a state of Israel and a state of Palestine in all of the occupied West Bank, the war-ravaged Gaza Strip and annexed east Jerusalem
+D. To create a state of Israel and a state of Palestine in only part of the occupied West Bank, the war-ravaged Gaza Strip and annexed east Jerusalem
+Correct Answer: B. To create a state of Israel and a state of Palestine in most or all of the occupied West Bank, the war-ravaged Gaza Strip and annexed east Jerusalem
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c0e999y7vq2o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c0e999y7vq2o)
+================================================================================
+Q1. What was Alicia Kemp's occupation when she committed the crime?
+A. Student
+B. Tourist
+C. Backpacker
+D. Worker
+Correct Answer: C. Backpacker
+
+Q2. What was the legal limit of alcohol consumption for e-scooter drivers in Australia at the time of the incident?
+A. 0.05%
+B. 0.1%
+C. 0.2%
+D. 0.3%
+Correct Answer: A. 0.05%
+
+Q3. In which city did the incident occur?
+A. Sydney
+B. Melbourne
+C. Perth
+D. Brisbane
+Correct Answer: C. Perth
+
+================================================================================
+
+
+Link: https://www.npr.org/2025/08/11/nx-s1-5498378/uk-police-say-more-than-500-people-arrested-in-pro-palestinian-events-over-weekend
+Info: News Article
+================================================================================
+Q1. What was the number of people arrested during the pro-Palestinian events in London?
+A. 500
+B. 532
+C. 545
+D. 567
+Correct Answer: B
+
+Q2. What was the reason given by Home Secretary Yvette Cooper for banning Palestine Action?
+A. Violence
+B. Injuries
+C. Criminal damage
+D. Support for Israel
+Correct Answer: A
+
+Q3. What was the outcome of the vote in Parliament to ban Palestine Action?
+A. The vote was not held
+B. The vote was held and Palestine Action was banned
+C. The vote was held and Palestine Action was not banned
+D. The vote was held but the results are not known
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/marcos-philippines-pulled-war-taiwan-despite-chinas-protest-124534210
+Info: News Article
+================================================================================
+Q1. What is the name of the Philippine president who made the statement about being drawn into a war over Taiwan?
+A. Ferdinand Marcos Jr.
+B. Rodrigo Duterte
+C. Fidel Ramos
+D. Benigno Aquino III
+Correct Answer: A
+
+Q2. What is the reason why the Philippines will inevitably be drawn into a war over Taiwan according to Philippine President Ferdinand Marcos Jr.?
+A. Proximity to the self-ruled island
+B. Presence of large numbers of Filipino workers on the self-ruled island
+C. Strong protest over such remarks by China
+D. Both A and B
+Correct Answer: D
+
+Q3. What is the name of the Chinese Foreign Ministry spokesperson who responded to Philippine President Ferdinand Marcos Jr.'s statement about being drawn into a war over Taiwan?
+A. Xi Jinping
+B. Li Keqiang
+C. Wang Yi
+D. Zhao Lijian
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/us-china-truce-extension-hangs-in-the-balance-as-deadline-looms-.html
+Info: News Article
+================================================================================
+Q1. What was the outcome of the latest bilateral meeting between the US and China in Stockholm in July 2024?
+A. The two sides agreed to extend the tariff truce by another 90 days.
+B. The two sides reached a lasting deal to end the trade war.
+C. The two sides decided to impose new tariffs on each other.
+D. The two sides failed to reach an agreement and increased tariffs on each other.
+Correct Answer: A. The two sides agreed to extend the tariff truce by another 90 days.
+
+Q2. What was the impact of the tariff truce on trade between the US and China in May 2024?
+A. Trade volumes between the two countries increased by 36.2%, 10.4%, and 18.4% in May, June, and July, respectively.
+B. The prohibitive 145% tariff was reduced in April, allowing room for further negotiation.
+C. The blanket 40% tariff on goods routed through third-party countries was imposed, slowing down exports.
+D. The tariff truce had no impact on trade between the two countries.
+Correct Answer: B. The prohibitive 145% tariff was reduced in April, allowing room for further negotiation.
+
+Q3. What was the impact of the tariff truce on China's exports in June and July 2024?
+A. China's rare-earth exports globally surged 60% to 7,742 metric tons in June, highest since January 2012, and dropped to 5,994.3 metric tons in July.
+B. China's soybean imports volumes grew 36.2%, 10.4%, and 18.4% in May, June, and July, respectively.
+C. The blanket 40% tariff on goods routed through third-party countries slowed down China's exports.
+D. The tariff truce had no impact on China's exports.
+Correct Answer: C. The blanket 40% tariff on goods routed through third-party countries slowed down China's exports
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c844nlk731go?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c844nlk731go)
+================================================================================
+Q1. Who was the editor of Blue Peter for many years?
+A. Biddy Baxter
+B. Valerie Singleton
+C. Peter Purves
+D. Richard Marson
+Correct Answer: A
+
+Q2. What was Biddy Baxter's role on Blue Peter?
+A. Presenter
+B. Producer
+C. Editor
+D. Writer
+Correct Answer: C
+
+Q3. What was the name of the Blue Peter annuals?
+A. Blue Peter Annual
+B. Children's Annual
+C. British Annual
+D. Red Cross Annual
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c776ng7xe02o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c776ng7xe02o)
+================================================================================
+Q1. What was the reason for the German High Seas fleet to be scuttled in 1919?
+A. The commander, Admiral Ludwig von Reuter, mistakenly thought peace talks had failed.
+B. The ships were being held in the shelter of Scapa Flow while countries argued over what to do with the ships.
+C. The ships were classified as war graves and special permission is needed from the Ministry of Defence to visit them.
+D. The ships were vulnerable and there was a risk of losing "features of historical importance."
+Correct Answer: A
+
+Q2. What is the current status of the German High Seas fleet wrecks in Scapa Bay off Orkney?
+A. The wrecks are classified as war graves and special permission is needed from the Ministry of Defence to visit them.
+B. The wrecks are designated as nationally important scheduled monuments meaning divers could only visit them on a "look but don't touch" basis.
+C. The wrecks are vulnerable and there is a risk of losing "features of historical importance."
+D. The wrecks are being held in the shelter of Scapa Flow while countries argued over what to do with the ships.
+Correct Answer: B
+
+Q3. What is the purpose of the legal protection announced for the German High Seas fleet wrecks in Scapa Bay off Orkney?
+A. To preserve what remains of the wrecks.
+B. To classify the wrecks as war graves and special permission is needed from the Ministry of Defence to visit them.
+C. To designate the wrecks as nationally important scheduled monuments meaning divers could only visit them on a "look but don't touch" basis.
+D. To ensure that future generations can continue to explore, learn from, and be inspired by Scotland's underwater heritage.
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/11/science/archaeology-vikings-fyringer-garrett.html
+Info: News Article
+================================================================================
+Q1. Which year did Greer Jarrett begin his voyages to retrace the maritime paths taken by Norse sailors during the Viking Age?
+A. 2019
+B. 2020
+C. 2021
+D. 2022
+Correct Answer: C. 2021
+
+Q2. What was the primary purpose of Greer Jarrett's voyages?
+A. To establish new commercial routes
+B. To retrace the maritime paths taken by Norse sailors during the Viking Age
+C. To study the impact of Viking maritime trade on modern society
+D. To explore the cultural significance of Viking maritime trade
+Correct Answer: B. To retrace the maritime paths taken by Norse sailors during the Viking Age
+
+Q3. Which municipality in Norway is known for preserving Viking-era boatbuilding techniques into the 20th century?
+A. Oslo
+B. Bergen
+C. Trondheim
+D. Afjord
+Correct Answer: D. Afjord
+
+================================================================================
+
+
+Link: https://abcnews.go.com/US/wireStory/trial-start-deployment-national-guard-los-angeles-violated-124533834
+Info: News Article
+================================================================================
+Q1. Which federal judge will hear arguments on whether military troops deployed this summer by the Trump administration to Los Angeles violated a federal law that bars troops from conducting law enforcement duties within the country?
+A. Charles Breyer
+B. Eric Thayer
+C. Ernesto Santacruz Jr.
+D. Donald Trump
+Correct Answer: A
+
+Q2. What is the 1878 Posse Comitatus Act that prevents the president from using the military as a domestic police force?
+A. The Tenth Amendment
+B. Section 12406 of Title 10
+C. The Immigration and Nationality Act
+D. The Federal Emergency Management Agency Act
+Correct Answer: A
+
+Q3. What is the Trump administration's argument for calling the case against the deployment of National Guard soldiers and U.S. troops to Los Angeles?
+A. The claims under the Posse Comitatus Act "fail as a matter of law."
+B. The Trump administration exceeded its authority by deploying troops to California.
+C. The protests in Los Angeles "fall far short of 'rebellion.'"
+D. The Trump administration violated the Tenth Amendment by deploying troops to California.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/security-footage-syria-hospital-shows-men-military-garb-124527220
+Info: News Article
+================================================================================
+Q1. What is the name of the city where the security footage was taken?
+A. Damascus
+B. Sweida
+C. Aleppo
+D. Homs
+Correct Answer: B
+
+Q2. When was the security footage taken?
+A. July 15
+B. July 16
+C. July 17
+D. July 18
+Correct Answer: B
+
+Q3. Who is Abdul Qader Al-Tahhan?
+A. A Syrian government official
+B. A member of the Druze minority community
+C. A leader of an armed tribal group
+D. A journalist covering the conflict in Syria
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/greek-police-seize-270-kilos-cocaine-market-55-124529344
+Info: News Article
+================================================================================
+Q1. What was the estimated value of the cocaine seized by Greek police?
+A. 5.5 million euros
+B. 11 million euros
+C. 15 million euros
+D. 20 million euros
+Correct Answer: A
+
+Q2. How many kilograms of cocaine were seized by Greek police?
+A. 270 kilograms
+B. 540 kilograms
+C. 720 kilograms
+D. 1080 kilograms
+Correct Answer: A
+
+Q3. How many men were arrested by Greek police in connection with the cocaine seizure?
+A. 1 man
+B. 2 men
+C. 3 men
+D. 4 men
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/migrants-returning-venezuela-face-debt-harsh-living-conditions-124534019
+Info: News Article
+================================================================================
+Q1. What is Yosbelin Pérez's profession?
+A. She is a teacher
+B. She is a doctor
+C. She is a chef
+D. She is a lawyer
+Correct Answer: C
+
+Q2. What is the reason why Yosbelin Pérez and her family returned to Venezuela?
+A. They were able to find better job opportunities in Venezuela
+B. They were able to afford a better life in Venezuela
+C. They were unable to find a way to reach the United States
+D. They were able to escape Venezuela's political, social, and economic crisis
+Correct Answer: C
+
+Q3. What is the current situation of Venezuela's economy?
+A. It is thriving and prosperous
+B. It is in a state of crisis
+C. It is stable and under control
+D. It is improving gradually
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/mental-health-clinics-violence-prone-south-sudan-rare-124534667
+Info: News Article
+================================================================================
+Q1. What is the name of the woman who fell apart after her husband kicked her and five children out of their home in South Sudan in March 2024?
+A. Joy Falatiya
+B. Atong Ayuel Longar
+C. Florence Miettaux
+D. Salva Kiir
+Correct Answer: A
+
+Q2. What is the name of the clinic where Joy Falatiya received psycho-social therapy?
+A. St. Mundri
+B. St. Juba
+C. St. Florence
+D. St. Atong
+Correct Answer: A
+
+Q3. What is the name of the charity that organizes sessions of Self Help Plus in Mundri?
+A. Caritas
+B. WHO
+C. Catholic NGO
+D. Italian Agency for Development Cooperation
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/nuclear-watchdog-official-visit-iran-bid-improve-ties-124527664
+Info: News Article
+================================================================================
+Q1. What is the name of the United Nations' nuclear watchdog?
+A. International Atomic Energy Agency
+B. International Nuclear Energy Agency
+C. International Nuclear Energy Commission
+D. International Nuclear Energy Council
+Correct Answer: A
+
+Q2. What is the purpose of the visit by the deputy head of the United Nations' nuclear watchdog to Iran?
+A. To conduct inspections of Iran's nuclear program
+B. To rekindle soured ties between Iran and the United Nations
+C. To negotiate a new framework for cooperation between Iran and the United Nations
+D. To assess Iran's nuclear program
+Correct Answer: B
+
+Q3. What is the current status of Iran's nuclear program?
+A. It has an organized nuclear weapons program
+B. It is enriching uranium up to 60%
+C. It is enriching uranium up to 90%
+D. It has limited IAEA inspections
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/uk-police-500-people-arrested-pro-palestinian-events-124520271
+Info: News Article
+================================================================================
+Q1. What was the number of arrests made by London police on Saturday, August 9, 2025?
+A. 500
+B. 532
+C. 550
+D. 600
+Correct Answer: B
+
+Q2. What was the reason given by Home Secretary Yvette Cooper for banning Palestine Action?
+A. Violence
+B. Significant injuries
+C. Extensive criminal damage
+D. Challenging government policies
+Correct Answer: D
+
+Q3. What was the purpose of the protest held by protesters demanding the immediate release of the remaining Israeli hostages in Gaza on Sunday afternoon?
+A. To test the government's ability to enforce the ban on Palestine Action
+B. To underscore their belief that the government is illegally restricting freedom of expression
+C. To demand the immediate release of the remaining Israeli hostages in Gaza
+D. To challenge the policies of the government
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Politics/wireStory/texas-legislature-swing-redistricting-vote-democrats-extend-walkout-124533839
+Info: News Article
+================================================================================
+Q1. What is the name of the Texas Republican who is trying to convene the state Legislature for a vote on redrawing congressional maps in their party's favor?
+A. Ken Paxton
+B. JB Pritzker
+C. Abbott
+D. Trump
+Correct Answer: C. Abbott
+
+Q2. What is the name of the California Governor who is proposing to effectively cut five GOP-held seats in his state?
+A. Abbott
+B. Pritzker
+C. Trump
+D. Newsom
+Correct Answer: D. Newsom
+
+Q3. What is the name of the Illinois Governor who is threatening to retaliate against Texas and Trump by proposing their own redistricting?
+A. Abbott
+B. Pritzker
+C. Trump
+D. Pritzker
+Correct Answer: B. Pritzker
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/11/australia-to-recognise-palestinian-statehood-new-zealand-may-follow?traffic_source=rss
+Info: News Article: Australia To Recognise Palestinian Statehood New Zealand May Follow?Traffic_Source=Rss
+================================================================================
+Q1. What is the best hope to break the cycle of violence in the Middle East according to Australian Prime Minister Anthony Albanese?
+A. A two-state solution
+B. A one-state solution
+C. No solution
+D. Recognition of Palestine
+Correct Answer: A
+
+Q2. What is the risk of recognizing Palestine according to Australian Foreign Minister Penny Wong?
+A. There will be no Palestine left to recognise
+B. There will be a return of the hostages and defeat of Hamas
+C. There will be an opportunity to deliver self-determination for the people of Palestine
+D. There will be no complicity in Israeli war crimes via ongoing weapons and components trade
+Correct Answer: A
+
+Q3. What is the position of the Australian Greens on recognizing Palestine?
+A. They welcome the move to recognise Palestine
+B. They criticize the announcement
+C. They are neutral on the issue
+D. They do not have a position on the issue
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c1kzz4m3ll1o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c1kzz4m3ll1o)
+================================================================================
+Q1. What is the name of the US President who signed an order last month making it easier to arrest homeless people?
+A. Barack Obama
+B. Joe Biden
+C. Donald Trump
+D. Bill Clinton
+Correct Answer: C. Donald Trump
+
+Q2. What is the name of the organization that works to reduce homelessness in Washington DC?
+A. Community Partnership
+B. National Coalition for the Homeless
+C. Washington DC Homeless Services
+D. National Organization for the Homeless
+Correct Answer: A. Community Partnership
+
+Q3. What is the name of the US President who ordered federal agents into the streets of Washington DC to curb what he called "totally out of control" levels of crime?
+A. Barack Obama
+B. Joe Biden
+C. Donald Trump
+D. Bill Clinton
+Correct Answer: C. Donald Trump
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/israeli-strike-kills-4-al-jazeera-journalists-including/story?id=124534669
+Info: News Article
+================================================================================
+Q1. Which journalist was killed in the Israeli airstrike on a tent housing reporters in Gaza City?
+A. Anas Al Sharif
+B. Bashar Taleb
+C. Bashar Taleb
+D. Anas Al Sharif
+Correct Answer: A
+
+Q2. What was the reason for the Israeli airstrike on the tent housing reporters in Gaza City?
+A. The journalists were accused of launching a "smear campaign" against Israel
+B. The journalists were accused of launching a "smear campaign" against Israel
+C. The journalists were accused of launching a "smear campaign" against Israel
+D. The journalists were accused of launching a "smear campaign" against Israel
+Correct Answer: A
+
+Q3. What was the occupation of Anas Al Sharif, who was killed in the Israeli airstrike on a tent housing reporters in Gaza City?
+A. Journalist
+B. Journalist
+C. Journalist
+D. Journalist
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cgm2jjwmw9jo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cgm2jjwmw9jo)
+================================================================================
+Q1. What is the name of the UK's biggest toy chain?
+A. Hamleys
+B. The Entertainer
+C. Toys R Us
+D. John Lewis
+Correct Answer: B
+
+Q2. What is the Entertainer founder's plan for the business?
+A. Sell it to a business with different values
+B. Hand over control to employees
+C. Close all stores
+D. Expand into new markets
+Correct Answer: B
+
+Q3. What is the Entertainer's founder's hope for the future of the business?
+A. It will be sold for money
+B. It will be handed over to employees
+C. It will decline and close all stores
+D. It will expand into new markets
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c14ggj66n3po?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c14ggj66n3po)
+================================================================================
+Q1. Who was attacked in the church in Downpatrick?
+A. Fr John Murray
+B. A 30-year-old man
+C. A man who has been killed
+D. None of the above
+Correct Answer: A
+
+Q2. What did the 30-year-old man ask Fr John Murray before the attack?
+A. If he would hear his confession
+B. If he would hear his last Mass
+C. If he would hear his funeral Mass
+D. None of the above
+Correct Answer: A
+
+Q3. What was the purpose of the vigil held for Fr John Murray?
+A. To remember the man who was killed
+B. To remember Fr John Murray
+C. To pray for the family of Fr John Murray
+D. To pray for the family of the man who was killed
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/front-lines-eastern-ukraine-peace-feels-124534487
+Info: News Article
+================================================================================
+Q1. What is the name of the Ukrainian soldier who said "At minimum, the result would be to stop active fighting — that would be the first sign of some kind of settlement"?
+A. Dmytro Loviniukov
+B. Bronson
+C. Serhii Filimonov
+D. Mirche
+Correct Answer: A
+
+Q2. What is the location of the epicenter of fighting in the Donetsk area?
+A. Pokrovsk
+B. Zaporizhzhia region
+C. Istanbul
+D. Alaska
+Correct Answer: A
+
+Q3. What is the main priority of Russia during this summer's campaign in the Donetsk area?
+A. To find enough resources to equip the unit fighting around Pokrovsk
+B. To stop active fighting
+C. To end the war with Ukraine
+D. To cover their brothers in arms
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/bosnias-mountain-resorts-pivot-summer-tourism-climate-124534485
+Info: News Article
+================================================================================
+Q1. What is the main reason why mountain resorts near Sarajevo are pivoting to attract summertime tourists?
+A. Snow is no longer reliable in the winter months
+B. The weather is too hot in the summer
+C. The cost of seaside vacations is too high
+D. None of the above
+Correct Answer: A
+
+Q2. What is the name of the tourism board president in Sarajevo?
+A. Haris Fazlagic
+B. Dusko Kurtovic
+C. Vasilije Knezevic
+D. Aida Hodzic
+Correct Answer: A
+
+Q3. What is the main objective of tourism authorities in Dubrovnik?
+A. To increase the number of visitors
+B. To manage crowds and limit the number of tourists from cruise ships
+C. To extend the season and become a year-round tourist destination
+D. To focus on managing traffic around the Old Town
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/11/putin-will-fool-trump-why-ukrainians-are-wary-about-trump-putin-talks?traffic_source=rss
+Info: News Article: Putin Will Fool Trump Why Ukrainians Are Wary About Trump Putin Talks?Traffic_Source=Rss
+================================================================================
+Q1. What is Taras' occupation?
+A. Soldier
+B. Doctor
+C. Lawyer
+D. Engineer
+Correct Answer: A
+
+Q2. What is Taras' opinion on the upcoming Trump-Putin summit?
+A. He believes it will result in a peace deal.
+B. He believes it will result in increased economic sanctions.
+C. He believes it will result in a major military breakthrough for Russia.
+D. He believes it will result in no change.
+Correct Answer: D
+
+Q3. What is the Institute for the Study of War's prediction about Donetsk's surrender?
+A. It would position Russian forces extremely well to renew their attacks on much more favorable terms.
+B. It would result in a long and bloody struggle for the ground.
+C. It would result in a sustainable diplomatic solution.
+D. It would result in no change.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/economy/2025/8/11/nvidia-amd-to-pay-15-of-china-chip-sales-to-us-government-reports-say?traffic_source=rss
+Info: News Article
+================================================================================
+Q1. What percentage of revenues from sales of its H20 AI chip will Nvidia share under the agreement reached with the US President Donald Trump's administration?
+A. 10%
+B. 15%
+C. 20%
+D. 25%
+Correct Answer: B
+
+Q2. What is the name of the chip that AMD will share 15% of revenues from sales of?
+A. H20 AI chip
+B. MI308 chip
+C. MI307 chip
+D. MI306 chip
+Correct Answer: B
+
+Q3. What is the concern of trade experts about the implications of linking controls on sensitive technology to monetary payments as reported in the news article?
+A. It is unprecedented and possibly illegal.
+B. It is a mix of bribery and blackmail.
+C. It is a standard practice in international trade.
+D. It is a way to protect US national security.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/gallery/2025/8/11/israel-assassinates-5-al-jazeera-staff-scenes-of-carnage-in-gaza-city?traffic_source=rss
+Info: News Article
+================================================================================
+Q1. What was the total number of journalists killed in Gaza since October 7, 2023, before the assassination of Anas al-Sharif and his colleagues?
+A. 258
+B. 260
+C. 262
+D. 268
+Correct Answer: D
+
+Q2. What was the name of the Al Jazeera correspondent who was assassinated in the targeted attack on a tent in Gaza City?
+A. Anas al-Sharif
+B. Mohammed Qreiqeh
+C. Ibrahim Zaher
+D. Moamen Aliwa
+Correct Answer: A
+
+Q3. What was the purpose of the Israeli attack on the media tent outside al-Shifa Hospital, according to Al Jazeera?
+A. To silence the voices exposing the impending seizure and occupation of Gaza
+B. To discredit the reporting of Israeli abuses
+C. To assassinate Anas al-Sharif and his colleagues
+D. To target civilians in Gaza
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c4g034yx4gjo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c4g034yx4gjo)
+================================================================================
+Q1. Who was the British man who died in a terrible accident in Antarctica in 1959?
+A. Dennis Bell
+B. David Bell
+C. Georgina Rannard
+D. Dariusz Puczko
+Correct Answer: A
+
+Q2. Where were the bones of the British man found?
+A. On the moraine and surface of the Ecology Glacier
+B. At the Admiralty Bay station
+C. In Harrow, London
+D. At the Henryk Arctowski Polish Antarctic Station
+Correct Answer: A
+
+Q3. What was Dennis Bell's job at the Admiralty Bay station?
+A. To send up meteorological weather balloons and radio the reports to the UK every three hours
+B. To survey King George Island and produce some of the first mapping of the largely unexplored place
+C. To answer the door in his family home in Harrow, London
+D. To fire up a generator in sub-zero conditions
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cvgp5z1vvj5o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cvgp5z1vvj5o)
+================================================================================
+Q1. What is the name of the foreign secretary who signed the 1917 Balfour Declaration?
+A. Arthur Balfour
+B. Winston Churchill
+C. Neville Chamberlain
+D. David Lloyd George
+Correct Answer: A
+
+Q2. What is the name of the country that announced it will recognise Palestinian statehood at the next UN General Assembly?
+A. Australia
+B. France
+C. Japan
+D. Canada
+Correct Answer: B
+
+Q3. What is the name of the British diplomatic correspondent who reported on the Prime Minister's announcement?
+A. Paul Adams
+B. John Simpson
+C. David Ormsby-Gore
+D. Peter Mansfield
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.npr.org/2025/08/11/nx-s1-5471614/boston-public-library-harvard-ai
+Info: News Article
+================================================================================
+Q1. Which company is working with the Boston Public Library to make its trove of historically significant government documents more accessible to the public?
+A. Microsoft
+B. OpenAI
+C. Harvard Law School
+D. None of the above
+Correct Answer: B
+
+Q2. What is the goal of the Institutional Data Initiative at Harvard Law School Library?
+A. To grant AI companies privileged access to the rich troves of out-of-copyright information held at libraries and archives.
+B. To improve the amount of data we have available.
+C. To improve the quality of the data and our understanding of what's in it.
+D. To digitize the public domain.
+Correct Answer: C
+
+Q3. What is the ethos of Silicon Valley that is counter to the values of librarianship?
+A. Access and transparency.
+B. Move fast and break things.
+C. Expanding the high-quality data and public knowledge that AI systems can build on.
+D. None of the above.
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.npr.org/2025/08/11/nx-s1-5496335/trump-immigration-workers-parole-tps
+Info: News Article
+================================================================================
+Q1. What is the name of the union shop steward for IUE-CWA Local 83761?
+A. Carpenter
+B. Lucas
+C. Somervell
+D. Hsu
+Correct Answer: A
+
+Q2. What is the acronym for the countries covered by the CHNV program?
+A. CHNV
+B. CNV
+C. NVC
+D. VC
+Correct Answer: A
+
+Q3. What is the current February 3 expiration date for TPS for Haitians?
+A. February 3, 2022
+B. February 3, 2023
+C. February 3, 2021
+D. February 3, 2020
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.npr.org/2025/08/11/g-s1-81934/trump-tariffs-record-revenue
+Info: News Article
+================================================================================
+Q1. What percentage of federal revenues have tariffs accounted for in fiscal year 2025?
+A. 2.7%
+B. 5%
+C. 10%
+D. 15%
+Correct Answer: A
+
+Q2. What is the maximum percentage of federal government revenues that tariff revenue could account for in the modern era?
+A. 2%
+B. 5%
+C. 10%
+D. 15%
+Correct Answer: A
+
+Q3. What is the purpose of adding new tariffs according to Trump?
+A. To pay down debt
+B. To increase revenue
+C. To decrease revenue
+D. To increase GDP
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.npr.org/2025/08/11/nx-s1-5494736/hormonal-birth-control-side-effects
+Info: News Article
+================================================================================
+Q1. What is the failure rate of hormonal birth control methods when used correctly?
+A. 1%
+B. 5%
+C. 10%
+D. 15%
+Correct Answer: A
+
+Q2. What is the name of the researcher at University of Pennsylvania who has studied the way contraception is represented on social media?
+A. Emily Pfender
+B. Dr. Conti
+C. Dr. Morris
+D. Dr. Jensen
+Correct Answer: A
+
+Q3. What is the estimated number of intrauterine migrations per 1000 IUDs?
+A. 1
+B. 2
+C. 5
+D. 10
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.npr.org/2025/08/11/nx-s1-5498400/gaza-israel-journalists-killed
+Info: News Article
+================================================================================
+Q1. Which journalist was killed in the Israeli strike in Gaza City?
+A. Ismail al-Ghoul
+B. Rami al-Rifi
+C. Anas al-Abbas
+D. Hossam Shabat
+Correct Answer: C. Anas al-Abbas
+
+Q2. How many journalists have been killed in Gaza during the war?
+A. 186
+B. 27
+C. 12
+D. 3
+Correct Answer: A. 186
+
+Q3. What was the intention of the Israeli military when they targeted the Al Jazeera correspondent?
+A. To provide credible evidence of the journalist's militancy
+B. To document international crimes committed in Gaza
+C. To suppress the truth about the war
+D. To bury any possibility of future accountability
+Correct Answer: C. To suppress the truth about the war
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/11/magazine/hurricane-disaster-information-media-blackout.html
+Info: News Article
+================================================================================
+Q1. What was the problem with the turbidity in the water at the North Fork treatment plant?
+A. The water was too clear
+B. The water was too murky
+C. The water was too hot
+D. The water was too cold
+Correct Answer: B. The water was too murky
+
+Q2. What did the city announce about the water at some elementary schools?
+A. Lead had been detected in the water at some elementary schools
+B. Lead had been detected in the water at all elementary schools
+C. Lead had been detected in the water at no elementary schools
+D. Lead had been detected in the water at middle schools
+Correct Answer: A. Lead had been detected in the water at some elementary schools
+
+Q3. What did the chemist and the chemical engineer warn about lead exposure?
+A. Lead exposure could be more widespread than believed
+B. Lead exposure could be less widespread than believed
+C. Lead exposure could be the same as believed
+D. Lead exposure could not be determined
+Correct Answer: A. Lead exposure could be more widespread than believed
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Politics/trump-hold-news-conference-crime-dc-after-threatening/story?id=124528406
+Info: News Article
+================================================================================
+Q1. What is the purpose of President Donald Trump's news conference in Washington, D.C.?
+A. To address the homeless problem in D.C.
+B. To discuss the increase in law enforcement in D.C.
+C. To promote the renovation of the capital city
+D. To discuss the spike in violent crime in D.C.
+Correct Answer: B
+
+Q2. What is the focus of the law enforcement effort in D.C.?
+A. High traffic tourist areas
+B. Known hotspots
+C. Homeless encampments
+D. All of the above
+Correct Answer: D
+
+Q3. What is the goal of the seven-day law enforcement effort in D.C.?
+A. To drive down violent crime to a 30-year low
+B. To improve overall public safety
+C. To make the District of Columbia Safe and Beautiful
+D. To bring in the National Guard
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/trump-putin-talks-are-already-a-triumph-for-moscow-its-economy-and-markets.html
+Info: News Article
+================================================================================
+Q1. What is the upcoming meeting between leaders of Russia and the United States to negotiate an end to the war in Ukraine?
+A. The meeting is to discuss the economic interests of the two countries in Alaska and the Arctic.
+B. The meeting is to discuss the possibility of Ukraine ceding Russian-occupied territory to Moscow.
+C. The meeting is to discuss the possibility of sanctions relief for Russia as part of a ceasefire deal.
+D. The meeting is to discuss the possibility of increasing sanctions on Russia.
+Correct Answer: C.
+
+Q2. What is the current mood in Kyiv, whose officials have not been invited to attend the talks?
+A. The mood is dour and there are concerns that Ukraine could be forced to cede Russian-occupied territory to Moscow.
+B. The mood is optimistic and there are concerns that Ukraine could be forced to cede Russian-occupied territory to Moscow.
+C. The mood is neutral and there are no concerns about Ukraine ceding Russian-occupied territory to Moscow.
+D. The mood is neutral and there are concerns about Ukraine ceding Russian-occupied territory to Moscow.
+Correct Answer: A.
+
+Q3. What is the current state of the Russian economy, which is laboring under international sanctions and stubbornly high inflation of 9.4% in June?
+A. The Russian economy is strong and not affected by international sanctions or high inflation.
+B. The Russian economy is weak and affected by international sanctions and high inflation.
+C. The Russian economy is neutral and not affected by international sanctions or high inflation.
+D. The Russian economy is neutral and affected by international sanctions or high inflation.
+Correct Answer: B.
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/sports/2025/8/11/rashford-debuts-while-yamal-fires-as-barcelona-hit-como-for-five?traffic_source=rss
+Info: News Article
+================================================================================
+Q1. Which stadium did Barcelona play their game at while waiting for the modernization of Camp Nou to be completed?
+A. Johan Cruyff Stadium
+B. Camp Nou
+C. Wembley Stadium
+D. Allianz Arena
+Correct Answer: A
+
+Q2. What was the reason for Ter Stegen's captaincy being restored?
+A. He had a successful surgery on his back injury
+B. He resolved his dispute with the club over the handling of his back injury
+C. He was chosen as the captain by the team's coach
+D. He was chosen as the captain by the team's fans
+Correct Answer: B
+
+Q3. Which team did Barcelona play in a friendly as part of their warm-up for the new season?
+A. Real Madrid
+B. Atletico Madrid
+C. Betis
+D. Villarreal
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/news/us-news/models-husband-was-isolated-years-was-found-dead-nyc-apartment-friends-rcna223831
+Info: News Article: Models Husband Was Isolated Years Was Found Dead Nyc Apartment Friends Rcna223831
+================================================================================
+Q1. What was the cause of Jacob's death?
+A. Stab wounds to the back of his leg
+B. Gash on his head
+C. Poisoning
+D. Shooting
+
+Q2. What was the nature of the incidents that led to the order of protection being issued against Donald in November 2024?
+A. Domestic violence
+B. Assault
+C. Stalking
+D. Harassment
+
+Q3. What was the relationship between Jacob and Donald before Jacob's death?
+A. Best friends
+B. Roommates
+C. Co-workers
+D. Romantic partners
+
+================================================================================
+
+
+Link: https://www.morningbrew.com/stories/2025/08/11/nvidia-amd-can-resume-ai-chip-exports-to-china?utm_source=&utm_medium=syndication&utm_campaign=feed
+Info: News Article
+================================================================================
+Q1. What is the name of the CEO of Apple who met with President Trump at the White House?
+A. Tim Cook
+B. Jensen Huang
+C. Elon Musk
+D. Jeff Bezos
+Correct Answer: A
+
+Q2. What is the name of the Nvidia CEO who met with President Trump and offered to give the US 15% of revenue from selling AI chips to China in exchange for export licenses?
+A. Tim Cook
+B. Jensen Huang
+C. Elon Musk
+D. Jeff Bezos
+Correct Answer: B
+
+Q3. What is the name of the Nvidia chip that was developed specifically for the Chinese market after President Biden introduced export controls in 2022?
+A. H20
+B. Titan
+C. GTX
+D. RTX
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cjr11z2yx0yo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cjr11z2yx0yo)
+================================================================================
+Q1. What is the likely cause of the fire on Arthur's Seat?
+A. Lightning strike
+B. Volcanic eruption
+C. Human activity
+D. Animal activity
+Correct Answer: C
+
+Q2. What is the name of the Scottish Fire and Rescue service group commander who spoke about the fire on Arthur's Seat?
+A. Prof Hadden
+B. Angus Cochrane
+C. BBC Scotland News
+D. Good Morning Scotland
+Correct Answer: A
+
+Q3. What is the nature of the human activity that is believed to have caused the fire on Arthur's Seat?
+A. Camping
+B. Barbecuing
+C. Smoking
+D. Drinking
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.bbc.com/sport/football/articles/cp8zjrnw6yro?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cp8zjrnw6yro)
+================================================================================
+Q1. Which team did Grealish play for in the 2022-23 season?
+A. Manchester City
+B. Aston Villa
+C. Liverpool
+D. Chelsea
+Correct Answer: A
+
+Q2. How many knockout ties did Grealish start for Manchester City in the 2022-23 season?
+A. 5
+B. 6
+C. 7
+D. 8
+Correct Answer: C
+
+Q3. In which season did Grealish play for Manchester City?
+A. 2021-22
+B. 2022-23
+C. 2023-24
+D. 2024-25
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Politics/supreme-court-formally-asked-overturn-landmark-same-sex/story?id=124465302
+Info: News Article
+================================================================================
+Q1. What is the name of the Kentucky county clerk who was jailed for six days in 2015 for refusing to issue marriage licenses to a gay couple on religious grounds?
+A. Kim Davis
+B. David Ermold
+C. William Powell
+D. Scott Olson
+Correct Answer: A
+
+Q2. What is the specific legal action that Kim Davis is appealing in her petition for writ of certiorari?
+A. Overturning the landmark marriage decision in Obergefell v Hodges
+B. Being held liable for state action, which the First Amendment does not protect
+C. Immunization from personal liability for the denial of marriage licenses
+D. None of the above
+Correct Answer: C
+
+Q3. What is the estimated number of married same-sex couples in the United States as of 2022?
+A. 591,000
+B. 823,000
+C. 1,000,000
+D. 1,500,000
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/opinions/2025/8/11/israel-is-occupying-gaza-to-clean-up-the-crime-scene?traffic_source=rss
+Info: News Article
+================================================================================
+Q1. What is the Israeli plan for Gaza?
+A. Destroy, starve, occupy, demand demilitarisation, and finally carry out full ethnic cleansing once Palestinians have no political power and capacity to resist.
+B. Destroy, starve, occupy, demand demilitarisation, and finally carry out full ethnic cleansing once Palestinians have no political power and capacity to resist.
+C. Destroy, starve, occupy, demand demilitarisation, and finally carry out full ethnic cleansing once Palestinians have no political power and capacity to resist.
+D. Destroy, starve, occupy, demand demilitarisation, and finally carry out full ethnic cleansing once Palestinians have no political power and capacity to resist.
+Correct Answer: A
+
+Q2. What happened to the Al Jazeera journalists in Gaza?
+A. They were assassinated by the Israeli army.
+B. They were assassinated by the Israeli army.
+C. They were assassinated by the Israeli army.
+D. They were assassinated by the Israeli army.
+Correct Answer: A
+
+Q3. What is Israel doing to erase evidence of its actions in Gaza?
+A. Burying massacred civilians in mass graves with bulldozers.
+B. Withholding bodies of Palestinian torture victims.
+C. Digging into the sand whole crime scenes of execution.
+D. All of the above.
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/11/tributes-condemnation-pour-in-for-slain-al-jazeera-journalists-in-gaza?traffic_source=rss
+Info: News Article: Tributes Condemnation Pour In For Slain Al Jazeera Journalists In Gaza?Traffic_Source=Rss
+================================================================================
+Q1. Which country accused Israel of "deliberately assassinating" the Al Jazeera staff?
+A. Palestine
+B. Iran
+C. Al Jazeera Media Network
+D. Amnesty International
+Correct Answer: A
+
+Q2. Which organization called on the world to hold Israel accountable after the killing of the Al Jazeera staff?
+A. Palestine
+B. Iran
+C. Al Jazeera Media Network
+D. Amnesty International
+Correct Answer: B
+
+Q3. Which country condemned the strike as a war crime under international law and remembered al-Sharif as a "brave and extraordinary" reporter?
+A. Palestine
+B. Iran
+C. Al Jazeera Media Network
+D. Amnesty International
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/indias-opposition-parties-protest-controversial-electoral-roll-revision-124535111
+Info: News Article
+================================================================================
+Q1. Which political party held the protest in New Delhi?
+A. BJP
+B. Congress
+C. Samajwadi Party
+D. AAP
+Correct Answer: C
+
+Q2. What is the main concern of the opposition parties regarding the voter list revision in Bihar state?
+A. It could lead to voter disenfranchisement
+B. It is necessary to update new voters and delete the names of those who have either died or moved to other states
+C. It is a routine update to ensure the accuracy of electoral rolls
+D. It is a necessary step to avoid the inclusion of foreign illegal immigrants
+Correct Answer: A
+
+Q3. What is the name of the person who was detained during the protest in New Delhi?
+A. Narendra Modi
+B. Rahul Gandhi
+C. Akhilesh Yadav
+D. Mamata Banerjee
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/massive-mudslide-kills-7-volunteers-repairing-flood-damage-124534932
+Info: News Article
+================================================================================
+Q1. What was the cause of the mudslide that killed seven volunteers in northern Pakistan?
+A. Flash floods
+B. Landslides
+C. Glacial lake outburst
+D. Global warming
+Correct Answer: C
+
+Q2. What was the location of the mudslide that killed seven volunteers in northern Pakistan?
+A. Danyor
+B. Gilgit
+C. Islamabad
+D. Peshawar
+Correct Answer: A
+
+Q3. How many people were injured in the mudslide that killed seven volunteers in northern Pakistan?
+A. 7
+B. 10
+C. 15
+D. 20
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/11/china-expels-philippines-vessels-at-scarborough-shoal-following-clashes?traffic_source=rss
+Info: News Article: China Expels Philippines Vessels At Scarborough Shoal Following Clashes?Traffic_Source=Rss
+================================================================================
+Q1. Which country claims almost entirely the South China Sea, despite an international ruling that the assertion has no legal basis?
+A. China
+B. Philippines
+C. India
+D. United States
+Correct Answer: A
+
+Q2. What did the Chinese coastguard spokesperson say about the incident?
+A. The China Coast Guard took necessary measures in accordance with the law, including monitoring, pressing from the outside, blocking and controlling the Philippine vessels to drive them away.
+B. The China Coast Guard took necessary measures in accordance with the law, including monitoring, pressing from the outside, blocking and controlling the Philippine vessels to drive them away.
+C. The China Coast Guard took necessary measures in accordance with the law, including monitoring, pressing from the outside, blocking and controlling the Philippine vessels to drive them away.
+D. The China Coast Guard took necessary measures in accordance with the law, including monitoring, pressing from the outside, blocking and controlling the Philippine vessels to drive them away.
+Correct Answer: A
+
+Q3. What did the Philippine coastguard spokesperson say about the incident?
+A. The China Coast Guard took necessary measures in accordance with the law, including monitoring, pressing from the outside, blocking and controlling the Philippine vessels to drive them away.
+B. The China Coast Guard took necessary measures in accordance with the law, including monitoring, pressing from the outside, blocking and controlling the Philippine vessels to drive them away.
+C. The China Coast Guard took necessary measures in accordance with the law, including monitoring, pressing from the outside, blocking and controlling the Philippine vessels to drive them away.
+D. The China Coast Guard took necessary measures in accordance with the law, including monitoring, pressing from the outside, blocking and controlling the Philippine vessels to drive them away.
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-11/feature-story-on-homelessness-centralized-response
+Info: News Article
+================================================================================
+Q1. What is the name of the Los Angeles County Supervisor who emailed the county’s Emergency Centralized Response Center?
+A. Kathryn Barger
+B. Lindsey Horvath
+C. Donald Holt
+D. Rachel Kassenbrock
+Correct Answer: B. Lindsey Horvath
+
+Q2. What is the purpose of the Los Angeles County Emergency Centralized Response Center?
+A. To better coordinate the various efforts among different government agencies and nonprofits to clean encampments
+B. To oversee and direct daily operations for unhoused individuals across Los Angeles County
+C. To find housing and provide medical care for people experiencing homelessness
+D. To throw away tarps and tents and remove makeshift electrical lines
+Correct Answer: A. To better coordinate the various efforts among different government agencies and nonprofits to clean encampments
+
+Q3. What is the name of the organization that oversees more than 150 outreach teams across 11 organizations and coordinates with multiple government agencies that offer housing and conduct cleanups?
+A. Los Angeles Homeless Services Authority
+B. Los Angeles County Supervisors
+C. ECRC (Emergency Centralized Response Center)
+D. Department of Mental Health
+Correct Answer: C. ECRC (Emergency Centralized Response Center)
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-11/who-rescued-who-a-rescue-dog-helps-eaton-fire-evacuees-get-on-with-their-lives
+Info: News Article
+================================================================================
+Q1. What is the name of the dog that Bob owns?
+A. Sydney
+B. Lambchop
+C. Rhandall
+D. John
+Correct Answer: B. Lambchop
+
+Q2. Where did Bob and his dog go to escape the fire?
+A. Westside German Shepherd Rescue
+B. The Langham Huntington
+C. A park
+D. A beach
+Correct Answer: B. The Langham Huntington
+
+Q3. How long did it take for Bob and his dog to be cleared to move back home?
+A. 2 months
+B. 1 month
+C. 3 months
+D. 4 months
+Correct Answer: A. 2 months
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-11/newsom-trump-ucla-grant-freezes-antisemitism
+Info: News Article
+================================================================================
+Q1. What is the federal lawsuit that UCLA settled?
+A. Discrimination against Jewish students
+B. Illegal use of race in admissions
+C. Antisemitism on campus
+D. All of the above
+Correct Answer: D
+
+Q2. What is the demand that UC pay a $1-billion fine over?
+A. Antisemitism on campus
+B. Illegal use of race in admissions
+C. Policies that allow transgender athletes to compete according to their gender identity
+D. All of the above
+Correct Answer: D
+
+Q3. What is the role of money in the fight over America's higher education institutions?
+A. Taxpayer money is being used to fund research
+B. Taxpayer money is being used to fund illegal activities
+C. Taxpayer money is being used to fund discrimination against certain groups
+D. Taxpayer money is being used to fund pro-Palestinian protests
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.msnbc.com/opinion/msnbc-opinion/trumps-oval-office-chart-charade-cant-hide-truth-economy-rcna223919
+Info: News Article
+================================================================================
+Q1. What is the name of the person who was fired by Trump after the disappointing jobs report?
+A. Jerome Powell
+B. Janet Yellen
+C. Jay Powell
+D. Ben Bernanke
+Correct Answer: D. Ben Bernanke
+
+Q2. What is the name of the person who was being considered for the Fed?
+A. Jerome Powell
+B. Janet Yellen
+C. Jay Powell
+D. Ben Bernanke
+Correct Answer: A. Jerome Powell
+
+Q3. What is the name of the person who wrote the article about the economy?
+A. Catherine Rampell
+B. Janet Yellen
+C. Jay Powell
+D. Ben Bernanke
+Correct Answer: A. Catherine Rampell
+
+================================================================================
+
+
+Link: https://www.msnbc.com/opinion/analysis/trump-epstein-files-distraction-fox-news-russiagate-rcna223977
+Info: News Article
+================================================================================
+Q1. In 1998, congressional Republicans suggested President Bill Clinton had deployed missiles to Sudan and Afghanistan to change the subject away from his affair with Monica Lewinsky. What was the name of the politician who made this suggestion?
+A. [Option A]
+B. [Option B]
+C. [Option C]
+D. [Option D]
+Correct Answer: [Single letter: A, B, C, or D]
+
+Q2. In 2019, the Department of Justice published a memo stating that no further disclosure would be appropriate or warranted regarding Jeffrey Epstein's suicide. What was the name of the politician who made this statement?
+A. [Option A]
+B. [Option B]
+C. [Option C]
+D. [Option D]
+Correct Answer: [Single letter: A, B, C, or D]
+
+Q3. In July 2020, the Senate Intelligence Committee reviewed special counsel John Durham's 2023 report and concluded that Russia interfered in the 2016 election to help Donald Trump. What was the name of the politician who made this statement?
+A. [Option A]
+B. [Option B]
+C. [Option C]
+D. [Option D]
+Correct Answer: [Single letter: A, B, C, or D]
+
+================================================================================
+
+
+Link: https://www.cnbc.com/select/how-many-bank-accounts-should-you-have/
+Info: News Article
+================================================================================
+Q1. What is the annual percentage yield (APY) offered by the LendingClub LevelUp Savings Account?
+A. 4.20%
+B. 3.20%
+C. 3.40%
+D. 4.25%
+Correct Answer: A
+
+Q2. What is the minimum balance required for the LendingClub LevelUp Savings Account?
+A. None
+B. $500
+C. $250
+D. $1000
+Correct Answer: A
+
+Q3. What is the minimum deposit required to earn the welcome bonus or rewards with bank accounts?
+A. $500
+B. $1000
+C. $250
+D. $500
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://abc7.com/post/texas-legislature-take-another-swing-redistricting-vote-monday-democrats-extend-walkout/17499796/
+Info: News Article
+================================================================================
+Q1. What is the name of the Texas Attorney General who is asking the state's Supreme Court to remove some Democratic lawmakers from office?
+A. JB Pritzker
+B. Ken Paxton
+C. Abbott
+D. Newsom
+Correct Answer: B
+
+Q2. What is the name of the California Governor who is proposing to effectively cut five GOP-held seats in his state?
+A. JB Pritzker
+B. Ken Paxton
+C. Abbott
+D. Newsom
+Correct Answer: D
+
+Q3. What is the name of the Texas Governor who is threatening to arrest and take Democratic lawmakers back to the Capitol if they show up in the state?
+A. JB Pritzker
+B. Ken Paxton
+C. Abbott
+D. Newsom
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://abc7.com/post/trump-is-promising-new-steps-tackle-homelessness-crime-washington-dc/17499673/
+Info: News Article
+================================================================================
+Q1. What is President Trump's plan to make the District of Columbia "safer and more beautiful"?
+A. Increase federal law enforcement presence in Washington for seven days
+B. Use the National Guard to patrol the streets in the nation's capital
+C. Seize control of Washington and assert that crime is "ridiculous" and the city is "unsafe"
+D. Fund more prosecutors or fill the 15 vacancies on the D.C. police force
+Correct Answer: A
+
+Q2. What is Mayor Muriel Bowser's concern about using the National Guard to enforce city laws?
+A. It is not an efficient use of the Guard
+B. It is not effective in addressing crime levels
+C. It is a violation of the city's sovereignty
+D. It is a violation of the Constitution
+Correct Answer: A
+
+Q3. What is the current state of crime in the District of Columbia compared to this time in 2024?
+A. Homicides, robberies, and burglaries are all up
+B. Homicides, robberies, and burglaries are all down
+C. There is no data available on crime levels in the District of Columbia
+D. Crime statistics are not comparable between this time in 2024 and any other year
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/nvidia-will-jump-20percent-after-report-of-china-export-license-agreement-wells-fargo-says.html
+Info: News Article
+================================================================================
+Q1. What is the estimated revenue impact of the H20 China ban on Nvidia's F2Q26 (July) qtr?
+A. $8 billion
+B. $10 billion
+C. $12 billion
+D. $15 billion
+Correct Answer: D
+
+Q2. What is the estimated revenue impact of the H20 China ban on Nvidia's F4Q26 (Jan) qtr?
+A. $8 billion
+B. $10 billion
+C. $12 billion
+D. $15 billion
+Correct Answer: D
+
+Q3. What is the estimated revenue impact of the H20 China ban on Nvidia's F2Q26 (July) qtr?
+A. $8 billion
+B. $10 billion
+C. $12 billion
+D. $15 billion
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/travel-credit-card-annual-fee.html
+Info: News Article
+================================================================================
+Q1. Which expert recommends that a travel rewards card isn't likely to be a good value if you're carrying a balance from month to month?
+A. French
+B. Rossman
+C. Both A and B
+D. Neither A nor B
+Correct Answer: A
+
+Q2. What is the general recommendation for people who don't want to be married to a specific brand when it comes to travel credit cards?
+A. They should carry a balance from month to month
+B. They should earn and use rewards more broadly
+C. They should only spend a certain amount of money on the card within a short period of opening it
+D. They should only use the card for TSA PreCheck and other pre-screening memberships
+Correct Answer: B
+
+Q3. What is the general sign-on bonus when you spend a certain amount of money on the card within a short period of opening it?
+A. $500
+B. $1,000
+C. $2,000
+D. $5,000
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/nation-world/china-tariff-pause-expiring/507-e988901c-35a5-48a7-9413-0dbfc2afbef9
+Info: News Article: 507 E988901C 35A5 48A7 9413 0Dbfc2Afbef9
+================================================================================
+Q1. What is Treasury Secretary Scott Bessent's job title?
+A. President of the United States
+B. Secretary of State
+C. Secretary of the Treasury
+D. Secretary of Defense
+Correct Answer: C
+
+Q2. What is the Chinese economy?
+A. The world's largest economy
+B. The world's second largest economy
+C. The world's third largest economy
+D. The world's fourth largest economy
+Correct Answer: B
+
+Q3. What is the purpose of the tariffs on Chinese exports to the United States?
+A. To put pressure on Beijing at a time when the Chinese economy is still recovering from a prolonged downturn in its property market
+B. To protect American industries from foreign competition
+C. To reduce the trade deficit between the United States and China
+D. To increase the price of household goods and clothing in the United States
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/automakers-trump-electric-vehicles-ev-policies-ford-gm-tesla-rivian.html
+Info: News Article
+================================================================================
+Q1. What is the name of the executive order signed by President Donald Trump on his first day in office?
+A. Electric Vehicle Mandate Elimination Order
+B. Subsidy Removal Order
+C. Clean Air Order
+D. Renewable Energy Order
+Correct Answer: B. Subsidy Removal Order
+
+Q2. What is the expected impact of the government removing incentives on General Motors' EV profitability?
+A. Positive impact
+B. Negative impact
+C. No impact
+D. Unknown impact
+Correct Answer: B. Negative impact
+
+Q3. What is the percentage of GM's total vehicle sales that come from electric vehicles?
+A. 50%
+B. 25%
+C. 10%
+D. 5%
+Correct Answer: D. 5%
+
+================================================================================
+
+
+Link: https://abc7.com/post/netanyahu-defends-new-military-offensive-gaza-says-will-wider-announced/17499982/
+Info: News Article
+================================================================================
+Q1. What is the name of the Israeli Prime Minister who defended the new military offensive in Gaza?
+A. Benjamin Netanyahu
+B. Naftali Bennett
+C. Yair Lapid
+D. Reuven Rivlin
+Correct Answer: A
+
+Q2. What is the name of the organization that Israel plans to dismantle in Gaza City and central camps?
+A. Hamas
+B. Islamic State
+C. Hezbollah
+D. Al-Qaeda
+Correct Answer: A
+
+Q3. What is the name of the U.S. President that Netanyahu spoke with about the plan for the military offensive in Gaza?
+A. Barack Obama
+B. Joe Biden
+C. Donald Trump
+D. George W. Bush
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/sam-altman-says-agi-is-a-pointless-term-experts-agree.html
+Info: News Article
+================================================================================
+Q1. What is the name of the CEO of OpenAI?
+A. Sam Altman
+B. Elon Musk
+C. Jeff Bezos
+D. Mark Zuckerberg
+Correct Answer: A
+
+Q2. What is the definition of AGI according to Sam Altman?
+A. An AI that can do "a significant amount of the work in the world"
+B. An AI that can pass the Turing test
+C. An AI that can perform a specific task better than a human
+D. An AI that can understand and process natural language
+Correct Answer: A
+
+Q3. What is the problem with AGI according to Sam Altman?
+A. There are multiple definitions being used by different companies and individuals
+B. AGI is not relevant as rapid advances make it harder to define the concept
+C. AGI could be developed in the "reasonably close-ish future"
+D. AGI is not capable of performing a specific task better than a human
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/politics/trump-administration/trump-announce-plans-address-crime-washington-surging-federal-law-enfo-rcna224232
+Info: News Article
+================================================================================
+Q1. What is the president's stated purpose for the news conference?
+A. To discuss plans to remove homeless people from the city
+B. To discuss plans to make the district "more beautiful than it ever was before"
+C. To discuss plans to end crime and murder in the capital
+D. To discuss plans to clean up the general physical condition of the capital
+Correct Answer: C
+
+Q2. What has the president done in recent days to address the violent crime in D.C.?
+A. Increased the federal law enforcement presence in the city
+B. Threatened a federal takeover of D.C.
+C. Announced plans to surge federal law enforcement in the capital
+D. None of the above
+Correct Answer: A
+
+Q3. What does the president plan to focus on during the news conference?
+A. Ending crime and murder in the capital
+B. Cleaning up the general physical condition of the capital
+C. Removing homeless people from the city
+D. None of the above
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/features/2025/8/11/israel-kills-anasal-sharif-and-four-al-jazeera-in-gaza-what-to-know?traffic_source=rss
+Info: News Article
+================================================================================
+Q1. Who was one of the most famous faces of Arabic reporting from Gaza?
+A. Anas al-Sharif
+B. Mohammed Qreiqeh
+C. Hamza Dahdouh
+D. Hossam Shabat
+Correct Answer: A
+
+Q2. What happened to Anas al-Sharif shortly before he was killed?
+A. He was accused of being an armed commander for Hamas
+B. He was assassinated by Israel
+C. He was killed in a bombardment by Israel
+D. He was pulled out of a fire and died of his wounds
+Correct Answer: A
+
+Q3. What was the Israeli army's claim about Hamza Dahdouh?
+A. He was an armed commander for Hamas
+B. He was a member of Hamas without any evidence
+C. He was assassinated by Israel
+D. He was a journalist for Al Jazeera
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.npr.org/2025/08/11/g-s1-81981/up-first-newsletter-washington-dc-federal-agents-putin-trump-summit-israel-gaza
+Info: News Article
+================================================================================
+Q1. What is the name of the president who threatened sanctions on Russia?
+A. Dan Pelzer
+B. Putin
+C. Trump
+D. Feng
+Correct Answer: C
+
+Q2. What is the name of the person who curated a 3,599-book reading list?
+A. Putin
+B. Trump
+C. Dan Pelzer
+D. Feng
+Correct Answer: C
+
+Q3. What is the name of the person who kept rejecting the president's calls for peace?
+A. Trump
+B. Putin
+C. Feng
+D. Dan Pelzer
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/jpmorgan-raises-price-target-on-coreweave-heading-into-earnings-says-ai-ramp-is-intact.html
+Info: News Article
+================================================================================
+Q1. What is the name of the company that secured a five-year deal with OpenAI for artificial intelligence data centers?
+A. CoreWeave
+B. OpenAI
+C. NVIDIA
+D. Intel
+Correct Answer: A
+
+Q2. What is the estimated value of the deal between CoreWeave and OpenAI for artificial intelligence data centers?
+A. $11.9 billion
+B. $5 billion
+C. $2 billion
+D. $1 billion
+Correct Answer: A
+
+Q3. What is the analyst's prediction for the pattern of large bookings in CoreWeave's business pipeline?
+A. Extreme lumpiness
+B. No lumpiness
+C. Moderate lumpiness
+D. None of the above
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/news/us-news/trump-crime-capital-netanyahu-defends-gaza-plan-morning-rundown-rcna224222
+Info: News Article: Trump Crime Capital Netanyahu Defends Gaza Plan Morning Rundown Rcna224222
+================================================================================
+Q1. What is the name of the federal takeover plan that would require an act of Congress to repeal the 1973 Home Rule act?
+A. Presidential Takeover Plan
+B. Federal Takeover Plan
+C. Congressional Takeover Plan
+D. District Takeover Plan
+Correct Answer: B
+
+Q2. What is the name of the Western government that recently recognized a Palestinian state?
+A. Australia
+B. Israel
+C. United States
+D. United Kingdom
+Correct Answer: A
+
+Q3. What is the name of the mysterious cartoon lizard that has become TikTok's latest rising star?
+A. Lizard King
+B. Lizard Man
+C. Lizard Boy
+D. Lizard Lady
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abc7.com/post/ukrainian-drone-strike-kills-1-fighting-rages-ahead-planned-trump-putin-summit/17500309/
+Info: News Article
+================================================================================
+Q1. What Ukrainian drone attack killed one person and wounded two more in Russia's Nizhny Novgorod?
+A. Ukrainian drone attack on a plant in Arzamas
+B. Ukrainian drone attack on a plant in Nizhny Novgorod
+C. Ukrainian drone attack on a plant in Moscow
+D. Ukrainian drone attack on a plant in Kyiv
+Correct Answer: B
+
+Q2. What is the name of the Russian plant that was targeted by the Ukrainian drone attack?
+A. Plandin plant in Arzamas
+B. Plandin plant in Nizhny Novgorod
+C. Plandin plant in Moscow
+D. Plandin plant in Kyiv
+Correct Answer: A
+
+Q3. What is the purpose of the Russian Defense Ministry's statement about intercepting and destroying Ukrainian drones?
+A. To convince the international community that Russia is not involved in the conflict in Ukraine
+B. To convince the international community that Russia is not interfering with Ukraine's sovereignty
+C. To convince the international community that Russia is not using drones in the conflict in Ukraine
+D. To convince the international community that Russia is not using drones to attack Ukrainian targets
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cjr11zlj888o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cjr11zlj888o)
+================================================================================
+Q1. What year did My Chemical Romance release their third studio album, The Black Parade?
+A. 2001
+B. 2006
+C. 2011
+D. 2014
+Correct Answer: B. 2006
+
+Q2. When did My Chemical Romance perform in the UK for the last time before their recent announcement?
+A. 2014
+B. 2022
+C. 2023
+D. 2024
+Correct Answer: B. 2022
+
+Q3. What was the name of the song released by My Chemical Romance in 2022 along with their reunion tour?
+A. The Foundations of Decay
+B. The Black Parade
+C. The White Parade
+D. The Red Parade
+Correct Answer: A. The Foundations of Decay
+
+================================================================================
+
+
+Link: https://abcnews.go.com/US/wireStory/trumps-big-bill-powering-mass-deportations-congress-starting-124537267
+Info: News Article
+================================================================================
+Q1. What is the name of President Donald Trump's border czar?
+A. Tom Homan
+B. Kristi Noem
+C. Michael Guest
+D. Tricia McLaughlin
+Correct Answer: A
+
+Q2. What is the total amount of money allocated to the Department of Homeland Security in President Donald Trump's big bill?
+A. $170 billion
+B. $30 billion
+C. $45 billion
+D. $10 billion
+Correct Answer: A
+
+Q3. What is the name of the Republican Senator who proposed an alternative border package?
+A. Lindsey Graham
+B. Rand Paul
+C. Tom Homan
+D. Tricia McLaughlin
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/US/wireStory/trump-promising-new-steps-tackle-homelessness-crime-washington-124533840
+Info: News Article
+================================================================================
+Q1. What is President Donald Trump promising to do to tackle homelessness and crime in Washington?
+A. He will increase funding for prosecutors in the District of Columbia.
+B. He will deploy the National Guard to patrol the streets in the nation's capital.
+C. He will seize control of Washington and assert federal authority over the city.
+D. He will hold a White House news conference to discuss his plans.
+Correct Answer: D
+
+Q2. What is Mayor Muriel Bowser's response to President Donald Trump's plan to tackle homelessness and crime in Washington?
+A. She is concerned about the potential use of the National Guard to patrol the streets.
+B. She is supportive of the president's plan to increase federal presence in the city.
+C. She is critical of the president's plan and believes it is not the most efficient use of resources.
+D. She is unaware of the president's plan.
+Correct Answer: C
+
+Q3. What is the current state of crime in the District of Columbia compared to previous years?
+A. It is up by 20% compared to this time in 2024.
+B. It is down by 20% compared to this time in 2024.
+C. It is the same as previous years.
+D. There are no statistics available on crime in the District of Columbia.
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/us-congressman-discusses-syrian-president-return-body-american-124536799
+Info: News Article
+================================================================================
+Q1. Who is the U.S. Congressman that made a brief visit to Syria?
+A. Abraham Hamadeh
+B. Omar Alkhani
+C. Doctors Without Borders
+D. John Mueller
+Correct Answer: A
+
+Q2. What was the purpose of the U.S. Congressman's visit to Syria?
+A. To discuss the return of the body of an American aid worker
+B. To discuss the need for a secure humanitarian corridor
+C. To discuss the territorial defeat of the Islamic State group
+D. To discuss the internet service for a hospital
+Correct Answer: A
+
+Q3. Which militant group was discussed during the visit to Syria?
+A. The Islamic State group
+B. The Druze minority
+C. Doctors Without Borders
+D. The pro-government fighters
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/south-koreas-president-pardon-jailed-justice-minister-cho-124536307
+Info: News Article
+================================================================================
+Q1. Which South Korean president will pardon jailed former justice minister and liberal ally Cho Kuk this week?
+A. Yoon Suk Yeol
+B. Moon Jae-in
+C. Lee Jae Myung
+D. Cho Kuk
+Correct Answer: C. Lee Jae Myung
+
+Q2. What was the reason for Cho Kuk's imprisonment?
+A. Bribery
+B. Fraud
+C. Embezzlement
+D. Abuse of power
+Correct Answer: B. Fraud
+
+Q3. Which party did Cho Kuk launch before the 2019 legislative elections?
+A. Democratic Party
+B. People Power Party
+C. Rebuilding Korea Party
+D. Green Party
+Correct Answer: C. Rebuilding Korea Party
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/ukrainian-drone-strike-kills-1-fighting-rages-ahead-124536032
+Info: News Article
+================================================================================
+Q1. What is the name of the Russian official who made the statement about the Ukrainian drone attack?
+A. Vladimir Putin
+B. Nizhny Novgorod Governor
+C. Ukrainian official
+D. Russian Defense Ministry
+Correct Answer: B
+
+Q2. What is the name of the Ukrainian official who spoke about the SBU launching the drones?
+A. Vladimir Putin
+B. Nizhny Novgorod Governor
+C. Ukrainian official
+D. Russian Defense Ministry
+Correct Answer: C
+
+Q3. What is the name of the Russian Defense Ministry's statement about the Ukrainian drones?
+A. Vladimir Putin
+B. Nizhny Novgorod Governor
+C. Ukrainian official
+D. Russian Defense Ministry
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Business/wireStory/pause-higher-tariffs-china-due-expire-tuesday-124536310
+Info: News Article
+================================================================================
+Q1. What is the current status of the 90-day pause on imposing higher tariffs on China?
+A. It has already expired.
+B. It is due to expire on Tuesday.
+C. It has been extended indefinitely.
+D. It is not applicable.
+Correct Answer: B.
+
+Q2. What is the current state of negotiations between the United States and China regarding tariffs?
+A. An agreement has been reached and tariffs have been set.
+B. Negotiations are ongoing.
+C. The United States has imposed prohibitively high tariffs on Chinese exports.
+D. The United States has imposed no tariffs on Chinese exports.
+Correct Answer: B.
+
+Q3. What is the purpose of the 90-day pause on imposing higher tariffs on China?
+A. To allow time for negotiations to reach an agreement.
+B. To impose prohibitively high tariffs on Chinese exports.
+C. To put pressure on Beijing at a time when the Chinese economy is still recovering.
+D. To protect the United States from illicit trade in fentanyl.
+Correct Answer: A.
+
+================================================================================
+
+
+Link: https://abcnews.go.com/US/wireStory/former-9-maple-busy-bee-sniffing-threats-michigan-124535818
+Info: News Article
+================================================================================
+Q1. Which university is dedicated to protecting honey bees?
+A. Michigan State University
+B. Harvard University
+C. Stanford University
+D. Yale University
+Correct Answer: A
+
+Q2. What is the name of the four-legged ally enlisted by researchers at Michigan State University to sniff out danger to honey bee colonies?
+A. Maple
+B. Milbrath
+C. Stejskal
+D. Householder
+Correct Answer: A
+
+Q3. What is the purpose of the training program developed by the Pollinator Performance Center at Michigan State University?
+A. To develop a training program for dogs to use their sensitive noses to uncover a bacterial disease called American foulbrood that threatens honey bee larvae.
+B. To study risk factors that affect honey bees' health.
+C. To train dogs for law enforcement and other uses.
+D. To study the impact of climate change on honey bee populations.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/US/wireStory/texas-legislature-swing-redistricting-vote-democrats-extend-walkout-124533838
+Info: News Article
+================================================================================
+Q1. What is the reason why Texas Republicans are trying to reconvene the state Legislature?
+A. To vote on redrawing congressional maps in their party's favor
+B. To vote on redrawing congressional maps in favor of Democrats
+C. To vote on redrawing state legislative maps in their party's favor
+D. To vote on redrawing state legislative maps in favor of Democrats
+Correct Answer: A
+
+Q2. Which states are threatening to retaliate against Texas and Trump by proposing their own redistricting?
+A. California, New York, and Illinois
+B. California, New York, and Florida
+C. California, New York, and Texas
+D. California, Florida, and Texas
+Correct Answer: A
+
+Q3. What is the punishment that Texas Attorney General Ken Paxton is threatening to impose on Democratic lawmakers who leave the state to deny Republicans the quorum they need?
+A. Arrest and take them to the Capitol
+B. Fine them $10,000 each
+C. Remove them from office
+D. Suspend their voting rights for a year
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Politics/wireStory/pick-college-football-coaches-hot-seat-entering-2025-124535830
+Info: News Article
+================================================================================
+Q1. Which coach is heading into his fourth season in Norman and has yet to meet the expectations that come with the program?
+A. Brent Venables
+B. Lincoln Riley
+C. Kalen DeBoer
+D. Rob Ryan
+Correct Answer: A
+
+Q2. Which team will start a four-game stretch in Week 3 that features LSU, Miami, Texas and Texas A & M?
+A. Gators
+B. Trojans
+C. Crimson Tide
+D. Longhorns
+Correct Answer: A
+
+Q3. Which coach's fate could be in the hands of quarterback Jayden Maiava?
+A. Brent Venables
+B. Lincoln Riley
+C. Kalen DeBoer
+D. Rob Ryan
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/11/us/politics/us-military-prepares-to-deploy-national-guard-in-washington-dc.html
+Info: News Article
+================================================================================
+Q1. What is the reason for the military to activate National Guard troops in Washington, D.C.?
+A. To protect the federal agents conducting immigration raids
+B. To quell protests over immigration raids
+C. To support law enforcement in the capital
+D. To help with natural disasters
+Correct Answer: C
+
+Q2. How many National Guard troops will be sent to support law enforcement in Washington, D.C.?
+A. 500
+B. 1000
+C. 2000
+D. 3000
+Correct Answer: A
+
+Q3. Where were National Guard troops previously deployed this summer?
+A. Washington, D.C.
+B. Los Angeles
+C. New York City
+D. Chicago
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/11/us/politics/trump-national-guard-washington-dc.html
+Info: News Article
+================================================================================
+Q1. What is the purpose of President Trump's crackdown on street crime in Washington, D.C.?
+A. To increase tourism in the city
+B. To improve public transportation in the city
+C. To reduce street crime in the city
+D. To increase the number of homeless people in the city
+Correct Answer: C
+
+Q2. How many District of Columbia National Guardsmen will be sent to support law enforcement officers in Washington, D.C.?
+A. 100
+B. 200
+C. 300
+D. 400
+Correct Answer: D
+
+Q3. Where will most of the agents supporting law enforcement officers in Washington, D.C. be pulled from?
+A. The F.B.I.'s Washington field office
+B. The CIA's headquarters in Langley, Virginia
+C. The Pentagon
+D. The White House
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/iran-talks-iaea-technical-complicated-ahead-agencys-planned-124535340
+Info: News Article
+================================================================================
+Q1. What is the purpose of the talks between Iran and the International Atomic Energy Agency (IAEA)?
+A. To redefine how both sides cooperate
+B. To discuss Iran's nuclear weapons program
+C. To discuss the IAEA's "unique situation" during the June war with Israel
+D. To discuss the IAEA's "unique situation" during the June war with Israel and the agency's "wise and rational reaction"
+Correct Answer: A
+
+Q2. What is the current status of Iran's nuclear program?
+A. It has an organized nuclear weapons program
+B. It is enriching uranium up to 60%
+C. It is enriching uranium up to 90%
+D. It has limited IAEA inspections
+Correct Answer: B
+
+Q3. What is the IAEA's "unique situation" during the June war with Israel?
+A. It was not monitoring Iran's facilities
+B. It refrained from condemning Israel's strikes on peaceful facilities
+C. It was not aware of the war
+D. It was aware of the war but did not condemn it
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Business/wireStory/leaders-indonesia-peru-hold-talks-trade-economic-ties-124534022
+Info: News Article
+================================================================================
+Q1. Which two countries held talks on trade and economic ties?
+A. Indonesia and Peru
+B. China and Russia
+C. Japan and South Korea
+D. Australia and New Zealand
+Correct Answer: A
+
+Q2. What is the name of the agreement that the two countries are working on?
+A. Comprehensive Economic Partnership Agreement (CEPA)
+B. Trans-Pacific Partnership (TPP)
+C. North American Free Trade Agreement (NAFTA)
+D. European Union-United States Free Trade Agreement (EU-USFTA)
+Correct Answer: A
+
+Q3. What is the purpose of the visit by Peruvian President Dina Boluarte to Indonesia?
+A. To discuss geopolitical challenges and rising trade barriers
+B. To promote food security and sustainable development
+C. To strengthen economic ties between the two countries
+D. To discuss the CEPA agreement
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/paramount-buys-ufc-rights-skydance-merger.html
+Info: News Article
+================================================================================
+Q1. What is the average annual payment for UFC's full slate of events?
+A. $1.1 billion
+B. $7.7 billion
+C. $12.99
+D. $25 million
+Correct Answer: A
+
+Q2. What is the total amount paid for UFC's full slate of events?
+A. $1.1 billion
+B. $7.7 billion
+C. $12.99
+D. $25 million
+Correct Answer: B
+
+Q3. What is the price of Paramount+ per month?
+A. $1.1 billion
+B. $7.7 billion
+C. $12.99
+D. $25 million
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/monday-stocks-from-analyst-calls-like-nvidia.html
+Info: News Article
+================================================================================
+Q1. What is Wells Fargo's price target for Nvidia stock?
+A. $185
+B. $200
+C. $220
+D. $250
+Correct Answer: C
+
+Q2. What is RBC's rating for Advanced Drainage Systems?
+A. Underperform
+B. Neutral
+C. Overweight
+D. Outperform
+Correct Answer: D
+
+Q3. What is JPMorgan's restructuring target for Nutrien?
+A. $100 million
+B. $150 million
+C. $200 million
+D. $250 million
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/miner-freeport-mcmoran-will-benefit-from-trump-copper-tariffs-says-morgan-stanley.html
+Info: News Article
+================================================================================
+Q1. What company is expected to raise pricing in its annual copper rod contracts for 2026?
+A. Freeport-McMoRan
+B. Rio Tinto
+C. BHP Billiton
+D. Vale
+Correct Answer: A
+
+Q2. What is the recent reaction in the stock price of Freeport-McMoRan?
+A. It has fallen by 20%
+B. It has risen by 10%
+C. It has remained unchanged
+D. It has fallen by 15%
+Correct Answer: B
+
+Q3. What are the hefty tariffs that Freeport-McMoRan will still benefit from?
+A. 25%
+B. 30%
+C. 50%
+D. 75%
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/claires-has-filed-for-bankruptcy-twice-what-happens-now.html
+Info: News Article
+================================================================================
+Q1. What is Claire's?
+A. A major retailer
+B. A small retailer
+C. A restaurant chain
+D. A clothing brand
+Correct Answer: A
+
+Q2. How many times have at least nine other major retailers filed for bankruptcy in the past 10 years?
+A. Once
+B. Twice
+C. Three times
+D. Four times
+Correct Answer: B
+
+Q3. What is Claire's doing in its bankruptcy declaration?
+A. Liquidating and closing down its stores
+B. Negotiating with potential buyers
+C. Starting a new online presence
+D. None of the above
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/education/richardson-texas-isd-teacher-mental-wealth-back-to-school/287-dc42772f-4a24-440a-9939-26f6eda85d74
+Info: News Article: 287 Dc42772F 4A24 440A 9939 26F6Eda85D74
+================================================================================
+Q1. What is the name of the employee wellness clinic available to district employees and their families for a $10 copay?
+A. Prestonwood Elementary
+B. Richardson ISD
+C. Child Learning Academies
+D. Jennifer Oliver
+Correct Answer: B. Richardson ISD
+
+Q2. What does Jennifer Oliver say about the Child Learning Academies?
+A. She hopes to get into the child learning center in next year.
+B. She says it's all worth it and she can tell story after story where either because we had the benefits we do a teacher chose Richardson ISD or because we have what we have they chose to stay in Richardson ISD.
+C. She says it's not worth it.
+D. She says it's not available.
+Correct Answer: B. She says it's all worth it and she can tell story after story where either because we had the benefits we do a teacher chose Richardson ISD or because we have what we have they chose to stay in Richardson ISD.
+
+Q3. What does Jennifer Oliver say about the benefits offered by Richardson ISD?
+A. She says it's not worth it.
+B. She says it's not available.
+C. She says it's all worth it and she can tell story after story where either because we had the benefits we do a teacher chose Richardson ISD or because we have what we have they chose to stay in Richardson ISD.
+D. She says it's not clear.
+Correct Answer: C. She says it's all worth it and she can tell story after story where either because we had the benefits we do a teacher chose Richardson ISD or because we have what we have they chose to stay in Richardson ISD.
+
+================================================================================
+
+
+Link: https://abc7chicago.com/post/milwaukee-flooding-today-last-day-wisconsin-state-fair-canceled-water-rescues-made-amid-flash/17492730/
+Info: News Article
+================================================================================
+Q1. What was the reason for the state of emergency in Milwaukee County?
+A. Power outages
+B. Flash flooding
+C. Road closures
+D. Water rescues
+Correct Answer: B. Flash flooding
+
+Q2. How many calls for help did the Milwaukee Fire Department receive during the flood?
+A. 600
+B. 911
+C. 2,300
+D. 3,000
+Correct Answer: B. 911
+
+Q3. What was the final decision regarding the Wisconsin State Fair?
+A. It was canceled due to power outages
+B. It was canceled due to road closures
+C. It was canceled due to water rescues
+D. It was canceled due to flash flooding
+Correct Answer: D. It was canceled due to flash flooding
+
+================================================================================
+
+
+Link: https://www.bbc.com/sport/football/articles/c1leezv2r0zo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c1leezv2r0zo)
+================================================================================
+Q1. Which defender did Bournemouth sign from Juventus last summer?
+A. Milos Kerkez
+B. Dean Huijsen
+C. Bafode Diakite
+D. Zabarnyi
+Correct Answer: B. Dean Huijsen
+
+Q2. How much did Bournemouth pay for Zabarnyi in 2023?
+A. £24m
+B. £12.6m
+C. £15.5m
+D. £50m
+Correct Answer: A. £24m
+
+Q3. Which defender did Bournemouth sign from AZ Alkmaar?
+A. Milos Kerkez
+B. Dean Huijsen
+C. Bafode Diakite
+D. Zabarnyi
+Correct Answer: C. Bafode Diakite
+
+================================================================================
+
+
+Link: https://www.msnbc.com/rachel-maddow-show/maddowblog/instead-imposing-sanctions-trump-finds-new-ways-give-putin-wants-rcna224235
+Info: News Article
+================================================================================
+Q1. What did Trump tell Russia about economic sanctions if they failed to end the war in Ukraine quickly?
+A. He would impose new economic sanctions
+B. He would not impose any new economic sanctions
+C. He would give Russia a deadline to end the war
+D. He would not give Russia a deadline to end the war
+Correct Answer: A
+
+Q2. What did Trump announce about Putin meeting with Zelenskyy?
+A. He was willing to meet with Putin only if he agreed to meet with Zelenskyy
+B. He was not willing to meet with Putin at all
+C. He had no plans to meet with Putin
+D. He had no plans to meet with Zelenskyy
+Correct Answer: A
+
+Q3. What did Trump suggest about Ukraine at the White House event on Friday afternoon?
+A. Ukraine might have to agree to let Russia keep some of the Ukrainian territory that the Russian military took by force
+B. Ukraine should not agree to let Russia keep any of the Ukrainian territory that the Russian military took by force
+C. Ukraine should agree to let Russia keep some of the Ukrainian territory that the Russian military took by force
+D. Ukraine should not agree to let Russia keep any of the Ukrainian territory that the Russian military took by force
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/11/world/asia/india-election-arrests-modi.html
+Info: News Article
+================================================================================
+Q1. Who led the opposition in the protest against the election commission?
+A. Narendra Modi
+B. Rahul Gandhi
+C. Indian National Congress
+D. Bihar government
+Correct Answer: B. Rahul Gandhi
+
+Q2. What was the reason for the sudden revision of voter rolls in Bihar?
+A. To clear the rolls of "infiltrators"
+B. To disenfranchise Muslim voters and other blocs
+C. To manipulate elections in favor of the ruling party
+D. To improve the accuracy of voter rolls
+Correct Answer: B. To disenfranchise Muslim voters and other blocs
+
+Q3. What is the Indian National Congress's claim about the ruling party and the election commission?
+A. They are jointly manipulating elections through obscure additions and deletions to voter rolls
+B. They are working together to ensure fair and free elections
+C. They are responsible for the sudden revision of voter rolls in Bihar
+D. They are not involved in the election process
+Correct Answer: A. They are jointly manipulating elections through obscure additions and deletions to voter rolls
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/islamic-court-indonesia-sentences-2-men-public-caning-124534836
+Info: News Article
+================================================================================
+Q1. What were the two men in Indonesia accused of doing?
+A. Drinking alcohol
+B. Having gay sex
+C. Eating pork
+D. Practicing Islam
+Correct Answer: B
+
+Q2. How many times were the two men in Indonesia sentenced to be caned?
+A. 50 times
+B. 75 times
+C. 80 times
+D. 100 times
+Correct Answer: C
+
+Q3. What was the reason for the lenient punishment given to the two men in Indonesia?
+A. They were not outstanding students
+B. They were not polite in court
+C. They had previous convictions
+D. They were caught having sex in a public place
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/indias-top-court-orders-stray-dogs-removed-new-124535616
+Info: News Article
+================================================================================
+Q1. What is the Supreme Court's order regarding stray dogs in New Delhi?
+A. Order authorities to remove all stray dogs from the streets
+B. Order authorities to sterilize and relocate stray dogs to shelters permanently
+C. Order authorities to capture 5,000 stray dogs from "high-risk areas" and send them to shelters
+D. Order authorities to provide comprehensive welfare for stray animals
+Correct Answer: B
+
+Q2. What is the time frame for the removal of stray dogs from New Delhi streets?
+A. 6 to 8 weeks
+B. 1 month
+C. 2 months
+D. 3 months
+Correct Answer: A
+
+Q3. What is the goal of the Supreme Court's order regarding stray dogs in New Delhi?
+A. To free New Delhi from the fear of rabies and stray animals
+B. To capture 5,000 stray dogs from "high-risk areas" and send them to shelters
+C. To provide comprehensive welfare for stray animals
+D. To sterilize and relocate stray dogs to shelters permanently
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/trump-nvidia-amd-china-chip-revenue-deal-implications.html
+Info: News Article
+================================================================================
+Q1. What is Nvidia's H20 chip?
+A. A type of computer processor
+B. A type of smartphone
+C. A type of television
+D. A type of smartwatch
+Correct Answer: A
+
+Q2. What is AMD's MI308 chip?
+A. A type of computer processor
+B. A type of smartphone
+C. A type of television
+D. A type of smartwatch
+Correct Answer: A
+
+Q3. What is the purpose of the revenue sharing agreement between Nvidia and AMD and the U.S. government?
+A. To allow Nvidia and AMD to sell their chips in China
+B. To allow the U.S. government to take a bigger cut from Nvidia and AMD's China business
+C. To impose a 15% levy on Nvidia and AMD's revenue from sales to China
+D. To ban Nvidia and AMD from selling their chips in China
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/crypto-market-today.html
+Info: News Article
+================================================================================
+Q1. Which event in early July coincided with President Donald Trump signing the Big Beautiful Bill?
+A. The signing of the Big Beautiful Bill
+B. The breakout of bitcoin's consolidation
+C. The increase in the debt ceiling
+D. The signing of the American Rescue Plan
+Correct Answer: A
+
+Q2. What is the next major resistance level for bitcoin?
+A. $100,000
+B. $133,000
+C. $200,000
+D. $300,000
+Correct Answer: B
+
+Q3. Which cryptocurrency's price has been pushed above $4,000 due to recent inflows into treasury companies?
+A. Bitcoin
+B. Ethereum
+C. Litecoin
+D. Ripple
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/stocks-making-the-biggest-moves-premarket-psky-nvda-ai-intc-and-more.html
+Info: News Article
+================================================================================
+Q1. What is the name of the semiconductor company whose shares jumped about 3% ahead of Intel Chief Executive Lip-Bu Tan's visit to the White House on Monday?
+A. Intel
+B. Rumble
+C. Northern Data
+D. CoreWeave
+Correct Answer: A
+
+Q2. What is the name of the video sharing platform and cloud service provider whose shares popped 12% as the company considers making an all-stock bid worth nearly $1.2 billion for German AI cloud computing group Northern Data?
+A. Intel
+B. Rumble
+C. Northern Data
+D. CoreWeave
+Correct Answer: B
+
+Q3. What is the name of the company that signed an executive order on Thursday that lays the groundwork to open 401(k) retirement plans to alternative assets such as cryptocurrencies and real estate?
+A. Intel
+B. Rumble
+C. Northern Data
+D. Trump
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/how-pandemic-darling-stitch-fix-returned-to-growth.html
+Info: News Article
+================================================================================
+Q1. What is the name of the CEO of Stitch Fix?
+A. Elizabeth Spaulding
+B. Matt Baer
+C. Katrina Lake
+D. Regina Lewis
+Correct Answer: B. Matt Baer
+
+Q2. What was the revenue growth rate of Stitch Fix for the three months ended May 3?
+A. 1%
+B. 3%
+C. 5%
+D. 7%
+Correct Answer: B. 3%
+
+Q3. What is the mission of Stitch Fix?
+A. To offer accessible personal stylists that could design and ship outfits specific to a customer's unique needs and preferences.
+B. To sell monthly subscription boxes of clothes, beauty products, or dog treats.
+C. To provide a shopping experience that actually felt individualized at scale.
+D. To provide a shopping experience that felt generic and impersonal at scale.
+Correct Answer: A. To offer accessible personal stylists that could design and ship outfits specific to a customer's unique needs and preferences.
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c4gzzlp7p3po?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c4gzzlp7p3po)
+================================================================================
+Q1. In what year did Dame Stephanie Shirley die?
+A. 1945
+B. 1962
+C. 1991
+D. 2021
+Correct Answer: C. 1991
+
+Q2. What was the name of the software company founded by Dame Stephanie Shirley in 1962?
+A. Freelance Programmers
+B. FI Group
+C. Xansa
+D. Tech Innovators
+Correct Answer: A. Freelance Programmers
+
+Q3. What was the purpose of the charity founded by Dame Stephanie Shirley?
+A. To provide jobs for women with children
+B. To fund projects related to autism
+C. To support the development of new technologies
+D. To promote women's rights in the tech industry
+Correct Answer: B. To fund projects related to autism
+
+================================================================================
+
+
+Link: https://www.msnbc.com/rachel-maddow-show/maddowblog/pete-hegseth-amplifies-pastors-message-women-shouldnt-allowed-vote-rcna224242
+Info: News Article
+================================================================================
+Q1. What is the name of the Defense Secretary?
+A. Pete Hegseth
+B. Donald Trump
+C. Mike Pence
+D. Joe Biden
+Correct Answer: A
+
+Q2. What is the focus of the Defense Secretary's address at the Army War College?
+A. Warfighting
+B. National security goals
+C. Culture war
+D. Voting rights
+Correct Answer: A
+
+Q3. What is the name of the Christian nationalist church that the Defense Secretary promoted on social media?
+A. First Baptist Church
+B. Second Baptist Church
+C. Third Baptist Church
+D. Fourth Baptist Church
+Correct Answer: Not mentioned in the article
+
+================================================================================
+
+
+Link: https://www.pbs.org/newshour/politics/watch-live-trump-holds-news-briefing-on-plans-for-homelessness-and-crime-in-washington
+Info: News Article
+================================================================================
+Q1. What is the president's plan to make the District of Columbia "safer and more beautiful than it ever was before"?
+A. Increase funding for public housing
+B. Increase funding for education
+C. Increase funding for law enforcement
+D. Increase funding for parks and recreation
+Correct Answer: C
+
+Q2. What is the president's plan to address crime in the District of Columbia?
+A. Increase funding for public housing
+B. Increase funding for education
+C. Increase funding for law enforcement
+D. Increase funding for parks and recreation
+Correct Answer: C
+
+Q3. What is the president's plan to address homelessness in the District of Columbia?
+A. Increase funding for public housing
+B. Increase funding for education
+C. Increase funding for law enforcement
+D. Increase funding for parks and recreation
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.pbs.org/newshour/world/israel-targets-and-kills-al-jazeera-correspondent-anas-al-sharif-in-gaza-airstrike-as-journalist-toll-grows
+Info: News Article
+================================================================================
+Q1. Who was killed in the Israeli airstrike in Gaza?
+A. Anas al-Sharif
+B. Ismail al-Ghoul
+C. Rami al-Rifi
+D. Hossam Shabat
+Correct Answer: A
+
+Q2. What did Anas al-Sharif do on air over starvation in Gaza?
+A. Denied the allegations that he was a member of Hamas or Islamic Jihad
+B. Cryed on air over starvation in Gaza
+C. Accused Israeli officials of incitement
+D. None of the above
+Correct Answer: B
+
+Q3. What did the Committee to Protect Journalists say about the killings of journalists in Gaza?
+A. At least 186 journalists have been killed in Gaza
+B. The killings were “part of a deliberate strategy of Israel to suppress the truth”
+C. The war was “quite simply, the worst ever conflict for reporters”
+D. None of the above
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/International/wireStory/finland-charges-top-officers-russia-linked-vessel-damaged-124541503
+Info: News Article
+================================================================================
+Q1. Which vessel was charged by Finnish authorities for damaging undersea cables in the Gulf of Finland?
+A. Eagle S
+B. Estlink 2
+C. Ust-Luga
+D. Cook Islands
+Correct Answer: A
+
+Q2. What was the charge filed against the captain and two senior officers of the Eagle S oil tanker?
+A. Aggravated criminal mischief
+B. Aggravated interference with communications
+C. Damage to Estonian energy infrastructure
+D. Violation of EU sanctions
+Correct Answer: A, B
+
+Q3. What was the total cost of repairs for the damaged cables?
+A. 60 million euros
+B. 50 million euros
+C. 40 million euros
+D. 30 million euros
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/jeffrey-epstein-ghislaine-maxwell-trump-grand-jury.html
+Info: News Article
+================================================================================
+Q1. Who is Ghislaine Maxwell?
+A. A convicted procurer for Jeffrey Epstein
+B. A former employee of Jeffrey Epstein
+C. A journalist covering the Jeffrey Epstein case
+D. A politician involved in the Jeffrey Epstein investigation
+Correct Answer: A
+
+Q2. What is the purpose of the United Nations news conference mentioned in the article?
+A. To discuss the Jeffrey Epstein case
+B. To discuss sustainable development
+C. To discuss Ghislaine Maxwell's role in the Jeffrey Epstein case
+D. To discuss the unsealing of grand jury transcripts related to the Jeffrey Epstein case
+Correct Answer: B
+
+Q3. What is the outcome of the request by the Justice Department to unseal grand jury transcripts related to Ghislaine Maxwell and Jeffrey Epstein?
+A. The request was granted
+B. The request was denied
+C. The request is still pending
+D. The request was partially granted
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/amc-earnings-q2-2025-narrow-losses.html
+Info: News Article
+================================================================================
+Q1. What was AMC's net loss in the second quarter of 2024?
+A. $32.8 million, or 10 cents per share
+B. $4.7 million, or just 1 cent per share
+C. $22.26, per patron
+D. $12, per patron
+Correct Answer: B
+
+Q2. What was the total consolidated revenue per patron in the second quarter of 2024?
+A. $12, per patron
+B. $22.26, per patron
+C. $32.8 million, or 10 cents per share
+D. $4.7 million, or just 1 cent per share
+Correct Answer: B
+
+Q3. What was the consolidated admissions revenue per patron in the second quarter of 2024?
+A. $12, per patron
+B. $22.26, per patron
+C. $32.8 million, or 10 cents per share
+D. $4.7 million, or just 1 cent per share
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/how-to-lock-in-4-percent-interest-on-your-cash-before-the-fed-lowers-rates.html
+Info: News Article
+================================================================================
+Q1. What is the expected time frame for the Federal Reserve to cut rates?
+A. Immediately
+B. September
+C. October
+D. November
+Correct Answer: B
+
+Q2. What is the current difference in yield between top-yielding CDs and treasuries?
+A. Less than 1%
+B. 1-2%
+C. 2-3%
+D. More than 3%
+Correct Answer: B
+
+Q3. What could potentially affect the difference in yield between top-yielding CDs and treasuries?
+A. Changes in interest rates
+B. Inflation
+C. State and local tax exemptions
+D. None of the above
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/money-psychology-expert-warren-buffett-agree-on-best-way-to-invest.html
+Info: News Article
+================================================================================
+Q1. What is the author's recommendation for a successful investment strategy?
+A. Maximize returns by coming up with a complicated strategy
+B. Make it as "brainless and simple and boring as you can"
+C. Pick and choose different stocks and be really strategic
+D. Beat the market consistently
+Correct Answer: B
+
+Q2. What is the recommended tool for an average investor to achieve above-average returns?
+A. Low-cost index fund
+B. High-risk stocks
+C. Market timing
+D. Real estate investments
+Correct Answer: A
+
+Q3. According to the data, how many active mutual fund managers beat their average passive rival between January 2015 and December 2024?
+A. 7%
+B. 25%
+C. 50%
+D. 75%
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/european-shares-poised-to-open-higher-as-global-trade-holds-spotlight-.html
+Info: News Article
+================================================================================
+Q1. Which economist made the statement about the labor market weakness being related to AI trade?
+A. Paul Krugman
+B. Thomas Piketty
+C. David Romer
+D. Andrew Baldwin
+Correct Answer: D. Andrew Baldwin
+
+Q2. What is the predicted impact of AI on the labor market according to Andrew Baldwin?
+A. AI will create more jobs in the tech sector
+B. AI will automate repetitive and administrative jobs
+C. AI will not have any impact on the labor market
+D. AI will create more jobs in the broader labor market
+Correct Answer: B. AI will automate repetitive and administrative jobs
+
+Q3. Which type of jobs is likely to be automated by AI according to Andrew Baldwin?
+A. Creative jobs
+B. High-skilled jobs
+C. Low-skilled jobs
+D. All of the above
+Correct Answer: C. Low-skilled jobs
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/11/indias-opposition-march-against-controversial-electoral-roll-revision?traffic_source=rss
+Info: News Article: Indias Opposition March Against Controversial Electoral Roll Revision?Traffic_Source=Rss
+================================================================================
+Q1. What event prompted the protest in India?
+A. The revision of the electoral roll in Bihar
+B. The 2019 citizenship list in Assam
+C. The upcoming general election in India
+D. The passing of a new law in India
+
+Q2. What is the main concern of the opposition regarding the electoral roll revision in Bihar?
+A. The revision could lead to the exclusion of vulnerable groups
+B. The revision is necessary to update new voters and delete the names of those who have died or moved to other states
+C. The revision is similar to that of the 2019 citizenship list in Assam
+D. The revision is not a concern for the opposition
+
+Q3. What is the BJP's stance on the electoral roll revision in Bihar?
+A. The BJP supports the revision and believes it is necessary
+B. The BJP opposes the revision and believes it could lead to the exclusion of vulnerable groups
+C. The BJP is neutral on the revision and believes it is up to the Election Commission to decide
+D. The BJP has not made a statement on the revision
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/news/us-news/2-blind-women-say-southwest-airlines-left-hourslong-delay-rcna224248
+Info: News Article: 2 Blind Women Say Southwest Airlines Left Hourslong Delay Rcna224248
+================================================================================
+Q1. What is the name of one of the blind women who traveled from Louisiana to Florida?
+A. Sherri Brun
+B. Camille Tate
+C. Sarah Johnson
+D. Emily Davis
+Correct Answer: A
+
+Q2. What is the reason why the two blind women were not re-booked on the flight that left a little earlier?
+A. They were not accommodated on the flight
+B. They were not informed about the earlier flight
+C. They were not able to fly on the flight
+D. They were not allowed to fly on the flight
+Correct Answer: B
+
+Q3. What is the statement made by Southwest Airlines regarding the incident?
+A. They forgot about the two women
+B. They accommodated the other passengers on the flight
+C. They re-booked the two women on the flight
+D. They flew the two women to MCO on the airplane that had been parked at their original gate
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abc7.com/post/trial-begins-deployment-national-guard-los-angeles-violated-federal-law/17501227/
+Info: News Article
+================================================================================
+Q1. What is the 1878 Posse Comitatus Act?
+A. It prevents the president from using the military as a domestic police force.
+B. It allows the president to call on the National Guard to enforce U.S. law.
+C. It defines power between federal and state governments.
+D. It gives the president the authority to call on the National Guard to execute or assist in the execution of federal law or any civilian law enforcement functions by any federal agent or officer.
+Correct Answer: A
+
+Q2. What is the Tenth Amendment?
+A. It defines power between federal and state governments.
+B. It prevents the president from using the military as a domestic police force.
+C. It gives the president the authority to call on the National Guard to enforce U.S. law.
+D. It allows the president to call on the National Guard to execute or assist in the execution of federal law or any civilian law enforcement functions by any federal agent or officer.
+Correct Answer: A
+
+Q3. What is the 12406 of Title 10?
+A. It prevents the president from using the military as a domestic police force.
+B. It allows the president to call on the National Guard to enforce U.S. law.
+C. It defines power between federal and state governments.
+D. It gives the president the authority to call on the National Guard to execute or assist in the execution of federal law or any civilian law enforcement functions by any federal agent or officer.
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.npr.org/2025/08/11/nx-s1-5492207/epstein-maxwell-grand-jury-transcripts
+Info: News Article
+================================================================================
+Q1. What is the name of the federal judge in Manhattan who denied the Trump administration's request to release grand jury transcripts from the Justice Department investigation into Ghislaine Maxwell?
+A. Judge Engelmayer
+B. Judge Pam Bondi
+C. Judge William Barr
+D. Judge Merrick Garland
+Correct Answer: A
+
+Q2. What is the reason why the federal judge in Manhattan denied the Trump administration's request to release grand jury transcripts from the Justice Department investigation into Ghislaine Maxwell?
+A. The materials provide no new insight into Epstein or Maxwell clients, nor new information about the venue, new sources of their wealth, or the circumstances of Epstein's death.
+B. The materials provide new information about Epstein's and Maxwell's crimes, or the Government's investigation into them.
+C. The materials would bring to light meaningful new information about Epstein's and Maxwell's crimes, or the Government's investigation into them.
+D. The materials do not provide any new information about Epstein's and Maxwell's crimes, or the Government's investigation into them.
+Correct Answer: A
+
+Q3. What is the name of the Justice Department and FBI memo that knocked down several of the theories and said no further materials from the Epstein investigations would be made public, touching off public outrage including from Trump's MAGA base?
+A. The "Epstein files"
+B. The "Maxwell files"
+C. The "Epstein-Maxwell files"
+D. The "Epstein-Bondi files"
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.pbs.org/newshour/world/a-heatwave-scorches-parts-of-europe-and-fans-wildfire-threat-in-southern-france
+Info: News Article
+================================================================================
+Q1. Which country experienced the second- or third-warmest year on record in 2025 according to the U.K.-based Carbon Brief?
+A. France
+B. Spain
+C. Greece
+D. Bulgaria
+Correct Answer: D. Bulgaria
+
+Q2. Which country suffered blazes along its southern borders in 2021?
+A. France
+B. Bulgaria
+C. Hungary
+D. Greece
+Correct Answer: B. Bulgaria
+
+Q3. In which department in France was a massive, deadly blaze that scorched 16,000 hectares last week?
+A. Aude
+B. Tarn-et-Garonne
+C. Montauban
+D. Paris
+Correct Answer: A. Aude
+
+================================================================================
+
+
+Link: https://www.nytimes.com/live/2025/08/11/us/trump-news/heres-the-latest
+Info: News Article
+================================================================================
+Q1. What is the name of the person who said that he would never sit down with Zelensky?
+A. Putin
+B. Vance
+C. Trump
+D. Merz
+Correct Answer: A
+
+Q2. What is the name of the person who suggested "land swaps" could be part of a peace deal between the two countries?
+A. Putin
+B. Zelensky
+C. Trump
+D. Merz
+Correct Answer: C
+
+Q3. What is the name of the person who agreed to meet with Putin in Alaska on Friday?
+A. Putin
+B. Zelensky
+C. Trump
+D. Merz
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/business/media/paramount-buys-ufc-rights-seven-years-rcna224261
+Info: News Article
+================================================================================
+Q1. What is the total amount of money Paramount is paying per year for UFC's events and Fight Nights?
+A. $1.1 billion
+B. $7.7 billion
+C. $12.99
+D. $24.99
+Correct Answer: B
+
+Q2. What is the purpose of Paramount's statement about UFC's events and Fight Nights?
+A. To inform the public about the acquisition
+B. To promote Paramount+ subscription
+C. To criticize the UFC deal
+D. To announce a new sports asset acquisition
+Correct Answer: B
+
+Q3. What other major sports assets are likely to come to market for Paramount to acquire in the near future?
+A. Formula 1 rights
+B. Major League Baseball
+C. NBA rights
+D. NHL rights
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/nation-world/aol-dial-up-internet-service-discontinued/507-49e7766c-0013-4d13-8951-05d7bbd0d8b1
+Info: News Article: 507 49E7766C 0013 4D13 8951 05D7Bbd0D8B1
+================================================================================
+Q1. What year will AOL shut down its dial-up internet service?
+A. 2025
+B. 2023
+C. 2000
+D. 1999
+Correct Answer: A
+
+Q2. How many people connect to the internet through their landline telephone service in the US?
+A. 160,000
+B. 80,000
+C. 40,000
+D. 20,000
+Correct Answer: A
+
+Q3. When was the acquisition of AOL by Time Warner considered one of the biggest media mergers in history?
+A. 2025
+B. 2023
+C. 2000
+D. 1999
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c05eedgp804o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c05eedgp804o)
+================================================================================
+Q1. What is the name of the person who was convicted of rape and is now in jail according to their birth sex?
+A. Spindrift Isla Bryson
+B. Alex Salmond
+C. Nicola Sturgeon
+D. Michelle Thomson
+Correct Answer: A
+
+Q2. What is the name of the person who proposed an amendment to the gender recognition bill that would have halted gender recognition certificates being given to rapists?
+A. Spindrift Isla Bryson
+B. Alex Salmond
+C. Nicola Sturgeon
+D. Michelle Thomson
+Correct Answer: D
+
+Q3. What is the name of the person who died aged 69 in October?
+A. Spindrift Isla Bryson
+B. Alex Salmond
+C. Nicola Sturgeon
+D. Michelle Thomson
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cx2ppgg0zvlo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cx2ppgg0zvlo)
+================================================================================
+Q1. What is the name of the Nvidia boss who has been lobbying the White House over China chip sales?
+A. Jensen Huang
+B. Tim Cook
+C. Elon Musk
+D. Satya Nadella
+Correct Answer: A
+
+Q2. What is the percentage of revenue from selling certain advanced chips to China that Nvidia and AMD have agreed to pay the US government?
+A. 10%
+B. 15%
+C. 20%
+D. 25%
+Correct Answer: B
+
+Q3. What is the expected impact of the 15% cut on the bottom line of Nvidia and AMD?
+A. No impact
+B. Positive impact
+C. Negative impact
+D. Unknown impact
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/sequoia-moritz-intel-ceo-trump.html
+Info: News Article
+================================================================================
+Q1. Who is the CEO of Intel?
+A. Moritz
+B. Tan
+C. Cadence Design Systems
+D. Sequoia Capital
+Correct Answer: B
+
+Q2. What is Moritz's previous experience?
+A. Turnaround of Cadence Design Systems
+B. Vindictive political sideshow
+C. Intel's fortunes
+D. Sequoia Capital
+Correct Answer: A
+
+Q3. What is the purpose of Tan's visit to the White House?
+A. Assuage concerns about his background
+B. Discuss ways that Intel can work with the U.S.
+C. Capitulate to the president's artless bullying
+D. Set an example for other companies and display some backbone
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/success-comes-down-to-just-3-thingscompanies-will-be-in-a-cage-match-over-you-ceo.html
+Info: News Article
+================================================================================
+Q1. What is the name of the author of the book "Becoming You"?
+A. Suzy Welch
+B. Sarah
+C. Professor Welch
+D. None of the above
+Correct Answer: A
+
+Q2. What is the name of the evaluation tool used in the NYU MBA class that gathers input from former and current coworkers, bosses, and employees?
+A. 360 Feedback
+B. Feedback
+C. Evaluation
+D. None of the above
+Correct Answer: A
+
+Q3. What is the main focus of the "Becoming You" methodology?
+A. How to be a leader
+B. How to answer the question "What should I do with my life?"
+C. How to relate to people
+D. How the brain works
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/world/ukraine/trump-putin-alaska-zelenskyy-ukraine-russia-war-europe-rcna224227
+Info: News Article
+================================================================================
+Q1. Which country is currently occupied and bombed for more than three years?
+A. Russia
+B. Ukraine
+C. Germany
+D. France
+Correct Answer: B
+
+Q2. What is the demand of the United States regarding Ukraine?
+A. Ukraine should cede control of the eastern regions of Luhansk, Donetsk, Zaporizhzhia and Kherson, not just the parts of those territories that Moscow currently occupies and that make up around 20% of Ukraine's total territory.
+B. Ukraine should cede control of the eastern regions of Luhansk, Donetsk, Zaporizhzhia and Kherson, only the parts of those territories that Moscow currently occupies and that make up around 20% of Ukraine's total territory.
+C. Ukraine should not cede control of the eastern regions of Luhansk, Donetsk, Zaporizhzhia and Kherson, not just the parts of those territories that Moscow currently occupies and that make up around 20% of Ukraine's total territory.
+D. Ukraine should not cede control of the eastern regions of Luhansk, Donetsk, Zaporizhzhia and Kherson, only the parts of those territories that Moscow currently occupies and that make up around 20% of Ukraine's total territory.
+Correct Answer: A
+
+Q3. What is the position of Germany regarding the territorial questions being discussed or decided between Russia and America over the heads of Europeans and Ukrainians?
+A. Germany supports the territorial questions being discussed or decided between Russia and America over the heads of Europeans and Ukrainians.
+B. Germany opposes the territorial questions being discussed or decided between Russia and America over the heads of Europeans and Ukrainians.
+C. Germany is neutral on the territorial questions being discussed or decided between Russia and America over the heads of Europeans and Ukrainians.
+D. Germany does not have a position on the territorial questions being discussed or decided between Russia and America over the heads of Europeans and Ukrainians.
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-11/newsom-letter-warns-trump-congressional-redistricting
+Info: News Article
+================================================================================
+Q1. What is Gavin Newsom's cease-fire proposal to President Trump?
+A. Redrawing congressional maps in red states
+B. California standing down
+C. No redrawing congressional maps in red states
+D. California adopting new maps for the 2026, 2028, and 2030 elections
+Correct Answer: C
+
+Q2. What is the California's redistricting plan?
+A. A risky gambit
+B. A plan to temporarily pause congressional boundaries created by an independent redistricting commission in 2021
+C. A plan to adopt new maps for the 2026, 2028, and 2030 elections
+D. A plan to boost GOP seats before the midterm election
+Correct Answer: A
+
+Q3. What is the trigger specification in the California's redistricting plan?
+A. It would take effect only if Texas or other Republican-led states followed through with redrawing their maps to boost GOP seats before the midterm election
+B. It would take effect only if Texas or other Republican-led states followed through with redrawing their maps to hold onto power before a single vote is cast in the 2026 election
+C. It would take effect only if Texas or other Republican-led states followed through with redrawing their maps to boost GOP seats before the 2026, 2028, and 2030 elections
+D. It would take effect only if Texas or other Republican-led states followed through with redrawing their maps to hold onto power before the 2026, 2028, and 2030 elections
+Correct Answer: A
+
+================================================================================
+
