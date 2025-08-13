@@ -87680,3 +87680,1189 @@ Correct Answer: A
 
 ================================================================================
 
+
+Link: https://www.nytimes.com/2025/08/11/us/politics/immigration-detention-numbers.html
+Info: News Article
+================================================================================
+Q1. What was the number of people in immigration detention on Monday?
+A. 39,000
+B. 40,000
+C. 60,000
+D. 65,000
+Correct Answer: C
+
+Q2. When was the previous record for the number of people in immigration detention set?
+A. January 2021
+B. March 2021
+C. June 2021
+D. September 2021
+Correct Answer: B
+
+Q3. What was the focus of immigration policing before January 2021?
+A. Mostly people arrested by ICE
+B. Mostly people arrested by CBP
+C. Mostly people arrested by both ICE and CBP
+D. Mostly people arrested by neither ICE nor CBP
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/12/european-defense-giants-could-move-higher-bank-of-america-says.html
+Info: News Article
+================================================================================
+Q1. Which bank's head of EU industrials research made the statement about European long-only investors not buying into the defense space?
+A. JPMorgan Chase
+B. Goldman Sachs
+C. Bank of America
+D. Citigroup
+Correct Answer: C. Bank of America
+
+Q2. What is the expected shift in weighting for ESG funds in Europe according to Ben Heelan of Bank of America?
+A. A significant shift in weighting has already occurred
+B. The weighting for ESG funds in Europe has shifted somewhat
+C. The weighting for ESG funds in Europe is expected to shift significantly in the future
+D. The weighting for ESG funds in Europe is not expected to shift at all
+Correct Answer: B. The weighting for ESG funds in Europe has shifted somewhat
+
+Q3. Which organization has committed to drastically ramping up defense spending?
+A. NATO
+B. European Union
+C. United Nations
+D. World Bank
+Correct Answer: A. NATO
+
+================================================================================
+
+
+Link: https://www.msnbc.com/deadline-white-house/deadline-legal-blog/supreme-court-second-amendment-guns-drugs-hemani-case-rcna224352
+Info: News Article
+================================================================================
+Q1. What is the specific federal law that bars firearm possession by a person who is an unlawful user of or addicted to any controlled substance?
+A. The Second Amendment
+B. The Fourth Amendment
+C. The First Amendment
+D. The Fifth Amendment
+Correct Answer: A
+
+Q2. What is the issue that the Justice Department is pressing the high court to take a Second Amendment case about?
+A. The right to bear arms
+B. The right to privacy
+C. The right to a fair trial
+D. The right to due process
+Correct Answer: A
+
+Q3. What is the Trump administration's position in the case of Ali Danial Hemani?
+A. The gun law is unconstitutional
+B. The gun law is constitutional
+C. The government may disarm individuals who habitually use unlawful drugs but are not necessarily under the influence while possessing a firearm
+D. The government may not disarm individuals who habitually use unlawful drugs but are not necessarily under the influence while possessing a firearm
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.npr.org/2025/08/11/847306270/sheila-jordan-obituary
+Info: News Article
+================================================================================
+Q1. Who was Sheila Jordan?
+A. A famous jazz singer
+B. A renowned jazz musician
+C. A celebrated jazz vocalist
+D. A well-known jazz artist
+Correct Answer: C
+
+Q2. What was the name of the jazz record that Sheila Jordan recorded in the 1960s?
+A. Portrait of Sheila
+B. Sheila's Jazz Journey
+C. The Sheila Jordan Collection
+D. Sheila's Vocal Jazz Masterpiece
+Correct Answer: A
+
+Q3. In what year was Sheila Jordan recognized by the National Endowment of the Arts as a Jazz Master?
+A. 1952
+B. 1960
+C. 1970
+D. 2000
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Technology/wireStory/scientists-search-dna-endangered-salamander-mexico-citys-canals-124560889
+Info: News Article
+================================================================================
+Q1. What is the name of the endangered salamander that scientists are filtering Mexico City's waters for traces of its DNA?
+A. Axolotl
+B. Salamander
+C. Dragon
+D. Endangered species
+Correct Answer: A
+
+Q2. What is the purpose of the genetic library put together by British scientists?
+A. To compare the profiles of axolotls in Mexico City to those in the genetic library
+B. To study the genetic makeup of axolotls
+C. To determine the population of axolotls in Mexico City
+D. To monitor the environmental degradation and pollution of the canals in Mexico City
+Correct Answer: A
+
+Q3. What is the significance of the one unprotected area in Xochimilco?
+A. It is a sign that there is the possibility of resilience, even with continuing environmental degradation and pollution of the canals.
+B. It is a sign that there is no hope for the survival of the axolotl.
+C. It is a sign that there is no need for conservation efforts.
+D. It is a sign that there is no need for environmental DNA technique.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/education/dallas-isd-cedar-crest-elementary-celebrates-after-improving-state-grade-from-an-f-to-b/287-d7a08d82-b9f4-4f5a-b48c-35a6d0b24120
+Info: News Article: 287 D7A08D82 B9F4 4F5A B48C 35A6D0B24120
+================================================================================
+Q1. What was the rating of Cedar Crest Elementary in the 2019-2020 school year?
+A. A
+B. B
+C. F
+D. D
+Correct Answer: C
+
+Q2. What was the theme of Cedar Crest Elementary in the 2019-2020 school year?
+A. A Journey of Excellence
+B. A Journey of Discovery
+C. A Journey of Adventure
+D. A Journey of Inspiration
+Correct Answer: A
+
+Q3. What strategy did Cedar Crest Elementary implement to improve its rating?
+A. Looping
+B. Standardized Testing
+C. Professional Development
+D. Parental Involvement
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/11/us/politics/trump-mayor-washington-dc-crime.html
+Info: News Article
+================================================================================
+Q1. What is the purpose of President Trump's announcement to send National Guard troops to the nation's capital?
+A. To replace the medians that are falling down all over the road
+B. To replace the potholes
+C. To take control of the local police force
+D. To make a city's crime his problem
+Correct Answer: C
+
+Q2. What is the current state of the violent crime rate in Washington D.C. according to President Trump?
+A. Increasing
+B. Decreasing
+C. Staying the same
+D. Falling
+Correct Answer: B
+
+Q3. In what year did President Trump deploy the National Guard to Washington D.C.?
+A. 2020
+B. 2019
+C. 2018
+D. 2017
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/world/middle-east/video-appears-show-moment-palestinian-activist-killed-israeli-settler-rcna224437
+Info: News Article
+================================================================================
+Q1. What is the name of the Palestinian activist who was killed in the confrontation with unarmed Palestinians in the occupied West Bank?
+A. Awdah Hathaleen
+B. Levi
+C. Sarit Michaeli
+D. None of the above
+Correct Answer: A
+
+Q2. What is the occupation of the Palestinian activist who was killed in the confrontation with unarmed Palestinians in the occupied West Bank?
+A. English teacher
+B. Activist
+C. Soldier
+D. None of the above
+Correct Answer: B
+
+Q3. What is the name of the Israeli court that released the settler who fired towards the Palestinian activist who was killed in the confrontation with unarmed Palestinians in the occupied West Bank?
+A. B’Tselem
+B. Israeli court
+C. The Associated Press
+D. None of the above
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://abcnews.go.com/US/wireStory/uvalde-school-district-releases-records-2022-classroom-shooting-124560426
+Info: News Article
+================================================================================
+Q1. What was the name of the shooter in the 2022 attack at Robb Elementary School in Uvalde, Texas?
+A. Salvador Ramos
+B. Nikolas Cruz
+C. Adam Lanza
+D. James Holmes
+Correct Answer: A
+
+Q2. In what year was the attack at Robb Elementary School in Uvalde, Texas?
+A. 2018
+B. 2020
+C. 2022
+D. 2024
+Correct Answer: C
+
+Q3. Which organization sued the school district and county in 2022 for the release of records related to the mass shooting at Robb Elementary School?
+A. The Associated Press
+B. The New York Times
+C. The Washington Post
+D. The Los Angeles Times
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-11/lausd-bass-pledge-back-to-school-protections-immigrant-families
+Info: News Article
+================================================================================
+Q1. What action did Los Angeles Unified school police, staff, and community volunteers take to ensure the safe passage of children on the first day of school?
+A. They formed protective perimeters around at least 100 schools.
+B. They handcuffed, detained, and drew their guns on a student outside Arleta High School.
+C. They doubled down on efforts to protect students and families by creating and expanding "safe zones" around campuses.
+D. They distributed family preparedness packets.
+Correct Answer: A
+
+Q2. What did Arleta High School student experience on the day of school?
+A. He was handcuffed, detained, and drawn his guns on by immigration agents.
+B. He was safe and secure on his way to school.
+C. He was reassured by the public commitment of Los Angeles Unified to protect families on their way to and from campuses.
+D. He was not affected by the actions of Los Angeles Unified school police, staff, and community volunteers.
+Correct Answer: A
+
+Q3. What did Los Angeles Unified school police, staff, and community volunteers do to protect families on their way to and from campuses?
+A. They formed protective perimeters around at least 100 schools.
+B. They handcuffed, detained, and drew their guns on a student outside Arleta High School.
+C. They doubled down on efforts to protect students and families by creating and expanding "safe zones" around campuses.
+D. They distributed family preparedness packets.
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/news/us-news/thomas-pinkerton-youth-pastor-arrested-sex-abuse-baltimore-maryland-rcna224311
+Info: News Article: Thomas Pinkerton Youth Pastor Arrested Sex Abuse Baltimore Maryland Rcna224311
+================================================================================
+Q1. What is the name of the Assemblies of God youth minister who is being held without bond in Maryland?
+A. Pastor Tommy Pinkerton
+B. Daniel Savala
+C. Benjamin Rainey Jr.
+D. None of the above
+Correct Answer: A
+
+Q2. What is the denomination to which Pastor Tommy Pinkerton belongs?
+A. Assemblies of God
+B. Catholic Church
+C. Baptist Church
+D. Methodist Church
+Correct Answer: A
+
+Q3. What is the reason why Pastor Tommy Pinkerton is being held without bond?
+A. For sexually abusing six teens from 2006 to 2010
+B. For giving life to the community and working for the community
+C. For kissing boys on the lips as Jesus did with his disciples
+D. For preaching in at least six different states and evangelizing in South America, Europe, and Asia
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/czerrzdewzxo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (czerrzdewzxo)
+================================================================================
+Q1. What is the temperature forecast for Faversham, England on July 1st?
+A. 25°C
+B. 30°C
+C. 35°C
+D. 40°C
+Correct Answer: C
+
+Q2. Which location in Scotland is experiencing the highest temperature of 32.2°C on July 12th?
+A. Aviemore
+B. Glasgow
+C. Edinburgh
+D. Inverness
+Correct Answer: A
+
+Q3. What is the temperature forecast for Magilligan, Northern Ireland on July 12th?
+A. 20°C
+B. 25°C
+C. 30°C
+D. 35°C
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.msnbc.com/opinion/msnbc-opinion/donald-trump-record-ice-detentions-rcna223773
+Info: News Article
+================================================================================
+Q1. What is the name of the bill that President Donald Trump signed last month?
+A. Reconciliation Bill
+B. Immigration and Customs Enforcement (ICE) Detention Budget Bill
+C. Immigration Enforcement Machine Budget Bill
+D. None of the above
+Correct Answer: B
+
+Q2. What is the purpose of the hiring of thousands of new agents by ICE?
+A. To lure recruits with $50,000 signing bonuses
+B. To increase the detention budget by more than 300%
+C. To turn the federal government into a detention and deportation machine
+D. None of the above
+Correct Answer: A
+
+Q3. What is the name of the facility in El Salvador where hundreds of Venezuelan men were sent based on vague, unchallengeable allegations of gang affiliation?
+A. CECOT prison
+B. Guantanamo Bay
+C. Gitmo
+D. None of the above
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/11/opinion/lauren-southern-tradwife-maga.html
+Info: News Article
+================================================================================
+Q1. What is the name of the woman who wrote the article?
+A. Southern
+B. Tate
+C. Dugin
+D. None of the above
+Correct Answer: A
+
+Q2. What is the name of the woman who wrote the article's life "unraveled" after her encounter with Tate?
+A. Southern
+B. Tate
+C. Dugin
+D. None of the above
+Correct Answer: A
+
+Q3. What is the name of the woman who wrote the article and popularized the idea that there's a white genocide in South Africa?
+A. Southern
+B. Tate
+C. Dugin
+D. None of the above
+Correct Answer: Southern
+
+================================================================================
+
+
+Link: https://www.nytimes.com/live/2025/08/11/us/trump-news/trump-says-he-will-clear-out-washingtons-homeless-population-but-offers-few-details
+Info: News Article
+================================================================================
+Q1. What is the current state of violent crimes in Washington, D.C.?
+A. 1,000
+B. 2,000
+C. 3,000
+D. 4,000
+Correct Answer: D
+
+Q2. What is President Trump's plan for fighting crime in Washington, D.C.?
+A. Mobilize 800 National Guard troops
+B. Use federal agents for street-based police work
+C. Increase funding for community support and services
+D. None of the above
+Correct Answer: A
+
+Q3. What is the current view among Trump administration officials about federal agents' authority to arrest people for minor criminal offenses?
+A. They have the same authority as police officers
+B. They can stop and detain people until a local police officer arrives and makes an arrest
+C. They cannot arrest people for minor criminal offenses
+D. They can only arrest people for violent crimes
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/11/us/politics/trump-national-endowment-democracy.html
+Info: News Article
+================================================================================
+Q1. Which federal judge blocked the Trump administration from withholding federal funding to the National Endowment for Democracy?
+A. Judge Friedrich
+B. Judge Smith
+C. Judge Johnson
+D. Judge Brown
+Correct Answer: A
+
+Q2. What was the reason given by the Trump administration for withholding funds from the National Endowment for Democracy?
+A. To fund other government programs
+B. To punish the nonprofit for its political views
+C. To redirect funds to other nonprofits
+D. To withhold funds for impermissible policy reasons
+Correct Answer: D
+
+Q3. What was the impact of the withholding of funds on the National Endowment for Democracy?
+A. The endowment was able to continue its programs without interruption
+B. The endowment suffered irreparable harm in the form of layoffs and suspension of several democracy-supporting initiatives
+C. The endowment was able to find alternative sources of funding
+D. The endowment was able to increase its budget due to the cuts
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Politics/wireStory/detroit-voters-pick-2-candidates-large-field-vying-124365879
+Info: News Article
+================================================================================
+Q1. Who are the top two vote-getters in the primary for Detroit's next mayor?
+A. Mary Sheffield and Solomon Kinloch
+B. Mary Sheffield and Mike Duggan
+C. Solomon Kinloch and Mike Duggan
+D. Mike Duggan and Solomon Kinloch
+Correct Answer: A
+
+Q2. What is the current status of Detroit's finances?
+A. The city is on much firmer footing than it was in 2013 when an emergency manager was appointed to oversee its finances
+B. The city is still in bankruptcy
+C. The city's finances are in a state of flux
+D. The city's finances are improving
+Correct Answer: A
+
+Q3. What is the main issue that Mary Sheffield is campaigning on?
+A. The continued growth of the city
+B. The city's finances
+C. The need for more affordable housing
+D. The need for more job opportunities
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abcnews.go.com/Business/wireStory/australia-selects-japans-mitsubishi-heavy-industries-65b-warship-124366597
+Info: News Article
+================================================================================
+Q1. Which company was awarded the contract to build Australian naval vessels?
+A. Mitsubishi
+B. Kawasaki
+C. Hitachi
+D. Toshiba
+Correct Answer: A
+
+Q2. What is the estimated value of the contract?
+A. 5 billion Australian dollars
+B. 7 billion Australian dollars
+C. 10 billion Australian dollars
+D. 12 billion Australian dollars
+Correct Answer: C
+
+Q3. How many vessels will be built under the contract?
+A. 5 vessels
+B. 7 vessels
+C. 11 vessels
+D. 15 vessels
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/12/asia-stock-markets-today-live-updates-nikkei-225-asx-200-kospi-hang-seng-csi-300-sensex-nifty-50.html
+Info: News Article
+================================================================================
+Q1. What is the name of the economist who wrote the analysis for Bank of America?
+A. Claudio Irigoyen
+B. Janet Yellen
+C. Jerome Powell
+D. Ben Bernanke
+Correct Answer: A
+
+Q2. According to the analysis by Claudio Irigoyen, what is the reason why the Federal Reserve may not cut interest rates at the end of its next FOMC meeting?
+A. Inflation is not above target
+B. The labor supply shock is not considered
+C. The latest tariff hikes are not taken into account
+D. There is no evidence that inflation has peaked
+Correct Answer: D
+
+Q3. What is the alternate scenario mentioned by Claudio Irigoyen in his analysis for Bank of America?
+A. The labor market is improving
+B. Inflation is decreasing
+C. The Federal Reserve will cut interest rates in September
+D. The Federal Reserve will not cut interest rates this year
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/11/cramer-nothing-novel-trumps-deal-with-nvidia-amd.html
+Info: News Article
+================================================================================
+Q1. What is the percentage cut that Nvidia and AMD agreed to give the U.S. on their Chinese sales?
+A. 10%
+B. 15%
+C. 20%
+D. 25%
+Correct Answer: B
+
+Q2. What is the name of the president who slapped a 100% tariff on semiconductors and chips?
+A. Barack Obama
+B. Donald Trump
+C. Joe Biden
+D. George W. Bush
+Correct Answer: B
+
+Q3. What is the element of pay-to-play that Cramer mentioned in relation to the government's policy?
+A. Companies that are "building in the United States" are exempt from tariffs.
+B. The government is only involved in businesses that have a proven track record of success.
+C. The government is only involved in businesses that have a proven track record of failure.
+D. The government is only involved in businesses that have a proven track record of mediocrity.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/business/economy/us-china-trade-deal-tariff-extension-what-to-know-rcna221774
+Info: News Article
+================================================================================
+Q1. What percentage increase in tariffs did President Trump announce on Truth Social?
+A. 10%
+B. 20%
+C. 50%
+D. 125%
+Correct Answer: D
+
+Q2. What was the total percentage of tariffs imposed on China by the United States after the latest announcement?
+A. 100%
+B. 125%
+C. 145%
+D. 165%
+Correct Answer: C
+
+Q3. What did Lutnick say at the conclusion of the London talks?
+A. The two largest economies in the world have reached a handshake for a framework.
+B. The United States and China have agreed to a ceasefire in their trade war.
+C. The United States will impose new tariffs on China.
+D. The United States and China have reached a new trade agreement.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-11/federal-judge-trevor-kirk-ruling
+Info: News Article
+================================================================================
+Q1. What is the name of the federal prosecutor who ordered a review of the case and sought its unraveling?
+A. Bill Essayli
+B. Wilson
+C. Keenan
+D. Faerstein
+Correct Answer: A
+
+Q2. What was the outcome of the criminal case involving an unusual post-trial plea agreement?
+A. The felony was reduced to a misdemeanor
+B. The jury conviction was overturned
+C. The government’s effort to overturn the jury conviction was denied
+D. The defendant was sentenced to a custodial sentence
+Correct Answer: A
+
+Q3. What was the reason for the resignations of several prosecutors in May?
+A. They disagreed with the lenient postconviction plea deal offered to the deputy
+B. They disagreed with the decision to dismiss all charges against the defendant
+C. They disagreed with the decision to extend Essayli’s term as L.A.’s top federal law enforcement official
+D. They disagreed with the verdict rendered by the jury in the case
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/education/schools/texas-state-system-dissolves-faculty-senates-eroding-professors-influence-on-campuses/269-9316f6c5-2fab-438f-a55b-7d7204f6078e
+Info: News Article: 269 9316F6C5 2Fab 438F A55B 7D7204F6078E
+================================================================================
+Q1. What is the name of the law that is part of a broader effort by Republican lawmakers to assert more control over public universities?
+A. Senate Bill 37
+B. Texas Open Meetings Act
+C. Texas State University System
+D. American Association of University Professors
+Correct Answer: A
+
+Q2. What is the purpose of the new faculty council at the University of Houston System?
+A. To preserve their faculty senates and avoid a gap in faculty representation
+B. To broadcast their meetings when a majority of members are present
+C. To remove faculty senate members for failing to conduct their responsibilities
+D. To post agendas seven days in advance
+Correct Answer: A
+
+Q3. What is the role of the faculty senates at Texas Tech University System?
+A. To elect their own leaders and representatives
+B. To broadcast their meetings when a majority of members are present
+C. To remove faculty senate members for failing to conduct their responsibilities
+D. To post agendas seven days in advance
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/local/tarrant-county/three-dogs-accused-in-north-texas-fatal-mauling-released-back-to-owner/287-2b326d96-dd67-4891-9c9d-cd6273cbb5e8
+Info: News Article: 287 2B326D96 Dd67 4891 9C9D Cd6273Cbb5E8
+================================================================================
+Q1. What kind of dogs were seized by the Tarrant County Sheriff's Office in June?
+A. Pit bulls and shepherd mixes
+B. German shepherds and Rottweilers
+C. Labrador retrievers and golden retrievers
+D. Bulldogs and poodles
+Correct Answer: A
+
+Q2. What is the current status of the investigation into the death of the 82-year-old man?
+A. Ongoing with the possibility of more warrants being issued
+B. Closed with no further action being taken
+C. Suspended due to lack of evidence
+D. Completed with all evidence gathered
+Correct Answer: A
+
+Q3. What did the judge rule regarding the evidence linking the dogs to the fatal attack?
+A. There was sufficient evidence to link the dogs to the attack
+B. There was insufficient evidence to link the dogs to the attack
+C. There was no evidence linking the dogs to the attack
+D. The judge did not rule on the evidence linking the dogs to the attack
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cn844n379y5o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cn844n379y5o)
+================================================================================
+Q1. What is the title of Nicola Sturgeon's memoir?
+A. Frankly
+B. Spindrift
+C. Isla Bryson
+D. Nicola Sturgeon
+Correct Answer: A
+
+Q2. What is the case of Isla Bryson that Nicola Sturgeon addresses in her memoir?
+A. Rape
+B. Self-identification as a woman
+C. Football
+D. Gender issue
+Correct Answer: A
+
+Q3. What is the relationship between Nicola Sturgeon and Alex Salmond mentioned in her memoir?
+A. Mentor and successor
+B. Establishment figures
+C. Opponents
+D. Colleagues
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cg7jjkvzmkxo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cg7jjkvzmkxo)
+================================================================================
+Q1. What was the original deadline for the US and China to reach a trade agreement?
+A. 1st of July
+B. 1st of August
+C. 1st of September
+D. 1st of October
+Correct Answer: D. 1st of October
+
+Q2. What was the reason why the US and China extended their trade truce?
+A. Both countries agreed to lower tariffs
+B. The US imposed new tariffs on Chinese goods
+C. The two countries reached a trade agreement
+D. The deadline for the tariffs hike was extended
+Correct Answer: D. The deadline for the tariffs hike was extended
+
+Q3. What did China's top negotiator say about the trade truce between the US and China?
+A. The two countries should push to preserve the truce
+B. The US should lift its "unreasonable" trade restrictions
+C. The US should impose new tariffs on Chinese goods
+D. The two countries should work together to benefit companies on both sides
+Correct Answer: A. The two countries should push to preserve the truce
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c24zz2vdv51o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c24zz2vdv51o)
+================================================================================
+Q1. What is the name of the UK's national institute for artificial intelligence (AI)?
+A. Turing Institute
+B. Turing 2.0
+C. Department for Science, Innovation & Technology (DSIT)
+D. Alan Turing
+Correct Answer: A
+
+Q2. What is the Turing Institute's current strategy?
+A. Turing 2.0
+B. Defence
+C. National security
+D. Data science and AI
+Correct Answer: A
+
+Q3. What is the Department for Science, Innovation & Technology (DSIT) spokesperson's statement about the Turing Institute?
+A. The institute is at risk of collapse.
+B. The institute is an independent organisation.
+C. The changes set out in the letter would do exactly that.
+D. The institute is not an independent organisation.
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.nytimes.com/live/2025/08/11/us/trump-news/trial-opens-in-californias-suit-against-national-guard-deployment
+Info: News Article
+================================================================================
+Q1. What is the current state of violent crimes in Washington?
+A. 1,000
+B. 2,000
+C. 3,000
+D. 4,000
+Correct Answer: D
+
+Q2. What is President Trump's plan for fighting crime in Washington?
+A. Mobilize 800 National Guard troops
+B. Use 500 federal law enforcement officers
+C. Use 1,000 federal law enforcement officers
+D. Use 2,000 federal law enforcement officers
+Correct Answer: B
+
+Q3. What is the current view among Trump administration officials about federal agents' authority to arrest people for minor criminal offenses?
+A. They have the same authority as police officers
+B. They do not have the same authority as police officers
+C. They have limited authority
+D. They have full authority
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/12/zelenskyy-says-putin-readying-for-new-offensive-in-ukraine-not-ceasefire?traffic_source=rss
+Info: News Article: Zelenskyy Says Putin Readying For New Offensive In Ukraine Not Ceasefire?Traffic_Source=Rss
+================================================================================
+Q1. What is the Ukrainian President Volodymyr Zelenskyy's statement about Vladimir Putin's intentions for the ceasefire in Ukraine?
+A. Putin is preparing for a ceasefire.
+B. Putin is not preparing for a ceasefire but is readying his troops for new offensive operations.
+C. Putin is determined to present a personal victory in the war on Ukraine.
+D. Putin is not determined to present a personal victory in the war on Ukraine.
+Correct Answer: B.
+
+Q2. What is the Ukrainian military spokesperson for the southern front-line sector, Vladyslav Voloshyn's statement about Russia's military units in the Zaporizhia region?
+A. Russia is moving some military units in the Zaporizhia region for further assaults.
+B. Russia is not moving some military units in the Zaporizhia region for further assaults.
+C. Russia is preparing for a ceasefire in the Zaporizhia region.
+D. Russia is not preparing for a ceasefire in the Zaporizhia region.
+Correct Answer: A.
+
+Q3. What is the statement of the United Kingdom Prime Minister Keir Starmer and Canadian Prime Minister Mark Carney about a peace deal for Ukraine?
+A. A peace deal for Ukraine must involve Kyiv and not be imposed upon it.
+B. A peace deal for Ukraine must be imposed upon Kyiv.
+C. A peace deal for Ukraine must involve Russia and not be imposed upon it.
+D. A peace deal for Ukraine must be imposed upon Russia.
+Correct Answer: A.
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/economy/2025/8/12/trump-says-he-may-reclassify-cannabis-as-less-dangerous-drug?traffic_source=rss
+Info: News Article
+================================================================================
+Q1. What did Trump say about the use of cannabis?
+A. He said it's a very complicated subject and he had heard bad things about it.
+B. He said it's a very complicated subject and he had heard great things about it.
+C. He said it's a very complicated subject and he had heard mixed things about it.
+D. He said it's a very complicated subject and he had heard nothing about it.
+Correct Answer: A
+
+Q2. What did Biden propose regarding cannabis?
+A. He proposed reclassifying it as a Schedule I drug.
+B. He proposed reclassifying it as a Schedule II drug.
+C. He proposed reclassifying it as a Schedule III drug.
+D. He proposed reclassifying it as a Schedule IV drug.
+Correct Answer: C
+
+Q3. How did stocks in cannabis-related businesses react to Trump's remarks?
+A. They soared.
+B. They plummeted.
+C. They remained unchanged.
+D. They fluctuated.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/world/venezuela/migrants-returning-venezuela-face-debt-harsh-living-conditions-rcna224447
+Info: News Article
+================================================================================
+Q1. What is the reason why the Venezuelan government sent more than 200 Venezuelans to a prison in El Salvador?
+A. They were accused of being members of the violent Tren de Aragua street gang.
+B. They were accused of committing economic crimes.
+C. They were accused of committing political crimes.
+D. They were accused of committing human rights abuses.
+Correct Answer: A
+
+Q2. What is the current situation in Venezuela that has forced many people to migrate?
+A. A currency crisis, triple-digit inflation, and meager wages have made food and other necessities unaffordable.
+B. A political crisis, with protests and unrest.
+C. A natural disaster, such as an earthquake or hurricane.
+D. A pandemic, such as COVID-19.
+Correct Answer: A
+
+Q3. What is the current living condition of the Romero Perez family, who returned to Venezuela from Mexico after abandoning plans to reach the U.S.?
+A. They are living in a comfortable house with all the amenities they need.
+B. They are living in a small apartment with limited resources.
+C. They are living in a refugee camp with basic necessities.
+D. They are living in a prison, where they are being held for their political beliefs.
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/tech/tech-news/grok-xai-temporary-suspension-rcna224426
+Info: News Article
+================================================================================
+Q1. What is the name of the AI chatbot that was taken offline by X?
+A. Grok
+B. xAI
+C. The Guardian
+D. None of the above
+Correct Answer: A
+
+Q2. What was the reason why Grok was taken offline by X?
+A. It made claims of genocide in Gaza
+B. It made claims of genocide in South Africa
+C. It made claims of genocide in the United States
+D. It made claims of genocide in Israel
+Correct Answer: A
+
+Q3. What is the name of the company that created Grok?
+A. xAI
+B. The Guardian
+C. Grok
+D. None of the above
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/news/us-news/legality-trumps-deployment-national-guard-l-argued-federal-court-rcna224432
+Info: News Article: Legality Trumps Deployment National Guard L Argued Federal Court Rcna224432
+================================================================================
+Q1. Which federal judge heard arguments about the legality of the National Guard deployment to Los Angeles?
+A. Gavin Newsom
+B. Stephen Breyer
+C. Donald Trump
+D. Gavin Newsom and Stephen Breyer
+Correct Answer: B. Stephen Breyer
+
+Q2. What was the main reason the federal government deployed the National Guard and Marines to Los Angeles?
+A. To support immigration officials
+B. To enforce domestic law
+C. To assist in the execution of federal law
+D. To stop using the military “to execute or assist in the execution of federal law”
+Correct Answer: A. To support immigration officials
+
+Q3. What was the outcome of the case between the federal government and the state of California over the deployment of the National Guard to Los Angeles?
+A. The federal government won and the deployment was deemed legal
+B. The state won and the deployment was deemed illegal
+C. The case was dismissed
+D. The case is still ongoing
+Correct Answer: B. The state won and the deployment was deemed illegal
+
+================================================================================
+
+
+Link: https://www.latimes.com/california/story/2025-08-11/four-arrested-in-break-in-brad-pitt-los-feliz-home-sources-say
+Info: News Article
+================================================================================
+Q1. Who was the suspect arrested for the burglary at Pitt's Los Feliz home?
+A. Seth Rollins
+B. Becky Lynch
+C. Olivier Giroud
+D. Nicole Kidman
+Correct Answer: D. Nicole Kidman
+
+Q2. When was the burglary at Pitt's Los Feliz home?
+A. June 25
+B. June 26
+C. June 27
+D. June 28
+Correct Answer: A. June 25
+
+Q3. Which celebrity's home was also burglarized in the same series of burglaries as Pitt's?
+A. Seth Rollins
+B. Becky Lynch
+C. Olivier Giroud
+D. Nicole Kidman
+Correct Answer: B. Becky Lynch
+
+================================================================================
+
+
+Link: https://www.wfaa.com/article/news/nation-world/arizona-iced-tea-could-raise-prices-99-cent-can-aluminum-tariffs/507-68524bcc-ea13-4b8e-8f74-a1c94e20bb62
+Info: News Article: 507 68524Bcc Ea13 4B8E 8F74 A1C94E20Bb62
+================================================================================
+Q1. What is the current price of AriZona Iced Tea's signature tallboy cans?
+A. $1.00
+B. $1.50
+C. $2.00
+D. $2.50
+Correct Answer: B
+
+Q2. What is the reason behind the potential price increase of AriZona Iced Tea's signature tallboy cans?
+A. Increased production costs
+B. Changes in consumer demand
+C. New aluminum tariffs imposed by the Trump administration
+D. Increased competition from other beverage companies
+Correct Answer: C
+
+Q3. What is Don Vultaggio's approach to pricing for AriZona Iced Tea?
+A. Make it taste good, make it look good and price it high
+B. Make it taste good, make it look good and price it low
+C. Make it taste good, make it look good and price it right
+D. Make it taste bad, make it look bad and price it low
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://abc13.com/post/demolition-may-4-buildings-vacant-decades-northeast-houston/17506994/
+Info: News Article
+================================================================================
+Q1. Which of the following buildings is NOT one of the four vacant buildings in northeast Houston that may be demolished?
+A. Northwood Manor Civic Club
+B. The Metropolitan Organization
+C. Carla Burris
+D. None of the above
+Correct Answer: D
+
+Q2. When was the order to demolish the four vacant buildings in northeast Houston first issued?
+A. 2019
+B. 2018
+C. 2017
+D. 2016
+Correct Answer: D
+
+Q3. What is the purpose of the meeting organized by The Metropolitan Organization?
+A. To discuss the demolition of the four vacant buildings in northeast Houston
+B. To discuss the renovation of the four vacant buildings in northeast Houston
+C. To discuss the potential impact of the demolition on the surrounding area
+D. To discuss the potential impact of the renovation on the surrounding area
+
+================================================================================
+
+
+Link: https://abc7.com/post/bachelor-paradise-recap-brian-breaks-bro-code-pays-ultimate-price/17505987/
+Info: News Article
+================================================================================
+Q1. Who is the host of "Playing The Field" this week?
+A. Ryan
+B. Gina Sirico
+C. Lea
+D. Jonathon
+Correct Answer: A
+
+Q2. Who won and stayed safe on this week's episode of "Bachelor In Paradise"?
+A. Bailey
+B. Susie
+C. Lea
+D. Jonathon
+Correct Answer: C
+
+Q3. Who was nearly eliminated from the show due to his decision to talk to Bailey about what Jeremy had said about Susie?
+A. Bailey
+B. Susie
+C. Ryan
+D. Parisa
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cq877llq099o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cq877llq099o)
+================================================================================
+Q1. Which marine heatwave caused the worst bleaching on record for Western Australia's coral reefs?
+A. 2022-23
+B. 2023-24
+C. 2024-25
+D. 2025-26
+Correct Answer: C. 2024-25
+
+Q2. What was the effect of the heat stress on the coral during the 2024-25 bleaching season?
+A. The coral expelled the algae which gives them life and colour, causing them to bleach.
+B. The coral did not expel the algae which gives them life and colour, causing them to bleach.
+C. The coral did not experience heat stress during the 2024-25 bleaching season.
+D. The coral experienced no significant heat stress during the 2024-25 bleaching season.
+Correct Answer: A. The coral expelled the algae which gives them life and colour, causing them to bleach.
+
+Q3. Which research institute conducted the study on the 2024-25 bleaching season for Western Australia's coral reefs?
+A. Australian Institute of Marine Science (Aims)
+B. Great Barrier Reef Marine Park Authority
+C. Bureau of Meteorology
+D. National Oceanic and Atmospheric Administration (NOAA)
+Correct Answer: A. Australian Institute of Marine Science (Aims)
+
+================================================================================
+
+
+Link: https://www.nytimes.com/2025/08/11/nyregion/anna-delvey-bunnies-abandoned-prospect-park.html
+Info: News Article
+================================================================================
+Q1. Who is Anna Delvey?
+A. A real heiress from Germany
+B. A fake heiress from Germany
+C. A real heiress from the United States
+D. A fake heiress from the United States
+Correct Answer: B
+
+Q2. What happened to the bunnies used in the photo shoot with Anna Delvey?
+A. They were abandoned in Prospect Park
+B. They were used in the photo shoot with Anna Sorokin
+C. They were used in the photo shoot with Anna Delvey and Anna Sorokin
+D. They were not used in any photo shoot
+Correct Answer: A
+
+Q3. What is Anna Sorokin's real name?
+A. Anna Delvey
+B. Anna Sorokin
+C. Anna Heiress
+D. Anna Swindler
+Correct Answer: B
+
+================================================================================
+
+
+Link: https://www.cnbc.com/2025/08/12/resorts-world-sentosa-ceo-on-integrated-resorts-expansion-plans.html
+Info: News Article
+================================================================================
+Q1. What year will Resorts World Sentosa's casino license be renewed?
+A. 2025
+B. 2026
+C. 2027
+D. 2028
+Correct Answer: B
+
+Q2. What is Resorts World Sentosa's CEO's focus on in terms of developing the resort?
+A. Transforming Resorts World Sentosa into a premium lifestyle destination
+B. Developing new attractions
+C. Maintaining the resort as a compelling tourist destination
+D. None of the above
+Correct Answer: A
+
+Q3. What did Resorts World Sentosa's CEO say about the resort's focus on experiences?
+A. The resort is focused on transforming into a premium lifestyle destination
+B. The resort is focused on developing new attractions
+C. The resort is focused on maintaining the resort as a compelling tourist destination
+D. The resort is focused on tapping into experiences
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/news/2025/8/12/why-is-trump-sending-us-national-guard-to-washington-dc?traffic_source=rss
+Info: News Article: Why Is Trump Sending Us National Guard To Washington Dc?Traffic_Source=Rss
+================================================================================
+Q1. What specific action did Trump announce to rescue the capital from crime and bloodshed?
+A. He placed the DC Metropolitan and Police Department under direct federal control.
+B. He deployed the National Guard to enforce local laws.
+C. He increased funding for prosecutors.
+D. He created a new police force.
+Correct Answer: A
+
+Q2. What was the reason for Trump's decision to place the DC Metropolitan and Police Department under direct federal control?
+A. The rising violence in the capital now urgently endangers public servants, citizens, and tourists.
+B. The city's police force was not performing well.
+C. The city's police force was under investigation.
+D. The city's police force was involved in a scandal.
+Correct Answer: A
+
+Q3. What was the trigger for Trump's decision to take Federal control of the city?
+A. An assault involving Edward Coristine.
+B. A shooting at the White House.
+C. A bombing at the Capitol.
+D. A natural disaster in the city.
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://www.aljazeera.com/economy/2025/8/12/trump-names-conservative-economist-to-lead-labour-statistics-agency?traffic_source=rss
+Info: News Article
+================================================================================
+Q1. Who was the previous head of the BLS that was fired by President Trump?
+A. Antoni
+B. Erika McEntarfer
+C. Scott Bessent
+D. None of the above
+Correct Answer: B
+
+Q2. What was the reason given by President Trump for firing Erika McEntarfer?
+A. She was not qualified for the job
+B. She was not a good fit for the administration
+C. She released weak employment figures
+D. She was not credible
+Correct Answer: C
+
+Q3. What did Antoni say about the trade deal with Japan last month?
+A. It was a bad deal for the US
+B. It was a good deal for the US
+C. It was darn close to perfect
+D. It was not a good deal for Japan
+Correct Answer: C
+
+================================================================================
+
+
+Link: https://www.nbcnews.com/politics/white-house/trumps-unprecedented-takeover-dc-police-comes-crime-figures-show-rcna224376
+Info: News Article
+================================================================================
+Q1. What is the name of the former police chief who led departments in Houston, Austin, and Miami?
+A. Art Acevedo
+B. Art Acevedo
+C. Art Acevedo
+D. Art Acevedo
+Correct Answer: A
+
+Q2. What is the name of the person who was appointed as the head of the Metropolitan Police Department by President Donald Trump?
+A. Terry Cole
+B. Terry Cole
+C. Terry Cole
+D. Terry Cole
+Correct Answer: A
+
+Q3. What is the name of the person who was brutallyized during the riot and whose assailants were among those pardoned by Trump upon his return to office?
+A. Daniel Hodges
+B. Daniel Hodges
+C. Daniel Hodges
+D. Daniel Hodges
+Correct Answer: A
+
+================================================================================
+
+
+Link: https://abc13.com/post/houston-astros-defeat-boston-red-sox-carlos-correa-alex-bregmans-return/17507183/
+Info: News Article
+================================================================================
+Q1. Who is the Houston Astros' shortstop?
+A. Jose Altuve
+B. Carlos Correa
+C. Alex Bregman
+D. Michael Brantley
+Correct Answer: B
+
+Q2. What is the name of the stadium formerly known as "The Juice Box" (Minute Maid Park)?
+A. Yankee Stadium
+B. Fenway Park
+C. Daikin Park
+D. Wrigley Field
+Correct Answer: C
+
+Q3. What is the name of the player who scored a two-run home run for the Boston Red Sox in the first inning?
+A. Jose Altuve
+B. Alex Bregman
+C. Cristian Javier
+D. Mookie Betts
+Correct Answer: C
+
+================================================================================
+
