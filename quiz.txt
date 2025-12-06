@@ -1,0 +1,138 @@
+
+Link: https://www.bbc.com/news/articles/c80djre5m5vo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c80djre5m5vo)
+================================================================================
+No valid questions could be generated.
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/ckgjye15zdlo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (ckgjye15zdlo)
+================================================================================
+No valid questions could be generated.
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cly6g2j67rko?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cly6g2j67rko)
+================================================================================
+No valid questions could be generated.
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c80dg700dego?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c80dg700dego)
+================================================================================
+No valid questions could be generated.
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c62wnp7622po?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c62wnp7622po)
+================================================================================
+No valid questions could be generated.
+
+================================================================================
+
+
+Link: https://www.bbc.com/weather/articles/cg7jy3jk2e4o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cg7jy3jk2e4o)
+================================================================================
+No valid questions could be generated.
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c99mkd3xm9po?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c99mkd3xm9po)
+================================================================================
+No valid questions could be generated.
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cj4wlpvdzjyo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cj4wlpvdzjyo)
+================================================================================
+No valid questions could be generated.
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cde3xp4xlw9o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cde3xp4xlw9o)
+================================================================================
+Q1. [Ask about a specific person, place, number, or date from the article]
+A. [Correct answer - exact fact from article]
+B. [Wrong answer - plausible but incorrect]
+C. [Wrong answer - plausible but incorrect]
+D. [Wrong answer - plausible but incorrect]
+Correct Answer: A
+Q2. [Ask about a different specific fact from the article]
+A. [Correct answer - exact fact from article]
+B. [Wrong answer - plausible but incorrect]
+C. [Wrong answer - plausible but incorrect]
+D. [Wrong answer - plausible but incorrect]
+Correct Answer: A
+Q3. [Ask about another specific fact from the article]
+A. [Wrong answer - plausible but incorrect]
+B. [Wrong answer - plausible but incorrect]
+C. [Wrong answer - plausible but incorrect]
+D. [Correct answer - exact fact from article]
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c5yp4jggrj2o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c5yp4jggrj2o)
+================================================================================
+No valid questions could be generated.
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/crew8y7pwd5o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (crew8y7pwd5o)
+================================================================================
+Q1. [Ask about a specific person, place, number, or date from the article]
+A. [Wrong answer - plausible but incorrect]
+B. [Correct answer - exact fact from article]
+C. [Wrong answer - plausible but incorrect]
+D. [Wrong answer - plausible but incorrect]
+Correct Answer: A
+Q2. [Ask about a different specific fact from the article]
+A. [Correct answer - exact fact from article]
+B. [Wrong answer - plausible but incorrect]
+C. [Wrong answer - plausible but incorrect]
+D. [Correct answer - exact fact from article]
+Correct Answer: A
+Q3. [Ask about another specific fact from the article]
+A. [Wrong answer - plausible but incorrect]
+B. [Wrong answer - plausible but incorrect]
+C. [Wrong answer - plausible but incorrect]
+D. [Correct answer - exact fact from article]
+Correct Answer: D
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/c62n0pyd099o?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (c62n0pyd099o)
+================================================================================
+No valid questions could be generated.
+
+================================================================================
+
+
+Link: https://www.bbc.com/news/articles/cm2vz9jg8jzo?at_medium=RSS&at_campaign=rss
+Info: BBC News Article (cm2vz9jg8jzo)
+================================================================================
+No valid questions could be generated.
+
+================================================================================
+
