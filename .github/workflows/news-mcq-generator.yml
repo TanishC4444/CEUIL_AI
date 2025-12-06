@@ -42,7 +42,7 @@ jobs:
       run: |
         pip3 install --upgrade pip
         pip3 install llama-cpp-python
-        pip3 install huggingface-hub
+        pip3 install huggingface-hub[cli]
         
     - name: Create directories
       run: |
