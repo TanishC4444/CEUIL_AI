@@ -4,12 +4,12 @@ from llama_cpp import Llama
 from urllib.parse import urlparse
 import time
 
-# Initialize your LLaMA model with optimized settings
-MODEL_PATH = os.getenv('MODEL_PATH', '/Users/tanishchauhan/Desktop/CEUIL_AI/mistral-7b-instruct-v0.1.Q4_K_M.gguf')
+# Initialize Phi-3-Mini model with optimized settings
+MODEL_PATH = os.getenv('MODEL_PATH', '/Users/tanishchauhan/Desktop/CEUIL_AI/Phi-3-mini-4k-instruct-q4.gguf')
 
 llm = Llama(
     model_path=MODEL_PATH,
-    n_ctx=2048,
+    n_ctx=4096,  # Phi-3 supports 4k context
     n_gpu_layers=-1,
     n_threads=8,
     n_batch=512,
@@ -18,8 +18,11 @@ llm = Llama(
     verbose=False
 )
 
-# Improved prompt template with stricter formatting
-PROMPT_TEMPLATE = """Create exactly 3 multiple choice questions from this news article for UIL Current Events competition.
+# Optimized prompt template for Phi-3
+PROMPT_TEMPLATE = """<|system|>
+You are an expert at creating multiple choice questions for UIL Current Events competitions. Create exactly 3 factual questions based only on information explicitly stated in the article.<|end|>
+<|user|>
+Create exactly 3 multiple choice questions from this news article.
 
 STRICT REQUIREMENTS:
 - Base questions ONLY on facts explicitly stated in the article
@@ -29,7 +32,8 @@ STRICT REQUIREMENTS:
 - Focus on specific names, numbers, locations, dates mentioned in the article
 - No trick questions or "all of the above" type answers
 - Generate questions that test factual recall, not inference or opinion
-- Add a bit of context to each question to make it clear what it's asking and what event or fact it relates to
+- Add context to each question to make it clear what event or fact it relates to
+
 FORMAT (follow exactly):
 Q1. [Specific factual question about the article]
 A. [Option A]
@@ -53,8 +57,8 @@ D. [Option D]
 Correct Answer: [Single letter: A, B, C, or D]
 
 Article: {article}
-
-Generate exactly 3 questions now:
+<|end|>
+<|assistant|>
 """
 
 # OPTIMIZED: Pre-compiled regex and blocked domains as tuple
@@ -136,7 +140,7 @@ def write_remaining_articles_fast(filename, remaining_articles):
         print(f"❌ Error writing file: {e}")
         return False
 
-def chunk_text(text, max_words=600):
+def chunk_text(text, max_words=700):
     """Chunk text by words, ensuring we don't split sentences"""
     sentences = re.split(r'(?<=[.!?])\s+', text)
     chunks = []
@@ -179,11 +183,12 @@ def extract_headline_from_url(url):
         return "News Article"
 
 def generate_mcqs_optimized(article_text):
-    """Generate MCQs from article text with timeout protection"""
+    """Generate MCQs from article text using Phi-3-Mini"""
     word_count = len(article_text.split())
     
-    if word_count > 800:
-        chunks = chunk_text(article_text, max_words=800)
+    # Phi-3 can handle slightly more context efficiently
+    if word_count > 900:
+        chunks = chunk_text(article_text, max_words=900)
         chunk = chunks[0]
     else:
         chunk = article_text
@@ -198,10 +203,12 @@ def generate_mcqs_optimized(article_text):
         
         response = llm(
             prompt,
-            max_tokens=500,
+            max_tokens=600,  # Slightly more tokens for Phi-3
             temperature=0.1,
             top_p=0.9,
-            stop=["Article:", "\n\nHere", "Instructions:"],
+            top_k=40,
+            repeat_penalty=1.1,
+            stop=["<|end|>", "<|user|>", "Article:", "\n\nHere"],
             echo=False
         )
         
@@ -247,8 +254,8 @@ def main():
         print("No valid articles found!")
         return
     
-    # Process in batches
-    batch_size = min(250, len(all_articles))
+    # Process in batches - can process more with Phi-3's speed
+    batch_size = min(300, len(all_articles))  # Increased from 250
     articles_to_process = all_articles[:batch_size]
     remaining_articles = all_articles[batch_size:]
     
