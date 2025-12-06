@@ -57,122 +57,83 @@ Article: {article}
 Generate exactly 3 questions now:
 """
 
-def read_articles(filename):
-    """Read articles from file and return list of (link, article) tuples with improved parsing"""
+# OPTIMIZED: Pre-compiled regex and blocked domains as tuple
+BLOCKED_DOMAINS = (
+    "morningbrew.com",
+    "newsweek.com",
+    "kxan.com",
+    "wfaa.com"
+)
+
+def read_articles_fast(filename):
+    """OPTIMIZED: Fast streaming reader with filtering built-in"""
     if not os.path.exists(filename):
         print(f"Input file {filename} does not exist!")
         return []
-        
-    try:
-        with open(filename, 'r', encoding='utf-8') as f:
-            content = f.read()
-    except Exception as e:
-        print(f"Error reading file {filename}: {e}")
-        return []
-
-    if not content.strip():
-        print(f"Input file {filename} is empty!")
-        return []
-
+    
     articles = []
-    # Normalize line endings first
-    content = content.replace('\r\n', '\n').replace('\r', '\n')
+    current_link = None
+    current_article = []
     
-    # Split by double newline, but be more flexible
-    article_blocks = re.split(r'\n\s*\n+', content.strip())
-    
-    for block in article_blocks:
-        block = block.strip()
-        if not block:
-            continue
+    with open(filename, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
             
-        lines = [line.strip() for line in block.split('\n') if line.strip()]
-        
-        current_link = None
-        article_lines = []
-        in_article = False
-        
-        for line in lines:
             if line.startswith("Link: "):
+                # Process previous article
+                if current_link and current_article:
+                    article_text = ' '.join(current_article).strip()
+                    
+                    # FAST FILTERING: Check length and domains in one pass
+                    if len(article_text) >= 100:
+                        if not any(domain in current_link for domain in BLOCKED_DOMAINS):
+                            if len(article_text.split()) >= 100:  # Word count check
+                                articles.append((current_link, article_text))
+                                if len(articles) % 100 == 0:
+                                    print(f"✓ Loaded {len(articles)} valid articles...")
+                
+                # Start new article
                 current_link = line
-                in_article = False
-                article_lines = []
+                current_article = []
+                
             elif line.startswith("Article: "):
                 # Start collecting article text
                 article_content = line[len("Article: "):].strip()
-                if article_content:  # If there's content on the same line
-                    article_lines = [article_content]
+                if article_content:
+                    current_article = [article_content]
                 else:
-                    article_lines = []
-                in_article = True
-            elif in_article and current_link:
-                # Continue collecting article text
-                article_lines.append(line)
+                    current_article = []
+                    
+            elif current_link and line:
+                # Continue building article
+                current_article.append(line)
         
-        # Join all article lines and add to articles list
-        if current_link and article_lines:
-            current_article = ' '.join(article_lines).strip()
-            if current_article and len(current_article) > 50:  # Only add substantial articles
-                articles.append((current_link, current_article))
-                print(f"✓ Parsed article: {current_link[:60]}...")
+        # Process last article
+        if current_link and current_article:
+            article_text = ' '.join(current_article).strip()
+            if len(article_text) >= 100:
+                if not any(domain in current_link for domain in BLOCKED_DOMAINS):
+                    if len(article_text.split()) >= 100:
+                        articles.append((current_link, article_text))
     
-    print(f"Successfully parsed {len(articles)} articles from {filename}")
+    print(f"✅ Loaded {len(articles)} valid articles (filtered during read)")
     return articles
 
-def write_remaining_articles(filename, remaining_articles):
-    """Write remaining articles back to the input file with better error handling"""
+def write_remaining_articles_fast(filename, remaining_articles):
+    """OPTIMIZED: Direct write without backup for speed"""
     try:
-        # Create backup first
-        backup_filename = filename + '.backup'
-        if os.path.exists(filename):
-            import shutil
-            shutil.copy2(filename, backup_filename)
-            print(f"✓ Created backup: {backup_filename}")
+        with open(filename, 'w', encoding='utf-8', buffering=8192*4) as f:
+            for i, (link, article) in enumerate(remaining_articles):
+                f.write(f"{link}\n")
+                f.write(f"Article: {article}\n")
+                if i < len(remaining_articles) - 1:
+                    f.write("\n")
         
-        # Write the remaining articles
-        with open(filename, 'w', encoding='utf-8') as f:
-            if remaining_articles:
-                for i, (link, article) in enumerate(remaining_articles):
-                    f.write(f"{link}\n")
-                    f.write(f"Article: {article}\n")
-                    if i < len(remaining_articles) - 1:  # Add separator between articles
-                        f.write("\n")
-                f.flush()  # Ensure data is written to disk
-                os.fsync(f.fileno())  # Force write to disk
-        
-        # Verify the write was successful
-        if remaining_articles:
-            verification = read_articles(filename)
-            if len(verification) != len(remaining_articles):
-                print(f"⚠️ Warning: Expected {len(remaining_articles)} articles but found {len(verification)} after write")
-                # Restore from backup if verification fails
-                if os.path.exists(backup_filename):
-                    import shutil
-                    shutil.copy2(backup_filename, filename)
-                    print(f"❌ Write verification failed, restored from backup")
-                    return False
-            else:
-                print(f"✅ Write verification successful: {len(remaining_articles)} articles")
-        else:
-            print(f"✅ Successfully cleared input file - no articles remaining")
-        
-        # Clean up backup after successful write
-        if os.path.exists(backup_filename):
-            os.remove(backup_filename)
-        
+        print(f"✅ Wrote {len(remaining_articles)} articles to file")
         return True
         
     except Exception as e:
-        print(f"❌ Error writing to input file: {e}")
-        # Try to restore from backup
-        backup_filename = filename + '.backup'
-        if os.path.exists(backup_filename):
-            try:
-                import shutil
-                shutil.copy2(backup_filename, filename)
-                print(f"✅ Restored from backup after write error")
-            except:
-                print(f"❌ Failed to restore from backup")
+        print(f"❌ Error writing file: {e}")
         return False
 
 def chunk_text(text, max_words=600):
@@ -185,7 +146,6 @@ def chunk_text(text, max_words=600):
     for sentence in sentences:
         sentence_words = len(sentence.split())
         
-        # If adding this sentence would exceed limit, start new chunk
         if current_word_count + sentence_words > max_words and current_chunk:
             chunks.append(' '.join(current_chunk))
             current_chunk = [sentence]
@@ -194,7 +154,6 @@ def chunk_text(text, max_words=600):
             current_chunk.append(sentence)
             current_word_count += sentence_words
 
-    # Add the last chunk if it has content
     if current_chunk:
         chunks.append(' '.join(current_chunk))
     
@@ -203,42 +162,33 @@ def chunk_text(text, max_words=600):
 def extract_headline_from_url(url):
     """Extract a readable headline from the URL"""
     try:
-        # Try to get headline from URL structure
         if '/articles/' in url:
-            # BBC style URLs
             article_id = url.split('/articles/')[-1].split('?')[0]
             return f"BBC News Article ({article_id})"
         elif '/news/' in url:
-            # Other news URLs
             parts = url.split('/')
             if len(parts) > 4:
                 return f"News Article: {parts[-1].replace('-', ' ').replace('.html', '').title()}"
     except:
         pass
     
-    # Fallback to domain name
     try:
-        domain = urlparse(url).netlnet
+        domain = urlparse(url).netloc
         return f"News Article from {domain}"
     except:
         return "News Article"
 
 def generate_mcqs_optimized(article_text):
     """Generate MCQs from article text with timeout protection"""
-    # Skip chunking for shorter articles - process directly
     word_count = len(article_text.split())
     
     if word_count > 800:
-        # Only chunk if really necessary, use larger chunks
         chunks = chunk_text(article_text, max_words=800)
-        chunk = chunks[0]  # Just use first chunk
+        chunk = chunks[0]
     else:
         chunk = article_text
     
-    print(f"Processing chunk ({len(chunk.split())} words)...")
-    
     if len(chunk.split()) < 100:
-        print("Chunk too short, skipping...")
         return ""
     
     prompt = PROMPT_TEMPLATE.format(article=chunk)
@@ -248,8 +198,8 @@ def generate_mcqs_optimized(article_text):
         
         response = llm(
             prompt,
-            max_tokens=500,  # Reduced further for speed
-            temperature=0.1,  # Even lower for faster generation
+            max_tokens=500,
+            temperature=0.1,
             top_p=0.9,
             stop=["Article:", "\n\nHere", "Instructions:"],
             echo=False
@@ -260,9 +210,7 @@ def generate_mcqs_optimized(article_text):
         
         output = response['choices'][0]['text'].strip()
         
-        # Faster validation - just check for basic structure
         if 'Q1.' in output and 'Q2.' in output and 'Q3.' in output:
-            # Simple cleanup - remove anything after Q3's answer
             lines = output.split('\n')
             cleaned_lines = []
             q3_answer_found = False
@@ -277,7 +225,6 @@ def generate_mcqs_optimized(article_text):
             
             return '\n'.join(cleaned_lines)
         else:
-            print("Generated output missing required questions")
             return ""
             
     except Exception as e:
@@ -285,68 +232,44 @@ def generate_mcqs_optimized(article_text):
         return ""
 
 def main():
-    """Main function to process articles and generate MCQs - FIXED VERSION"""
+    """OPTIMIZED: Main function with faster I/O"""
     input_file = os.getenv('INPUT_FILE', '/Users/tanishchauhan/Desktop/CEUIL_AI/articles/news_articles.txt')
     
-    print(f"🔍 Reading articles from: {input_file}")
-    print(f"📁 Input file exists: {os.path.exists(input_file)}")
-    if os.path.exists(input_file):
-        print(f"📄 Input file size: {os.path.getsize(input_file)} bytes")
+    print(f"🔍 Reading and filtering articles from: {input_file}")
+    start_load = time.time()
     
-    # Read all articles at start
-    all_articles = read_articles(input_file)
-    print(f"Found {len(all_articles)} total articles to process")
+    # OPTIMIZED: Single-pass read with built-in filtering
+    all_articles = read_articles_fast(input_file)
+    load_time = time.time() - start_load
+    print(f"⚡ Loaded in {load_time:.1f}s")
     
     if not all_articles:
-        print("No articles found in the input file!")
+        print("No valid articles found!")
         return
     
-    # PROCESS ARTICLES IN BATCHES - FIXED BATCH PROCESSING
-    batch_size = min(250, len(all_articles))  # Process up to 450 articles per run
+    # Process in batches
+    batch_size = min(250, len(all_articles))
     articles_to_process = all_articles[:batch_size]
-    remaining_articles = all_articles[batch_size:]  # Articles to keep for next run
+    remaining_articles = all_articles[batch_size:]
     
-    print(f"📋 Processing {len(articles_to_process)} articles in this batch...")
-    print(f"📋 Will keep {len(remaining_articles)} articles for next run...")
-    
-    # Show first few links being processed for debugging
-    print("\n🔍 First few articles being processed:")
-    for i, (link, _) in enumerate(articles_to_process[:3]):
-        print(f"  {i+1}. {link}")
-    
-    if remaining_articles:
-        print("\n🔍 First few articles remaining for next run:")
-        for i, (link, _) in enumerate(remaining_articles[:3]):
-            print(f"  {i+1}. {link}")
+    print(f"📋 Processing {len(articles_to_process)} articles")
+    print(f"📋 Keeping {len(remaining_articles)} for next run")
     
     successful_count = 0
     start_time = time.time()
     
-    # Open quiz file in append mode to add to existing content
-    with open('quiz.txt', 'a', encoding='utf-8') as out:
+    # OPTIMIZED: Larger buffer for output file
+    with open('quiz.txt', 'a', encoding='utf-8', buffering=8192*4) as out:
         for i, (link, article) in enumerate(articles_to_process):
-            print(f"\n--- Processing article {i+1}/{len(articles_to_process)} ---")
-            elapsed = time.time() - start_time
-            avg_time = elapsed / (i + 1) if i > 0 else 0
-            est_remaining = avg_time * (len(articles_to_process) - i - 1)
+            if i % 10 == 0:  # Progress every 10 articles
+                elapsed = time.time() - start_time
+                rate = i / elapsed if elapsed > 0 else 0
+                eta = (len(articles_to_process) - i) / rate if rate > 0 else 0
+                print(f"\n[{i}/{len(articles_to_process)}] Rate: {rate:.1f}/s, ETA: {eta/60:.1f}min")
             
-            print(f"Link: {link}")
-            print(f"Article length: {len(article.split())} words")
-            print(f"Elapsed: {elapsed/60:.1f}min, Avg: {avg_time:.1f}s/article")
-            print(f"Est. remaining: {est_remaining/60:.1f}min")
-
-            # Skip articles that are too short
-            if len(article.split()) < 100:
-                print("Article too short after cleaning, skipping...")
-                continue
-
-            # Extract headline from URL
             article_info = extract_headline_from_url(link)
-            
-            # Generate MCQs with progress indication
             mcqs = generate_mcqs_optimized(article)
             
-            # Write to output file
             out.write(f"\n{link}\n")
             out.write(f"Info: {article_info}\n")
             out.write("="*80 + "\n")
@@ -354,67 +277,22 @@ def main():
             if mcqs.strip():
                 out.write(mcqs + '\n\n')
                 successful_count += 1
-                print("✅ MCQs generated successfully")
             else:
-                out.write("No valid questions could be generated for this article.\n\n")
-                print("❌ Failed to generate valid MCQs")
+                out.write("No valid questions could be generated.\n\n")
                 
             out.write("="*80 + "\n\n")
-            out.flush()  # Ensure quiz content is written immediately
     
     total_time = time.time() - start_time
-    print(f"\n✅ Batch complete: {successful_count}/{len(articles_to_process)} articles processed in {total_time/60:.1f} minutes")
+    print(f"\n✅ Processed {successful_count}/{len(articles_to_process)} in {total_time/60:.1f}min")
     
-    # CRITICAL FIX: Write remaining articles back with verification
-    print(f"\n📝 Updating input file:")
-    print(f"   - Original articles: {len(all_articles)}")
-    print(f"   - Processed articles: {len(articles_to_process)}")
-    print(f"   - Remaining articles: {len(remaining_articles)}")
+    # OPTIMIZED: Fast write of remaining articles
+    print(f"\n📝 Updating input file...")
+    write_start = time.time()
+    write_remaining_articles_fast(input_file, remaining_articles)
+    write_time = time.time() - write_start
+    print(f"⚡ Write completed in {write_time:.1f}s")
     
-    # Attempt to write remaining articles with retry logic
-    max_retries = 3
-    for attempt in range(max_retries):
-        print(f"\n📝 Write attempt {attempt + 1}/{max_retries}")
-        
-        if write_remaining_articles(input_file, remaining_articles):
-            print("✅ Successfully updated input file")
-            break
-        else:
-            if attempt < max_retries - 1:
-                print("⚠️ Write failed, retrying in 2 seconds...")
-                time.sleep(2)
-            else:
-                print("❌ Failed to update input file after all attempts")
-                # Create a fallback file
-                fallback_file = input_file + '.remaining'
-                try:
-                    write_remaining_articles(fallback_file, remaining_articles)
-                    print(f"💾 Created fallback file: {fallback_file}")
-                except:
-                    print("❌ Even fallback write failed!")
-                return
-    
-    # Verify the write operation worked
-    print(f"\n🔍 Verifying file update...")
-    verification_articles = read_articles(input_file)
-    expected_count = len(remaining_articles)
-    actual_count = len(verification_articles)
-    
-    print(f"✅ Verification complete:")
-    print(f"   - Expected articles: {expected_count}")
-    print(f"   - Actual articles: {actual_count}")
-    print(f"   - Match: {'✅ YES' if expected_count == actual_count else '❌ NO'}")
-    
-    # Show final status
-    print(f"\n📊 FINAL STATUS:")
-    print(f"📊 Articles processed this run: {len(articles_to_process)}")
-    print(f"📊 Articles successfully generated MCQs: {successful_count}")
-    print(f"📊 Remaining articles for next run: {actual_count}")
-    
-    if actual_count > 0:
-        print("💡 Next run will process more articles")
-    else:
-        print("🎉 All articles have been processed!")
+    print(f"\n📊 Articles remaining for next run: {len(remaining_articles)}")
 
 if __name__ == "__main__":
     main()

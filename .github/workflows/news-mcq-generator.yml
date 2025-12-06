@@ -1,7 +1,7 @@
 name: MCQ Generator
 on:
   schedule:
-    # Run every 6 hours to maximize processing time per run
+    # Run every 7 hours to maximize processing time per run
     - cron: '0 */7 * * *'
   workflow_dispatch: # Allow manual triggering
   push:
@@ -91,8 +91,8 @@ jobs:
           exit 0
         fi
         
-        # Count articles
-        article_count=$(grep -c "^Link: " articles/news_articles.txt || echo "0")
+        # Count articles (faster grep)
+        article_count=$(grep -c "^Link: " articles/news_articles.txt 2>/dev/null || echo "0")
         echo "Found $article_count articles to process"
         echo "has_articles=true" >> $GITHUB_OUTPUT
         echo "article_count=$article_count" >> $GITHUB_OUTPUT
@@ -106,19 +106,25 @@ jobs:
       if: steps.check-articles.outputs.has_articles == 'true'
       run: |
         echo "=== BEFORE PROCESSING ==="
-        echo "📰 Total articles in input file: $(grep -c '^Link: ' articles/news_articles.txt || echo '0')"
-        echo "📝 Current quiz file size: $(wc -l < quiz.txt 2>/dev/null || echo '0') lines"
-        echo "🔍 First few links to be processed:"
-        grep "^Link: " articles/news_articles.txt | head -5
+        article_count=$(grep -c '^Link: ' articles/news_articles.txt 2>/dev/null || echo '0')
+        echo "📰 Total articles in input file: $article_count"
+        
+        if [ -f "quiz.txt" ]; then
+          quiz_lines=$(wc -l < quiz.txt 2>/dev/null || echo '0')
+          echo "📝 Current quiz file: $quiz_lines lines"
+        fi
+        
+        echo "🔍 Sample of articles to process:"
+        grep "^Link: " articles/news_articles.txt | head -3
         
     - name: Run MCQ generator
       if: steps.check-articles.outputs.has_articles == 'true'
       run: |
-        echo "Starting MCQ generation at $(date)"
+        echo "⚡ Starting optimized MCQ generation at $(date)"
         timeout 340m python3 mcq_generator.py || {
-          echo "MCQ generation completed/timed out at $(date)"
+          echo "⏰ MCQ generation completed/timed out at $(date)"
         }
-        echo "MCQ generation completed at $(date)"
+        echo "✅ MCQ generation completed at $(date)"
       env:
         MODEL_PATH: ./models/mistral-7b-instruct-v0.1.Q4_K_M.gguf
         INPUT_FILE: ./articles/news_articles.txt
@@ -131,154 +137,52 @@ jobs:
         if [ -f "quiz.txt" ]; then
           quiz_lines=$(wc -l < quiz.txt)
           quiz_size=$(ls -lh quiz.txt | awk '{print $5}')
-          echo "📝 Quiz file: $quiz_lines lines, $quiz_size"
-          
-          # Count generated questions
-          question_count=$(grep -c "^Q[0-9]\." quiz.txt || echo "0")
-          echo "❓ Total questions generated: $question_count"
-          
-          echo "📋 Last few lines of quiz file:"
-          tail -10 quiz.txt
+          question_count=$(grep -c "^Q[0-9]\." quiz.txt 2>/dev/null || echo "0")
+          echo "📝 Quiz file: $quiz_lines lines ($quiz_size)"
+          echo "❓ Total questions: $question_count"
         else
           echo "❌ No quiz file generated"
         fi
         
-        echo ""
         if [ -f "articles/news_articles.txt" ]; then
-          remaining_articles=$(grep -c "^Link: " articles/news_articles.txt || echo "0")
-          echo "📰 Remaining articles: $remaining_articles"
+          remaining=$(grep -c "^Link: " articles/news_articles.txt 2>/dev/null || echo "0")
+          echo "📰 Remaining articles: $remaining"
           
-          if [ "$remaining_articles" -gt "0" ]; then
-            echo "🔍 Next articles to process:"
-            grep "^Link: " articles/news_articles.txt | head -3
+          if [ "$remaining" -gt "0" ]; then
+            echo "🔍 Next batch preview:"
+            grep "^Link: " articles/news_articles.txt | head -2
           fi
-        else
-          echo "📰 No articles file remaining"
         fi
-        
-    - name: Create conflict resolution script
-      run: |
-        cat > resolve_conflicts.py << 'SCRIPT_END'
-        #!/usr/bin/env python3
-        import os
-        import sys
-        
-        def read_articles(filename):
-            if not os.path.exists(filename):
-                return []
-            with open(filename, 'r', encoding='utf-8') as f:
-                content = f.read()
-            if not content.strip():
-                return []
-            articles = []
-            article_blocks = content.split('\n\n')
-            for block in article_blocks:
-                if not block.strip():
-                    continue
-                lines = block.strip().split('\n')
-                current_link = None
-                current_article = None
-                for line in lines:
-                    if line.startswith("Link: "):
-                        current_link = line.strip()
-                    elif line.startswith("Article: "):
-                        current_article = line[len("Article: "):].strip()
-                if current_link and current_article:
-                    articles.append((current_link, current_article))
-            return articles
-        
-        def write_remaining_articles(filename, remaining_articles):
-            with open(filename, 'w', encoding='utf-8') as f:
-                for i, (link, article) in enumerate(remaining_articles):
-                    f.write(f"{link}\n")
-                    f.write(f"Article: {article}\n")
-                    if i < len(remaining_articles) - 1:
-                        f.write("\n")
-        
-        input_file = sys.argv[1] if len(sys.argv) > 1 else 'articles/news_articles.txt'
-        batch_size = int(sys.argv[2]) if len(sys.argv) > 2 else 500
-        
-        all_articles = read_articles(input_file)
-        remaining_articles = all_articles[batch_size:]
-        write_remaining_articles(input_file, remaining_articles)
-        print(f"Kept {len(remaining_articles)} articles, removed first {batch_size}")
-        SCRIPT_END
-        chmod +x resolve_conflicts.py
 
     - name: Commit and push changes
       if: steps.check-articles.outputs.has_articles == 'true'
       run: |
         echo "Checking for changes to commit..."
         
-        # Add files that may have changed
         git add articles/news_articles.txt quiz.txt 2>/dev/null || true
         
         if git diff --staged --quiet; then
           echo "📝 No changes to commit"
         else
-          # Create a descriptive commit message
-          if [ -f "quiz.txt" ]; then
-            question_count=$(grep -c "^Q[0-9]\." quiz.txt || echo "0")
-          else
-            question_count="0"
-          fi
-          
+          question_count=$(grep -c "^Q[0-9]\." quiz.txt 2>/dev/null || echo "0")
           remaining_articles=$(grep -c "^Link: " articles/news_articles.txt 2>/dev/null || echo "0")
           
-          git commit -m "🤖 MCQ Generation Run #${GITHUB_RUN_NUMBER:-0} - $question_count questions, $remaining_articles articles remaining [$(date '+%Y-%m-%d %H:%M UTC')]"
+          git commit -m "🤖 MCQ Run #${GITHUB_RUN_NUMBER:-0}: $question_count questions, $remaining_articles remaining [$(date '+%Y-%m-%d %H:%M UTC')]"
           
-          # Try to push with proper merge handling
-          for i in {1..5}; do
+          # Simplified push with retry
+          for i in {1..3}; do
             if git push; then
-              echo "✅ Changes committed and pushed successfully"
+              echo "✅ Pushed successfully"
               break
             else
-              echo "⚠️ Push attempt $i failed, merging remote changes..."
+              echo "⚠️ Push attempt $i failed, pulling and retrying..."
+              git pull --rebase origin main || git pull origin main
               
-              # Pull and merge remote changes
-              git fetch origin main
-              
-              # Check if there are actual conflicts or just need to merge
-              if git merge origin/main --no-edit; then
-                echo "✅ Successfully merged remote changes"
-              else
-                echo "🔧 Merge conflicts detected, resolving..."
-                
-                # Check if conflict is in articles file
-                if git status --porcelain | grep -q "articles/news_articles.txt"; then
-                  echo "📰 Resolving conflict in news_articles.txt"
-                  
-                  # Use the version from origin (has new articles) and re-apply our logic
-                  git checkout origin/main -- articles/news_articles.txt
-                  
-                  # Re-apply our processing logic to remove processed articles
-                  echo "Re-applying article removals..."
-                  python3 resolve_conflicts.py articles/news_articles.txt 500
-                  
-                  # Mark as resolved
-                  git add articles/news_articles.txt
-                else
-                  echo "📄 Resolving other conflicts automatically"
-                  # For quiz.txt conflicts, prefer our version (has new questions)
-                  if git status --porcelain | grep -q "quiz.txt"; then
-                    git add quiz.txt
-                  fi
-                fi
-                
-                # Complete the merge
-                git commit --no-edit || git commit -m "Merge remote changes with MCQ generation updates"
-              fi
-              
-              # Update commit message with current counts
-              current_questions=$(grep -c "^Q[0-9]\." quiz.txt || echo "0")
-              current_remaining=$(grep -c "^Link: " articles/news_articles.txt || echo "0")
-              git commit --amend -m "🤖 MCQ Generation Run #${GITHUB_RUN_NUMBER:-0} - $current_questions questions, $current_remaining articles remaining [$(date '+%Y-%m-%d %H:%M UTC')]" || true
-              
-              if [ $i -eq 5 ]; then
-                echo "❌ Failed to push after 5 attempts"
+              if [ $i -eq 3 ]; then
+                echo "❌ Failed to push after 3 attempts"
                 exit 1
               fi
-              sleep 3
+              sleep 2
             fi
           done
         fi
@@ -304,23 +208,21 @@ jobs:
         echo "⏰ Completed: $(date)"
         
         if [ -f "quiz.txt" ]; then
-          total_questions=$(grep -c "^Q[0-9]\." quiz.txt || echo "0")
-          echo "✅ Total questions in quiz file: $total_questions"
+          total_questions=$(grep -c "^Q[0-9]\." quiz.txt 2>/dev/null || echo "0")
+          echo "✅ Total questions: $total_questions"
         fi
         
         if [ -f "articles/news_articles.txt" ]; then
-          remaining=$(grep -c "^Link: " articles/news_articles.txt || echo "0")
+          remaining=$(grep -c "^Link: " articles/news_articles.txt 2>/dev/null || echo "0")
           echo "📰 Articles remaining: $remaining"
           
           if [ "$remaining" -gt "0" ]; then
-            echo "💡 Next run will process more articles"
+            echo "💡 Next run will continue processing"
           else
-            echo "🎉 All articles have been processed!"
+            echo "🎉 All articles processed!"
           fi
         fi
         
-    - name: Clean up large files
-      run: |
-        # Clean up the model file to save space (it will be cached)
-        rm -rf models/
+    - name: Clean up
+      run: rm -rf models/
       if: always()
