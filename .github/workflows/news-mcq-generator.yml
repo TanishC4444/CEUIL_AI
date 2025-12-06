@@ -1,8 +1,8 @@
-name: MCQ Generator (TinyLlama)
+name: MCQ Generator (Phi-3-Mini)
 on:
   schedule:
-    # Run every 6 hours for faster processing
-    - cron: '0 */6 * * *'
+    # Run every 7 hours to maximize processing time per run
+    - cron: '0 */7 * * *'
   workflow_dispatch: # Allow manual triggering
   push:
     branches: [ main ]
@@ -53,12 +53,12 @@ jobs:
       id: cache-model
       uses: actions/cache@v4
       with:
-        path: models/tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf
-        key: tinyllama-model-v1
+        path: models/Phi-3-mini-4k-instruct-q4.gguf
+        key: phi3-model-v1
         restore-keys: |
-          tinyllama-model-
+          phi3-model-
           
-    - name: Download TinyLlama model
+    - name: Download Phi-3-Mini model
       if: steps.cache-model.outputs.cache-hit != 'true'
       run: |
         python3 -c "
@@ -66,12 +66,12 @@ jobs:
         import os
         os.makedirs('models', exist_ok=True)
         hf_hub_download(
-            repo_id='TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF',
-            filename='tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf',
+            repo_id='microsoft/Phi-3-mini-4k-instruct-gguf',
+            filename='Phi-3-mini-4k-instruct-q4.gguf',
             local_dir='models',
             local_dir_use_symlinks=False
         )
-        print('TinyLlama model downloaded successfully')
+        print('Phi-3-Mini model downloaded successfully')
         "
       env:
         HF_HUB_DISABLE_PROGRESS_BARS: 1
@@ -79,12 +79,11 @@ jobs:
     - name: Verify model download
       run: |
         ls -la models/
-        if [ ! -f "models/tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf" ]; then
+        if [ ! -f "models/Phi-3-mini-4k-instruct-q4.gguf" ]; then
           echo "Model file not found!"
           exit 1
         fi
-        model_size=$(ls -lh models/tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf | awk '{print $5}')
-        echo "✅ TinyLlama model ready: $model_size"
+        echo "Model size: $(ls -lh models/Phi-3-mini-4k-instruct-q4.gguf | awk '{print $5}')"
         
     - name: Check for articles to process
       id: check-articles
@@ -128,17 +127,16 @@ jobs:
         echo "🔍 Sample of articles to process:"
         grep "^Link: " articles/news_articles.txt | head -3
         
-    - name: Run MCQ generator with TinyLlama
+    - name: Run MCQ generator with Phi-3-Mini
       if: steps.check-articles.outputs.has_articles == 'true'
       run: |
-        echo "⚡ Starting TinyLlama MCQ generation at $(date)"
-        echo "🧠 Model: TinyLlama-1.1B (smallest & fastest)"
+        echo "⚡ Starting Phi-3-Mini MCQ generation at $(date)"
         timeout 340m python3 mcq_generator.py || {
           echo "⏰ MCQ generation completed/timed out at $(date)"
         }
         echo "✅ MCQ generation completed at $(date)"
       env:
-        MODEL_PATH: ./models/tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf
+        MODEL_PATH: ./models/Phi-3-mini-4k-instruct-q4.gguf
         INPUT_FILE: ./articles/news_articles.txt
         
     - name: Check generated output
@@ -179,7 +177,7 @@ jobs:
           question_count=$(grep -c "^Q[0-9]\." quiz.txt 2>/dev/null || echo "0")
           remaining_articles=$(grep -c "^Link: " articles/news_articles.txt 2>/dev/null || echo "0")
           
-          git commit -m "🤖 TinyLlama MCQ Run #${GITHUB_RUN_NUMBER:-0}: $question_count questions, $remaining_articles remaining [$(date '+%Y-%m-%d %H:%M UTC')]"
+          git commit -m "🤖 Phi-3 MCQ Run #${GITHUB_RUN_NUMBER:-0}: $question_count questions, $remaining_articles remaining [$(date '+%Y-%m-%d %H:%M UTC')]"
           
           # Simplified push with retry
           for i in {1..3}; do
@@ -218,7 +216,7 @@ jobs:
         echo "🚀 Workflow: ${{ github.workflow }}"
         echo "📅 Run: ${{ github.run_number }}"
         echo "⏰ Completed: $(date)"
-        echo "🧠 Model: TinyLlama-1.1B (1.1B params)"
+        echo "🧠 Model: Phi-3-Mini (3.8B)"
         
         if [ -f "quiz.txt" ]; then
           total_questions=$(grep -c "^Q[0-9]\." quiz.txt 2>/dev/null || echo "0")
