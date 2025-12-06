@@ -61,8 +61,18 @@ jobs:
     - name: Download Mistral model
       if: steps.cache-model.outputs.cache-hit != 'true'
       run: |
-        cd models
-        huggingface-cli download TheBloke/Mistral-7B-Instruct-v0.1-GGUF mistral-7b-instruct-v0.1.Q4_K_M.gguf --local-dir . --local-dir-use-symlinks False
+        python3 -c "
+        from huggingface_hub import hf_hub_download
+        import os
+        os.makedirs('models', exist_ok=True)
+        hf_hub_download(
+            repo_id='TheBloke/Mistral-7B-Instruct-v0.1-GGUF',
+            filename='mistral-7b-instruct-v0.1.Q4_K_M.gguf',
+            local_dir='models',
+            local_dir_use_symlinks=False
+        )
+        print('Model downloaded successfully')
+        "
       env:
         HF_HUB_DISABLE_PROGRESS_BARS: 1
         
