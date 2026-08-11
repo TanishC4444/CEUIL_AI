@@ -1,27 +1,64 @@
 # CEUIL AI News-to-MCQ Pipeline
 
-A Python automation project that collects news articles and generates multiple-choice questions from them using a local language model.
+A Python automation pipeline that collects news articles and generates multiple-choice questions from them using a local language model.
 
-## Workflow
+## Overview
 
-1. `news_scraper.py` collects articles into the `articles/` directory.
-2. `mcq_generator.py` processes collected material into quiz questions.
-3. GitHub Actions can run the scraper and generator on schedules or manually.
+The project connects article collection with automated educational question generation. GitHub Actions can run the pipeline on a schedule or manually, while local model inference keeps generation under the project's control.
 
-## Requirements
+## Features
+
+- News article collection
+- Automated MCQ generation
+- Local language-model inference
+- Scheduled and manual GitHub Actions workflows
+- Separate scraper and generator stages
+
+## Prerequisites
 
 - Python 3.10+
-- Python dependencies listed in `.github/workflows/requirements.txt`
-- Local model/runtime support for the configured `llama-cpp-python` workflow
+- Dependencies in `.github/workflows/requirements.txt`
+- A supported local `llama-cpp-python` runtime and model
 
-## Run locally
+## Installation
 
 ```bash
+git clone https://github.com/TanishC4444/CEUIL_AI.git
+cd CEUIL_AI
 python -m pip install -r .github/workflows/requirements.txt
+```
+
+## Quick Start
+
+```bash
 python news_scraper.py
 python mcq_generator.py
 ```
 
-## Notes
+The scraper populates `articles/`; the generator processes the collected material into quiz questions.
 
-Model files and generated quizzes can be large. Keep them out of version control when possible, and use a small sample dataset for reproducible demonstrations.
+## Automation
+
+GitHub Actions supports scheduled and manual executions. Keep model files, credentials, and large generated datasets out of source control.
+
+## Project Structure
+
+```text
+CEUIL_AI/
+├── news_scraper.py
+├── mcq_generator.py
+├── articles/
+└── .github/workflows/
+```
+
+## Status
+
+Active development project.
+
+## License
+
+No separate license is currently specified in the repository.
+
+## Support
+
+Use GitHub Issues for bugs and questions.
